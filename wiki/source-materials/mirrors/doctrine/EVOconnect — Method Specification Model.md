@@ -1,0 +1,87 @@
+---
+tags:
+  - concept/connect
+  - concept/method
+  - concept/execution
+  - concept/talent
+  - type/concept
+status: active
+source_of_truth: true
+---
+
+
+## Core Principle
+
+> A Method is an exact, repeatable sequence of steps used to achieve a specific outcome.
+
+---
+
+## Definition
+
+A Method requires:
+
+- same goal  
+- same steps  
+- same expected outcome  
+
+---
+
+## Identity Rule
+
+> If the steps change, it is a new Method.
+
+> If the outcome changes, it is a new Method.
+
+---
+
+## Variation Rule
+
+A Method may have **one controlled variation point**:
+
+- one step may vary  
+- repeated variation of the same step forms a variant  
+
+If a different step changes:
+
+> it becomes a new Method  
+
+---
+
+## Execution Rules
+
+- steps must be followed in order  
+- no step skipping  
+- no undefined behavior  
+
+---
+
+## Lifecycle
+
+Method → (3 confirmed successful Alice executions) → Talent
+
+---
+
+## Success Rule
+
+A run only counts if:
+
+- user confirms success  
+
+No feedback = inconclusive  
+Rejection = failure  
+
+---
+
+## 🔗 Relationships
+
+Enforced By:
+- [[EVOconnect — Delegator & Governance Model]]
+
+Feeds Into:
+- [[EVOconnect — Talent Model]]
+
+---
+
+## Final Principle
+
+> Methods must be exact, repeatable, and strictly defined to prevent ambiguity and drift.

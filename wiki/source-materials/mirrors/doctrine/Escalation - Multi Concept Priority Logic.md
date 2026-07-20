@@ -1,0 +1,38 @@
+# Escalation – Multi Concept Priority Logic
+
+Escalation priority increases when stall spans multiple related concepts.
+
+---
+
+## Priority Rules
+
+Within same unit or concept cluster:
+
+1 stalled concept → Low
+2 stalled concepts → Medium
+3+ stalled concepts → High
+
+---
+
+## Relatedness Determination
+
+Concepts considered related if:
+- same unit_id
+- same prerequisite chain
+- teacher-defined cluster
+- template-tag overlap
+
+---
+
+## Rationale
+
+Multi-concept stall often indicates:
+- foundational misunderstanding
+- prerequisite gap
+- cognitive overload
+
+Priority increase affects:
+- teacher notification urgency
+- dashboard highlighting
+
+Consent is still required.
