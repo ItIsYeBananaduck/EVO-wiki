@@ -5,7 +5,7 @@ tags: [evo, governance, authority, delegation, escalation, method]
 sources:
   - source-materials/mirrors/doctrine/ADR-001 - Dual Metric Learning Doctrine.md
   - source-materials/mirrors/doctrine/ADR-002 - Authority Separation Doctrine (Alice vs EVE).md
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 # Governance & Authority Map
@@ -25,7 +25,12 @@ The Cognitive Subsystem receives proposals from agents and converts them to cano
 - Tier 3 (System-derived): deterministic state changes, auto-promote to Journal only
 
 ## Delegator Enforcement
-The Delegator governs execution only. It validates tool contracts, parameter schemas, context allowlists, and output contracts. The Delegator is not a governance authority for canonical knowledge.
+The Delegator governs execution only. It validates tool contracts, parameter schemas, context allowlists, output contracts, worker selection, authority envelopes, and budget enforcement while routing external work. The Delegator is not a governance authority for canonical knowledge.
+
+## Budget Authority
+Alice owns the user-facing budget relationship: token and spending preferences, budget ceilings, and priority tradeoffs. She sets the envelope outer bound. The Delegator enforces those policies during worker selection, capsule assembly, authority envelope construction, and task routing.
+
+Cost optimization is permitted only after safety, authority, and minimum-quality requirements are satisfied.
 
 ## Method Approval
 Methods require:
@@ -42,6 +47,8 @@ External agents and harnesses never directly mutate canonical cognitive state. T
 - suggested updates
 - proposals
 
+Harnesses and workers additionally return usage records: cost, quality, latency, retries, and outcome. These records inform future worker selection but do not by themselves promote or demote a worker.
+
 Alice's Cognitive Subsystem decides what persists.
 
 ## Escalation
@@ -53,7 +60,10 @@ Use escalation when:
 
 ## Related
 - [[EVO Architecture Bible]]
-- [[Connect — Task Control Plane]]
+- [[Alice Capability Boundary]]
+- [[Alice — Identity Layers]]
+- [[Hive Definition]]
+- [[EVOconnect — System Map]]
 
 ^[source-materials/mirrors/doctrine/ADR-001 - Dual Metric Learning Doctrine.md]
 ^[source-materials/mirrors/doctrine/ADR-002 - Authority Separation Doctrine (Alice vs EVE).md]
