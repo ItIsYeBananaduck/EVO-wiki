@@ -3,8 +3,8 @@ title: Memory Capsule
 type: concept
 tags: [evo, memory, capsule, context, application, device, cognitive]
 sources:
-  - /Users/lsctech/evo-cognitive-architecture-synthesis.md
-  - /Users/lsctech/evo-cognitive-governance-spec.md
+  - EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVO — Safety Layer Architecture.md
+  - EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOconnect External Agent Governance Model.md
 updated: 2026-07-21
 ---
 
@@ -71,3 +71,4 @@ The initial capsule contains only immediate-interaction context. Enrichment requ
 - [[Alice — Identity Layers]]
 - [[Alice Cognitive Subsystem]]
 - [[EVOconnect — System Map]]
+^[EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVO — Safety Layer Architecture.md; EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOconnect External Agent Governance Model.md]

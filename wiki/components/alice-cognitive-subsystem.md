@@ -3,8 +3,8 @@ title: Alice Cognitive Subsystem
 type: concept
 tags: [evo, alice, cognitive, journal, living-notes, knowledge-graph, preferences, governance, canonical]
 sources:
-  - /Users/lsctech/evo-cognitive-architecture-synthesis.md
-  - /Users/lsctech/evo-cognitive-governance-spec.md
+  - TODO: Add repo-relative source for evo-cognitive-architecture-synthesis.md
+  - TODO: Add repo-relative source for evo-cognitive-governance-spec.md
 updated: 2026-07-21
 ---
 

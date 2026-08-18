@@ -1,0 +1,31 @@
+---
+title: EVOlearn Learning Feedback System
+type: concept
+tags: ["EVO","doctrine"]
+sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOlearn Learning Feedback System.md"]
+updated: 2026-07-24
+---
+
+# EVOlearn Learning Feedback System
+Purpose:
+
+Capture learning performance signals.
+
+Inputs:
+
+- correctness
+- confidence
+- response time
+
+Usage:
+
+- adjust difficulty
+- identify weak areas
+
+Principle:
+
+Feedback should be low-friction and continuous.
+
+## Related
+
+^[{src_rel}]

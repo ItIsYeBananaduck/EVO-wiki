@@ -3,8 +3,8 @@ title: Alice — Identity Layers
 type: concept
 tags: [evo, alice, identity, soul, role, preferences, understanding, working-context, architecture]
 sources:
-  - /Users/lsctech/evo-cognitive-architecture-synthesis.md
-  - /Users/lsctech/evo-cognitive-governance-spec.md
+  - TODO: Add repo-relative source for evo-cognitive-architecture-synthesis.md
+  - TODO: Add repo-relative source for evo-cognitive-governance-spec.md
 updated: 2026-07-21
 ---
 

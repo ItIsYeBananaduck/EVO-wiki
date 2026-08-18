@@ -5,8 +5,8 @@ tags: [evo, alice, architecture, capability, safety, foreman, budget, multi-agen
 sources:
   - source-materials/mirrors/doctrine/Prompt Injection Boundary.md
   - source-materials/mirrors/doctrine/Alice-Limits.md
-  - /Users/lsctech/evo-cognitive-architecture-synthesis.md
-  - /Users/lsctech/evo-cognitive-governance-spec.md
+  - TODO: Add repo-relative source for evo-cognitive-architecture-synthesis.md
+  - TODO: Add repo-relative source for evo-cognitive-governance-spec.md
 updated: 2026-07-21
 ---
 
