@@ -2,7 +2,8 @@
 title: MLX_Swift_Build_Test_Results
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-deprecated/MLX_Swift_Build_Test_Results.md"]
+sources:
+  - source-materials/mirrors/doctrine/MLX_Swift_Build_Test_Results.md
 updated: 2026-07-24
 ---
 
@@ -148,4 +149,4 @@ The build failure is due to a **separate Dart/Flutter issue**, not our MLX Swift
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/MLX_Swift_Build_Test_Results.md]

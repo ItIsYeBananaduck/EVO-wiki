@@ -2,7 +2,8 @@
 title: EVE - Procedures as Task Graphs
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/EVE - Procedures as Task Graphs.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVE - Procedures as Task Graphs.md
 updated: 2026-07-24
 ---
 
@@ -22,4 +23,4 @@ This provides: - determinism - repeatability - low governance overhead
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVE - Procedures as Task Graphs.md]

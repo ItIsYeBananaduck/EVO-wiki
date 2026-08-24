@@ -2,7 +2,8 @@
 title: MUSIC_PLAYER_NAVIGATION_AND_PLAYBACK_FIXES
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/MUSIC_PLAYER_NAVIGATION_AND_PLAYBACK_FIXES.md"]
+sources:
+  - source-materials/mirrors/doctrine/MUSIC_PLAYER_NAVIGATION_AND_PLAYBACK_FIXES.md
 updated: 2026-07-24
 ---
 
@@ -366,4 +367,4 @@ These improvements provide a robust, reliable music experience during workouts w
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/MUSIC_PLAYER_NAVIGATION_AND_PLAYBACK_FIXES.md]

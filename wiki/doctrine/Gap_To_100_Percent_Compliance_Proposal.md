@@ -2,7 +2,8 @@
 title: Gap_To_100_Percent_Compliance_Proposal
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/Gap_To_100_Percent_Compliance_Proposal.md"]
+sources:
+  - source-materials/mirrors/doctrine/Gap_To_100_Percent_Compliance_Proposal.md
 updated: 2026-07-24
 ---
 
@@ -169,4 +170,4 @@ This document is an **ordered implementation plan** to close all known gaps foun
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Gap_To_100_Percent_Compliance_Proposal.md]

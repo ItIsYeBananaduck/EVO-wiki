@@ -2,7 +2,8 @@
 title: CAPABILITY_MAP_OPTIMIZATION
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/CAPABILITY_MAP_OPTIMIZATION.md"]
+sources:
+  - source-materials/mirrors/doctrine/CAPABILITY_MAP_OPTIMIZATION.md
 updated: 2026-07-24
 ---
 
@@ -212,4 +213,4 @@ Detects when user asks about capabilities:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/CAPABILITY_MAP_OPTIMIZATION.md]

@@ -2,7 +2,8 @@
 title: index
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/index.md"]
+sources:
+  - source-materials/mirrors/doctrine/index.md
 updated: 2026-07-24
 ---
 
@@ -575,7 +576,7 @@ Rules:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/index.md]
 | `EVOconnect — Alice Workspace Presence.md` | EvoConnect Alice Workspace Presence | `EVO/smartdocs/raw/deprecated/doctrine-candidate/EVOconnect — Alice Workspace Presence.md` | 2026-07-24 | active |
 | `EVOconnect — EVOcode Philosophy.md` | EVOcode Philosophy | `EVO/smartdocs/raw/deprecated/doctrine-candidate/EVOconnect — EVOcode Philosophy.md` | 2026-07-24 | active |
 | `EVOconnect — Pane & View System.md` | EvoConnect Pane & View System | `EVO/smartdocs/raw/deprecated/doctrine-candidate/EVOconnect — Pane & View System.md` | 2026-07-24 | active |

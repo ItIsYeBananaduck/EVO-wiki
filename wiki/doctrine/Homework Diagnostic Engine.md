@@ -2,7 +2,8 @@
 title: Homework Diagnostic Engine
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Homework Diagnostic Engine.md"]
+sources:
+  - source-materials/mirrors/doctrine/Homework Diagnostic Engine.md
 updated: 2026-07-24
 ---
 
@@ -19,4 +20,4 @@ Homework pain points become: - Class-wide signals for Teacher Alice - Individual
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Homework Diagnostic Engine.md]

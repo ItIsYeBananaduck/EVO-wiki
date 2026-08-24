@@ -2,7 +2,8 @@
 title: ALICE_DESKTOP_INTEGRATION
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/ALICE_DESKTOP_INTEGRATION.md"]
+sources:
+  - source-materials/mirrors/doctrine/ALICE_DESKTOP_INTEGRATION.md
 updated: 2026-07-24
 ---
 
@@ -200,4 +201,4 @@ Desktop uses the same `SharedModelStore` as mobile:
 - iOS native: `ios/Runner/AliceInferenceManager.swift`
 - macOS native: `macos/Runner/AliceInferenceManager.swift`
 - AppDelegate: `macos/Runner/AppDelegate.swift`
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/ALICE_DESKTOP_INTEGRATION.md]

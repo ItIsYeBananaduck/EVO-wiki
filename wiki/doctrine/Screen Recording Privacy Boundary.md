@@ -2,7 +2,8 @@
 title: Screen Recording Privacy Boundary
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Screen Recording Privacy Boundary.md"]
+sources:
+  - source-materials/mirrors/doctrine/Screen Recording Privacy Boundary.md
 updated: 2026-07-24
 ---
 
@@ -24,4 +25,4 @@ Links
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Screen Recording Privacy Boundary.md]

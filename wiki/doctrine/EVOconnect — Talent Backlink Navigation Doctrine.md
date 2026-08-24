@@ -2,7 +2,8 @@
 title: EVOconnect — Talent Backlink Navigation Doctrine
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOconnect — Talent Backlink Navigation Doctrine.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOconnect — Talent Backlink Navigation Doctrine.md
 updated: 2026-07-24
 ---
 
@@ -468,4 +469,4 @@ Delegator and manifests determine executable authority.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOconnect — Talent Backlink Navigation Doctrine.md]

@@ -2,7 +2,8 @@
 title: ADR_LLAMA_INFERENCE_OPTIMIZATION
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/ADR_LLAMA_INFERENCE_OPTIMIZATION.md"]
+sources:
+  - source-materials/mirrors/doctrine/ADR_LLAMA_INFERENCE_OPTIMIZATION.md
 updated: 2026-07-24
 ---
 
@@ -99,4 +100,4 @@ Implement a layered optimization strategy:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/ADR_LLAMA_INFERENCE_OPTIMIZATION.md]

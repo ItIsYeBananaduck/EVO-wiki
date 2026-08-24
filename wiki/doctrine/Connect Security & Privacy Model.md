@@ -2,7 +2,8 @@
 title: Connect Security & Privacy Model
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/Connect Security & Privacy Model.md"]
+sources:
+  - source-materials/mirrors/doctrine/Connect Security & Privacy Model.md
 updated: 2026-07-24
 ---
 
@@ -34,4 +35,4 @@ Security and privacy are not adjacent concerns. They are execution constraints.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Connect Security & Privacy Model.md]

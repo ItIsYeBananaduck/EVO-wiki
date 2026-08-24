@@ -2,7 +2,8 @@
 title: EVOconnect Plugin Model
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOconnect Plugin Model.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOconnect Plugin Model.md
 updated: 2026-07-24
 ---
 
@@ -32,4 +33,4 @@ Extensions must inherit system discipline, not bypass it.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOconnect Plugin Model.md]

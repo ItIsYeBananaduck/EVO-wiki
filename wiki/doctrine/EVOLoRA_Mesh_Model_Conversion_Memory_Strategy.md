@@ -2,7 +2,8 @@
 title: EVOLoRA_Mesh_Model_Conversion_Memory_Strategy
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOLoRA_Mesh_Model_Conversion_Memory_Strategy.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOLoRA_Mesh_Model_Conversion_Memory_Strategy.md
 updated: 2026-07-24
 ---
 
@@ -265,4 +266,4 @@ ls -lh training/alice-phi3-mlx/
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOLoRA_Mesh_Model_Conversion_Memory_Strategy.md]

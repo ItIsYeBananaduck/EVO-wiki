@@ -2,7 +2,8 @@
 title: Concept Cluster Analysis Trigger Model
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Concept Cluster Analysis Trigger Model.md"]
+sources:
+  - source-materials/mirrors/doctrine/Concept Cluster Analysis Trigger Model.md
 updated: 2026-07-24
 ---
 
@@ -37,4 +38,4 @@ EVE identifies patterns. Humans refine pedagogy.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Concept Cluster Analysis Trigger Model.md]

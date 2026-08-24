@@ -2,7 +2,8 @@
 title: EVO On-Device First Principle
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVO On-Device First Principle.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVO On-Device First Principle.md
 updated: 2026-07-24
 ---
 
@@ -77,4 +78,4 @@ This is not a sync strategy. It is a product constraint.
 ## Final Principle
 
 The user's data belongs to the user. It lives where they can see it, control it, and take it with them. EVO is a tool the user runs — not a service that holds their data.
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVO On-Device First Principle.md]

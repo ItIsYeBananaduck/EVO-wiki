@@ -2,7 +2,8 @@
 title: Learn Pro - Philosophy
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Learn Pro - Philosophy.md"]
+sources:
+  - source-materials/mirrors/doctrine/Learn Pro - Philosophy.md
 updated: 2026-07-24
 ---
 
@@ -15,4 +16,4 @@ Workflow sources create Methods, not Styles.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Learn Pro - Philosophy.md]

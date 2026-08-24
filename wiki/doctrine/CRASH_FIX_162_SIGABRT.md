@@ -2,7 +2,8 @@
 title: CRASH_FIX_162_SIGABRT
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/CRASH_FIX_162_SIGABRT.md"]
+sources:
+  - source-materials/mirrors/doctrine/CRASH_FIX_162_SIGABRT.md
 updated: 2026-07-24
 ---
 
@@ -115,4 +116,4 @@ This defense-in-depth approach ensures that even if one validation is missed, ot
 ## Status
 
 ✅ Fixed - All critical validations added to prevent SIGABRT crashes from position overflow
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/CRASH_FIX_162_SIGABRT.md]

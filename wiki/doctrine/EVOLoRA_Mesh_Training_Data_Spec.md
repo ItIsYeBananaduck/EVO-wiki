@@ -2,7 +2,8 @@
 title: EVOLoRA_Mesh_Training_Data_Spec
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOLoRA_Mesh_Training_Data_Spec.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOLoRA_Mesh_Training_Data_Spec.md
 updated: 2026-07-24
 ---
 
@@ -413,4 +414,4 @@ Use existing training pipeline (`train_phi3_alice.py`) but:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOLoRA_Mesh_Training_Data_Spec.md]

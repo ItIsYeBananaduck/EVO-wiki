@@ -2,7 +2,8 @@
 title: Reporting Pipeline - Lowest Level to District
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Reporting Pipeline - Lowest Level to District.md"]
+sources:
+  - source-materials/mirrors/doctrine/Reporting Pipeline - Lowest Level to District.md
 updated: 2026-07-24
 ---
 
@@ -37,4 +38,4 @@ Output type: DISTRICT_SUMMARY
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Reporting Pipeline - Lowest Level to District.md]

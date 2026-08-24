@@ -2,7 +2,8 @@
 title: MLX_Swift_Integration_Plan
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-deprecated/MLX_Swift_Integration_Plan.md"]
+sources:
+  - source-materials/mirrors/doctrine/MLX_Swift_Integration_Plan.md
 updated: 2026-07-24
 ---
 
@@ -221,4 +222,4 @@ dependencies: [
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/MLX_Swift_Integration_Plan.md]

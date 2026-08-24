@@ -2,7 +2,8 @@
 title: Swarm Merge Rule
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Swarm Merge Rule.md"]
+sources:
+  - source-materials/mirrors/doctrine/Swarm Merge Rule.md
 updated: 2026-07-24
 ---
 
@@ -25,4 +26,4 @@ Links
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Swarm Merge Rule.md]

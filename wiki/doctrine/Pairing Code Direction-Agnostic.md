@@ -2,7 +2,8 @@
 title: Pairing Code Direction-Agnostic
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Pairing Code Direction-Agnostic.md"]
+sources:
+  - source-materials/mirrors/doctrine/Pairing Code Direction-Agnostic.md
 updated: 2026-07-24
 ---
 
@@ -24,4 +25,4 @@ Pairing Code Protocol
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Pairing Code Direction-Agnostic.md]

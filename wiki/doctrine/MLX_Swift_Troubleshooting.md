@@ -2,7 +2,8 @@
 title: MLX_Swift_Troubleshooting
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-deprecated/MLX_Swift_Troubleshooting.md"]
+sources:
+  - source-materials/mirrors/doctrine/MLX_Swift_Troubleshooting.md
 updated: 2026-07-24
 ---
 
@@ -98,4 +99,4 @@ If MLX Swift doesn't support iOS yet, we'll:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/MLX_Swift_Troubleshooting.md]

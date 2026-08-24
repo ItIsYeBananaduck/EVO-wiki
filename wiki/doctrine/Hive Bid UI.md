@@ -2,7 +2,8 @@
 title: Hive Bid UI
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Hive Bid UI.md"]
+sources:
+  - source-materials/mirrors/doctrine/Hive Bid UI.md
 updated: 2026-07-24
 ---
 
@@ -27,4 +28,4 @@ External Task Proposal Attribution
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Hive Bid UI.md]

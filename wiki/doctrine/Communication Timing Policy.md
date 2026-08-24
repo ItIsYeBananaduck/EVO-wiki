@@ -2,7 +2,8 @@
 title: Communication Timing Policy
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Communication Timing Policy.md"]
+sources:
+  - source-materials/mirrors/doctrine/Communication Timing Policy.md
 updated: 2026-07-24
 ---
 
@@ -31,4 +32,4 @@ Maintains academic focus.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Communication Timing Policy.md]

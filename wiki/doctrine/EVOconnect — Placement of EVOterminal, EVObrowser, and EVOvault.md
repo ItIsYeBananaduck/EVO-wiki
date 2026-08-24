@@ -2,7 +2,8 @@
 title: EVOconnect — Placement of EVOterminal, EVObrowser, and EVOvault
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/EVOconnect — Placement of EVOterminal, EVObrowser, and EVOvault.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOconnect — Placement of EVOterminal, EVObrowser, and EVOvault.md
 updated: 2026-07-24
 ---
 
@@ -187,4 +188,4 @@ That keeps Connect: - simple to use - powerful in practice - and aligned with yo
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOconnect — Placement of EVOterminal, EVObrowser, and EVOvault.md]

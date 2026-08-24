@@ -2,7 +2,8 @@
 title: Advanced Vault Protocol
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Advanced Vault Protocol.md"]
+sources:
+  - source-materials/mirrors/doctrine/Advanced Vault Protocol.md
 updated: 2026-07-24
 ---
 
@@ -29,4 +30,4 @@ Links
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Advanced Vault Protocol.md]

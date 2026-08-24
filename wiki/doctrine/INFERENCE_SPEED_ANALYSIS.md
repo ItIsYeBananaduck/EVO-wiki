@@ -2,7 +2,8 @@
 title: INFERENCE_SPEED_ANALYSIS
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/INFERENCE_SPEED_ANALYSIS.md"]
+sources:
+  - source-materials/mirrors/doctrine/INFERENCE_SPEED_ANALYSIS.md
 updated: 2026-07-24
 ---
 
@@ -212,4 +213,4 @@ The training pipeline and gating system don't slow things down - they run in par
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/INFERENCE_SPEED_ANALYSIS.md]

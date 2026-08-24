@@ -2,7 +2,8 @@
 title: 2026-06-10-genesis-agent-doctrine
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/2026-06-10-genesis-agent-doctrine.md"]
+sources:
+  - source-materials/mirrors/doctrine/2026-06-10-genesis-agent-doctrine.md
 updated: 2026-07-24
 ---
 
@@ -492,4 +493,4 @@ This project is indexed by GitNexus as **git-fit** (58223 symbols, 109176 relati
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/2026-06-10-genesis-agent-doctrine.md]

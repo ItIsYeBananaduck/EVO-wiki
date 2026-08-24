@@ -2,7 +2,8 @@
 title: Teacher Alice - Architecture
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Teacher Alice - Architecture.md"]
+sources:
+  - source-materials/mirrors/doctrine/Teacher Alice - Architecture.md
 updated: 2026-07-24
 ---
 
@@ -102,4 +103,4 @@ Retention stability over time
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Teacher Alice - Architecture.md]

@@ -2,7 +2,8 @@
 title: Template Governance Model
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Template Governance Model.md"]
+sources:
+  - source-materials/mirrors/doctrine/Template Governance Model.md
 updated: 2026-07-24
 ---
 
@@ -19,4 +20,4 @@ Goal: Prevent 1000 minor variations. Encourage meaningful method diversity.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Template Governance Model.md]

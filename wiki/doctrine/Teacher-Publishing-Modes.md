@@ -2,7 +2,8 @@
 title: Teacher-Publishing-Modes
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Teacher-Publishing-Modes.md"]
+sources:
+  - source-materials/mirrors/doctrine/Teacher-Publishing-Modes.md
 updated: 2026-07-24
 ---
 
@@ -17,4 +18,4 @@ Teacher can: - push emergency updates - retract a lesson - issue a revised pack 
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Teacher-Publishing-Modes.md]

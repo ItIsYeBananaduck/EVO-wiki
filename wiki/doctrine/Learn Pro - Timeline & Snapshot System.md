@@ -2,7 +2,8 @@
 title: Learn Pro - Timeline & Snapshot System
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Learn Pro - Timeline & Snapshot System.md"]
+sources:
+  - source-materials/mirrors/doctrine/Learn Pro - Timeline & Snapshot System.md
 updated: 2026-07-24
 ---
 
@@ -16,4 +17,4 @@ Timeline shows: - Active - Archived - Source count
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Learn Pro - Timeline & Snapshot System.md]

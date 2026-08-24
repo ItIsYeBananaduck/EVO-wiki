@@ -2,7 +2,8 @@
 title: coach-planning-spec
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/coach-planning-spec.md"]
+sources:
+  - source-materials/mirrors/doctrine/coach-planning-spec.md
 updated: 2026-07-24
 ---
 
@@ -100,4 +101,4 @@ The primary question is: How does Coach integrate into existing EVOtraining arch
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/coach-planning-spec.md]

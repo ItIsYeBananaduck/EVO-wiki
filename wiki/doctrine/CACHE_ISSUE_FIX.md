@@ -2,7 +2,8 @@
 title: CACHE_ISSUE_FIX
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/CACHE_ISSUE_FIX.md"]
+sources:
+  - source-materials/mirrors/doctrine/CACHE_ISSUE_FIX.md
 updated: 2026-07-24
 ---
 
@@ -89,4 +90,4 @@ But this should not be necessary once the worker is deployed with no-cache heade
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/CACHE_ISSUE_FIX.md]

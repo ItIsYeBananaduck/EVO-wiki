@@ -2,7 +2,8 @@
 title: Connect - UI Layer (Desktop)
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Connect - UI Layer (Desktop).md"]
+sources:
+  - source-materials/mirrors/doctrine/Connect - UI Layer (Desktop).md
 updated: 2026-07-24
 ---
 
@@ -55,4 +56,4 @@ Codex bounded-session workflows are canonical examples:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Connect - UI Layer (Desktop).md]

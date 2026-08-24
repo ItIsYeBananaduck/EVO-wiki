@@ -2,7 +2,8 @@
 title: Task Chain Definition
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/Task Chain Definition.md"]
+sources:
+  - source-materials/mirrors/doctrine/Task Chain Definition.md
 updated: 2026-07-24
 ---
 
@@ -304,4 +305,4 @@ It improves speed, recall, and usability without removing structure, visibility,
 - [Execution Model: Intent → Effect → Execution](https://www.notion.so/343c72bad01381498ea5e9e5312270df)
 - [Delegator Doctrine: Execution Authority](https://www.notion.so/343c72bad01381ef9ad0d496a384113b)
 - [EVOconnect Talent Model](https://www.notion.so/33dc72bad0138188bcf7e7b995b3ac5f)
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Task Chain Definition.md]

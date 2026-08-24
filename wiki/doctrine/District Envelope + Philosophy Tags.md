@@ -2,7 +2,8 @@
 title: District Envelope + Philosophy Tags
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/District Envelope + Philosophy Tags.md"]
+sources:
+  - source-materials/mirrors/doctrine/District Envelope + Philosophy Tags.md
 updated: 2026-07-24
 ---
 
@@ -16,4 +17,4 @@ If a student benefits from a disallowed philosophy: Teacher must manually unlock
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/District Envelope + Philosophy Tags.md]

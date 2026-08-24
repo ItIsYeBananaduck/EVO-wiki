@@ -2,7 +2,8 @@
 title: ACIF_V2_ENHANCEMENT_PROPOSAL
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/ACIF_V2_ENHANCEMENT_PROPOSAL.md"]
+sources:
+  - source-materials/mirrors/doctrine/ACIF_V2_ENHANCEMENT_PROPOSAL.md
 updated: 2026-07-24
 ---
 
@@ -1196,4 +1197,4 @@ describe("IntensityScoring Fallbacks", () => {
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/ACIF_V2_ENHANCEMENT_PROPOSAL.md]

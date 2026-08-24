@@ -2,7 +2,8 @@
 title: EVO Project Master Index
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVO Project Master Index.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVO Project Master Index.md
 updated: 2026-07-24
 ---
 
@@ -20,4 +21,4 @@ Acts as navigation and organization layer.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVO Project Master Index.md]

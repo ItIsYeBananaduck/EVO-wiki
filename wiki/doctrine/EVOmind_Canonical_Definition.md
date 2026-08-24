@@ -2,7 +2,8 @@
 title: EVOmind_Canonical_Definition
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOmind_Canonical_Definition.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOmind_Canonical_Definition.md
 updated: 2026-07-24
 ---
 
@@ -91,4 +92,4 @@ This is a reflective mode, not a default behavior.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOmind_Canonical_Definition.md]

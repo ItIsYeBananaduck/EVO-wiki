@@ -2,7 +2,8 @@
 title: Connect Product Thesis
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/Connect Product Thesis.md"]
+sources:
+  - source-materials/mirrors/doctrine/Connect Product Thesis.md
 updated: 2026-07-24
 ---
 
@@ -28,4 +29,4 @@ The product is not mere automation. The product is governed execution.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Connect Product Thesis.md]

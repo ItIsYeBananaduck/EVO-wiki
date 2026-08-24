@@ -2,7 +2,8 @@
 title: MOC EVOmind
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/MOC EVOmind.md"]
+sources:
+  - source-materials/mirrors/doctrine/MOC EVOmind.md
 updated: 2026-07-24
 ---
 
@@ -81,4 +82,4 @@ It is a continuous, evolving system of:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/MOC EVOmind.md]

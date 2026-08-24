@@ -2,7 +2,8 @@
 title: MLX_Swift_Add_Package_Fix
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-deprecated/MLX_Swift_Add_Package_Fix.md"]
+sources:
+  - source-materials/mirrors/doctrine/MLX_Swift_Add_Package_Fix.md
 updated: 2026-07-24
 ---
 
@@ -130,4 +131,4 @@ The app will work fine with just llama.cpp!
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/MLX_Swift_Add_Package_Fix.md]

@@ -2,7 +2,8 @@
 title: E2EE
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/E2EE.md"]
+sources:
+  - source-materials/mirrors/doctrine/E2EE.md
 updated: 2026-07-24
 ---
 
@@ -101,4 +102,4 @@ pc.onTrack((RTCTrackEvent event) async {
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/E2EE.md]

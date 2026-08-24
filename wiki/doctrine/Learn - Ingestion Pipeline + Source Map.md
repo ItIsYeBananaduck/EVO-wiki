@@ -2,7 +2,8 @@
 title: Learn - Ingestion Pipeline + Source Map
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Learn - Ingestion Pipeline + Source Map.md"]
+sources:
+  - source-materials/mirrors/doctrine/Learn - Ingestion Pipeline + Source Map.md
 updated: 2026-07-24
 ---
 
@@ -28,4 +29,4 @@ Goal: Make SA faster at finding grounded answers over time without changing Temp
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Learn - Ingestion Pipeline + Source Map.md]

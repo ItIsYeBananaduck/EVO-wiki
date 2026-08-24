@@ -2,7 +2,8 @@
 title: User Feedback Interpretation
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/User Feedback Interpretation.md"]
+sources:
+  - source-materials/mirrors/doctrine/User Feedback Interpretation.md
 updated: 2026-07-24
 ---
 
@@ -25,4 +26,4 @@ Links
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/User Feedback Interpretation.md]

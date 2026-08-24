@@ -2,7 +2,8 @@
 title: Escalation - RePrompt Logic
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Escalation - RePrompt Logic.md"]
+sources:
+  - source-materials/mirrors/doctrine/Escalation - RePrompt Logic.md
 updated: 2026-07-24
 ---
 
@@ -24,4 +25,4 @@ aligns with grading-period reporting
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Escalation - RePrompt Logic.md]

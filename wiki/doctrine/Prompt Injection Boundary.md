@@ -2,7 +2,8 @@
 title: Prompt Injection Boundary
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Prompt Injection Boundary.md"]
+sources:
+  - source-materials/mirrors/doctrine/Prompt Injection Boundary.md
 updated: 2026-07-24
 ---
 
@@ -26,4 +27,4 @@ Links
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Prompt Injection Boundary.md]

@@ -2,7 +2,8 @@
 title: Data-Channels
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Data-Channels.md"]
+sources:
+  - source-materials/mirrors/doctrine/Data-Channels.md
 updated: 2026-07-24
 ---
 
@@ -18,4 +19,4 @@ Prohibited: - medical or psychological claims - personality judgments - relation
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Data-Channels.md]

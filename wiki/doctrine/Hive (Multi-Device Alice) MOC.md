@@ -2,7 +2,8 @@
 title: Hive (Multi-Device Alice) MOC
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/Hive (Multi-Device Alice) MOC.md"]
+sources:
+  - source-materials/mirrors/doctrine/Hive (Multi-Device Alice) MOC.md
 updated: 2026-07-24
 ---
 
@@ -61,4 +62,4 @@ Connectivity & Pairing
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Hive (Multi-Device Alice) MOC.md]

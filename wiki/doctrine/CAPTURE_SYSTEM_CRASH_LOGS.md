@@ -2,7 +2,8 @@
 title: CAPTURE_SYSTEM_CRASH_LOGS
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/CAPTURE_SYSTEM_CRASH_LOGS.md"]
+sources:
+  - source-materials/mirrors/doctrine/CAPTURE_SYSTEM_CRASH_LOGS.md
 updated: 2026-07-24
 ---
 
@@ -93,4 +94,4 @@ func listSystemCrashLogs() {
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/CAPTURE_SYSTEM_CRASH_LOGS.md]

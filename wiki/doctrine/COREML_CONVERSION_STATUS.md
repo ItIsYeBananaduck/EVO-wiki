@@ -2,7 +2,8 @@
 title: COREML_CONVERSION_STATUS
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/COREML_CONVERSION_STATUS.md"]
+sources:
+  - source-materials/mirrors/doctrine/COREML_CONVERSION_STATUS.md
 updated: 2026-07-24
 ---
 
@@ -77,4 +78,4 @@ Use kokoro-coreml pipeline for proper conversion (requires more setup)
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/COREML_CONVERSION_STATUS.md]

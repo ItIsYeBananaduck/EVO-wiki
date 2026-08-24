@@ -2,7 +2,8 @@
 title: MACOS_SETUP_GUIDE
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/MACOS_SETUP_GUIDE.md"]
+sources:
+  - source-materials/mirrors/doctrine/MACOS_SETUP_GUIDE.md
 updated: 2026-07-24
 ---
 
@@ -153,4 +154,4 @@ The macOS app should work identically to the iOS app for core functionality, wit
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/MACOS_SETUP_GUIDE.md]

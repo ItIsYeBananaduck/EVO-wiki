@@ -2,7 +2,8 @@
 title: Purple Answer Semantics
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Purple Answer Semantics.md"]
+sources:
+  - source-materials/mirrors/doctrine/Purple Answer Semantics.md
 updated: 2026-07-24
 ---
 
@@ -18,4 +19,4 @@ Goal: Signal pain points without shame.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Purple Answer Semantics.md]

@@ -2,7 +2,8 @@
 title: EVOtraining Workout Execution Flow
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOtraining Workout Execution Flow.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOtraining Workout Execution Flow.md
 updated: 2026-07-24
 ---
 
@@ -24,4 +25,4 @@ Related notes: [[Procedure Scheduling Model]]
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOtraining Workout Execution Flow.md]

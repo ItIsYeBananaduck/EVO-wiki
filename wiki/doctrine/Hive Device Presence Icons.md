@@ -2,7 +2,8 @@
 title: Hive Device Presence Icons
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Hive Device Presence Icons.md"]
+sources:
+  - source-materials/mirrors/doctrine/Hive Device Presence Icons.md
 updated: 2026-07-24
 ---
 
@@ -30,4 +31,4 @@ Links
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Hive Device Presence Icons.md]

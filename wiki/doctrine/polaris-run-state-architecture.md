@@ -2,7 +2,8 @@
 title: polaris-run-state-architecture
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/polaris-run-state-architecture.md"]
+sources:
+  - source-materials/mirrors/doctrine/polaris-run-state-architecture.md
 updated: 2026-07-24
 ---
 
@@ -363,4 +364,4 @@ It creates the EVO-native precursor pattern that Polaris may later generalize.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/polaris-run-state-architecture.md]

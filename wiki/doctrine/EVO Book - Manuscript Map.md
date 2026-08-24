@@ -2,7 +2,8 @@
 title: EVO Book - Manuscript Map
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVO Book - Manuscript Map.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVO Book - Manuscript Map.md
 updated: 2026-07-24
 ---
 
@@ -270,4 +271,4 @@ The goal is to make the doctrine coherent enough that a book becomes a natural b
 - [Talent Promotion Rule](https://www.notion.so/33ec72bad013814389d2efd20e39c2c6)
 - [Task Chain Definition](https://www.notion.so/343c72bad01381d1a3e3f35f210f82d9)
 - [EVO Project Master Index](https://www.notion.so/33dc72bad01381a7b19cd18ddb54803e)
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVO Book - Manuscript Map.md]

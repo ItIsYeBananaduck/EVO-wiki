@@ -2,7 +2,8 @@
 title: Device Linking via QR
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Device Linking via QR.md"]
+sources:
+  - source-materials/mirrors/doctrine/Device Linking via QR.md
 updated: 2026-07-24
 ---
 
@@ -25,4 +26,4 @@ Links
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Device Linking via QR.md]

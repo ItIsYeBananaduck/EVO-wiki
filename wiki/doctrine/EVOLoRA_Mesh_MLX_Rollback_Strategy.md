@@ -2,7 +2,8 @@
 title: EVOLoRA_Mesh_MLX_Rollback_Strategy
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-deprecated/EVOLoRA_Mesh_MLX_Rollback_Strategy.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOLoRA_Mesh_MLX_Rollback_Strategy.md
 updated: 2026-07-24
 ---
 
@@ -520,4 +521,4 @@ if (restored) {
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOLoRA_Mesh_MLX_Rollback_Strategy.md]

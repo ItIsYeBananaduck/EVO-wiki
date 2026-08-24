@@ -2,7 +2,8 @@
 title: Trainer certification verification (future automation)
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/Trainer certification verification (future automation).md"]
+sources:
+  - source-materials/mirrors/doctrine/Trainer certification verification (future automation).md
 updated: 2026-07-24
 ---
 
@@ -42,4 +43,4 @@ Park automated certification validation as future work. Keep the product surface
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Trainer certification verification (future automation).md]

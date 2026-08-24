@@ -2,7 +2,8 @@
 title: ENF_DATASET_REPORT
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-deprecated/ENF_DATASET_REPORT.md"]
+sources:
+  - source-materials/mirrors/doctrine/ENF_DATASET_REPORT.md
 updated: 2026-07-24
 ---
 
@@ -230,4 +231,4 @@ See `scripts/README.md` for usage instructions.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/ENF_DATASET_REPORT.md]

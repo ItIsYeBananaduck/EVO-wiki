@@ -2,7 +2,8 @@
 title: Swarm Task Sharding
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Swarm Task Sharding.md"]
+sources:
+  - source-materials/mirrors/doctrine/Swarm Task Sharding.md
 updated: 2026-07-24
 ---
 
@@ -24,4 +25,4 @@ Links
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Swarm Task Sharding.md]

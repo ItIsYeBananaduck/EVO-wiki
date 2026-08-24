@@ -2,7 +2,8 @@
 title: GGUF_CONVERSION_GUIDE
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/GGUF_CONVERSION_GUIDE.md"]
+sources:
+  - source-materials/mirrors/doctrine/GGUF_CONVERSION_GUIDE.md
 updated: 2026-07-24
 ---
 
@@ -219,4 +220,4 @@ Before uploading to R2:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/GGUF_CONVERSION_GUIDE.md]

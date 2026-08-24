@@ -2,7 +2,8 @@
 title: Override-Feedback-Loop
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Override-Feedback-Loop.md"]
+sources:
+  - source-materials/mirrors/doctrine/Override-Feedback-Loop.md
 updated: 2026-07-24
 ---
 
@@ -17,4 +18,4 @@ Alice never blocks action. Alice advises and monitors.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Override-Feedback-Loop.md]

@@ -2,7 +2,8 @@
 title: Invisible Compute Orchestration
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Invisible Compute Orchestration.md"]
+sources:
+  - source-materials/mirrors/doctrine/Invisible Compute Orchestration.md
 updated: 2026-07-24
 ---
 
@@ -24,4 +25,4 @@ Links
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Invisible Compute Orchestration.md]

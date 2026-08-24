@@ -2,7 +2,8 @@
 title: Override-Feedback-Loop 1
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Override-Feedback-Loop 1.md"]
+sources:
+  - source-materials/mirrors/doctrine/Override-Feedback-Loop 1.md
 updated: 2026-07-24
 ---
 
@@ -20,4 +21,4 @@ Calm, non-judgmental: “I’ve noticed recovery time increasing over the last f
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Override-Feedback-Loop 1.md]

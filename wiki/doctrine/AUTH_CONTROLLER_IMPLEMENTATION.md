@@ -2,7 +2,8 @@
 title: AUTH_CONTROLLER_IMPLEMENTATION
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/AUTH_CONTROLLER_IMPLEMENTATION.md"]
+sources:
+  - source-materials/mirrors/doctrine/AUTH_CONTROLLER_IMPLEMENTATION.md
 updated: 2026-07-24
 ---
 
@@ -302,4 +303,4 @@ This implementation provides:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/AUTH_CONTROLLER_IMPLEMENTATION.md]

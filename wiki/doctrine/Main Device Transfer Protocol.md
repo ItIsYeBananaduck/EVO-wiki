@@ -2,7 +2,8 @@
 title: Main Device Transfer Protocol
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Main Device Transfer Protocol.md"]
+sources:
+  - source-materials/mirrors/doctrine/Main Device Transfer Protocol.md
 updated: 2026-07-24
 ---
 
@@ -25,4 +26,4 @@ Links
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Main Device Transfer Protocol.md]

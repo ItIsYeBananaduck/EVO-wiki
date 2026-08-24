@@ -2,7 +2,8 @@
 title: _MOC - School
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/_MOC - School.md"]
+sources:
+  - source-materials/mirrors/doctrine/_MOC - School.md
 updated: 2026-07-24
 ---
 
@@ -26,4 +27,4 @@ School EVE Architecture 1
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/_MOC - School.md]

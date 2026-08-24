@@ -2,7 +2,8 @@
 title: Student Alice - Architecture
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Student Alice - Architecture.md"]
+sources:
+  - source-materials/mirrors/doctrine/Student Alice - Architecture.md
 updated: 2026-07-24
 ---
 
@@ -134,4 +135,4 @@ Higher independent Eureka events
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Student Alice - Architecture.md]

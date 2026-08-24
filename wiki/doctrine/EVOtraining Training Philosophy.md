@@ -2,7 +2,8 @@
 title: EVOtraining Training Philosophy
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOtraining Training Philosophy.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOtraining Training Philosophy.md
 updated: 2026-07-24
 ---
 
@@ -20,4 +21,4 @@ The best program is the one that adapts to the individual.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOtraining Training Philosophy.md]

@@ -2,7 +2,8 @@
 title: Delegator Tool Hostage Rule
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Delegator Tool Hostage Rule.md"]
+sources:
+  - source-materials/mirrors/doctrine/Delegator Tool Hostage Rule.md
 updated: 2026-07-24
 ---
 
@@ -24,4 +25,4 @@ No Tool Access During Planning
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Delegator Tool Hostage Rule.md]

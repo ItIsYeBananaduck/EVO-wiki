@@ -2,7 +2,8 @@
 title: _TEMPLATE - Canonical Note
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/_TEMPLATE - Canonical Note.md"]
+sources:
+  - source-materials/mirrors/doctrine/_TEMPLATE - Canonical Note.md
 updated: 2026-07-24
 ---
 
@@ -59,4 +60,4 @@ Short, clean recap of what this system is.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/_TEMPLATE - Canonical Note.md]

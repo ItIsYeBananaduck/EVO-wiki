@@ -2,7 +2,8 @@
 title: Whitelisted Instruction Sources
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Whitelisted Instruction Sources.md"]
+sources:
+  - source-materials/mirrors/doctrine/Whitelisted Instruction Sources.md
 updated: 2026-07-24
 ---
 
@@ -25,4 +26,4 @@ Links
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Whitelisted Instruction Sources.md]

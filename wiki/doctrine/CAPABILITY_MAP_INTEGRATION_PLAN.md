@@ -2,7 +2,8 @@
 title: CAPABILITY_MAP_INTEGRATION_PLAN
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/CAPABILITY_MAP_INTEGRATION_PLAN.md"]
+sources:
+  - source-materials/mirrors/doctrine/CAPABILITY_MAP_INTEGRATION_PLAN.md
 updated: 2026-07-24
 ---
 
@@ -601,4 +602,4 @@ class CapabilityMapCache {
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/CAPABILITY_MAP_INTEGRATION_PLAN.md]

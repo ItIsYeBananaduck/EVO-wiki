@@ -2,7 +2,8 @@
 title: EVOconnect Execution Model
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOconnect Execution Model.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOconnect Execution Model.md
 updated: 2026-07-24
 ---
 
@@ -40,4 +41,4 @@ Execution is not just doing. Execution is governed action.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOconnect Execution Model.md]

@@ -2,7 +2,8 @@
 title: COREML_CONVERSION_SUMMARY
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/COREML_CONVERSION_SUMMARY.md"]
+sources:
+  - source-materials/mirrors/doctrine/COREML_CONVERSION_SUMMARY.md
 updated: 2026-07-24
 ---
 
@@ -112,4 +113,4 @@ The app can compile `.mlpackage` to `.mlmodelc` on first use:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/COREML_CONVERSION_SUMMARY.md]

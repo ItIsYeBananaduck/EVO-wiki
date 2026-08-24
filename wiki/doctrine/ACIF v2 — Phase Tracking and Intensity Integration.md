@@ -2,7 +2,8 @@
 title: ACIF v2 — Phase Tracking and Intensity Integration
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/ACIF v2 — Phase Tracking and Intensity Integration.md"]
+sources:
+  - source-materials/mirrors/doctrine/ACIF v2 — Phase Tracking and Intensity Integration.md
 updated: 2026-07-24
 ---
 
@@ -152,4 +153,4 @@ ACIF v2 replaces raw HR/SpO2 fields with a consolidated `intensity_score` and `i
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/ACIF v2 — Phase Tracking and Intensity Integration.md]

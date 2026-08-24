@@ -2,7 +2,8 @@
 title: Explain Only When Asked
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Explain Only When Asked.md"]
+sources:
+  - source-materials/mirrors/doctrine/Explain Only When Asked.md
 updated: 2026-07-24
 ---
 
@@ -24,4 +25,4 @@ Links
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Explain Only When Asked.md]

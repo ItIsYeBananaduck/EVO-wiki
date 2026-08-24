@@ -2,7 +2,8 @@
 title: INFERENCE_PERFORMANCE_FIXES_APPLIED
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/INFERENCE_PERFORMANCE_FIXES_APPLIED.md"]
+sources:
+  - source-materials/mirrors/doctrine/INFERENCE_PERFORMANCE_FIXES_APPLIED.md
 updated: 2026-07-24
 ---
 
@@ -114,4 +115,4 @@ All high-priority performance fixes have been implemented in `LlamaEngine.swift`
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/INFERENCE_PERFORMANCE_FIXES_APPLIED.md]

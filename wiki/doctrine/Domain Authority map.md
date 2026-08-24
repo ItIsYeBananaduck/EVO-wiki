@@ -2,7 +2,8 @@
 title: Domain Authority map
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Domain Authority map.md"]
+sources:
+  - source-materials/mirrors/doctrine/Domain Authority map.md
 updated: 2026-07-24
 ---
 
@@ -43,4 +44,4 @@ Each domain package declares which [[EVOLoRA Mesh]] adapter kinds are active for
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Domain Authority map.md]

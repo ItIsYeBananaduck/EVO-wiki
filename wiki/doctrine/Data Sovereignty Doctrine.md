@@ -2,7 +2,8 @@
 title: Data Sovereignty Doctrine
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/Data Sovereignty Doctrine.md"]
+sources:
+  - source-materials/mirrors/doctrine/Data Sovereignty Doctrine.md
 updated: 2026-07-24
 ---
 
@@ -24,4 +25,4 @@ No behavioral tracking.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Data Sovereignty Doctrine.md]

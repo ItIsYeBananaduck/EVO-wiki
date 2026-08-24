@@ -2,7 +2,8 @@
 title: Hive Packaging + Supabase Extraction Plan
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/Hive Packaging + Supabase Extraction Plan.md"]
+sources:
+  - source-materials/mirrors/doctrine/Hive Packaging + Supabase Extraction Plan.md
 updated: 2026-07-24
 ---
 
@@ -220,4 +221,4 @@ Internal GitHub audit
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Hive Packaging + Supabase Extraction Plan.md]

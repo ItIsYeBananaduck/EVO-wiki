@@ -2,7 +2,8 @@
 title: Environment Integrations
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Environment Integrations.md"]
+sources:
+  - source-materials/mirrors/doctrine/Environment Integrations.md
 updated: 2026-07-24
 ---
 
@@ -50,4 +51,4 @@ Environment integrations treat tools as: - external environments- not native sys
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Environment Integrations.md]

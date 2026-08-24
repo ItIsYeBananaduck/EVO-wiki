@@ -2,7 +2,8 @@
 title: ALICE_CAPABILITIES_ACTIONS_IMPLEMENTATION
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/ALICE_CAPABILITIES_ACTIONS_IMPLEMENTATION.md"]
+sources:
+  - source-materials/mirrors/doctrine/ALICE_CAPABILITIES_ACTIONS_IMPLEMENTATION.md
 updated: 2026-07-24
 ---
 
@@ -259,4 +260,4 @@ None currently. System is robust with default fallbacks.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/ALICE_CAPABILITIES_ACTIONS_IMPLEMENTATION.md]

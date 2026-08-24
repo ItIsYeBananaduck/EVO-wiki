@@ -2,7 +2,8 @@
 title: EVOtraining User Baseline & Starting Logic
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOtraining User Baseline & Starting Logic.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOtraining User Baseline & Starting Logic.md
 updated: 2026-07-24
 ---
 
@@ -26,4 +27,4 @@ Start safe, then scale intelligently.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOtraining User Baseline & Starting Logic.md]

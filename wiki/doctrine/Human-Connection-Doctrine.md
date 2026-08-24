@@ -2,7 +2,8 @@
 title: Human-Connection-Doctrine
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Human-Connection-Doctrine.md"]
+sources:
+  - source-materials/mirrors/doctrine/Human-Connection-Doctrine.md
 updated: 2026-07-24
 ---
 
@@ -17,4 +18,4 @@ Non-pushy, non-guilting prompts like: - “This might be worth sharing with some
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Human-Connection-Doctrine.md]

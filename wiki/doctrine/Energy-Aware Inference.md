@@ -2,7 +2,8 @@
 title: Energy-Aware Inference
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Energy-Aware Inference.md"]
+sources:
+  - source-materials/mirrors/doctrine/Energy-Aware Inference.md
 updated: 2026-07-24
 ---
 
@@ -50,4 +51,4 @@ For Q4_K_M quantized models on constrained devices (≤6 GB RAM):
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Energy-Aware Inference.md]

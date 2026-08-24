@@ -2,7 +2,8 @@
 title: Bunker Access Session Model
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/Bunker Access Session Model.md"]
+sources:
+  - source-materials/mirrors/doctrine/Bunker Access Session Model.md
 updated: 2026-07-24
 ---
 
@@ -171,4 +172,4 @@ Revised model:
 
 Canonical reference:
 EVOconnect — Connect Library and Bunker Visibility Model
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Bunker Access Session Model.md]

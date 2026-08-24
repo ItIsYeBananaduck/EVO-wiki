@@ -2,7 +2,8 @@
 title: METAL_SAFETY_PATCH_SUMMARY
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/METAL_SAFETY_PATCH_SUMMARY.md"]
+sources:
+  - source-materials/mirrors/doctrine/METAL_SAFETY_PATCH_SUMMARY.md
 updated: 2026-07-24
 ---
 
@@ -210,4 +211,4 @@ Watch for these log patterns:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/METAL_SAFETY_PATCH_SUMMARY.md]

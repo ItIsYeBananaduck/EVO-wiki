@@ -2,7 +2,8 @@
 title: EVE Procedures - Scheduling + Report Requests
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/EVE Procedures - Scheduling + Report Requests.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVE Procedures - Scheduling + Report Requests.md
 updated: 2026-07-24
 ---
 
@@ -19,4 +20,4 @@ EVE does not audit. EVE requests and aggregates reports.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVE Procedures - Scheduling + Report Requests.md]

@@ -2,7 +2,8 @@
 title: ENF_LORA_TRAINING_SPEC
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-deprecated/ENF_LORA_TRAINING_SPEC.md"]
+sources:
+  - source-materials/mirrors/doctrine/ENF_LORA_TRAINING_SPEC.md
 updated: 2026-07-24
 ---
 
@@ -105,4 +106,4 @@ Training examples should include:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/ENF_LORA_TRAINING_SPEC.md]

@@ -2,7 +2,8 @@
 title: EVOlearn Retention & Recall Loop
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOlearn Retention & Recall Loop.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOlearn Retention & Recall Loop.md
 updated: 2026-07-24
 ---
 
@@ -24,4 +25,4 @@ Retention improves through structured recall.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOlearn Retention & Recall Loop.md]

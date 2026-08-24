@@ -2,7 +2,8 @@
 title: EVOtraining Recovery & HRV Integration
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOtraining Recovery & HRV Integration.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOtraining Recovery & HRV Integration.md
 updated: 2026-07-24
 ---
 
@@ -25,4 +26,4 @@ Recovery is part of training, not separate from it.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOtraining Recovery & HRV Integration.md]

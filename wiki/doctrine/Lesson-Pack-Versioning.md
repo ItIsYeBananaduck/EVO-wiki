@@ -2,7 +2,8 @@
 title: Lesson-Pack-Versioning
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Lesson-Pack-Versioning.md"]
+sources:
+  - source-materials/mirrors/doctrine/Lesson-Pack-Versioning.md
 updated: 2026-07-24
 ---
 
@@ -24,4 +25,4 @@ When possible, migrate: - completion flags for unchanged sections - mastered ite
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Lesson-Pack-Versioning.md]

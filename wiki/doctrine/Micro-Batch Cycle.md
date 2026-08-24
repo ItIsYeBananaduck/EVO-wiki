@@ -2,7 +2,8 @@
 title: Micro-Batch Cycle
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Micro-Batch Cycle.md"]
+sources:
+  - source-materials/mirrors/doctrine/Micro-Batch Cycle.md
 updated: 2026-07-24
 ---
 
@@ -26,4 +27,4 @@ Related notes: [[Set-End Micro-Inference]], [[EVOtraining AI Adjustment Model]]
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Micro-Batch Cycle.md]

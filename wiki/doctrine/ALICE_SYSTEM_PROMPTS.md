@@ -2,7 +2,8 @@
 title: ALICE_SYSTEM_PROMPTS
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/ALICE_SYSTEM_PROMPTS.md"]
+sources:
+  - source-materials/mirrors/doctrine/ALICE_SYSTEM_PROMPTS.md
 updated: 2026-07-24
 ---
 
@@ -851,4 +852,4 @@ You should focus on topics related to fitness, exercise, nutrition...
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/ALICE_SYSTEM_PROMPTS.md]

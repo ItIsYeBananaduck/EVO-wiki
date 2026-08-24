@@ -2,7 +2,8 @@
 title: EVOconnect External Agent Governance Model
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOconnect External Agent Governance Model.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOconnect External Agent Governance Model.md
 updated: 2026-07-24
 ---
 
@@ -37,4 +38,4 @@ External capability must never outrun internal control.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOconnect External Agent Governance Model.md]

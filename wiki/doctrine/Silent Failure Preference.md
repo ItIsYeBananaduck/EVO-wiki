@@ -2,7 +2,8 @@
 title: Silent Failure Preference
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Silent Failure Preference.md"]
+sources:
+  - source-materials/mirrors/doctrine/Silent Failure Preference.md
 updated: 2026-07-24
 ---
 
@@ -25,4 +26,4 @@ Links
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Silent Failure Preference.md]

@@ -2,7 +2,8 @@
 title: EVOconnect Business Safety Guarantees
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOconnect Business Safety Guarantees.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOconnect Business Safety Guarantees.md
 updated: 2026-07-24
 ---
 
@@ -34,4 +35,4 @@ Power without business safety is not acceptable system design.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOconnect Business Safety Guarantees.md]

@@ -2,7 +2,8 @@
 title: GET_DEVICE_LOGS
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/GET_DEVICE_LOGS.md"]
+sources:
+  - source-materials/mirrors/doctrine/GET_DEVICE_LOGS.md
 updated: 2026-07-24
 ---
 
@@ -129,4 +130,4 @@ Enable Address Sanitizer:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/GET_DEVICE_LOGS.md]

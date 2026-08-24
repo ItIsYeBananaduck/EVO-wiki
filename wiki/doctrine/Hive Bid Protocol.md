@@ -2,7 +2,8 @@
 title: Hive Bid Protocol
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Hive Bid Protocol.md"]
+sources:
+  - source-materials/mirrors/doctrine/Hive Bid Protocol.md
 updated: 2026-07-24
 ---
 
@@ -42,4 +43,4 @@ Single Executor Guarantee
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Hive Bid Protocol.md]

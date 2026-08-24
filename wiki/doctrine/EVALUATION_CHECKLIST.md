@@ -2,7 +2,8 @@
 title: EVALUATION_CHECKLIST
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVALUATION_CHECKLIST.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVALUATION_CHECKLIST.md
 updated: 2026-07-24
 ---
 
@@ -257,4 +258,4 @@ This checklist ensures ENF (Enforcer) and VOICE LoRAs work correctly in the hand
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVALUATION_CHECKLIST.md]

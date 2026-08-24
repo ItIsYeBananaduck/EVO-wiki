@@ -2,7 +2,8 @@
 title: EVE - LoRA Strategy (Generic vs Starter)
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/EVE - LoRA Strategy (Generic vs Starter).md"]
+sources:
+  - source-materials/mirrors/doctrine/EVE - LoRA Strategy (Generic vs Starter).md
 updated: 2026-07-24
 ---
 
@@ -31,4 +32,4 @@ No autonomous unreviewed LoRA creation.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVE - LoRA Strategy (Generic vs Starter).md]

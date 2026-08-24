@@ -2,7 +2,8 @@
 title: HIVE_IMPLEMENTATION_SPEC
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/HIVE_IMPLEMENTATION_SPEC.md"]
+sources:
+  - source-materials/mirrors/doctrine/HIVE_IMPLEMENTATION_SPEC.md
 updated: 2026-07-24
 ---
 
@@ -1106,4 +1107,4 @@ This gives the trainer visibility into which device has the most capable Alice, 
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/HIVE_IMPLEMENTATION_SPEC.md]

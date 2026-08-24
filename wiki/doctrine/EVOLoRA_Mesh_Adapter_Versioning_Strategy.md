@@ -2,7 +2,8 @@
 title: EVOLoRA_Mesh_Adapter_Versioning_Strategy
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOLoRA_Mesh_Adapter_Versioning_Strategy.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOLoRA_Mesh_Adapter_Versioning_Strategy.md
 updated: 2026-07-24
 ---
 
@@ -421,4 +422,4 @@ if (!isValid) {
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOLoRA_Mesh_Adapter_Versioning_Strategy.md]

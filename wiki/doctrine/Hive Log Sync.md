@@ -2,7 +2,8 @@
 title: Hive Log Sync
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Hive Log Sync.md"]
+sources:
+  - source-materials/mirrors/doctrine/Hive Log Sync.md
 updated: 2026-07-24
 ---
 
@@ -26,4 +27,4 @@ Links
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Hive Log Sync.md]

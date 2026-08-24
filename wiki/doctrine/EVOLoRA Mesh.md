@@ -2,7 +2,8 @@
 title: EVOLoRA Mesh
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/EVOLoRA Mesh.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOLoRA Mesh.md
 updated: 2026-07-24
 ---
 
@@ -124,4 +125,4 @@ The EVOLoRA Mesh blends up to four LoRA adapter types (GU, GT, U, T) using `effe
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOLoRA Mesh.md]

@@ -2,7 +2,8 @@
 title: MLX_Tokenizer_Generation_Complete
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-deprecated/MLX_Tokenizer_Generation_Complete.md"]
+sources:
+  - source-materials/mirrors/doctrine/MLX_Tokenizer_Generation_Complete.md
 updated: 2026-07-24
 ---
 
@@ -167,4 +168,4 @@ The foundation is complete and ready for testing. Once proper tokenization is im
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/MLX_Tokenizer_Generation_Complete.md]

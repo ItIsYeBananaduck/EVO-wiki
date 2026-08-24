@@ -2,7 +2,8 @@
 title: alice-hosting-anchor-runtime
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/alice-hosting-anchor-runtime.md"]
+sources:
+  - source-materials/mirrors/doctrine/alice-hosting-anchor-runtime.md
 updated: 2026-07-24
 ---
 
@@ -268,4 +269,4 @@ When the anchor receives a Swarm-sharded task:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/alice-hosting-anchor-runtime.md]

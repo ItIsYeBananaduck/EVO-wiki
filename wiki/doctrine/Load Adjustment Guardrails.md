@@ -2,7 +2,8 @@
 title: Load Adjustment Guardrails
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Load Adjustment Guardrails.md"]
+sources:
+  - source-materials/mirrors/doctrine/Load Adjustment Guardrails.md
 updated: 2026-07-24
 ---
 
@@ -26,4 +27,4 @@ Links
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Load Adjustment Guardrails.md]

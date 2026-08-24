@@ -2,7 +2,8 @@
 title: FILES_ADDED_TO_XCODE
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/FILES_ADDED_TO_XCODE.md"]
+sources:
+  - source-materials/mirrors/doctrine/FILES_ADDED_TO_XCODE.md
 updated: 2026-07-24
 ---
 
@@ -52,4 +53,4 @@ The files are now part of the project and should compile with the rest of the Sw
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/FILES_ADDED_TO_XCODE.md]

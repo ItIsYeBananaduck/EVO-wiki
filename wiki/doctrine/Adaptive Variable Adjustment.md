@@ -2,7 +2,8 @@
 title: Adaptive Variable Adjustment
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Adaptive Variable Adjustment.md"]
+sources:
+  - source-materials/mirrors/doctrine/Adaptive Variable Adjustment.md
 updated: 2026-07-24
 ---
 
@@ -26,4 +27,4 @@ Links
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Adaptive Variable Adjustment.md]

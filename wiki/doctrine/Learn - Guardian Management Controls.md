@@ -2,7 +2,8 @@
 title: Learn - Guardian Management Controls
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Learn - Guardian Management Controls.md"]
+sources:
+  - source-materials/mirrors/doctrine/Learn - Guardian Management Controls.md
 updated: 2026-07-24
 ---
 
@@ -15,4 +16,4 @@ SA messaging: - neutral and calm - explains restrictions as safety rules, not ju
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Learn - Guardian Management Controls.md]

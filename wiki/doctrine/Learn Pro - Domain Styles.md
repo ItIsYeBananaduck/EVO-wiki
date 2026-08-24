@@ -2,7 +2,8 @@
 title: Learn Pro - Domain Styles
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Learn Pro - Domain Styles.md"]
+sources:
+  - source-materials/mirrors/doctrine/Learn Pro - Domain Styles.md
 updated: 2026-07-24
 ---
 
@@ -21,4 +22,4 @@ Styles affect reasoning. Methods affect execution.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Learn Pro - Domain Styles.md]

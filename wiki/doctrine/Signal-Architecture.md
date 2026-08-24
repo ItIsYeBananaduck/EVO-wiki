@@ -2,7 +2,8 @@
 title: Signal-Architecture
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Signal-Architecture.md"]
+sources:
+  - source-materials/mirrors/doctrine/Signal-Architecture.md
 updated: 2026-07-24
 ---
 
@@ -31,4 +32,4 @@ Related notes: [[EVO — Context Layer]], [[Predictive-Regulation-Model]]
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Signal-Architecture.md]

@@ -2,7 +2,8 @@
 title: EVOLoRA_Mesh_OnDevice_Conversion_Plan
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOLoRA_Mesh_OnDevice_Conversion_Plan.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOLoRA_Mesh_OnDevice_Conversion_Plan.md
 updated: 2026-07-24
 ---
 
@@ -247,4 +248,4 @@ async runDailyTraining(): Promise<TrainingSession> {
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOLoRA_Mesh_OnDevice_Conversion_Plan.md]

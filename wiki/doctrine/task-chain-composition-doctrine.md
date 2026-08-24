@@ -2,7 +2,8 @@
 title: task-chain-composition-doctrine
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/task-chain-composition-doctrine.md"]
+sources:
+  - source-materials/mirrors/doctrine/task-chain-composition-doctrine.md
 updated: 2026-07-24
 ---
 
@@ -75,4 +76,4 @@ If a supporting skill has stale-state risk, network-state risk, indexed-graph ri
 - [[EVE Governance MOC]]
 - [[EVOconnect — Skill Import and Conversion Doctrine]]
 - [[EVO — Talent Tool Envelope & Context Compression Doctrine]]
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/task-chain-composition-doctrine.md]

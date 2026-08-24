@@ -2,7 +2,8 @@
 title: Living Notes vs Scratches
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/Living Notes vs Scratches.md"]
+sources:
+  - source-materials/mirrors/doctrine/Living Notes vs Scratches.md
 updated: 2026-07-24
 ---
 
@@ -196,4 +197,4 @@ But everything should have a place to begin.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Living Notes vs Scratches.md]

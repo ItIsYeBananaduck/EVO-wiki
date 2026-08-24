@@ -2,7 +2,8 @@
 title: ENF_MEMORY_IMPLEMENTATION_SUMMARY
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-deprecated/ENF_MEMORY_IMPLEMENTATION_SUMMARY.md"]
+sources:
+  - source-materials/mirrors/doctrine/ENF_MEMORY_IMPLEMENTATION_SUMMARY.md
 updated: 2026-07-24
 ---
 
@@ -165,4 +166,4 @@ Implemented two features in EVOLoRA Mesh:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/ENF_MEMORY_IMPLEMENTATION_SUMMARY.md]

@@ -2,7 +2,8 @@
 title: Error Categorization Sources + Guardrails
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Error Categorization Sources + Guardrails.md"]
+sources:
+  - source-materials/mirrors/doctrine/Error Categorization Sources + Guardrails.md
 updated: 2026-07-24
 ---
 
@@ -64,4 +65,4 @@ Categories describe: “where the learning broke down” not “what kind of stu
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Error Categorization Sources + Guardrails.md]

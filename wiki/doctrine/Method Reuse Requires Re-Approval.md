@@ -2,7 +2,8 @@
 title: Method Reuse Requires Re-Approval
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Method Reuse Requires Re-Approval.md"]
+sources:
+  - source-materials/mirrors/doctrine/Method Reuse Requires Re-Approval.md
 updated: 2026-07-24
 ---
 
@@ -24,4 +25,4 @@ Scoped Tool Grants
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Method Reuse Requires Re-Approval.md]

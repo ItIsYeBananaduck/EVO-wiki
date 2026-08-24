@@ -2,7 +2,8 @@
 title: Lesson-Pack-Schema
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Lesson-Pack-Schema.md"]
+sources:
+  - source-materials/mirrors/doctrine/Lesson-Pack-Schema.md
 updated: 2026-07-24
 ---
 
@@ -133,4 +134,4 @@ max_variants_per_block (int)
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Lesson-Pack-Schema.md]

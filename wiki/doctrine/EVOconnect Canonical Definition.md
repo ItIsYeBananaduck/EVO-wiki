@@ -2,7 +2,8 @@
 title: EVOconnect Canonical Definition
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOconnect Canonical Definition.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOconnect Canonical Definition.md
 updated: 2026-07-24
 ---
 
@@ -39,4 +40,4 @@ EVOconnect is a governed automation OS that learns from the user while preservin
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOconnect Canonical Definition.md]

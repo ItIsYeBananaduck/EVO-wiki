@@ -2,7 +2,8 @@
 title: TRAINER_AUDIT_DESKTOP_VIABILITY
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/TRAINER_AUDIT_DESKTOP_VIABILITY.md"]
+sources:
+  - source-materials/mirrors/doctrine/TRAINER_AUDIT_DESKTOP_VIABILITY.md
 updated: 2026-07-24
 ---
 
@@ -319,4 +320,4 @@ A desktop trainer app could function perfectly well **without on-device inferenc
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/TRAINER_AUDIT_DESKTOP_VIABILITY.md]

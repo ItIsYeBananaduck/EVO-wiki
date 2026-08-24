@@ -2,7 +2,8 @@
 title: Connect Notes System
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/Connect Notes System.md"]
+sources:
+  - source-materials/mirrors/doctrine/Connect Notes System.md
 updated: 2026-07-24
 ---
 
@@ -275,4 +276,4 @@ They live at a single canonical level, remain visible upward, and connect conver
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Connect Notes System.md]

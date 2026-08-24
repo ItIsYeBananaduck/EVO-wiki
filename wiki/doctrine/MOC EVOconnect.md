@@ -2,7 +2,8 @@
 title: MOC EVOconnect
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/MOC EVOconnect.md"]
+sources:
+  - source-materials/mirrors/doctrine/MOC EVOconnect.md
 updated: 2026-07-24
 ---
 
@@ -44,4 +45,4 @@ Connect is not just a feature cluster. It is a structured execution layer compos
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/MOC EVOconnect.md]

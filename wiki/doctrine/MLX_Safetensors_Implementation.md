@@ -2,7 +2,8 @@
 title: MLX_Safetensors_Implementation
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-deprecated/MLX_Safetensors_Implementation.md"]
+sources:
+  - source-materials/mirrors/doctrine/MLX_Safetensors_Implementation.md
 updated: 2026-07-24
 ---
 
@@ -182,4 +183,4 @@ The next step is to complete the weight mapping to handle all model layers, espe
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/MLX_Safetensors_Implementation.md]

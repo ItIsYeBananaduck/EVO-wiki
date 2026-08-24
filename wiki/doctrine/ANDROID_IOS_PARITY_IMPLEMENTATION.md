@@ -2,7 +2,8 @@
 title: ANDROID_IOS_PARITY_IMPLEMENTATION
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/ANDROID_IOS_PARITY_IMPLEMENTATION.md"]
+sources:
+  - source-materials/mirrors/doctrine/ANDROID_IOS_PARITY_IMPLEMENTATION.md
 updated: 2026-07-24
 ---
 
@@ -161,4 +162,4 @@ Both platforms:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/ANDROID_IOS_PARITY_IMPLEMENTATION.md]

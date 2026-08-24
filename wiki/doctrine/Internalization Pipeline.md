@@ -2,7 +2,8 @@
 title: Internalization Pipeline
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Internalization Pipeline.md"]
+sources:
+  - source-materials/mirrors/doctrine/Internalization Pipeline.md
 updated: 2026-07-24
 ---
 
@@ -38,4 +39,4 @@ User or system approval required
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Internalization Pipeline.md]

@@ -2,7 +2,8 @@
 title: User Journal System
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/User Journal System.md"]
+sources:
+  - source-materials/mirrors/doctrine/User Journal System.md
 updated: 2026-07-24
 ---
 
@@ -70,4 +71,4 @@ The User Journal exists to help Alice understand this user better over time with
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/User Journal System.md]

@@ -2,7 +2,8 @@
 title: README_ARCHIVE
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/README_ARCHIVE.md"]
+sources:
+  - source-materials/mirrors/doctrine/README_ARCHIVE.md
 updated: 2026-07-24
 ---
 
@@ -111,4 +112,4 @@ After upload:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/README_ARCHIVE.md]

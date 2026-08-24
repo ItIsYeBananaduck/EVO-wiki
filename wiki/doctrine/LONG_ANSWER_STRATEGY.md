@@ -2,7 +2,8 @@
 title: LONG_ANSWER_STRATEGY
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/LONG_ANSWER_STRATEGY.md"]
+sources:
+  - source-materials/mirrors/doctrine/LONG_ANSWER_STRATEGY.md
 updated: 2026-07-24
 ---
 
@@ -212,4 +213,4 @@ The system is designed to keep inference lightweight:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/LONG_ANSWER_STRATEGY.md]

@@ -2,7 +2,8 @@
 title: EVOtraining Session Feedback Flow
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOtraining Session Feedback Flow.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOtraining Session Feedback Flow.md
 updated: 2026-07-24
 ---
 
@@ -28,4 +29,4 @@ Session-level context improves long-term adaptation.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOtraining Session Feedback Flow.md]

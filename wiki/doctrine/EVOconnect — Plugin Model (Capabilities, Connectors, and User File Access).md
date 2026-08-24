@@ -2,7 +2,8 @@
 title: EVOconnect — Plugin Model (Capabilities, Connectors, and User File Access)
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/EVOconnect — Plugin Model (Capabilities, Connectors, and User File Access).md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOconnect — Plugin Model (Capabilities, Connectors, and User File Access).md
 updated: 2026-07-24
 ---
 
@@ -233,4 +234,4 @@ They should only need to express intent, review the proposed method, and get the
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOconnect — Plugin Model (Capabilities, Connectors, and User File Access).md]

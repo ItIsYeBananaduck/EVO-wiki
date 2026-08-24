@@ -2,7 +2,8 @@
 title: Monetization Model
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Monetization Model.md"]
+sources:
+  - source-materials/mirrors/doctrine/Monetization Model.md
 updated: 2026-07-24
 ---
 
@@ -20,4 +21,4 @@ Related notes: [[_MOC - Strategy]]
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Monetization Model.md]

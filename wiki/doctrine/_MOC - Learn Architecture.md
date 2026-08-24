@@ -2,7 +2,8 @@
 title: _MOC - Learn Architecture
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/_MOC - Learn Architecture.md"]
+sources:
+  - source-materials/mirrors/doctrine/_MOC - Learn Architecture.md
 updated: 2026-07-24
 ---
 
@@ -101,4 +102,4 @@ It is the educational operating system layer of EVO.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/_MOC - Learn Architecture.md]

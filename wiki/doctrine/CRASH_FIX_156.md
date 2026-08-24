@@ -2,7 +2,8 @@
 title: CRASH_FIX_156
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/CRASH_FIX_156.md"]
+sources:
+  - source-materials/mirrors/doctrine/CRASH_FIX_156.md
 updated: 2026-07-24
 ---
 
@@ -68,4 +69,4 @@ After deployment:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/CRASH_FIX_156.md]

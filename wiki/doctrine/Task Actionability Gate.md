@@ -2,7 +2,8 @@
 title: Task Actionability Gate
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Task Actionability Gate.md"]
+sources:
+  - source-materials/mirrors/doctrine/Task Actionability Gate.md
 updated: 2026-07-24
 ---
 
@@ -51,4 +52,4 @@ Related notes: [[Task Audit Log Minimum Fields]]
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Task Actionability Gate.md]

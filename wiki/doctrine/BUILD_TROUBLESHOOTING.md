@@ -2,7 +2,8 @@
 title: BUILD_TROUBLESHOOTING
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/BUILD_TROUBLESHOOTING.md"]
+sources:
+  - source-materials/mirrors/doctrine/BUILD_TROUBLESHOOTING.md
 updated: 2026-07-24
 ---
 
@@ -116,4 +117,4 @@ Please share:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/BUILD_TROUBLESHOOTING.md]

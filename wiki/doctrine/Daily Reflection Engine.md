@@ -2,7 +2,8 @@
 title: Daily Reflection Engine
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/Daily Reflection Engine.md"]
+sources:
+  - source-materials/mirrors/doctrine/Daily Reflection Engine.md
 updated: 2026-07-24
 ---
 
@@ -65,4 +66,4 @@ Reflection is daily, but durable memory should remain selective.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Daily Reflection Engine.md]

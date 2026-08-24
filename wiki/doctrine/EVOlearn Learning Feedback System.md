@@ -2,7 +2,8 @@
 title: EVOlearn Learning Feedback System
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOlearn Learning Feedback System.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOlearn Learning Feedback System.md
 updated: 2026-07-24
 ---
 
@@ -28,4 +29,4 @@ Feedback should be low-friction and continuous.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOlearn Learning Feedback System.md]

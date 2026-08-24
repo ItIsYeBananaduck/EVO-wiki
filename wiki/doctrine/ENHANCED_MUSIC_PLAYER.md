@@ -2,7 +2,8 @@
 title: ENHANCED_MUSIC_PLAYER
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/ENHANCED_MUSIC_PLAYER.md"]
+sources:
+  - source-materials/mirrors/doctrine/ENHANCED_MUSIC_PLAYER.md
 updated: 2026-07-24
 ---
 
@@ -344,4 +345,4 @@ This enhanced music player provides a significantly better user experience with 
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/ENHANCED_MUSIC_PLAYER.md]

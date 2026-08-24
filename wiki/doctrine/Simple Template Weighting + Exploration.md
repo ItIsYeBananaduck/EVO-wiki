@@ -2,7 +2,8 @@
 title: Simple Template Weighting + Exploration
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Simple Template Weighting + Exploration.md"]
+sources:
+  - source-materials/mirrors/doctrine/Simple Template Weighting + Exploration.md
 updated: 2026-07-24
 ---
 
@@ -44,4 +45,4 @@ Rationale: - year/grade/context changes may alter effectiveness - warm start wit
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Simple Template Weighting + Exploration.md]

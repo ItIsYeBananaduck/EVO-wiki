@@ -2,7 +2,8 @@
 title: Tone-Guardrails
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Tone-Guardrails.md"]
+sources:
+  - source-materials/mirrors/doctrine/Tone-Guardrails.md
 updated: 2026-07-24
 ---
 
@@ -26,4 +27,4 @@ She is a companion, not a mascot.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Tone-Guardrails.md]

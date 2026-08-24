@@ -2,7 +2,8 @@
 title: Connect - Free vs Pro Architecture
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Connect - Free vs Pro Architecture.md"]
+sources:
+  - source-materials/mirrors/doctrine/Connect - Free vs Pro Architecture.md
 updated: 2026-07-24
 ---
 
@@ -29,4 +30,4 @@ Mesh-level intelligence routing
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Connect - Free vs Pro Architecture.md]

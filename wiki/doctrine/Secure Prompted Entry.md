@@ -2,7 +2,8 @@
 title: Secure Prompted Entry
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Secure Prompted Entry.md"]
+sources:
+  - source-materials/mirrors/doctrine/Secure Prompted Entry.md
 updated: 2026-07-24
 ---
 
@@ -29,4 +30,4 @@ Scoped Tool Grants
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Secure Prompted Entry.md]

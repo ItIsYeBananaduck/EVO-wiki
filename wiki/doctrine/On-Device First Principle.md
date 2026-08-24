@@ -2,7 +2,8 @@
 title: On-Device First Principle
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/On-Device First Principle.md"]
+sources:
+  - source-materials/mirrors/doctrine/On-Device First Principle.md
 updated: 2026-07-24
 ---
 
@@ -24,4 +25,4 @@ Links
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/On-Device First Principle.md]

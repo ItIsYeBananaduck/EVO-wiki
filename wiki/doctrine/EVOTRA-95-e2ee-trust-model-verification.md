@@ -2,7 +2,8 @@
 title: EVOTRA-95-e2ee-trust-model-verification
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOTRA-95-e2ee-trust-model-verification.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOTRA-95-e2ee-trust-model-verification.md
 updated: 2026-07-24
 ---
 
@@ -122,4 +123,4 @@ Per issue requirement, this uncertainty is preserved rather than collapsed.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOTRA-95-e2ee-trust-model-verification.md]

@@ -2,7 +2,8 @@
 title: Swarm Parallel Inference
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Swarm Parallel Inference.md"]
+sources:
+  - source-materials/mirrors/doctrine/Swarm Parallel Inference.md
 updated: 2026-07-24
 ---
 
@@ -25,4 +26,4 @@ Single Executor Guarantee
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Swarm Parallel Inference.md]

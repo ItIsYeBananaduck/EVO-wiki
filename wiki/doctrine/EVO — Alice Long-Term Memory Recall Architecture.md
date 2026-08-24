@@ -2,7 +2,8 @@
 title: EVO — Alice Long-Term Memory Recall Architecture
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVO — Alice Long-Term Memory Recall Architecture.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVO — Alice Long-Term Memory Recall Architecture.md
 updated: 2026-07-24
 ---
 
@@ -461,4 +462,4 @@ This is the target architecture for EVO long-term memory recall.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVO — Alice Long-Term Memory Recall Architecture.md]

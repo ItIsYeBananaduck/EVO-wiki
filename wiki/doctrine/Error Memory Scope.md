@@ -2,7 +2,8 @@
 title: Error Memory Scope
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Error Memory Scope.md"]
+sources:
+  - source-materials/mirrors/doctrine/Error Memory Scope.md
 updated: 2026-07-24
 ---
 
@@ -41,4 +42,4 @@ Errors describe friction within a concept. They do not describe the student.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Error Memory Scope.md]

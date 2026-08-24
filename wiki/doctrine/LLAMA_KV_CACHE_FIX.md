@@ -2,7 +2,8 @@
 title: LLAMA_KV_CACHE_FIX
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/LLAMA_KV_CACHE_FIX.md"]
+sources:
+  - source-materials/mirrors/doctrine/LLAMA_KV_CACHE_FIX.md
 updated: 2026-07-24
 ---
 
@@ -174,4 +175,4 @@ nCur += 1  // ✅ Incremented after decode succeeds
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/LLAMA_KV_CACHE_FIX.md]

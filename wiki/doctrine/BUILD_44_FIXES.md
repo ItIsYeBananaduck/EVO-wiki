@@ -2,7 +2,8 @@
 title: BUILD_44_FIXES
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/BUILD_44_FIXES.md"]
+sources:
+  - source-materials/mirrors/doctrine/BUILD_44_FIXES.md
 updated: 2026-07-24
 ---
 
@@ -94,4 +95,4 @@ After fixes, verify:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/BUILD_44_FIXES.md]

@@ -2,7 +2,8 @@
 title: Learn-Signal-Architecture
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Learn-Signal-Architecture.md"]
+sources:
+  - source-materials/mirrors/doctrine/Learn-Signal-Architecture.md
 updated: 2026-07-24
 ---
 
@@ -20,4 +21,4 @@ Learn signals must NOT: - become fitness or mind diagnoses - infer sensitive per
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Learn-Signal-Architecture.md]

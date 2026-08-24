@@ -2,7 +2,8 @@
 title: EVOconnect Awareness vs Learning Boundary + Privileged Execution
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOconnect Awareness vs Learning Boundary + Privileged Execution.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOconnect Awareness vs Learning Boundary + Privileged Execution.md
 updated: 2026-07-24
 ---
 
@@ -31,4 +32,4 @@ Escalation in capability must always come with escalation in governance.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOconnect Awareness vs Learning Boundary + Privileged Execution.md]

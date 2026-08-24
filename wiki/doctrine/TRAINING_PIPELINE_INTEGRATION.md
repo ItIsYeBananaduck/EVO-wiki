@@ -2,7 +2,8 @@
 title: TRAINING_PIPELINE_INTEGRATION
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/TRAINING_PIPELINE_INTEGRATION.md"]
+sources:
+  - source-materials/mirrors/doctrine/TRAINING_PIPELINE_INTEGRATION.md
 updated: 2026-07-24
 ---
 
@@ -178,4 +179,4 @@ The pipeline is **ready to use** once you implement the llama.cpp training calls
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/TRAINING_PIPELINE_INTEGRATION.md]

@@ -2,7 +2,8 @@
 title: MOC - Learn Pro (Collaborative Style Workshop)
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/MOC - Learn Pro (Collaborative Style Workshop).md"]
+sources:
+  - source-materials/mirrors/doctrine/MOC - Learn Pro (Collaborative Style Workshop).md
 updated: 2026-07-24
 ---
 
@@ -23,4 +24,4 @@ Core Notes
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/MOC - Learn Pro (Collaborative Style Workshop).md]

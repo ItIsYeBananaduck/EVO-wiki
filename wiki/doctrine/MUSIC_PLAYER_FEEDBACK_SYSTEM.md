@@ -2,7 +2,8 @@
 title: MUSIC_PLAYER_FEEDBACK_SYSTEM
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/MUSIC_PLAYER_FEEDBACK_SYSTEM.md"]
+sources:
+  - source-materials/mirrors/doctrine/MUSIC_PLAYER_FEEDBACK_SYSTEM.md
 updated: 2026-07-24
 ---
 
@@ -420,4 +421,4 @@ This creates a foundation for Alice to learn user music preferences over time, e
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/MUSIC_PLAYER_FEEDBACK_SYSTEM.md]

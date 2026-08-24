@@ -2,7 +2,8 @@
 title: EVOtraining MOC
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOtraining MOC.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOtraining MOC.md
 updated: 2026-07-24
 ---
 
@@ -56,4 +57,4 @@ Mapping:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOtraining MOC.md]

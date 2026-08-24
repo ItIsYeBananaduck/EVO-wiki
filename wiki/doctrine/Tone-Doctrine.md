@@ -2,7 +2,8 @@
 title: Tone-Doctrine
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Tone-Doctrine.md"]
+sources:
+  - source-materials/mirrors/doctrine/Tone-Doctrine.md
 updated: 2026-07-24
 ---
 
@@ -27,4 +28,4 @@ Use: “updated”, “new version”, “continue here”.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Tone-Doctrine.md]

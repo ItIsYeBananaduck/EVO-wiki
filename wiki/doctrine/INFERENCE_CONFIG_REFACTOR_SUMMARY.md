@@ -2,7 +2,8 @@
 title: INFERENCE_CONFIG_REFACTOR_SUMMARY
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/INFERENCE_CONFIG_REFACTOR_SUMMARY.md"]
+sources:
+  - source-materials/mirrors/doctrine/INFERENCE_CONFIG_REFACTOR_SUMMARY.md
 updated: 2026-07-24
 ---
 
@@ -131,4 +132,4 @@ updated: 2026-07-24
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/INFERENCE_CONFIG_REFACTOR_SUMMARY.md]

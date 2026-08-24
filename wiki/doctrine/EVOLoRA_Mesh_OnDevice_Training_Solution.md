@@ -2,7 +2,8 @@
 title: EVOLoRA_Mesh_OnDevice_Training_Solution
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOLoRA_Mesh_OnDevice_Training_Solution.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOLoRA_Mesh_OnDevice_Training_Solution.md
 updated: 2026-07-24
 ---
 
@@ -415,4 +416,4 @@ If full conversion is too heavy, consider:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOLoRA_Mesh_OnDevice_Training_Solution.md]

@@ -2,7 +2,8 @@
 title: GET_LOGS_VIA_APPCONNECT
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/GET_LOGS_VIA_APPCONNECT.md"]
+sources:
+  - source-materials/mirrors/doctrine/GET_LOGS_VIA_APPCONNECT.md
 updated: 2026-07-24
 ---
 
@@ -99,4 +100,4 @@ The summary file is your best bet since it's automatically updated and contains 
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/GET_LOGS_VIA_APPCONNECT.md]

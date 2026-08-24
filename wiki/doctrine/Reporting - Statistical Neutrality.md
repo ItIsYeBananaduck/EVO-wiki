@@ -2,7 +2,8 @@
 title: Reporting - Statistical Neutrality
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Reporting - Statistical Neutrality.md"]
+sources:
+  - source-materials/mirrors/doctrine/Reporting - Statistical Neutrality.md
 updated: 2026-07-24
 ---
 
@@ -22,4 +23,4 @@ separates support system from evaluation system
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Reporting - Statistical Neutrality.md]

@@ -2,7 +2,8 @@
 title: NATIVE_DEPENDENCIES
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/NATIVE_DEPENDENCIES.md"]
+sources:
+  - source-materials/mirrors/doctrine/NATIVE_DEPENDENCIES.md
 updated: 2026-07-24
 ---
 
@@ -187,4 +188,4 @@ This is a **separation of concerns**, not a full native elimination.
 - [x] List Dart interface boundaries
 - [x] Create summary table
 - [x] Note future possibilities
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/NATIVE_DEPENDENCIES.md]

@@ -2,7 +2,8 @@
 title: Trainer Plan Delivery and Client Application Doctrine
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/Trainer Plan Delivery and Client Application Doctrine.md"]
+sources:
+  - source-materials/mirrors/doctrine/Trainer Plan Delivery and Client Application Doctrine.md
 updated: 2026-07-24
 ---
 
@@ -22,4 +23,4 @@ The server must not become the canonical authority for runtime plan ownership, a
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Trainer Plan Delivery and Client Application Doctrine.md]

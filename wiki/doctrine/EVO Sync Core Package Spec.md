@@ -2,7 +2,8 @@
 title: EVO Sync Core Package Spec
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVO Sync Core Package Spec.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVO Sync Core Package Spec.md
 updated: 2026-07-24
 ---
 
@@ -469,4 +470,4 @@ It is the local orchestration layer that allows EVO apps to move user-owned cogn
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVO Sync Core Package Spec.md]

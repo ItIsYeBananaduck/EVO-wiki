@@ -2,7 +2,8 @@
 title: MethodProfile-Capture
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/MethodProfile-Capture.md"]
+sources:
+  - source-materials/mirrors/doctrine/MethodProfile-Capture.md
 updated: 2026-07-24
 ---
 
@@ -19,4 +20,4 @@ MethodProfile used to wrap all LessonPacks for that teacher/class.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/MethodProfile-Capture.md]

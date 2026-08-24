@@ -2,7 +2,8 @@
 title: Talents as Inference Compression
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/Talents as Inference Compression.md"]
+sources:
+  - source-materials/mirrors/doctrine/Talents as Inference Compression.md
 updated: 2026-07-24
 ---
 
@@ -23,4 +24,4 @@ Reduce inference cost and increase consistency.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Talents as Inference Compression.md]

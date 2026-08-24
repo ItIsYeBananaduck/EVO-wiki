@@ -2,7 +2,8 @@
 title: Vault-Based Credential Access
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Vault-Based Credential Access.md"]
+sources:
+  - source-materials/mirrors/doctrine/Vault-Based Credential Access.md
 updated: 2026-07-24
 ---
 
@@ -23,4 +24,4 @@ Related
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Vault-Based Credential Access.md]

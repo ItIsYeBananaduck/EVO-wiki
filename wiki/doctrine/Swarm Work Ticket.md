@@ -2,7 +2,8 @@
 title: Swarm Work Ticket
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Swarm Work Ticket.md"]
+sources:
+  - source-materials/mirrors/doctrine/Swarm Work Ticket.md
 updated: 2026-07-24
 ---
 
@@ -25,4 +26,4 @@ No Tool Access During Planning
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Swarm Work Ticket.md]

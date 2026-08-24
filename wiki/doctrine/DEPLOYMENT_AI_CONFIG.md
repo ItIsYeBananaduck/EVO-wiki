@@ -2,7 +2,8 @@
 title: DEPLOYMENT_AI_CONFIG
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/DEPLOYMENT_AI_CONFIG.md"]
+sources:
+  - source-materials/mirrors/doctrine/DEPLOYMENT_AI_CONFIG.md
 updated: 2026-07-24
 ---
 
@@ -618,4 +619,4 @@ This deployment configuration ensures the Enhanced AI Coaching System is properl
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/DEPLOYMENT_AI_CONFIG.md]

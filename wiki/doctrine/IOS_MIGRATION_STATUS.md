@@ -2,7 +2,8 @@
 title: IOS_MIGRATION_STATUS
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/IOS_MIGRATION_STATUS.md"]
+sources:
+  - source-materials/mirrors/doctrine/IOS_MIGRATION_STATUS.md
 updated: 2026-07-24
 ---
 
@@ -162,4 +163,4 @@ The configuration work is complete - the remaining work is fixing the code error
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/IOS_MIGRATION_STATUS.md]

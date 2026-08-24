@@ -2,7 +2,8 @@
 title: ANTHROPIC_SKILLS_VS_CURRENT_SYSTEM
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/ANTHROPIC_SKILLS_VS_CURRENT_SYSTEM.md"]
+sources:
+  - source-materials/mirrors/doctrine/ANTHROPIC_SKILLS_VS_CURRENT_SYSTEM.md
 updated: 2026-07-24
 ---
 
@@ -170,4 +171,4 @@ All three serve different purposes and work well together!
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/ANTHROPIC_SKILLS_VS_CURRENT_SYSTEM.md]

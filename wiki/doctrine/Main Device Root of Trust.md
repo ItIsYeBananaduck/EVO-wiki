@@ -2,7 +2,8 @@
 title: Main Device Root of Trust
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Main Device Root of Trust.md"]
+sources:
+  - source-materials/mirrors/doctrine/Main Device Root of Trust.md
 updated: 2026-07-24
 ---
 
@@ -25,4 +26,4 @@ Multi-Modal Pairing
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Main Device Root of Trust.md]

@@ -2,7 +2,8 @@
 title: Administrative Reporting Controls
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Administrative Reporting Controls.md"]
+sources:
+  - source-materials/mirrors/doctrine/Administrative Reporting Controls.md
 updated: 2026-07-24
 ---
 
@@ -42,4 +43,4 @@ Administrators control reporting structure. They do not control individual stude
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Administrative Reporting Controls.md]

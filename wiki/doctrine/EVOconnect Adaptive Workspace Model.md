@@ -2,7 +2,8 @@
 title: EVOconnect Adaptive Workspace Model
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOconnect Adaptive Workspace Model.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOconnect Adaptive Workspace Model.md
 updated: 2026-07-24
 ---
 
@@ -32,4 +33,4 @@ A workspace should fit the task, not force the task to fit the workspace.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOconnect Adaptive Workspace Model.md]

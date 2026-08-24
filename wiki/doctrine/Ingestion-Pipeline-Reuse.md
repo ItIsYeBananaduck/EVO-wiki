@@ -2,7 +2,8 @@
 title: Ingestion-Pipeline-Reuse
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Ingestion-Pipeline-Reuse.md"]
+sources:
+  - source-materials/mirrors/doctrine/Ingestion-Pipeline-Reuse.md
 updated: 2026-07-24
 ---
 
@@ -17,4 +18,4 @@ Rule
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Ingestion-Pipeline-Reuse.md]

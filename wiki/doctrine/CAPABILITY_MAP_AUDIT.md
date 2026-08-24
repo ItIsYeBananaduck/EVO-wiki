@@ -2,7 +2,8 @@
 title: CAPABILITY_MAP_AUDIT
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/CAPABILITY_MAP_AUDIT.md"]
+sources:
+  - source-materials/mirrors/doctrine/CAPABILITY_MAP_AUDIT.md
 updated: 2026-07-24
 ---
 
@@ -97,4 +98,4 @@ If you find any additional functions that should be mapped, add them to this aud
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/CAPABILITY_MAP_AUDIT.md]

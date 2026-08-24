@@ -2,7 +2,8 @@
 title: Task Audit Log Minimum Fields
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Task Audit Log Minimum Fields.md"]
+sources:
+  - source-materials/mirrors/doctrine/Task Audit Log Minimum Fields.md
 updated: 2026-07-24
 ---
 
@@ -29,4 +30,4 @@ Related notes: [[Task Transparency Retention]], [[Task Actionability Gate]]
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Task Audit Log Minimum Fields.md]

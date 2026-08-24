@@ -2,7 +2,8 @@
 title: Escalation - Finality Policy
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Escalation - Finality Policy.md"]
+sources:
+  - source-materials/mirrors/doctrine/Escalation - Finality Policy.md
 updated: 2026-07-24
 ---
 
@@ -15,4 +16,4 @@ If the issue resolves independently: - teacher may close ticket - ticket marked 
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Escalation - Finality Policy.md]

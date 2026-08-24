@@ -2,7 +2,8 @@
 title: repo-instruction-routing
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/repo-instruction-routing.md"]
+sources:
+  - source-materials/mirrors/doctrine/repo-instruction-routing.md
 updated: 2026-07-24
 ---
 
@@ -464,4 +465,4 @@ It should not migrate skills beyond the currently agreed Codex-source-of-truth m
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/repo-instruction-routing.md]

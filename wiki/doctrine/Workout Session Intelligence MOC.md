@@ -2,7 +2,8 @@
 title: Workout Session Intelligence MOC
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/Workout Session Intelligence MOC.md"]
+sources:
+  - source-materials/mirrors/doctrine/Workout Session Intelligence MOC.md
 updated: 2026-07-24
 ---
 
@@ -34,4 +35,4 @@ Autonomy Foundation
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Workout Session Intelligence MOC.md]

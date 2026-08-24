@@ -2,7 +2,8 @@
 title: ALICE_TTS_UX_ISSUES
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/ALICE_TTS_UX_ISSUES.md"]
+sources:
+  - source-materials/mirrors/doctrine/ALICE_TTS_UX_ISSUES.md
 updated: 2026-07-24
 ---
 
@@ -591,4 +592,4 @@ Supabase.instance.client.auth.onAuthStateChange.listen((data) {
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/ALICE_TTS_UX_ISSUES.md]

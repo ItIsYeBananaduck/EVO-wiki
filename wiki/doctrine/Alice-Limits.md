@@ -2,7 +2,8 @@
 title: Alice-Limits
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Alice-Limits.md"]
+sources:
+  - source-materials/mirrors/doctrine/Alice-Limits.md
 updated: 2026-07-24
 ---
 
@@ -40,4 +41,4 @@ Related notes: [[Alice-Evolution-Spec]]
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Alice-Limits.md]

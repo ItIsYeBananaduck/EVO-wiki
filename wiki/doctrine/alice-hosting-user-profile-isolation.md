@@ -2,7 +2,8 @@
 title: alice-hosting-user-profile-isolation
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/alice-hosting-user-profile-isolation.md"]
+sources:
+  - source-materials/mirrors/doctrine/alice-hosting-user-profile-isolation.md
 updated: 2026-07-24
 ---
 
@@ -175,4 +176,4 @@ The user-profile model becomes worth revisiting when:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/alice-hosting-user-profile-isolation.md]

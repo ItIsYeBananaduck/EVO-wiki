@@ -2,7 +2,8 @@
 title: EVOLoRA_Mesh_MLX_CoreML_Integration
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-deprecated/EVOLoRA_Mesh_MLX_CoreML_Integration.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOLoRA_Mesh_MLX_CoreML_Integration.md
 updated: 2026-07-24
 ---
 
@@ -285,4 +286,4 @@ This gives you:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOLoRA_Mesh_MLX_CoreML_Integration.md]

@@ -2,7 +2,8 @@
 title: Lesson-Pack-Sync
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Lesson-Pack-Sync.md"]
+sources:
+  - source-materials/mirrors/doctrine/Lesson-Pack-Sync.md
 updated: 2026-07-24
 ---
 
@@ -29,4 +30,4 @@ SA may NOT: - skip gated lesson sequencing by default - introduce off-curriculum
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Lesson-Pack-Sync.md]

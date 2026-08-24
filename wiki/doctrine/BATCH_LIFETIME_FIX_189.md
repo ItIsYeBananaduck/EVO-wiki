@@ -2,7 +2,8 @@
 title: BATCH_LIFETIME_FIX_189
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/BATCH_LIFETIME_FIX_189.md"]
+sources:
+  - source-materials/mirrors/doctrine/BATCH_LIFETIME_FIX_189.md
 updated: 2026-07-24
 ---
 
@@ -213,4 +214,4 @@ The critical fix is that **batch creation, population, decode, and freeing all h
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/BATCH_LIFETIME_FIX_189.md]

@@ -2,7 +2,8 @@
 title: EVOLoRA_Mesh_MLX_Integration_Complete
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-deprecated/EVOLoRA_Mesh_MLX_Integration_Complete.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOLoRA_Mesh_MLX_Integration_Complete.md
 updated: 2026-07-24
 ---
 
@@ -153,4 +154,4 @@ The infrastructure is complete and ready. When MLX is implemented, it will autom
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOLoRA_Mesh_MLX_Integration_Complete.md]

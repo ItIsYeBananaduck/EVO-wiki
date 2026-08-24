@@ -2,7 +2,8 @@
 title: Escalation Triggers
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Escalation Triggers.md"]
+sources:
+  - source-materials/mirrors/doctrine/Escalation Triggers.md
 updated: 2026-07-24
 ---
 
@@ -30,4 +31,4 @@ Escalation is not failure. It is the system choosing governance over guesswork.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Escalation Triggers.md]

@@ -2,7 +2,8 @@
 title: ON_DEVICE_TRAINING_OVERVIEW
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/ON_DEVICE_TRAINING_OVERVIEW.md"]
+sources:
+  - source-materials/mirrors/doctrine/ON_DEVICE_TRAINING_OVERVIEW.md
 updated: 2026-07-24
 ---
 
@@ -769,4 +770,4 @@ async function rollbackModel() {
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/ON_DEVICE_TRAINING_OVERVIEW.md]

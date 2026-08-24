@@ -2,7 +2,8 @@
 title: EVE Audit & Traceability Model
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVE Audit & Traceability Model.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVE Audit & Traceability Model.md
 updated: 2026-07-24
 ---
 
@@ -23,4 +24,4 @@ Every meaningful action should be explainable and reviewable.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVE Audit & Traceability Model.md]

@@ -2,7 +2,8 @@
 title: EVOconnect — Delegator Talent Verification Doctrine
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOconnect — Delegator Talent Verification Doctrine.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOconnect — Delegator Talent Verification Doctrine.md
 updated: 2026-07-24
 ---
 
@@ -671,4 +672,4 @@ They reduce risk by separating reasoning guidance from execution authority.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOconnect — Delegator Talent Verification Doctrine.md]

@@ -2,7 +2,8 @@
 title: Work Journal System
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/Work Journal System.md"]
+sources:
+  - source-materials/mirrors/doctrine/Work Journal System.md
 updated: 2026-07-24
 ---
 
@@ -57,4 +58,4 @@ The Work Journal is how Alice learns how to work better, not who the user is.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Work Journal System.md]

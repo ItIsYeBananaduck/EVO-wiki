@@ -2,7 +2,8 @@
 title: MOC-Behavioral-Architecture
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/MOC-Behavioral-Architecture.md"]
+sources:
+  - source-materials/mirrors/doctrine/MOC-Behavioral-Architecture.md
 updated: 2026-07-24
 ---
 
@@ -17,4 +18,4 @@ MOC — Behavioral Architecture
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/MOC-Behavioral-Architecture.md]

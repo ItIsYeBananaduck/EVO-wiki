@@ -2,7 +2,8 @@
 title: ALICE_V2_NAMING_STRATEGY
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/ALICE_V2_NAMING_STRATEGY.md"]
+sources:
+  - source-materials/mirrors/doctrine/ALICE_V2_NAMING_STRATEGY.md
 updated: 2026-07-24
 ---
 
@@ -392,4 +393,4 @@ if (asset.expectedSizeBytes != null && finalSize != asset.expectedSizeBytes!) {
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/ALICE_V2_NAMING_STRATEGY.md]

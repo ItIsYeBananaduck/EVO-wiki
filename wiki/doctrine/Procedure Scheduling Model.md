@@ -2,7 +2,8 @@
 title: Procedure Scheduling Model
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Procedure Scheduling Model.md"]
+sources:
+  - source-materials/mirrors/doctrine/Procedure Scheduling Model.md
 updated: 2026-07-24
 ---
 
@@ -57,4 +58,4 @@ Scheduling changes timing only. It does not change: - metric definitions - ident
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Procedure Scheduling Model.md]

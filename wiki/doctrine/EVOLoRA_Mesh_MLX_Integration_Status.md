@@ -2,7 +2,8 @@
 title: EVOLoRA_Mesh_MLX_Integration_Status
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-deprecated/EVOLoRA_Mesh_MLX_Integration_Status.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOLoRA_Mesh_MLX_Integration_Status.md
 updated: 2026-07-24
 ---
 
@@ -215,4 +216,4 @@ App Launch
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOLoRA_Mesh_MLX_Integration_Status.md]

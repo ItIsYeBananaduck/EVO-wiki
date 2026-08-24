@@ -2,7 +2,8 @@
 title: EVOtraining Onboarding Flow
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOtraining Onboarding Flow.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOtraining Onboarding Flow.md
 updated: 2026-07-24
 ---
 
@@ -24,4 +25,4 @@ Onboarding should be simple, fast, and safe.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOtraining Onboarding Flow.md]

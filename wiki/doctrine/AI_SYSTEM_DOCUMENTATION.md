@@ -2,7 +2,8 @@
 title: AI_SYSTEM_DOCUMENTATION
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/AI_SYSTEM_DOCUMENTATION.md"]
+sources:
+  - source-materials/mirrors/doctrine/AI_SYSTEM_DOCUMENTATION.md
 updated: 2026-07-24
 ---
 
@@ -1243,4 +1244,4 @@ This documentation provides comprehensive coverage of the Enhanced AI Coaching S
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/AI_SYSTEM_DOCUMENTATION.md]

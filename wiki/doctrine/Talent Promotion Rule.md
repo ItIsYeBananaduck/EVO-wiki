@@ -2,7 +2,8 @@
 title: Talent Promotion Rule
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Talent Promotion Rule.md"]
+sources:
+  - source-materials/mirrors/doctrine/Talent Promotion Rule.md
 updated: 2026-07-24
 ---
 
@@ -75,4 +76,4 @@ User Override Supremacy
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Talent Promotion Rule.md]

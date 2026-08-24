@@ -2,7 +2,8 @@
 title: ADAPTER_STATUS_AND_FIX
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/ADAPTER_STATUS_AND_FIX.md"]
+sources:
+  - source-materials/mirrors/doctrine/ADAPTER_STATUS_AND_FIX.md
 updated: 2026-07-24
 ---
 
@@ -108,4 +109,4 @@ The binary replace script (`fix_architecture_simple.py`) works for fixing runtim
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/ADAPTER_STATUS_AND_FIX.md]

@@ -2,7 +2,8 @@
 title: User Memory MOC
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/User Memory MOC.md"]
+sources:
+  - source-materials/mirrors/doctrine/User Memory MOC.md
 updated: 2026-07-24
 ---
 
@@ -79,4 +80,4 @@ Only cognition-relevant artifacts are embedded into vector memory. Raw system ex
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/User Memory MOC.md]

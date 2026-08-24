@@ -2,7 +2,8 @@
 title: CHAT_PERSISTENCE_PLAN
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/CHAT_PERSISTENCE_PLAN.md"]
+sources:
+  - source-materials/mirrors/doctrine/CHAT_PERSISTENCE_PLAN.md
 updated: 2026-07-24
 ---
 
@@ -483,4 +484,4 @@ Future<String> buildMemoryBriefWithHistory({
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/CHAT_PERSISTENCE_PLAN.md]

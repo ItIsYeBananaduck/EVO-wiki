@@ -2,7 +2,8 @@
 title: IPC Strategy — Multi-App Domain Separation
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/IPC Strategy — Multi-App Domain Separation.md"]
+sources:
+  - source-materials/mirrors/doctrine/IPC Strategy — Multi-App Domain Separation.md
 updated: 2026-07-24
 ---
 
@@ -119,4 +120,4 @@ EVO's IPC strategy uses a Hybrid Broker + Durable Queue model. The canonical cro
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/IPC Strategy — Multi-App Domain Separation.md]

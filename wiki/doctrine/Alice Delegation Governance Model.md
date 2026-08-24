@@ -2,7 +2,8 @@
 title: Alice Delegation Governance Model
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/Alice Delegation Governance Model.md"]
+sources:
+  - source-materials/mirrors/doctrine/Alice Delegation Governance Model.md
 updated: 2026-07-24
 ---
 
@@ -287,4 +288,4 @@ Related notes: [[Delegator Doctrine Execution Authority]], [[Delegator — Execu
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Alice Delegation Governance Model.md]

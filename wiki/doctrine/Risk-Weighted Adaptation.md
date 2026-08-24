@@ -2,7 +2,8 @@
 title: Risk-Weighted Adaptation
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Risk-Weighted Adaptation.md"]
+sources:
+  - source-materials/mirrors/doctrine/Risk-Weighted Adaptation.md
 updated: 2026-07-24
 ---
 
@@ -26,4 +27,4 @@ Links
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Risk-Weighted Adaptation.md]

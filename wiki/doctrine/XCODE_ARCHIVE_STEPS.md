@@ -2,7 +2,8 @@
 title: XCODE_ARCHIVE_STEPS
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/XCODE_ARCHIVE_STEPS.md"]
+sources:
+  - source-materials/mirrors/doctrine/XCODE_ARCHIVE_STEPS.md
 updated: 2026-07-24
 ---
 
@@ -131,4 +132,4 @@ Good luck! 🚀
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/XCODE_ARCHIVE_STEPS.md]

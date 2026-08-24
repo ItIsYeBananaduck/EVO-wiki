@@ -2,7 +2,8 @@
 title: CRASH_ANALYSIS_SIGABRT
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/CRASH_ANALYSIS_SIGABRT.md"]
+sources:
+  - source-materials/mirrors/doctrine/CRASH_ANALYSIS_SIGABRT.md
 updated: 2026-07-24
 ---
 
@@ -165,4 +166,4 @@ guard promptBatch.n_tokens > 0 && promptBatch.n_tokens <= Int(actualContextBatch
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/CRASH_ANALYSIS_SIGABRT.md]

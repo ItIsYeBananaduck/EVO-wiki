@@ -2,7 +2,8 @@
 title: School-Home-Topology
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/School-Home-Topology.md"]
+sources:
+  - source-materials/mirrors/doctrine/School-Home-Topology.md
 updated: 2026-07-24
 ---
 
@@ -26,4 +27,4 @@ Personal devices may run full EVO ecosystem, but EVOlearn context stays Learn-sc
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/School-Home-Topology.md]

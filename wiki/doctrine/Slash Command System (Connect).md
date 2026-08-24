@@ -2,7 +2,8 @@
 title: Slash Command System (Connect)
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/Slash Command System (Connect).md"]
+sources:
+  - source-materials/mirrors/doctrine/Slash Command System (Connect).md
 updated: 2026-07-24
 ---
 
@@ -283,4 +284,4 @@ Slash commands express intent. Delegator governs action.
 The Connect slash command system gives power users fast, explicit control while preserving EVO governance.
 
 `/note` is the first required command. It starts the Create Living Note Talent and produces an approved Living Note only after draft review and user approval.
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Slash Command System (Connect).md]

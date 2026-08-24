@@ -2,7 +2,8 @@
 title: AI Task Creation Is Non-Executable
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/AI Task Creation Is Non-Executable.md"]
+sources:
+  - source-materials/mirrors/doctrine/AI Task Creation Is Non-Executable.md
 updated: 2026-07-24
 ---
 
@@ -24,4 +25,4 @@ Delegator State Machine MOC
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/AI Task Creation Is Non-Executable.md]

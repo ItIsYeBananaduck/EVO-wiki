@@ -2,7 +2,8 @@
 title: Living Note Creation Flow
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/Living Note Creation Flow.md"]
+sources:
+  - source-materials/mirrors/doctrine/Living Note Creation Flow.md
 updated: 2026-07-24
 ---
 
@@ -345,4 +346,4 @@ The talent owns:
 Living Note creation is a governed collaboration loop.
 
 The user talks. Alice refines. Alice proposes links. The user approves. Connect receives durable, structured, navigable knowledge.
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Living Note Creation Flow.md]

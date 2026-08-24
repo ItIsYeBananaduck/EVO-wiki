@@ -2,7 +2,8 @@
 title: Single Alice Illusion
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Single Alice Illusion.md"]
+sources:
+  - source-materials/mirrors/doctrine/Single Alice Illusion.md
 updated: 2026-07-24
 ---
 
@@ -29,4 +30,4 @@ Related notes: [[Alice-Evolution-Spec]]
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Single Alice Illusion.md]

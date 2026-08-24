@@ -2,7 +2,8 @@
 title: Safe-Bridge-Rules
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Safe-Bridge-Rules.md"]
+sources:
+  - source-materials/mirrors/doctrine/Safe-Bridge-Rules.md
 updated: 2026-07-24
 ---
 
@@ -17,4 +18,4 @@ Student Alice may use both channels to personalize learning. Teacher must not ac
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Safe-Bridge-Rules.md]

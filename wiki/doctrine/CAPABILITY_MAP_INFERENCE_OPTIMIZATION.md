@@ -2,7 +2,8 @@
 title: CAPABILITY_MAP_INFERENCE_OPTIMIZATION
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/CAPABILITY_MAP_INFERENCE_OPTIMIZATION.md"]
+sources:
+  - source-materials/mirrors/doctrine/CAPABILITY_MAP_INFERENCE_OPTIMIZATION.md
 updated: 2026-07-24
 ---
 
@@ -207,4 +208,4 @@ if needsMap {
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/CAPABILITY_MAP_INFERENCE_OPTIMIZATION.md]

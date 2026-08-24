@@ -2,7 +2,8 @@
 title: IMPLEMENTATION_READINESS_ASSESSMENT
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/IMPLEMENTATION_READINESS_ASSESSMENT.md"]
+sources:
+  - source-materials/mirrors/doctrine/IMPLEMENTATION_READINESS_ASSESSMENT.md
 updated: 2026-07-24
 ---
 
@@ -366,4 +367,4 @@ updated: 2026-07-24
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/IMPLEMENTATION_READINESS_ASSESSMENT.md]

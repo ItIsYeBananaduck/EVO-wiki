@@ -2,7 +2,8 @@
 title: Autonomy-Boundary
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Autonomy-Boundary.md"]
+sources:
+  - source-materials/mirrors/doctrine/Autonomy-Boundary.md
 updated: 2026-07-24
 ---
 
@@ -17,4 +18,4 @@ SA may change the route to the objective. SA may not change the objective.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Autonomy-Boundary.md]

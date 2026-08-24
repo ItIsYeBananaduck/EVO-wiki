@@ -2,7 +2,8 @@
 title: School EVE Architecture
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/School EVE Architecture.md"]
+sources:
+  - source-materials/mirrors/doctrine/School EVE Architecture.md
 updated: 2026-07-24
 ---
 
@@ -35,4 +36,4 @@ Only aggregated structured summaries.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/School EVE Architecture.md]

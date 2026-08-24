@@ -2,7 +2,8 @@
 title: Learn Pro - UX Language
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Learn Pro - UX Language.md"]
+sources:
+  - source-materials/mirrors/doctrine/Learn Pro - UX Language.md
 updated: 2026-07-24
 ---
 
@@ -14,4 +15,4 @@ Never expose: LoRA Weights Artifacts Model retraining
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Learn Pro - UX Language.md]

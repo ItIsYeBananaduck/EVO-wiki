@@ -2,7 +2,8 @@
 title: _EVOlearn Core Governance MOC
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/_EVOlearn Core Governance MOC.md"]
+sources:
+  - source-materials/mirrors/doctrine/_EVOlearn Core Governance MOC.md
 updated: 2026-07-24
 ---
 
@@ -135,4 +136,4 @@ Navigation Spine
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/_EVOlearn Core Governance MOC.md]

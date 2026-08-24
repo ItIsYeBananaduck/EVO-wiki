@@ -2,7 +2,8 @@
 title: Effective Weight
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Effective Weight.md"]
+sources:
+  - source-materials/mirrors/doctrine/Effective Weight.md
 updated: 2026-07-24
 ---
 
@@ -26,4 +27,4 @@ Links
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Effective Weight.md]

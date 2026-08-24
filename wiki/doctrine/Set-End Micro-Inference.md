@@ -2,7 +2,8 @@
 title: Set-End Micro-Inference
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Set-End Micro-Inference.md"]
+sources:
+  - source-materials/mirrors/doctrine/Set-End Micro-Inference.md
 updated: 2026-07-24
 ---
 
@@ -29,4 +30,4 @@ Related notes: [[Micro-Batch Cycle]]
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Set-End Micro-Inference.md]

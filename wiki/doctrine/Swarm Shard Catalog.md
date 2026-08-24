@@ -2,7 +2,8 @@
 title: Swarm Shard Catalog
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Swarm Shard Catalog.md"]
+sources:
+  - source-materials/mirrors/doctrine/Swarm Shard Catalog.md
 updated: 2026-07-24
 ---
 
@@ -107,4 +108,4 @@ Swarm parallelism increases intelligence, not authority. Execution authority rem
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Swarm Shard Catalog.md]

@@ -2,7 +2,8 @@
 title: MUSIC_PLAYER_FINAL_FIXES
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/MUSIC_PLAYER_FINAL_FIXES.md"]
+sources:
+  - source-materials/mirrors/doctrine/MUSIC_PLAYER_FINAL_FIXES.md
 updated: 2026-07-24
 ---
 
@@ -335,4 +336,4 @@ The implementation ensures that users can quickly and easily control their music
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/MUSIC_PLAYER_FINAL_FIXES.md]

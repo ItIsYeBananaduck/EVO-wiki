@@ -2,7 +2,8 @@
 title: PERFORMANCE_UPGRADES_SUMMARY
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/PERFORMANCE_UPGRADES_SUMMARY.md"]
+sources:
+  - source-materials/mirrors/doctrine/PERFORMANCE_UPGRADES_SUMMARY.md
 updated: 2026-07-24
 ---
 
@@ -296,4 +297,4 @@ PERF: promptTokens=X, tokenizeMs=Y, promptDecodeMs=Z, ttftMs=W, genTokens=V, gen
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/PERFORMANCE_UPGRADES_SUMMARY.md]

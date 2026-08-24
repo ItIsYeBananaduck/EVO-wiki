@@ -2,7 +2,8 @@
 title: DIAGNOSTICS_INSTRUMENTATION
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/DIAGNOSTICS_INSTRUMENTATION.md"]
+sources:
+  - source-materials/mirrors/doctrine/DIAGNOSTICS_INSTRUMENTATION.md
 updated: 2026-07-24
 ---
 
@@ -323,4 +324,4 @@ dependencies:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/DIAGNOSTICS_INSTRUMENTATION.md]

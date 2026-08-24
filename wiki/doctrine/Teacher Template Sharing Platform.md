@@ -2,7 +2,8 @@
 title: Teacher Template Sharing Platform
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Teacher Template Sharing Platform.md"]
+sources:
+  - source-materials/mirrors/doctrine/Teacher Template Sharing Platform.md
 updated: 2026-07-24
 ---
 
@@ -32,4 +33,4 @@ Templates are moderated / vetted (community + policy).
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Teacher Template Sharing Platform.md]

@@ -2,7 +2,8 @@
 title: EVOmind_Echo_Compiler_Architecture
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOmind_Echo_Compiler_Architecture.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOmind_Echo_Compiler_Architecture.md
 updated: 2026-07-24
 ---
 
@@ -31,4 +32,4 @@ Echo Core:- canonical memory- tone adapterEcho Variant:- recipient-scoped subset
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOmind_Echo_Compiler_Architecture.md]

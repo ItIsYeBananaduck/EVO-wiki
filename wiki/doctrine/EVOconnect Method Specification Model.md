@@ -2,7 +2,8 @@
 title: EVOconnect Method Specification Model
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOconnect Method Specification Model.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOconnect Method Specification Model.md
 updated: 2026-07-24
 ---
 
@@ -137,4 +138,4 @@ Methods must be exact, repeatable, and strictly defined to prevent ambiguity and
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOconnect Method Specification Model.md]

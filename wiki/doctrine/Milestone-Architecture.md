@@ -2,7 +2,8 @@
 title: Milestone-Architecture
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Milestone-Architecture.md"]
+sources:
+  - source-materials/mirrors/doctrine/Milestone-Architecture.md
 updated: 2026-07-24
 ---
 
@@ -23,4 +24,4 @@ Milestones are tied to system coherence, not streaks.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Milestone-Architecture.md]

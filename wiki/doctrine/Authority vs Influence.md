@@ -2,7 +2,8 @@
 title: Authority vs Influence
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Authority vs Influence.md"]
+sources:
+  - source-materials/mirrors/doctrine/Authority vs Influence.md
 updated: 2026-07-24
 ---
 
@@ -23,4 +24,4 @@ Links
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Authority vs Influence.md]

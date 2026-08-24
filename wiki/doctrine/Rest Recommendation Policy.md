@@ -2,7 +2,8 @@
 title: Rest Recommendation Policy
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Rest Recommendation Policy.md"]
+sources:
+  - source-materials/mirrors/doctrine/Rest Recommendation Policy.md
 updated: 2026-07-24
 ---
 
@@ -25,4 +26,4 @@ Links
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Rest Recommendation Policy.md]

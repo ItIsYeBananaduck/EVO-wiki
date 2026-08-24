@@ -2,7 +2,8 @@
 title: LOGIN_SCREEN_REDIRECT
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/LOGIN_SCREEN_REDIRECT.md"]
+sources:
+  - source-materials/mirrors/doctrine/LOGIN_SCREEN_REDIRECT.md
 updated: 2026-07-24
 ---
 
@@ -313,4 +314,4 @@ The implementation follows best practices for authentication flow and provides a
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/LOGIN_SCREEN_REDIRECT.md]

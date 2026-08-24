@@ -2,7 +2,8 @@
 title: EVOhub MOC
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOhub MOC.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOhub MOC.md
 updated: 2026-07-24
 ---
 
@@ -62,4 +63,4 @@ EVOhub coordinates intelligence. It never competes with it.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOhub MOC.md]

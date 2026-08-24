@@ -2,7 +2,8 @@
 title: Adult Self-Study Mode
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Adult Self-Study Mode.md"]
+sources:
+  - source-materials/mirrors/doctrine/Adult Self-Study Mode.md
 updated: 2026-07-24
 ---
 
@@ -13,4 +14,4 @@ Key traits: - user supplies materials - strict verification-first learning - pur
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Adult Self-Study Mode.md]

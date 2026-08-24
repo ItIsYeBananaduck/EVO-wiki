@@ -2,7 +2,8 @@
 title: EVOtraining Adaptive Training Model
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOtraining Adaptive Training Model.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOtraining Adaptive Training Model.md
 updated: 2026-07-24
 ---
 
@@ -25,4 +26,4 @@ Adaptation should be controlled, measurable, and reversible.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOtraining Adaptive Training Model.md]

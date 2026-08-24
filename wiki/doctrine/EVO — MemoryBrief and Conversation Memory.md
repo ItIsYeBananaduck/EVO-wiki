@@ -2,7 +2,8 @@
 title: EVO — MemoryBrief and Conversation Memory
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVO — MemoryBrief and Conversation Memory.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVO — MemoryBrief and Conversation Memory.md
 updated: 2026-07-24
 ---
 
@@ -114,4 +115,4 @@ This note does not document removed adapter behavior, removed training pipelines
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVO — MemoryBrief and Conversation Memory.md]

@@ -2,7 +2,8 @@
 title: DIAGNOSTICS_QUICK_START
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/DIAGNOSTICS_QUICK_START.md"]
+sources:
+  - source-materials/mirrors/doctrine/DIAGNOSTICS_QUICK_START.md
 updated: 2026-07-24
 ---
 
@@ -144,4 +145,4 @@ if (DiagLog.instance.currentStage != ModelPipelineStage.ready) {
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/DIAGNOSTICS_QUICK_START.md]

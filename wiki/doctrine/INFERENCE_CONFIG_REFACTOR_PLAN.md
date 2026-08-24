@@ -2,7 +2,8 @@
 title: INFERENCE_CONFIG_REFACTOR_PLAN
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/INFERENCE_CONFIG_REFACTOR_PLAN.md"]
+sources:
+  - source-materials/mirrors/doctrine/INFERENCE_CONFIG_REFACTOR_PLAN.md
 updated: 2026-07-24
 ---
 
@@ -58,4 +59,4 @@ updated: 2026-07-24
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/INFERENCE_CONFIG_REFACTOR_PLAN.md]

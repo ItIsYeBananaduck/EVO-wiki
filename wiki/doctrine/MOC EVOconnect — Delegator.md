@@ -2,7 +2,8 @@
 title: MOC EVOconnect — Delegator
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/MOC EVOconnect — Delegator.md"]
+sources:
+  - source-materials/mirrors/doctrine/MOC EVOconnect — Delegator.md
 updated: 2026-07-24
 ---
 
@@ -226,4 +227,4 @@ Delegator is responsible for:
 - routing tasks across systems and environments
 - determining whether to execute, escalate, or defer
 - coordinating multi-step and cross-domain workflows
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/MOC EVOconnect — Delegator.md]

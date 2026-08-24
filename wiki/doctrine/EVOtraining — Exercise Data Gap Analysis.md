@@ -2,7 +2,8 @@
 title: EVOtraining — Exercise Data Gap Analysis
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOtraining — Exercise Data Gap Analysis.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOtraining — Exercise Data Gap Analysis.md
 updated: 2026-07-24
 ---
 
@@ -118,4 +119,4 @@ Three major data gaps exist in EVOtraining: (1) phase detection and TUT tracking
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOtraining — Exercise Data Gap Analysis.md]

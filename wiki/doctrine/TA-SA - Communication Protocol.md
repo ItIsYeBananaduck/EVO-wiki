@@ -2,7 +2,8 @@
 title: TA-SA - Communication Protocol
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/TA-SA - Communication Protocol.md"]
+sources:
+  - source-materials/mirrors/doctrine/TA-SA - Communication Protocol.md
 updated: 2026-07-24
 ---
 
@@ -75,4 +76,4 @@ Determinism > flexibility
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/TA-SA - Communication Protocol.md]

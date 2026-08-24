@@ -2,7 +2,8 @@
 title: CAPABILITY_MAP_COMPLETE
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/CAPABILITY_MAP_COMPLETE.md"]
+sources:
+  - source-materials/mirrors/doctrine/CAPABILITY_MAP_COMPLETE.md
 updated: 2026-07-24
 ---
 
@@ -128,4 +129,4 @@ The capability map is ready for Alice to reference!
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/CAPABILITY_MAP_COMPLETE.md]

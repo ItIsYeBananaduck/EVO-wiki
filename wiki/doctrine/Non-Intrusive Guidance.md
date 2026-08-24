@@ -2,7 +2,8 @@
 title: Non-Intrusive Guidance
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Non-Intrusive Guidance.md"]
+sources:
+  - source-materials/mirrors/doctrine/Non-Intrusive Guidance.md
 updated: 2026-07-24
 ---
 
@@ -28,4 +29,4 @@ Related notes: [[Predictive-Regulation-Model]]
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Non-Intrusive Guidance.md]

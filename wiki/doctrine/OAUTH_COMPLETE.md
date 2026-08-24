@@ -2,7 +2,8 @@
 title: OAUTH_COMPLETE
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/OAUTH_COMPLETE.md"]
+sources:
+  - source-materials/mirrors/doctrine/OAUTH_COMPLETE.md
 updated: 2026-07-24
 ---
 
@@ -97,4 +98,4 @@ biz.lsctech.adaptivefit://auth-callback
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/OAUTH_COMPLETE.md]

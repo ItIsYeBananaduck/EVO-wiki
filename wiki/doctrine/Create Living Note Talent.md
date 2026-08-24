@@ -2,7 +2,8 @@
 title: Create Living Note Talent
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/Create Living Note Talent.md"]
+sources:
+  - source-materials/mirrors/doctrine/Create Living Note Talent.md
 updated: 2026-07-24
 ---
 
@@ -366,4 +367,4 @@ It lets the user think naturally while Alice turns high-value conversation into 
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Create Living Note Talent.md]

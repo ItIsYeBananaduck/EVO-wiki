@@ -2,7 +2,8 @@
 title: EVOtraining Warm-up & Capacity Detection
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOtraining Warm-up & Capacity Detection.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOtraining Warm-up & Capacity Detection.md
 updated: 2026-07-24
 ---
 
@@ -24,4 +25,4 @@ Capacity is discovered, not guessed.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOtraining Warm-up & Capacity Detection.md]

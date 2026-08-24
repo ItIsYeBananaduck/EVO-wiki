@@ -2,7 +2,8 @@
 title: Identity Model - Rolling IDs + Escalation Tickets
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Identity Model - Rolling IDs + Escalation Tickets.md"]
+sources:
+  - source-materials/mirrors/doctrine/Identity Model - Rolling IDs + Escalation Tickets.md
 updated: 2026-07-24
 ---
 
@@ -30,4 +31,4 @@ no small-cohort drilldowns
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Identity Model - Rolling IDs + Escalation Tickets.md]

@@ -2,7 +2,8 @@
 title: AUTO_AGENTIC_ACTIONS_AUDIT
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/AUTO_AGENTIC_ACTIONS_AUDIT.md"]
+sources:
+  - source-materials/mirrors/doctrine/AUTO_AGENTIC_ACTIONS_AUDIT.md
 updated: 2026-07-24
 ---
 
@@ -417,4 +418,4 @@ cat data/all_auto_agentic_examples.jsonl >> data/enf_train.jsonl
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/AUTO_AGENTIC_ACTIONS_AUDIT.md]

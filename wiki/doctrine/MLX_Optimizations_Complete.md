@@ -2,7 +2,8 @@
 title: MLX_Optimizations_Complete
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-deprecated/MLX_Optimizations_Complete.md"]
+sources:
+  - source-materials/mirrors/doctrine/MLX_Optimizations_Complete.md
 updated: 2026-07-24
 ---
 
@@ -149,4 +150,4 @@ The system is now much more efficient and ready for testing. The tokenizer is pr
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/MLX_Optimizations_Complete.md]

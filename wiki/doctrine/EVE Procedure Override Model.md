@@ -2,7 +2,8 @@
 title: EVE Procedure Override Model
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVE Procedure Override Model.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVE Procedure Override Model.md
 updated: 2026-07-24
 ---
 
@@ -28,4 +29,4 @@ An override is an exception layer, not a shortcut.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVE Procedure Override Model.md]

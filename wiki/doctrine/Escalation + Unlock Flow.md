@@ -2,7 +2,8 @@
 title: Escalation + Unlock Flow
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Escalation + Unlock Flow.md"]
+sources:
+  - source-materials/mirrors/doctrine/Escalation + Unlock Flow.md
 updated: 2026-07-24
 ---
 
@@ -17,4 +18,4 @@ Message to student: “New learning approach available.”
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Escalation + Unlock Flow.md]

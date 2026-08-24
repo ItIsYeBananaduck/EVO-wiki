@@ -2,7 +2,8 @@
 title: model-id-client
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/model-id-client.md"]
+sources:
+  - source-materials/mirrors/doctrine/model-id-client.md
 updated: 2026-07-24
 ---
 
@@ -97,4 +98,4 @@ Adjust m/k to match the server's bloom parameters if you change them.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/model-id-client.md]

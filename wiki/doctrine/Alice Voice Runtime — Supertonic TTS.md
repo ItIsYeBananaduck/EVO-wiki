@@ -2,7 +2,8 @@
 title: Alice Voice Runtime — Supertonic TTS
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/Alice Voice Runtime — Supertonic TTS.md"]
+sources:
+  - source-materials/mirrors/doctrine/Alice Voice Runtime — Supertonic TTS.md
 updated: 2026-07-24
 ---
 
@@ -293,4 +294,4 @@ Supertonic 2 is the current on-device voice synthesis engine for Alice, replacin
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Alice Voice Runtime — Supertonic TTS.md]

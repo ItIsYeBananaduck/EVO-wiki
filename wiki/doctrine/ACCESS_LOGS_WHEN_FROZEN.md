@@ -2,7 +2,8 @@
 title: ACCESS_LOGS_WHEN_FROZEN
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/ACCESS_LOGS_WHEN_FROZEN.md"]
+sources:
+  - source-materials/mirrors/doctrine/ACCESS_LOGS_WHEN_FROZEN.md
 updated: 2026-07-24
 ---
 
@@ -105,4 +106,4 @@ The summary file is your best bet because:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/ACCESS_LOGS_WHEN_FROZEN.md]

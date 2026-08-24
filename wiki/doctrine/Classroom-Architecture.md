@@ -2,7 +2,8 @@
 title: Classroom-Architecture
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Classroom-Architecture.md"]
+sources:
+  - source-materials/mirrors/doctrine/Classroom-Architecture.md
 updated: 2026-07-24
 ---
 
@@ -26,4 +27,4 @@ TA can drive class lesson delivery. Substitute monitors classroom and operations
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Classroom-Architecture.md]

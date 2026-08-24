@@ -2,7 +2,8 @@
 title: Model Storage Architecture — R2
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/Model Storage Architecture — R2.md"]
+sources:
+  - source-materials/mirrors/doctrine/Model Storage Architecture — R2.md
 updated: 2026-07-24
 ---
 
@@ -110,4 +111,4 @@ AI model artifacts are delivered exclusively via the R2 Worker with short-lived 
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Model Storage Architecture — R2.md]

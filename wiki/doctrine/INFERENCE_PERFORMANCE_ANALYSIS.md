@@ -2,7 +2,8 @@
 title: INFERENCE_PERFORMANCE_ANALYSIS
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/INFERENCE_PERFORMANCE_ANALYSIS.md"]
+sources:
+  - source-materials/mirrors/doctrine/INFERENCE_PERFORMANCE_ANALYSIS.md
 updated: 2026-07-24
 ---
 
@@ -235,4 +236,4 @@ After implementing Solutions 1-3:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/INFERENCE_PERFORMANCE_ANALYSIS.md]

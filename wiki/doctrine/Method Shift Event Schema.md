@@ -2,7 +2,8 @@
 title: Method Shift Event Schema
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Method Shift Event Schema.md"]
+sources:
+  - source-materials/mirrors/doctrine/Method Shift Event Schema.md
 updated: 2026-07-24
 ---
 
@@ -23,4 +24,4 @@ shift_effectiveness_bucket: enum { improved, neutral, worsened }
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Method Shift Event Schema.md]

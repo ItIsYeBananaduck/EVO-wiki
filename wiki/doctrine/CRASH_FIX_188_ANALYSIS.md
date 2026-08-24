@@ -2,7 +2,8 @@
 title: CRASH_FIX_188_ANALYSIS
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/CRASH_FIX_188_ANALYSIS.md"]
+sources:
+  - source-materials/mirrors/doctrine/CRASH_FIX_188_ANALYSIS.md
 updated: 2026-07-24
 ---
 
@@ -222,4 +223,4 @@ private func waitForDecodeCompletion(timeout: TimeInterval = 10.0) -> Bool {
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/CRASH_FIX_188_ANALYSIS.md]

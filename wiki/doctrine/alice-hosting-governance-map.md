@@ -2,7 +2,8 @@
 title: alice-hosting-governance-map
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/alice-hosting-governance-map.md"]
+sources:
+  - source-materials/mirrors/doctrine/alice-hosting-governance-map.md
 updated: 2026-07-24
 ---
 
@@ -175,4 +176,4 @@ Core requirements used in this map:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/alice-hosting-governance-map.md]

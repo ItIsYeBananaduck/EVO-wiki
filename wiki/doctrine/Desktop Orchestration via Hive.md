@@ -2,7 +2,8 @@
 title: Desktop Orchestration via Hive
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Desktop Orchestration via Hive.md"]
+sources:
+  - source-materials/mirrors/doctrine/Desktop Orchestration via Hive.md
 updated: 2026-07-24
 ---
 
@@ -43,4 +44,4 @@ Environment orchestration is Hive-driven.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Desktop Orchestration via Hive.md]

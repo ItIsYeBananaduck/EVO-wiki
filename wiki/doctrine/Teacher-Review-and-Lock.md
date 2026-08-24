@@ -2,7 +2,8 @@
 title: Teacher-Review-and-Lock
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Teacher-Review-and-Lock.md"]
+sources:
+  - source-materials/mirrors/doctrine/Teacher-Review-and-Lock.md
 updated: 2026-07-24
 ---
 
@@ -29,4 +30,4 @@ hint phrasing (within tone constraints)
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Teacher-Review-and-Lock.md]

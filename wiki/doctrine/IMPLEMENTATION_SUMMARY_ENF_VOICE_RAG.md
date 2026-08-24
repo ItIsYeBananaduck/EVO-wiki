@@ -2,7 +2,8 @@
 title: IMPLEMENTATION_SUMMARY_ENF_VOICE_RAG
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-deprecated/IMPLEMENTATION_SUMMARY_ENF_VOICE_RAG.md"]
+sources:
+  - source-materials/mirrors/doctrine/IMPLEMENTATION_SUMMARY_ENF_VOICE_RAG.md
 updated: 2026-07-24
 ---
 
@@ -250,4 +251,4 @@ See `training/enf_lora/docs/EVALUATION_CHECKLIST.md` for complete checklist cove
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/IMPLEMENTATION_SUMMARY_ENF_VOICE_RAG.md]

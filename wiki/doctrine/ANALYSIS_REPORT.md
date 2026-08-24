@@ -2,7 +2,8 @@
 title: ANALYSIS_REPORT
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/ANALYSIS_REPORT.md"]
+sources:
+  - source-materials/mirrors/doctrine/ANALYSIS_REPORT.md
 updated: 2026-07-24
 ---
 
@@ -221,4 +222,4 @@ Would you like me to suggest concrete remediation edits for the top issues (A1-A
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/ANALYSIS_REPORT.md]

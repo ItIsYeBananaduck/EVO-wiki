@@ -2,7 +2,8 @@
 title: Escalation - Consent Requirement
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Escalation - Consent Requirement.md"]
+sources:
+  - source-materials/mirrors/doctrine/Escalation - Consent Requirement.md
 updated: 2026-07-24
 ---
 
@@ -25,4 +26,4 @@ Escalation requires explicit approval.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Escalation - Consent Requirement.md]

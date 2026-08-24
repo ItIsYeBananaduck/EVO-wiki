@@ -2,7 +2,8 @@
 title: Error Category Enum (Safe)
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Error Category Enum (Safe).md"]
+sources:
+  - source-materials/mirrors/doctrine/Error Category Enum (Safe).md
 updated: 2026-07-24
 ---
 
@@ -94,4 +95,4 @@ They are used to improve method selection and scaffolding.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Error Category Enum (Safe).md]

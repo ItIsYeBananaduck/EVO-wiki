@@ -2,7 +2,8 @@
 title: CRASH_ANALYSIS_156
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/CRASH_ANALYSIS_156.md"]
+sources:
+  - source-materials/mirrors/doctrine/CRASH_ANALYSIS_156.md
 updated: 2026-07-24
 ---
 
@@ -152,4 +153,4 @@ This will:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/CRASH_ANALYSIS_156.md]

@@ -2,7 +2,8 @@
 title: STRAINSYNC_TRAINING_DATA
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/STRAINSYNC_TRAINING_DATA.md"]
+sources:
+  - source-materials/mirrors/doctrine/STRAINSYNC_TRAINING_DATA.md
 updated: 2026-07-24
 ---
 
@@ -345,4 +346,4 @@ If we aggregated by phase, we'd lose this set-level correlation and couldn't lea
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/STRAINSYNC_TRAINING_DATA.md]

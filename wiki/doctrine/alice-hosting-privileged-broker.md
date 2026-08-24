@@ -2,7 +2,8 @@
 title: alice-hosting-privileged-broker
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/alice-hosting-privileged-broker.md"]
+sources:
+  - source-materials/mirrors/doctrine/alice-hosting-privileged-broker.md
 updated: 2026-07-24
 ---
 
@@ -251,4 +252,4 @@ These constraints are **absolute and non-negotiable**. Any deployment that viola
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/alice-hosting-privileged-broker.md]

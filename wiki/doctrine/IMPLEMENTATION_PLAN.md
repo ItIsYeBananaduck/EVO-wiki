@@ -2,7 +2,8 @@
 title: IMPLEMENTATION_PLAN
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/IMPLEMENTATION_PLAN.md"]
+sources:
+  - source-materials/mirrors/doctrine/IMPLEMENTATION_PLAN.md
 updated: 2026-07-24
 ---
 
@@ -77,4 +78,4 @@ Add in-app diagnostics to debug model download/initialization failures on physic
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/IMPLEMENTATION_PLAN.md]

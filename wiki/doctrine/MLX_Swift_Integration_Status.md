@@ -2,7 +2,8 @@
 title: MLX_Swift_Integration_Status
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-deprecated/MLX_Swift_Integration_Status.md"]
+sources:
+  - source-materials/mirrors/doctrine/MLX_Swift_Integration_Status.md
 updated: 2026-07-24
 ---
 
@@ -149,4 +150,4 @@ Until MLX loading is complete:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/MLX_Swift_Integration_Status.md]

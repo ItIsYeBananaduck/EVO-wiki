@@ -2,7 +2,8 @@
 title: supabase-calendar-dependency-map
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/supabase-calendar-dependency-map.md"]
+sources:
+  - source-materials/mirrors/doctrine/supabase-calendar-dependency-map.md
 updated: 2026-07-24
 ---
 
@@ -255,4 +256,4 @@ The following sections remain valid:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/supabase-calendar-dependency-map.md]

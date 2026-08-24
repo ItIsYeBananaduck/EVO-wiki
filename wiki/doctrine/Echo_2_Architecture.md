@@ -2,7 +2,8 @@
 title: Echo_2_Architecture
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/Echo_2_Architecture.md"]
+sources:
+  - source-materials/mirrors/doctrine/Echo_2_Architecture.md
 updated: 2026-07-24
 ---
 
@@ -48,4 +49,4 @@ Living Bundle System:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Echo_2_Architecture.md]

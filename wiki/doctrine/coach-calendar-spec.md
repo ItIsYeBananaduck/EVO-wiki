@@ -2,7 +2,8 @@
 title: coach-calendar-spec
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/coach-calendar-spec.md"]
+sources:
+  - source-materials/mirrors/doctrine/coach-calendar-spec.md
 updated: 2026-07-24
 ---
 
@@ -415,4 +416,4 @@ The calendar system must continue functioning locally if subscriptions fail or c
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/coach-calendar-spec.md]

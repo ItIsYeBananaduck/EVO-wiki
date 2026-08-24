@@ -2,7 +2,8 @@
 title: EVO and the Time Returned Thesis
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVO and the Time Returned Thesis.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVO and the Time Returned Thesis.md
 updated: 2026-07-24
 ---
 

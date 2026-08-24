@@ -2,7 +2,8 @@
 title: IMPLEMENTATION
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/IMPLEMENTATION.md"]
+sources:
+  - source-materials/mirrors/doctrine/IMPLEMENTATION.md
 updated: 2026-07-24
 ---
 
@@ -615,4 +616,4 @@ The architecture is designed for scalability, maintainability, and extensibility
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/IMPLEMENTATION.md]

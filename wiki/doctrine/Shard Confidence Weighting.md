@@ -2,7 +2,8 @@
 title: Shard Confidence Weighting
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Shard Confidence Weighting.md"]
+sources:
+  - source-materials/mirrors/doctrine/Shard Confidence Weighting.md
 updated: 2026-07-24
 ---
 
@@ -26,4 +27,4 @@ Architecture Consistency Check Shard
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Shard Confidence Weighting.md]

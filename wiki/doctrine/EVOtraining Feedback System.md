@@ -2,7 +2,8 @@
 title: EVOtraining Feedback System
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOtraining Feedback System.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOtraining Feedback System.md
 updated: 2026-07-24
 ---
 
@@ -27,4 +28,4 @@ Simple feedback enables consistent data collection and better long-term adaptati
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOtraining Feedback System.md]

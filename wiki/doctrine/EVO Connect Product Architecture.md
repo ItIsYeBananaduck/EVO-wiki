@@ -2,7 +2,8 @@
 title: EVO Connect Product Architecture
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVO Connect Product Architecture.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVO Connect Product Architecture.md
 updated: 2026-07-24
 ---
 

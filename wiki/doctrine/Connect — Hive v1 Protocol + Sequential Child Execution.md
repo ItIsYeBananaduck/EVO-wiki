@@ -2,7 +2,8 @@
 title: Connect — Hive v1 Protocol + Sequential Child Execution
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Connect — Hive v1 Protocol + Sequential Child Execution.md"]
+sources:
+  - source-materials/mirrors/doctrine/Connect — Hive v1 Protocol + Sequential Child Execution.md
 updated: 2026-07-24
 ---
 
@@ -164,4 +165,4 @@ Tasks become executable systems
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Connect — Hive v1 Protocol + Sequential Child Execution.md]

@@ -2,7 +2,8 @@
 title: Template-Schema
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Template-Schema.md"]
+sources:
+  - source-materials/mirrors/doctrine/Template-Schema.md
 updated: 2026-07-24
 ---
 
@@ -34,4 +35,4 @@ Method_signature: - cognitive_target: conceptual - scaffolding_level: high - ret
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Template-Schema.md]

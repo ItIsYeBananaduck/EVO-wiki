@@ -2,7 +2,8 @@
 title: MEDIA_PLAYER_IMPLEMENTATION
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/MEDIA_PLAYER_IMPLEMENTATION.md"]
+sources:
+  - source-materials/mirrors/doctrine/MEDIA_PLAYER_IMPLEMENTATION.md
 updated: 2026-07-24
 ---
 
@@ -207,4 +208,4 @@ MediaPlayerWidget(
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/MEDIA_PLAYER_IMPLEMENTATION.md]

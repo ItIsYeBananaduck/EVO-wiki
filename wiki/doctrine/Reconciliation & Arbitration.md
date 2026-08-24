@@ -2,7 +2,8 @@
 title: Reconciliation & Arbitration
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Reconciliation & Arbitration.md"]
+sources:
+  - source-materials/mirrors/doctrine/Reconciliation & Arbitration.md
 updated: 2026-07-24
 ---
 
@@ -39,4 +40,4 @@ Approval requirement (if needed)
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Reconciliation & Arbitration.md]

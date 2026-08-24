@@ -2,7 +2,8 @@
 title: Connect Task System
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/Connect Task System.md"]
+sources:
+  - source-materials/mirrors/doctrine/Connect Task System.md
 updated: 2026-07-24
 ---
 
@@ -32,4 +33,4 @@ Without tasks, orchestration becomes vague. With tasks, orchestration becomes go
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Connect Task System.md]

@@ -2,7 +2,8 @@
 title: Protected Runtime Artifact and Privileged Loader Model
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/Protected Runtime Artifact and Privileged Loader Model.md"]
+sources:
+  - source-materials/mirrors/doctrine/Protected Runtime Artifact and Privileged Loader Model.md
 updated: 2026-07-24
 ---
 
@@ -106,4 +107,4 @@ The privileged loader provides controlled runtime consumption without exposing p
 
 - Protected Storage and Access Model
 - [Bunker Model — Protected User and System Storage Containers](https://www.notion.so/343c72bad0138186af70ec9b2ce2ba9f)
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Protected Runtime Artifact and Privileged Loader Model.md]

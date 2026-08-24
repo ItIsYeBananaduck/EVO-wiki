@@ -2,7 +2,8 @@
 title: Learn Pro - Risk & Governance
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Learn Pro - Risk & Governance.md"]
+sources:
+  - source-materials/mirrors/doctrine/Learn Pro - Risk & Governance.md
 updated: 2026-07-24
 ---
 
@@ -16,4 +17,4 @@ Explicit user approval required.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Learn Pro - Risk & Governance.md]

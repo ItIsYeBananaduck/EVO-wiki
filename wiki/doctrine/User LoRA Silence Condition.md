@@ -2,7 +2,8 @@
 title: User LoRA Silence Condition
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/User LoRA Silence Condition.md"]
+sources:
+  - source-materials/mirrors/doctrine/User LoRA Silence Condition.md
 updated: 2026-07-24
 ---
 
@@ -30,4 +31,4 @@ Related notes: [[USER_LORA_TRAINING_IMPLEMENTATION]]
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/User LoRA Silence Condition.md]

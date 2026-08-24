@@ -2,7 +2,8 @@
 title: Learn - Optional Tutor Link
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Learn - Optional Tutor Link.md"]
+sources:
+  - source-materials/mirrors/doctrine/Learn - Optional Tutor Link.md
 updated: 2026-07-24
 ---
 
@@ -14,4 +15,4 @@ Without tutor link: - SA remains user-aligned - escalation suggests seeking help
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Learn - Optional Tutor Link.md]

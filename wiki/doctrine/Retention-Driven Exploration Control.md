@@ -2,7 +2,8 @@
 title: Retention-Driven Exploration Control
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Retention-Driven Exploration Control.md"]
+sources:
+  - source-materials/mirrors/doctrine/Retention-Driven Exploration Control.md
 updated: 2026-07-24
 ---
 
@@ -31,4 +32,4 @@ Keeps system adaptive year over year
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Retention-Driven Exploration Control.md]

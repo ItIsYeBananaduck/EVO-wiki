@@ -2,7 +2,8 @@
 title: Connect Philosophy
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/Connect Philosophy.md"]
+sources:
+  - source-materials/mirrors/doctrine/Connect Philosophy.md
 updated: 2026-07-24
 ---
 
@@ -25,4 +26,4 @@ Connect should amplify action without dissolving oversight.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Connect Philosophy.md]

@@ -2,7 +2,8 @@
 title: EVO Vault Architecture
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVO Vault Architecture.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVO Vault Architecture.md
 updated: 2026-07-24
 ---
 

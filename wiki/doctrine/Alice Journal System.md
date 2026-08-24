@@ -2,7 +2,8 @@
 title: Alice Journal System
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/Alice Journal System.md"]
+sources:
+  - source-materials/mirrors/doctrine/Alice Journal System.md
 updated: 2026-07-24
 ---
 
@@ -318,4 +319,4 @@ The Alice Journal is how Alice shows her work before her understanding becomes d
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Alice Journal System.md]

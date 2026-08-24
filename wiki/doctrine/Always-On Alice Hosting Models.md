@@ -2,7 +2,8 @@
 title: Always-On Alice Hosting Models
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Always-On Alice Hosting Models.md"]
+sources:
+  - source-materials/mirrors/doctrine/Always-On Alice Hosting Models.md
 updated: 2026-07-24
 ---
 
@@ -131,4 +132,4 @@ When domains become separate app bundles in the future, the same lifecycle rules
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Always-On Alice Hosting Models.md]

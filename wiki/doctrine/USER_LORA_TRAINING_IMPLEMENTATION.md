@@ -2,7 +2,8 @@
 title: USER_LORA_TRAINING_IMPLEMENTATION
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/USER_LORA_TRAINING_IMPLEMENTATION.md"]
+sources:
+  - source-materials/mirrors/doctrine/USER_LORA_TRAINING_IMPLEMENTATION.md
 updated: 2026-07-24
 ---
 
@@ -327,4 +328,4 @@ test('formatAsJSONL produces valid JSONL', () {
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/USER_LORA_TRAINING_IMPLEMENTATION.md]

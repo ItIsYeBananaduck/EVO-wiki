@@ -2,7 +2,8 @@
 title: Connect Hive Architecture
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/Connect Hive Architecture.md"]
+sources:
+  - source-materials/mirrors/doctrine/Connect Hive Architecture.md
 updated: 2026-07-24
 ---
 
@@ -30,4 +31,4 @@ Hive ≠ Swarm. Hive coordinates. Swarm computes.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Connect Hive Architecture.md]

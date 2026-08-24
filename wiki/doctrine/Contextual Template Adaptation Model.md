@@ -2,7 +2,8 @@
 title: Contextual Template Adaptation Model
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Contextual Template Adaptation Model.md"]
+sources:
+  - source-materials/mirrors/doctrine/Contextual Template Adaptation Model.md
 updated: 2026-07-24
 ---
 
@@ -32,4 +33,4 @@ Adaptation is internal and local.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Contextual Template Adaptation Model.md]

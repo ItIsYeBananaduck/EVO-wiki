@@ -2,7 +2,8 @@
 title: Council_of_Echoes_Future_Spec
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/Council_of_Echoes_Future_Spec.md"]
+sources:
+  - source-materials/mirrors/doctrine/Council_of_Echoes_Future_Spec.md
 updated: 2026-07-24
 ---
 
@@ -91,4 +92,4 @@ Alice consults Echoes, not becomes them.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Council_of_Echoes_Future_Spec.md]

@@ -2,7 +2,8 @@
 title: CHAT_PERSISTENCE_IMPLEMENTATION
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/CHAT_PERSISTENCE_IMPLEMENTATION.md"]
+sources:
+  - source-materials/mirrors/doctrine/CHAT_PERSISTENCE_IMPLEMENTATION.md
 updated: 2026-07-24
 ---
 
@@ -168,4 +169,4 @@ AliceAssets/chat/
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/CHAT_PERSISTENCE_IMPLEMENTATION.md]

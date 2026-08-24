@@ -2,7 +2,8 @@
 title: CAPABILITY_MAP_IMPLEMENTATION_COMPLETE
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/CAPABILITY_MAP_IMPLEMENTATION_COMPLETE.md"]
+sources:
+  - source-materials/mirrors/doctrine/CAPABILITY_MAP_IMPLEMENTATION_COMPLETE.md
 updated: 2026-07-24
 ---
 
@@ -266,4 +267,4 @@ Both platforms gracefully handle missing files and continue without capability m
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/CAPABILITY_MAP_IMPLEMENTATION_COMPLETE.md]

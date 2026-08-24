@@ -2,7 +2,8 @@
 title: Hive Shared State Backbone
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Hive Shared State Backbone.md"]
+sources:
+  - source-materials/mirrors/doctrine/Hive Shared State Backbone.md
 updated: 2026-07-24
 ---
 
@@ -25,4 +26,4 @@ Links
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Hive Shared State Backbone.md]

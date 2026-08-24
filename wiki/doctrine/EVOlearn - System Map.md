@@ -2,7 +2,8 @@
 title: EVOlearn - System Map
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/EVOlearn - System Map.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOlearn - System Map.md
 updated: 2026-07-24
 ---
 
@@ -52,4 +53,4 @@ Learn – Why Learn Is Last
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOlearn - System Map.md]

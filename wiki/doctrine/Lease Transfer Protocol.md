@@ -2,7 +2,8 @@
 title: Lease Transfer Protocol
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Lease Transfer Protocol.md"]
+sources:
+  - source-materials/mirrors/doctrine/Lease Transfer Protocol.md
 updated: 2026-07-24
 ---
 
@@ -24,4 +25,4 @@ Scoped Tool Grants
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Lease Transfer Protocol.md]

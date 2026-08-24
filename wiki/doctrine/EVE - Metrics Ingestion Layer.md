@@ -2,7 +2,8 @@
 title: EVE - Metrics Ingestion Layer
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/EVE - Metrics Ingestion Layer.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVE - Metrics Ingestion Layer.md
 updated: 2026-07-24
 ---
 
@@ -36,4 +37,4 @@ No student-level personalization outputs
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVE - Metrics Ingestion Layer.md]

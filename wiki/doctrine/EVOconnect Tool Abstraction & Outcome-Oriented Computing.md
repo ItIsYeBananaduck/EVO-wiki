@@ -2,7 +2,8 @@
 title: EVOconnect Tool Abstraction & Outcome-Oriented Computing
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOconnect Tool Abstraction & Outcome-Oriented Computing.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOconnect Tool Abstraction & Outcome-Oriented Computing.md
 updated: 2026-07-24
 ---
 
@@ -32,4 +33,4 @@ The system should optimize for outcomes, not expose unnecessary implementation d
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOconnect Tool Abstraction & Outcome-Oriented Computing.md]

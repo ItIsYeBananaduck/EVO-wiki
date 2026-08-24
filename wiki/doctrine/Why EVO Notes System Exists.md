@@ -2,7 +2,8 @@
 title: Why EVO Notes System Exists
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/Why EVO Notes System Exists.md"]
+sources:
+  - source-materials/mirrors/doctrine/Why EVO Notes System Exists.md
 updated: 2026-07-24
 ---
 
@@ -23,4 +24,4 @@ Notes prevent architectural loss.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Why EVO Notes System Exists.md]

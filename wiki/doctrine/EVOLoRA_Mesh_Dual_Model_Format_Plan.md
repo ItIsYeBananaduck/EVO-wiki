@@ -2,7 +2,8 @@
 title: EVOLoRA_Mesh_Dual_Model_Format_Plan
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOLoRA_Mesh_Dual_Model_Format_Plan.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOLoRA_Mesh_Dual_Model_Format_Plan.md
 updated: 2026-07-24
 ---
 
@@ -296,4 +297,4 @@ class AliceAssetDownloadManager {
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOLoRA_Mesh_Dual_Model_Format_Plan.md]

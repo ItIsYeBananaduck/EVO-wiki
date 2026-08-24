@@ -2,7 +2,8 @@
 title: CONVERSION_COMPLETE
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/CONVERSION_COMPLETE.md"]
+sources:
+  - source-materials/mirrors/doctrine/CONVERSION_COMPLETE.md
 updated: 2026-07-24
 ---
 
@@ -121,4 +122,4 @@ See `output/gguf/checksums.sha256` for SHA256 checksums of all converted files.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/CONVERSION_COMPLETE.md]

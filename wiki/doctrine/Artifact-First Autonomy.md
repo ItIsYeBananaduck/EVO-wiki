@@ -2,7 +2,8 @@
 title: Artifact-First Autonomy
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Artifact-First Autonomy.md"]
+sources:
+  - source-materials/mirrors/doctrine/Artifact-First Autonomy.md
 updated: 2026-07-24
 ---
 
@@ -24,4 +25,4 @@ Links
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Artifact-First Autonomy.md]

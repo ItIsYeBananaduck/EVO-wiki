@@ -2,7 +2,8 @@
 title: CAPABILITY_SYSTEMS_EXPLAINED
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/CAPABILITY_SYSTEMS_EXPLAINED.md"]
+sources:
+  - source-materials/mirrors/doctrine/CAPABILITY_SYSTEMS_EXPLAINED.md
 updated: 2026-07-24
 ---
 
@@ -235,4 +236,4 @@ Output format: <policy>...</policy><actions>...</actions><answer>...</answer>
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/CAPABILITY_SYSTEMS_EXPLAINED.md]

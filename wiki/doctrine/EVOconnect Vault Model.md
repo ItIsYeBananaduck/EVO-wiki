@@ -2,7 +2,8 @@
 title: EVOconnect Vault Model
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOconnect Vault Model.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOconnect Vault Model.md
 updated: 2026-07-24
 ---
 
@@ -32,4 +33,4 @@ Access should be granted just enough to act, never enough to drift.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOconnect Vault Model.md]

@@ -2,7 +2,8 @@
 title: PERMANENT_FIX_COMPLETE
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/PERMANENT_FIX_COMPLETE.md"]
+sources:
+  - source-materials/mirrors/doctrine/PERMANENT_FIX_COMPLETE.md
 updated: 2026-07-24
 ---
 
@@ -54,4 +55,4 @@ After restarting, check logs for:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/PERMANENT_FIX_COMPLETE.md]

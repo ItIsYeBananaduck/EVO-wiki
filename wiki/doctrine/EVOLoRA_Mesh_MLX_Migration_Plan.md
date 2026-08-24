@@ -2,7 +2,8 @@
 title: EVOLoRA_Mesh_MLX_Migration_Plan
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-deprecated/EVOLoRA_Mesh_MLX_Migration_Plan.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOLoRA_Mesh_MLX_Migration_Plan.md
 updated: 2026-07-24
 ---
 
@@ -400,4 +401,4 @@ class MethodChannelAliceBrainService implements AliceBrainService {
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOLoRA_Mesh_MLX_Migration_Plan.md]

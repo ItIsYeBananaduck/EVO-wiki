@@ -2,7 +2,8 @@
 title: FIX_ENF_ARCHITECTURE
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-deprecated/FIX_ENF_ARCHITECTURE.md"]
+sources:
+  - source-materials/mirrors/doctrine/FIX_ENF_ARCHITECTURE.md
 updated: 2026-07-24
 ---
 
@@ -96,4 +97,4 @@ This only affects the ENF adapter. The META adapter should work fine once it's i
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/FIX_ENF_ARCHITECTURE.md]

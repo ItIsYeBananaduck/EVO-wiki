@@ -2,7 +2,8 @@
 title: Mesocycle Priority Constraint
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Mesocycle Priority Constraint.md"]
+sources:
+  - source-materials/mirrors/doctrine/Mesocycle Priority Constraint.md
 updated: 2026-07-24
 ---
 
@@ -27,4 +28,4 @@ Links
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Mesocycle Priority Constraint.md]

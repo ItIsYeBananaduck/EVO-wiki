@@ -2,7 +2,8 @@
 title: User-Created Talent Immediate Promotion
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/User-Created Talent Immediate Promotion.md"]
+sources:
+  - source-materials/mirrors/doctrine/User-Created Talent Immediate Promotion.md
 updated: 2026-07-24
 ---
 
@@ -25,4 +26,4 @@ Links
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/User-Created Talent Immediate Promotion.md]

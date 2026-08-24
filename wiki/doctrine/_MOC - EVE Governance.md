@@ -2,7 +2,8 @@
 title: _MOC - EVE Governance
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/_MOC - EVE Governance.md"]
+sources:
+  - source-materials/mirrors/doctrine/_MOC - EVE Governance.md
 updated: 2026-07-24
 ---
 
@@ -74,4 +75,4 @@ EVE does not replace educators. She informs them.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/_MOC - EVE Governance.md]

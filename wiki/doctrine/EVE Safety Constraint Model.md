@@ -2,7 +2,8 @@
 title: EVE Safety Constraint Model
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVE Safety Constraint Model.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVE Safety Constraint Model.md
 updated: 2026-07-24
 ---
 
@@ -23,4 +24,4 @@ Safety constraints must be enforced before execution, not after failure.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVE Safety Constraint Model.md]

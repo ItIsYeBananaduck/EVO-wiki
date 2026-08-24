@@ -2,7 +2,8 @@
 title: Canonical SmartScan Refactor
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/Canonical SmartScan Refactor.md"]
+sources:
+  - source-materials/mirrors/doctrine/Canonical SmartScan Refactor.md
 updated: 2026-07-24
 ---
 
@@ -129,4 +130,4 @@ Do not begin implementation until the plan proves that duplicate scan paths will
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Canonical SmartScan Refactor.md]

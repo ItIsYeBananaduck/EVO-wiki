@@ -2,7 +2,8 @@
 title: Hive Read-Only Members
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Hive Read-Only Members.md"]
+sources:
+  - source-materials/mirrors/doctrine/Hive Read-Only Members.md
 updated: 2026-07-24
 ---
 
@@ -24,4 +25,4 @@ Links
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Hive Read-Only Members.md]

@@ -2,7 +2,8 @@
 title: EVO_app_monorepo
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVO_app_monorepo.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVO_app_monorepo.md
 updated: 2026-07-24
 ---
 
@@ -795,4 +796,4 @@ If this order is followed, the monorepo can achieve:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVO_app_monorepo.md]

@@ -2,7 +2,8 @@
 title: Schema - Progress Report (Level 0)
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Schema - Progress Report (Level 0).md"]
+sources:
+  - source-materials/mirrors/doctrine/Schema - Progress Report (Level 0).md
 updated: 2026-07-24
 ---
 
@@ -25,4 +26,4 @@ Enterprise schema is domain-pack-defined.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Schema - Progress Report (Level 0).md]

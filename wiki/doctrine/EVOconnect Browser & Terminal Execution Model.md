@@ -2,7 +2,8 @@
 title: EVOconnect Browser & Terminal Execution Model
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOconnect Browser & Terminal Execution Model.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOconnect Browser & Terminal Execution Model.md
 updated: 2026-07-24
 ---
 
@@ -31,4 +32,4 @@ The execution surface is part of the governance model, not just a technical deta
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOconnect Browser & Terminal Execution Model.md]

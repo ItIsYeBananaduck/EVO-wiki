@@ -2,7 +2,8 @@
 title: EVOLoRA_Mesh_Incremental_Training_Solution
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOLoRA_Mesh_Incremental_Training_Solution.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOLoRA_Mesh_Incremental_Training_Solution.md
 updated: 2026-07-24
 ---
 
@@ -343,4 +344,4 @@ The adapter is **never frozen** - it continues to evolve in safetensors format. 
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOLoRA_Mesh_Incremental_Training_Solution.md]

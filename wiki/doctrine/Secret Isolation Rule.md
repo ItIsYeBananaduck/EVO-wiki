@@ -2,7 +2,8 @@
 title: Secret Isolation Rule
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Secret Isolation Rule.md"]
+sources:
+  - source-materials/mirrors/doctrine/Secret Isolation Rule.md
 updated: 2026-07-24
 ---
 
@@ -24,4 +25,4 @@ Links
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Secret Isolation Rule.md]

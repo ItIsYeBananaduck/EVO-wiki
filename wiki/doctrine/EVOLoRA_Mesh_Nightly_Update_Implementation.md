@@ -2,7 +2,8 @@
 title: EVOLoRA_Mesh_Nightly_Update_Implementation
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOLoRA_Mesh_Nightly_Update_Implementation.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOLoRA_Mesh_Nightly_Update_Implementation.md
 updated: 2026-07-24
 ---
 
@@ -389,4 +390,4 @@ CREATE INDEX idx_adapter_versions_lookup
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOLoRA_Mesh_Nightly_Update_Implementation.md]

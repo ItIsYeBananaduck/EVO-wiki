@@ -2,7 +2,8 @@
 title: BATCH_SIZE_OPTIMIZATION
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/BATCH_SIZE_OPTIMIZATION.md"]
+sources:
+  - source-materials/mirrors/doctrine/BATCH_SIZE_OPTIMIZATION.md
 updated: 2026-07-24
 ---
 
@@ -79,4 +80,4 @@ After deployment, monitor:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/BATCH_SIZE_OPTIMIZATION.md]

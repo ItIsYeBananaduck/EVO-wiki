@@ -2,7 +2,8 @@
 title: Echo_System_Spec
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/Echo_System_Spec.md"]
+sources:
+  - source-materials/mirrors/doctrine/Echo_System_Spec.md
 updated: 2026-07-24
 ---
 
@@ -164,4 +165,4 @@ not pretend they are still here.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Echo_System_Spec.md]

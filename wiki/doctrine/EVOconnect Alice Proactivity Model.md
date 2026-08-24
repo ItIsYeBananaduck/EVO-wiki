@@ -2,7 +2,8 @@
 title: EVOconnect Alice Proactivity Model
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOconnect Alice Proactivity Model.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOconnect Alice Proactivity Model.md
 updated: 2026-07-24
 ---
 
@@ -32,4 +33,4 @@ Proactivity should feel supportive, not possessive.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOconnect Alice Proactivity Model.md]

@@ -2,7 +2,8 @@
 title: talent-training-natural-language
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/talent-training-natural-language.md"]
+sources:
+  - source-materials/mirrors/doctrine/talent-training-natural-language.md
 updated: 2026-07-24
 ---
 
@@ -177,4 +178,4 @@ The real goal is:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/talent-training-natural-language.md]

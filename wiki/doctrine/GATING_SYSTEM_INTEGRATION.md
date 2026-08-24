@@ -2,7 +2,8 @@
 title: GATING_SYSTEM_INTEGRATION
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/GATING_SYSTEM_INTEGRATION.md"]
+sources:
+  - source-materials/mirrors/doctrine/GATING_SYSTEM_INTEGRATION.md
 updated: 2026-07-24
 ---
 
@@ -368,4 +369,4 @@ All gating enforcement moved to Flutter for consistency.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/GATING_SYSTEM_INTEGRATION.md]

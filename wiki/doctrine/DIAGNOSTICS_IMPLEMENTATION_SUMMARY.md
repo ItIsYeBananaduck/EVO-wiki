@@ -2,7 +2,8 @@
 title: DIAGNOSTICS_IMPLEMENTATION_SUMMARY
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/DIAGNOSTICS_IMPLEMENTATION_SUMMARY.md"]
+sources:
+  - source-materials/mirrors/doctrine/DIAGNOSTICS_IMPLEMENTATION_SUMMARY.md
 updated: 2026-07-24
 ---
 
@@ -228,4 +229,4 @@ if (DiagLog.instance.currentStage != ModelPipelineStage.ready) {
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/DIAGNOSTICS_IMPLEMENTATION_SUMMARY.md]

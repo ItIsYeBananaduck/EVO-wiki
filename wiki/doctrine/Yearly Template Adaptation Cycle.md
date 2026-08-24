@@ -2,7 +2,8 @@
 title: Yearly Template Adaptation Cycle
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Yearly Template Adaptation Cycle.md"]
+sources:
+  - source-materials/mirrors/doctrine/Yearly Template Adaptation Cycle.md
 updated: 2026-07-24
 ---
 
@@ -31,4 +32,4 @@ New templates enter as candidates: - tested during exploration window - tested o
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Yearly Template Adaptation Cycle.md]

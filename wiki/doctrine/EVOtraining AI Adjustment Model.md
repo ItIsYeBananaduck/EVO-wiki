@@ -2,7 +2,8 @@
 title: EVOtraining AI Adjustment Model
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOtraining AI Adjustment Model.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOtraining AI Adjustment Model.md
 updated: 2026-07-24
 ---
 
@@ -34,4 +35,4 @@ Related notes: [[Seamless Adaptation Principle]], [[Micro-Batch Cycle]]
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOtraining AI Adjustment Model.md]

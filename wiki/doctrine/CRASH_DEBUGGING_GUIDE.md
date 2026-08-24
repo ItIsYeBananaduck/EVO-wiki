@@ -2,7 +2,8 @@
 title: CRASH_DEBUGGING_GUIDE
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/CRASH_DEBUGGING_GUIDE.md"]
+sources:
+  - source-materials/mirrors/doctrine/CRASH_DEBUGGING_GUIDE.md
 updated: 2026-07-24
 ---
 
@@ -130,4 +131,4 @@ void initState() {
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/CRASH_DEBUGGING_GUIDE.md]

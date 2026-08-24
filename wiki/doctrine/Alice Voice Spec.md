@@ -2,7 +2,8 @@
 title: Alice Voice Spec
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/Alice Voice Spec.md"]
+sources:
+  - source-materials/mirrors/doctrine/Alice Voice Spec.md
 updated: 2026-07-24
 ---
 
@@ -109,4 +110,4 @@ Alice's voice is friend-forward and competence-backed. Responses follow a React 
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Alice Voice Spec.md]

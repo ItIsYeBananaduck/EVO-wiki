@@ -2,7 +2,8 @@
 title: Alice Memory System MOC
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/Alice Memory System MOC.md"]
+sources:
+  - source-materials/mirrors/doctrine/Alice Memory System MOC.md
 updated: 2026-07-24
 ---
 
@@ -58,4 +59,4 @@ Related notes: [[Work Memory MOC]]
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Alice Memory System MOC.md]

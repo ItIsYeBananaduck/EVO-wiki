@@ -2,7 +2,8 @@
 title: Escalation Criteria Threshold Logic
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Escalation Criteria Threshold Logic.md"]
+sources:
+  - source-materials/mirrors/doctrine/Escalation Criteria Threshold Logic.md
 updated: 2026-07-24
 ---
 
@@ -37,4 +38,4 @@ Low / Medium / High based on: - retention stability - repeated failures - deadli
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Escalation Criteria Threshold Logic.md]

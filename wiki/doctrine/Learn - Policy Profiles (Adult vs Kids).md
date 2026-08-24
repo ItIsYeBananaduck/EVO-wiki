@@ -2,7 +2,8 @@
 title: Learn - Policy Profiles (Adult vs Kids)
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Learn - Policy Profiles (Adult vs Kids).md"]
+sources:
+  - source-materials/mirrors/doctrine/Learn - Policy Profiles (Adult vs Kids).md
 updated: 2026-07-24
 ---
 
@@ -31,4 +32,4 @@ No school reporting unless School Mode is enabled.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Learn - Policy Profiles (Adult vs Kids).md]

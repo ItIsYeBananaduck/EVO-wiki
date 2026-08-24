@@ -2,7 +2,8 @@
 title: CAPABILITY_MAP_AND_CONTINUATION_ENHANCEMENTS
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/CAPABILITY_MAP_AND_CONTINUATION_ENHANCEMENTS.md"]
+sources:
+  - source-materials/mirrors/doctrine/CAPABILITY_MAP_AND_CONTINUATION_ENHANCEMENTS.md
 updated: 2026-07-24
 ---
 
@@ -269,4 +270,4 @@ CAPABILITY_MAP USAGE:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/CAPABILITY_MAP_AND_CONTINUATION_ENHANCEMENTS.md]

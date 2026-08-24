@@ -2,7 +2,8 @@
 title: Connect - Mesh Integration
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Connect - Mesh Integration.md"]
+sources:
+  - source-materials/mirrors/doctrine/Connect - Mesh Integration.md
 updated: 2026-07-24
 ---
 
@@ -15,4 +16,4 @@ Connect is the runtime orchestrator of Mesh logic.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Connect - Mesh Integration.md]

@@ -2,7 +2,8 @@
 title: Connect Swarm Architecture
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/Connect Swarm Architecture.md"]
+sources:
+  - source-materials/mirrors/doctrine/Connect Swarm Architecture.md
 updated: 2026-07-24
 ---
 
@@ -37,4 +38,4 @@ Distributed power must still obey centralized governance.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Connect Swarm Architecture.md]

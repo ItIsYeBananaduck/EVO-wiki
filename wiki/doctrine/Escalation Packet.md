@@ -2,7 +2,8 @@
 title: Escalation Packet
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Escalation Packet.md"]
+sources:
+  - source-materials/mirrors/doctrine/Escalation Packet.md
 updated: 2026-07-24
 ---
 
@@ -34,4 +35,4 @@ An escalation should carry context, not just confusion.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Escalation Packet.md]

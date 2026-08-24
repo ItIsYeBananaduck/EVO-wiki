@@ -2,7 +2,8 @@
 title: EVOconnect System Map
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOconnect System Map.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOconnect System Map.md
 updated: 2026-07-24
 ---
 
@@ -83,4 +84,4 @@ Vault = Safety
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOconnect System Map.md]

@@ -2,7 +2,8 @@
 title: External Reasoning Integration
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/External Reasoning Integration.md"]
+sources:
+  - source-materials/mirrors/doctrine/External Reasoning Integration.md
 updated: 2026-07-24
 ---
 
@@ -28,4 +29,4 @@ Must be logged and auditable
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/External Reasoning Integration.md]

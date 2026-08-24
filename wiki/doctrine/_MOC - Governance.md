@@ -2,7 +2,8 @@
 title: _MOC - Governance
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/_MOC - Governance.md"]
+sources:
+  - source-materials/mirrors/doctrine/_MOC - Governance.md
 updated: 2026-07-24
 ---
 
@@ -56,4 +57,4 @@ Ensures dual-metric system integrity and prevents shallow optimization.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/_MOC - Governance.md]

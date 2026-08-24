@@ -2,7 +2,8 @@
 title: Privileged Execution Model
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Privileged Execution Model.md"]
+sources:
+  - source-materials/mirrors/doctrine/Privileged Execution Model.md
 updated: 2026-07-24
 ---
 
@@ -32,4 +33,4 @@ The more powerful the action, the stricter the control envelope.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Privileged Execution Model.md]

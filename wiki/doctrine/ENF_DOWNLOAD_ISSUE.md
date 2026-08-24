@@ -2,7 +2,8 @@
 title: ENF_DOWNLOAD_ISSUE
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-deprecated/ENF_DOWNLOAD_ISSUE.md"]
+sources:
+  - source-materials/mirrors/doctrine/ENF_DOWNLOAD_ISSUE.md
 updated: 2026-07-24
 ---
 
@@ -132,4 +133,4 @@ The conversion script is ready and tested - it just needs the files!
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/ENF_DOWNLOAD_ISSUE.md]

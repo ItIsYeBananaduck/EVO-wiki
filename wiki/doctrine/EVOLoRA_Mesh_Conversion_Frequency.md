@@ -2,7 +2,8 @@
 title: EVOLoRA_Mesh_Conversion_Frequency
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOLoRA_Mesh_Conversion_Frequency.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOLoRA_Mesh_Conversion_Frequency.md
 updated: 2026-07-24
 ---
 
@@ -273,4 +274,4 @@ Future<void> checkForAdapterUpdates() async {
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOLoRA_Mesh_Conversion_Frequency.md]

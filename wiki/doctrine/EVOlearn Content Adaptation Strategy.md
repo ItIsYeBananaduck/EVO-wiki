@@ -2,7 +2,8 @@
 title: EVOlearn Content Adaptation Strategy
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOlearn Content Adaptation Strategy.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOlearn Content Adaptation Strategy.md
 updated: 2026-07-24
 ---
 
@@ -29,4 +30,4 @@ Content should adapt to the learner, not force the learner to adapt to the conte
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOlearn Content Adaptation Strategy.md]

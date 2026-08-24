@@ -2,7 +2,8 @@
 title: ADR-002 - Authority Separation Doctrine (Alice vs EVE)
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/ADR-002 - Authority Separation Doctrine (Alice vs EVE).md"]
+sources:
+  - source-materials/mirrors/doctrine/ADR-002 - Authority Separation Doctrine (Alice vs EVE).md
 updated: 2026-07-24
 ---
 
@@ -133,4 +134,4 @@ Long-term trust
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/ADR-002 - Authority Separation Doctrine (Alice vs EVE).md]

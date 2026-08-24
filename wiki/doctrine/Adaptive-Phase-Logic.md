@@ -2,7 +2,8 @@
 title: Adaptive-Phase-Logic
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Adaptive-Phase-Logic.md"]
+sources:
+  - source-materials/mirrors/doctrine/Adaptive-Phase-Logic.md
 updated: 2026-07-24
 ---
 
@@ -14,4 +15,4 @@ Milestones reflect system coherence, not perfection.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Adaptive-Phase-Logic.md]

@@ -2,7 +2,8 @@
 title: integrity_hardfail
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/integrity_hardfail.md"]
+sources:
+  - source-materials/mirrors/doctrine/integrity_hardfail.md
 updated: 2026-07-24
 ---
 
@@ -154,4 +155,4 @@ NightlyModelSync.refreshAssets()
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/integrity_hardfail.md]

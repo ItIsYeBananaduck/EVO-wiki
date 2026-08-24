@@ -2,7 +2,8 @@
 title: AUDIT_VIDEO_ROUTINES
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/AUDIT_VIDEO_ROUTINES.md"]
+sources:
+  - source-materials/mirrors/doctrine/AUDIT_VIDEO_ROUTINES.md
 updated: 2026-07-24
 ---
 
@@ -518,4 +519,4 @@ The architecture supports the specified requirements while maintaining compatibi
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/AUDIT_VIDEO_ROUTINES.md]

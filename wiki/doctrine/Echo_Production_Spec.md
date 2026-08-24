@@ -2,7 +2,8 @@
 title: Echo_Production_Spec
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/Echo_Production_Spec.md"]
+sources:
+  - source-materials/mirrors/doctrine/Echo_Production_Spec.md
 updated: 2026-07-24
 ---
 
@@ -31,4 +32,4 @@ Echo preserves perspective, not identity
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Echo_Production_Spec.md]

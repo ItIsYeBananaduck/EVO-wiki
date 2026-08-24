@@ -2,7 +2,8 @@
 title: EVO Unified Storage Zones and Sync Model
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVO Unified Storage Zones and Sync Model.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVO Unified Storage Zones and Sync Model.md
 updated: 2026-07-24
 ---
 
@@ -401,4 +402,4 @@ The user owns both.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVO Unified Storage Zones and Sync Model.md]

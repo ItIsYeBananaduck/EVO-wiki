@@ -2,7 +2,8 @@
 title: Connect - Control Panel & Tools
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Connect - Control Panel & Tools.md"]
+sources:
+  - source-materials/mirrors/doctrine/Connect - Control Panel & Tools.md
 updated: 2026-07-24
 ---
 
@@ -18,4 +19,4 @@ All tools: - Governed by Delegator - Logged - Scoped
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Connect - Control Panel & Tools.md]

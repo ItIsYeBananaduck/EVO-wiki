@@ -2,7 +2,8 @@
 title: ALICE_AVATAR_USAGE_AUDIT
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/ALICE_AVATAR_USAGE_AUDIT.md"]
+sources:
+  - source-materials/mirrors/doctrine/ALICE_AVATAR_USAGE_AUDIT.md
 updated: 2026-07-24
 ---
 
@@ -100,4 +101,4 @@ The web/static directory contains several Alice assets, but I did not find runti
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/ALICE_AVATAR_USAGE_AUDIT.md]

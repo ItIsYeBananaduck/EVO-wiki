@@ -2,7 +2,8 @@
 title: Memory to Adapter Pipeline
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/Memory to Adapter Pipeline.md"]
+sources:
+  - source-materials/mirrors/doctrine/Memory to Adapter Pipeline.md
 updated: 2026-07-24
 ---
 
@@ -61,4 +62,4 @@ Related notes: [[EVOLoRA Mesh — Adapter Creation Pipeline]]
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Memory to Adapter Pipeline.md]

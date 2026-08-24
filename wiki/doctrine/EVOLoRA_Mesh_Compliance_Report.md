@@ -2,7 +2,8 @@
 title: EVOLoRA_Mesh_Compliance_Report
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOLoRA_Mesh_Compliance_Report.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOLoRA_Mesh_Compliance_Report.md
 updated: 2026-07-24
 ---
 
@@ -197,4 +198,4 @@ To complete 100% compliance, we will need to confirm:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOLoRA_Mesh_Compliance_Report.md]

@@ -2,7 +2,8 @@
 title: IMPLEMENTATION_PLAN_ENF_VOICE_RAG
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-deprecated/IMPLEMENTATION_PLAN_ENF_VOICE_RAG.md"]
+sources:
+  - source-materials/mirrors/doctrine/IMPLEMENTATION_PLAN_ENF_VOICE_RAG.md
 updated: 2026-07-24
 ---
 
@@ -63,4 +64,4 @@ Implement deterministic ENF/VOICE adapter stacking, RAG memory injection, ENF st
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/IMPLEMENTATION_PLAN_ENF_VOICE_RAG.md]

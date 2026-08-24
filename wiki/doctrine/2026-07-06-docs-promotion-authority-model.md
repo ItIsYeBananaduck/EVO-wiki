@@ -2,7 +2,8 @@
 title: 2026-07-06-docs-promotion-authority-model
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/2026-07-06-docs-promotion-authority-model.md"]
+sources:
+  - source-materials/mirrors/doctrine/2026-07-06-docs-promotion-authority-model.md
 updated: 2026-07-24
 ---
 
@@ -48,4 +49,4 @@ navigation (`smartdocs/doctrine/active/`) without requiring a CLI round-trip.
   rule step-by-step (step `05-await-approval`).
 - `.polaris/skills/docs-promote/SKILL.md` — the skill definition mirroring the same
   `prohibited_actions`.
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/2026-07-06-docs-promotion-authority-model.md]

@@ -2,7 +2,8 @@
 title: Talent Revocation Rule
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Talent Revocation Rule.md"]
+sources:
+  - source-materials/mirrors/doctrine/Talent Revocation Rule.md
 updated: 2026-07-24
 ---
 
@@ -26,4 +27,4 @@ Links
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Talent Revocation Rule.md]

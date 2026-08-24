@@ -2,7 +2,8 @@
 title: Control-Model
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Control-Model.md"]
+sources:
+  - source-materials/mirrors/doctrine/Control-Model.md
 updated: 2026-07-24
 ---
 
@@ -28,4 +29,4 @@ Related notes: [[Alice Delegation Governance Model]], [[Delegator — Execution 
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Control-Model.md]

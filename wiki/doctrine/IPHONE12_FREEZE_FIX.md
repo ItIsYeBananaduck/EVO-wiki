@@ -2,7 +2,8 @@
 title: IPHONE12_FREEZE_FIX
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/IPHONE12_FREEZE_FIX.md"]
+sources:
+  - source-materials/mirrors/doctrine/IPHONE12_FREEZE_FIX.md
 updated: 2026-07-24
 ---
 
@@ -141,4 +142,4 @@ let n_batch: UInt32 = requestedBatch > 0 ? requestedBatch : {
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/IPHONE12_FREEZE_FIX.md]

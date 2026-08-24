@@ -2,7 +2,8 @@
 title: update_applier
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/update_applier.md"]
+sources:
+  - source-materials/mirrors/doctrine/update_applier.md
 updated: 2026-07-24
 ---
 
@@ -40,4 +41,4 @@ Pick what you want next and I will implement it.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/update_applier.md]

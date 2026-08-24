@@ -2,7 +2,8 @@
 title: Offline Lease Holder Rule
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Offline Lease Holder Rule.md"]
+sources:
+  - source-materials/mirrors/doctrine/Offline Lease Holder Rule.md
 updated: 2026-07-24
 ---
 
@@ -24,4 +25,4 @@ Links
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Offline Lease Holder Rule.md]

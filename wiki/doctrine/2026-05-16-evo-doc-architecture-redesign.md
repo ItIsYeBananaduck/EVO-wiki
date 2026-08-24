@@ -2,7 +2,8 @@
 title: 2026-05-16-evo-doc-architecture-redesign
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-deprecated/2026-05-16-evo-doc-architecture-redesign.md"]
+sources:
+  - source-materials/mirrors/doctrine/2026-05-16-evo-doc-architecture-redesign.md
 updated: 2026-07-24
 ---
 
@@ -1840,4 +1841,4 @@ git commit -m "docs: traversal redesign verification pass complete"
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/2026-05-16-evo-doc-architecture-redesign.md]

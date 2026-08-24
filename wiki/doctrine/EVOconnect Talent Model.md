@@ -2,7 +2,8 @@
 title: EVOconnect Talent Model
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOconnect Talent Model.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOconnect Talent Model.md
 updated: 2026-07-24
 ---
 
@@ -200,4 +201,4 @@ They are **trusted components within it**.
 - [EVOconnect Method Specification Model](https://www.notion.so/33dc72bad01381969e43e43864cb35ef)
 - [EVOconnect Task Manager as Agent Supervision Layer](https://www.notion.so/33dc72bad01381198e00e077242b777f)
 - [Delegator Doctrine: Execution Authority](https://www.notion.so/343c72bad01381ef9ad0d496a384113b)
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOconnect Talent Model.md]

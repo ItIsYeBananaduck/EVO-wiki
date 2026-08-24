@@ -2,7 +2,8 @@
 title: Student Alice - Core Architecture
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Student Alice - Core Architecture.md"]
+sources:
+  - source-materials/mirrors/doctrine/Student Alice - Core Architecture.md
 updated: 2026-07-24
 ---
 
@@ -37,4 +38,4 @@ Student-facing language: “New approach available.” No stigma framing.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Student Alice - Core Architecture.md]

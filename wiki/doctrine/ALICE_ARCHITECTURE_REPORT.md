@@ -2,7 +2,8 @@
 title: ALICE_ARCHITECTURE_REPORT
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/ALICE_ARCHITECTURE_REPORT.md"]
+sources:
+  - source-materials/mirrors/doctrine/ALICE_ARCHITECTURE_REPORT.md
 updated: 2026-07-24
 ---
 
@@ -598,4 +599,4 @@ Alice is a sophisticated on-device AI fitness coach with:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/ALICE_ARCHITECTURE_REPORT.md]

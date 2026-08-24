@@ -2,7 +2,8 @@
 title: EVO Blind Zone - .evo_env Protected Workspace Model
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVO Blind Zone - .evo_env Protected Workspace Model.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVO Blind Zone - .evo_env Protected Workspace Model.md
 updated: 2026-07-24
 ---
 
@@ -308,4 +309,4 @@ It prevents:
 - [Alice Identity Doctrine](https://app.notion.com/p/33dc72bad013811da04accd3f90303d3)
 - Repo Adapter Design
 - Protected System Zones and Privileged Change Policy
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVO Blind Zone - .evo_env Protected Workspace Model.md]

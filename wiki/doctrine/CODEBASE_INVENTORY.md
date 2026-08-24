@@ -2,7 +2,8 @@
 title: CODEBASE_INVENTORY
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/CODEBASE_INVENTORY.md"]
+sources:
+  - source-materials/mirrors/doctrine/CODEBASE_INVENTORY.md
 updated: 2026-07-24
 ---
 
@@ -183,4 +184,4 @@ updated: 2026-07-24
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/CODEBASE_INVENTORY.md]

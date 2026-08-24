@@ -2,7 +2,8 @@
 title: Learn - Kids Restricted Topics
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Learn - Kids Restricted Topics.md"]
+sources:
+  - source-materials/mirrors/doctrine/Learn - Kids Restricted Topics.md
 updated: 2026-07-24
 ---
 
@@ -15,4 +16,4 @@ Design goal: Keep learning open, but prevent exposure to inappropriate topics fo
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Learn - Kids Restricted Topics.md]

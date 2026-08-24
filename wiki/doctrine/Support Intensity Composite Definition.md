@@ -2,7 +2,8 @@
 title: Support Intensity Composite Definition
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Support Intensity Composite Definition.md"]
+sources:
+  - source-materials/mirrors/doctrine/Support Intensity Composite Definition.md
 updated: 2026-07-24
 ---
 
@@ -76,4 +77,4 @@ High support intensity is not failure. It is information: - the method may not m
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Support Intensity Composite Definition.md]

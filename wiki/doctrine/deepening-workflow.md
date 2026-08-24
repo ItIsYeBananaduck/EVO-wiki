@@ -2,7 +2,8 @@
 title: deepening-workflow
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/deepening-workflow.md"]
+sources:
+  - source-materials/mirrors/doctrine/deepening-workflow.md
 updated: 2026-07-24
 ---
 
@@ -258,4 +259,4 @@ If research reveals a product-level ambiguity that should change behavior or sco
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/deepening-workflow.md]

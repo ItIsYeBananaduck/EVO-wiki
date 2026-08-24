@@ -2,7 +2,8 @@
 title: CRASH_FIX_187_ANALYSIS
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/CRASH_FIX_187_ANALYSIS.md"]
+sources:
+  - source-materials/mirrors/doctrine/CRASH_FIX_187_ANALYSIS.md
 updated: 2026-07-24
 ---
 
@@ -373,4 +374,4 @@ The crash at line 2975 should be **impossible** because:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/CRASH_FIX_187_ANALYSIS.md]

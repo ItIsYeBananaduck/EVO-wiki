@@ -2,7 +2,8 @@
 title: Work Memory MOC
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/Work Memory MOC.md"]
+sources:
+  - source-materials/mirrors/doctrine/Work Memory MOC.md
 updated: 2026-07-24
 ---
 
@@ -50,4 +51,4 @@ Related notes: [[Alice Memory System MOC]], [[User Memory MOC]]
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Work Memory MOC.md]

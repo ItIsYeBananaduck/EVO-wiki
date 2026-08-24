@@ -2,7 +2,8 @@
 title: BACKGROUND_MODEL_UPDATES
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/BACKGROUND_MODEL_UPDATES.md"]
+sources:
+  - source-materials/mirrors/doctrine/BACKGROUND_MODEL_UPDATES.md
 updated: 2026-07-24
 ---
 
@@ -359,4 +360,4 @@ If battery drain occurs:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/BACKGROUND_MODEL_UPDATES.md]

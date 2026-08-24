@@ -2,7 +2,8 @@
 title: Echo_4_UX_Hall
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/Echo_4_UX_Hall.md"]
+sources:
+  - source-materials/mirrors/doctrine/Echo_4_UX_Hall.md
 updated: 2026-07-24
 ---
 
@@ -48,4 +49,4 @@ Echo is a presence, not a tool.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Echo_4_UX_Hall.md]

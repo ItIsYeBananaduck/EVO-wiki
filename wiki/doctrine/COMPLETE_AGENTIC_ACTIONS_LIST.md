@@ -2,7 +2,8 @@
 title: COMPLETE_AGENTIC_ACTIONS_LIST
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/COMPLETE_AGENTIC_ACTIONS_LIST.md"]
+sources:
+  - source-materials/mirrors/doctrine/COMPLETE_AGENTIC_ACTIONS_LIST.md
 updated: 2026-07-24
 ---
 
@@ -149,4 +150,4 @@ updated: 2026-07-24
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/COMPLETE_AGENTIC_ACTIONS_LIST.md]

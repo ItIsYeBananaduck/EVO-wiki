@@ -2,7 +2,8 @@
 title: BUILD_ERRORS_FIXED
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/BUILD_ERRORS_FIXED.md"]
+sources:
+  - source-materials/mirrors/doctrine/BUILD_ERRORS_FIXED.md
 updated: 2026-07-24
 ---
 
@@ -69,4 +70,4 @@ Once files are added, the build should succeed!
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/BUILD_ERRORS_FIXED.md]

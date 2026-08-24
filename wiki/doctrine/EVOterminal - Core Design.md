@@ -2,7 +2,8 @@
 title: EVOterminal - Core Design
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/EVOterminal - Core Design.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOterminal - Core Design.md
 updated: 2026-07-24
 ---
 
@@ -53,4 +54,4 @@ Related notes: [[Conversational System Specification]], [[EVO — System Index]]
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOterminal - Core Design.md]

@@ -2,7 +2,8 @@
 title: CONCENTRIC_ECCENTRIC_ANALYSIS
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/CONCENTRIC_ECCENTRIC_ANALYSIS.md"]
+sources:
+  - source-materials/mirrors/doctrine/CONCENTRIC_ECCENTRIC_ANALYSIS.md
 updated: 2026-07-24
 ---
 
@@ -326,4 +327,4 @@ intensity =
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/CONCENTRIC_ECCENTRIC_ANALYSIS.md]

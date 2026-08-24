@@ -2,7 +2,8 @@
 title: EVO Philosophy
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVO Philosophy.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVO Philosophy.md
 updated: 2026-07-24
 ---
 
@@ -15,4 +16,4 @@ Alice evolves only when the system demonstrates sustainable integration.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVO Philosophy.md]

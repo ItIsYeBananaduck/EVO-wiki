@@ -2,7 +2,8 @@
 title: Deload enforcement
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Deload enforcement.md"]
+sources:
+  - source-materials/mirrors/doctrine/Deload enforcement.md
 updated: 2026-07-24
 ---
 
@@ -26,4 +27,4 @@ ENF Enforcement
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Deload enforcement.md]

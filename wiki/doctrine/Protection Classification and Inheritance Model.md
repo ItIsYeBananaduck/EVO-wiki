@@ -2,7 +2,8 @@
 title: Protection Classification and Inheritance Model
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/Protection Classification and Inheritance Model.md"]
+sources:
+  - source-materials/mirrors/doctrine/Protection Classification and Inheritance Model.md
 updated: 2026-07-24
 ---
 
@@ -170,4 +171,4 @@ Protected parents should not casually produce unprotected children.
 - Protected Storage and Access Model
 - [Bunker Model — Protected User and System Storage Containers](https://www.notion.so/343c72bad0138186af70ec9b2ce2ba9f)
 - [Bunker Access Session Model](https://www.notion.so/343c72bad01381788004c1ec4b0b695d)
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Protection Classification and Inheritance Model.md]

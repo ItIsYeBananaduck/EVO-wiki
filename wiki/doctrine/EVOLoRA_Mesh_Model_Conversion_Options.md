@@ -2,7 +2,8 @@
 title: EVOLoRA_Mesh_Model_Conversion_Options
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOLoRA_Mesh_Model_Conversion_Options.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOLoRA_Mesh_Model_Conversion_Options.md
 updated: 2026-07-24
 ---
 
@@ -192,4 +193,4 @@ python training/quantize_existing_mlx.py \
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOLoRA_Mesh_Model_Conversion_Options.md]

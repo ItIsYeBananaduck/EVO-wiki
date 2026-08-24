@@ -2,7 +2,8 @@
 title: Companion-Oriented AI Systems
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Companion-Oriented AI Systems.md"]
+sources:
+  - source-materials/mirrors/doctrine/Companion-Oriented AI Systems.md
 updated: 2026-07-24
 ---
 
@@ -44,4 +45,4 @@ Companion-oriented AI offers a sustainable alternative to agentic escalation, en
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Companion-Oriented AI Systems.md]

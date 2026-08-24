@@ -2,7 +2,8 @@
 title: Template Selection Mesh
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Template Selection Mesh.md"]
+sources:
+  - source-materials/mirrors/doctrine/Template Selection Mesh.md
 updated: 2026-07-24
 ---
 
@@ -21,4 +22,4 @@ Best working template within approved envelope.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Template Selection Mesh.md]

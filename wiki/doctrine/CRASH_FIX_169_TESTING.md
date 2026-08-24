@@ -2,7 +2,8 @@
 title: CRASH_FIX_169_TESTING
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/CRASH_FIX_169_TESTING.md"]
+sources:
+  - source-materials/mirrors/doctrine/CRASH_FIX_169_TESTING.md
 updated: 2026-07-24
 ---
 
@@ -89,4 +90,4 @@ Check if there are known issues with this version:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/CRASH_FIX_169_TESTING.md]

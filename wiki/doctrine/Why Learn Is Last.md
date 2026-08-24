@@ -2,7 +2,8 @@
 title: Why Learn Is Last
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Why Learn Is Last.md"]
+sources:
+  - source-materials/mirrors/doctrine/Why Learn Is Last.md
 updated: 2026-07-24
 ---
 
@@ -19,4 +20,4 @@ Learn is the final maturity stage.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Why Learn Is Last.md]

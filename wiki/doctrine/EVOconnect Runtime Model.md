@@ -2,7 +2,8 @@
 title: EVOconnect Runtime Model
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOconnect Runtime Model.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOconnect Runtime Model.md
 updated: 2026-07-24
 ---
 
@@ -33,4 +34,4 @@ Runtime awareness is required for safe and effective execution.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOconnect Runtime Model.md]

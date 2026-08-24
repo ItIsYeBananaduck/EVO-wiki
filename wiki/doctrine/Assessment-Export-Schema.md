@@ -2,7 +2,8 @@
 title: Assessment-Export-Schema
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Assessment-Export-Schema.md"]
+sources:
+  - source-materials/mirrors/doctrine/Assessment-Export-Schema.md
 updated: 2026-07-24
 ---
 
@@ -13,4 +14,4 @@ No freeform sensitive notes. No psychological interpretation.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Assessment-Export-Schema.md]

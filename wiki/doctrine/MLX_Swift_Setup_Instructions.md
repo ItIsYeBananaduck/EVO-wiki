@@ -2,7 +2,8 @@
 title: MLX_Swift_Setup_Instructions
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-deprecated/MLX_Swift_Setup_Instructions.md"]
+sources:
+  - source-materials/mirrors/doctrine/MLX_Swift_Setup_Instructions.md
 updated: 2026-07-24
 ---
 
@@ -190,4 +191,4 @@ Once MLX Swift is added:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/MLX_Swift_Setup_Instructions.md]

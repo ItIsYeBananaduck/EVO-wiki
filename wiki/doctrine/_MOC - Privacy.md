@@ -2,7 +2,8 @@
 title: _MOC - Privacy
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/_MOC - Privacy.md"]
+sources:
+  - source-materials/mirrors/doctrine/_MOC - Privacy.md
 updated: 2026-07-24
 ---
 
@@ -25,4 +26,4 @@ School/_MOC - School
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/_MOC - Privacy.md]

@@ -2,7 +2,8 @@
 title: CAPABILITY_MAP_CRASH_FIX
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/CAPABILITY_MAP_CRASH_FIX.md"]
+sources:
+  - source-materials/mirrors/doctrine/CAPABILITY_MAP_CRASH_FIX.md
 updated: 2026-07-24
 ---
 
@@ -83,4 +84,4 @@ The capability map should be at:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/CAPABILITY_MAP_CRASH_FIX.md]

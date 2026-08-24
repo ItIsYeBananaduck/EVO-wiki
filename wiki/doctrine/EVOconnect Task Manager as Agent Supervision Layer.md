@@ -2,7 +2,8 @@
 title: EVOconnect Task Manager as Agent Supervision Layer
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOconnect Task Manager as Agent Supervision Layer.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOconnect Task Manager as Agent Supervision Layer.md
 updated: 2026-07-24
 ---
 
@@ -33,4 +34,4 @@ Supervised execution scales better than invisible execution.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOconnect Task Manager as Agent Supervision Layer.md]

@@ -2,7 +2,8 @@
 title: MUSIC_PLAYER_IMPROVEMENTS
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/MUSIC_PLAYER_IMPROVEMENTS.md"]
+sources:
+  - source-materials/mirrors/doctrine/MUSIC_PLAYER_IMPROVEMENTS.md
 updated: 2026-07-24
 ---
 
@@ -420,4 +421,4 @@ The result is a more workout-friendly music player that intelligently manages pl
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/MUSIC_PLAYER_IMPROVEMENTS.md]

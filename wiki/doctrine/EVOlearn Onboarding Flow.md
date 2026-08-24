@@ -2,7 +2,8 @@
 title: EVOlearn Onboarding Flow
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOlearn Onboarding Flow.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOlearn Onboarding Flow.md
 updated: 2026-07-24
 ---
 
@@ -24,4 +25,4 @@ Onboarding should be simple, personalized, and low-friction.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOlearn Onboarding Flow.md]

@@ -2,7 +2,8 @@
 title: SPEC-monday-workout-integration
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/SPEC-monday-workout-integration.md"]
+sources:
+  - source-materials/mirrors/doctrine/SPEC-monday-workout-integration.md
 updated: 2026-07-24
 ---
 
@@ -205,4 +206,4 @@ Expected: 25% intensity, -5 lbs adjustment
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/SPEC-monday-workout-integration.md]

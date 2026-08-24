@@ -2,7 +2,8 @@
 title: CURRENT_TRAINING_DATA_STATUS
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/CURRENT_TRAINING_DATA_STATUS.md"]
+sources:
+  - source-materials/mirrors/doctrine/CURRENT_TRAINING_DATA_STATUS.md
 updated: 2026-07-24
 ---
 
@@ -373,4 +374,4 @@ String formatAsTrainingJSONL(List<SetTrainingSample> samples) {
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/CURRENT_TRAINING_DATA_STATUS.md]

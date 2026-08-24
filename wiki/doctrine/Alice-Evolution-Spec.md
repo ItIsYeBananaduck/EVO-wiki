@@ -2,7 +2,8 @@
 title: Alice-Evolution-Spec
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Alice-Evolution-Spec.md"]
+sources:
+  - source-materials/mirrors/doctrine/Alice-Evolution-Spec.md
 updated: 2026-07-24
 ---
 
@@ -18,4 +19,4 @@ Related notes: [[Single Alice Illusion]], [[Alice-Limits]], [[alice-orb-features
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Alice-Evolution-Spec.md]

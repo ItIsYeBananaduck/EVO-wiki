@@ -2,7 +2,8 @@
 title: EVOtraining Core Definition
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOtraining Core Definition.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOtraining Core Definition.md
 updated: 2026-07-24
 ---
 
@@ -27,4 +28,4 @@ EVOtraining is not a plan generator. It is a living training system.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOtraining Core Definition.md]

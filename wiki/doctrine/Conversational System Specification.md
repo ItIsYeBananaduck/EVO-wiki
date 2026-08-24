@@ -2,7 +2,8 @@
 title: Conversational System Specification
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/Conversational System Specification.md"]
+sources:
+  - source-materials/mirrors/doctrine/Conversational System Specification.md
 updated: 2026-07-24
 ---
 
@@ -104,4 +105,4 @@ It is the primary interface for awareness, reflection, and guidance in EVOmind.
 ---
 
 Related notes: [[EVO — Cognition Layer]], [[EVOterminal - Core Design]]
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Conversational System Specification.md]

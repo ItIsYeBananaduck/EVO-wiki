@@ -2,7 +2,8 @@
 title: Workout-End Inference Budget
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Workout-End Inference Budget.md"]
+sources:
+  - source-materials/mirrors/doctrine/Workout-End Inference Budget.md
 updated: 2026-07-24
 ---
 
@@ -24,4 +25,4 @@ Inference Budget Ceiling
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Workout-End Inference Budget.md]

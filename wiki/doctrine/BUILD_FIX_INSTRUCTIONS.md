@@ -2,7 +2,8 @@
 title: BUILD_FIX_INSTRUCTIONS
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/BUILD_FIX_INSTRUCTIONS.md"]
+sources:
+  - source-materials/mirrors/doctrine/BUILD_FIX_INSTRUCTIONS.md
 updated: 2026-07-24
 ---
 
@@ -60,4 +61,4 @@ Please share the specific error message from Xcode, and I can help debug further
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/BUILD_FIX_INSTRUCTIONS.md]

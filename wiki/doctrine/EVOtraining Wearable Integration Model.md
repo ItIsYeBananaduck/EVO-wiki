@@ -2,7 +2,8 @@
 title: EVOtraining Wearable Integration Model
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOtraining Wearable Integration Model.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOtraining Wearable Integration Model.md
 updated: 2026-07-24
 ---
 
@@ -28,4 +29,4 @@ More data improves adaptation, but the system must still work without it.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOtraining Wearable Integration Model.md]

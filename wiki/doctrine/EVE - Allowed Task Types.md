@@ -2,7 +2,8 @@
 title: EVE - Allowed Task Types
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/EVE - Allowed Task Types.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVE - Allowed Task Types.md
 updated: 2026-07-24
 ---
 
@@ -15,4 +16,4 @@ EVE outputs insights only. Humans decide actions.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVE - Allowed Task Types.md]

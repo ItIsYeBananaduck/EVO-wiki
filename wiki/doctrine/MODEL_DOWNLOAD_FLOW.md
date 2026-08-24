@@ -2,7 +2,8 @@
 title: MODEL_DOWNLOAD_FLOW
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/MODEL_DOWNLOAD_FLOW.md"]
+sources:
+  - source-materials/mirrors/doctrine/MODEL_DOWNLOAD_FLOW.md
 updated: 2026-07-24
 ---
 
@@ -131,4 +132,4 @@ Related notes: [[R2_MODEL_PATHS]], [[model-id-client]], [[integrity_hardfail]], 
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/MODEL_DOWNLOAD_FLOW.md]

@@ -2,7 +2,8 @@
 title: Live Activity Inference
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Live Activity Inference.md"]
+sources:
+  - source-materials/mirrors/doctrine/Live Activity Inference.md
 updated: 2026-07-24
 ---
 
@@ -24,4 +25,4 @@ Links
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Live Activity Inference.md]

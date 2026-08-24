@@ -2,7 +2,8 @@
 title: Awareness vs Learning Boundary
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Awareness vs Learning Boundary.md"]
+sources:
+  - source-materials/mirrors/doctrine/Awareness vs Learning Boundary.md
 updated: 2026-07-24
 ---
 
@@ -33,4 +34,4 @@ A system that notices everything must not learn everything.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Awareness vs Learning Boundary.md]

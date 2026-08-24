@@ -2,7 +2,8 @@
 title: District EVE Architecture
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/District EVE Architecture.md"]
+sources:
+  - source-materials/mirrors/doctrine/District EVE Architecture.md
 updated: 2026-07-24
 ---
 
@@ -35,4 +36,4 @@ Human administrators interpret results.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/District EVE Architecture.md]

@@ -2,7 +2,8 @@
 title: MLX_Implementation_Complete
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-deprecated/MLX_Implementation_Complete.md"]
+sources:
+  - source-materials/mirrors/doctrine/MLX_Implementation_Complete.md
 updated: 2026-07-24
 ---
 
@@ -139,4 +140,4 @@ The model can now:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/MLX_Implementation_Complete.md]

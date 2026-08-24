@@ -2,7 +2,8 @@
 title: Alice Visibility Rules
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Alice Visibility Rules.md"]
+sources:
+  - source-materials/mirrors/doctrine/Alice Visibility Rules.md
 updated: 2026-07-24
 ---
 
@@ -65,4 +66,4 @@ Widget extension copies in `flutter_app/ios/EvoFitnessWidget/Assets.xcassets/` a
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Alice Visibility Rules.md]

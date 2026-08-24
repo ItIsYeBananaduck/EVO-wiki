@@ -2,7 +2,8 @@
 title: EVOmind — Signal Model
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOmind — Signal Model.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOmind — Signal Model.md
 updated: 2026-07-24
 ---
 
@@ -273,4 +274,4 @@ It enables:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOmind — Signal Model.md]

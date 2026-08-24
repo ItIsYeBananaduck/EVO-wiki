@@ -2,7 +2,8 @@
 title: Unlock-Rules
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Unlock-Rules.md"]
+sources:
+  - source-materials/mirrors/doctrine/Unlock-Rules.md
 updated: 2026-07-24
 ---
 
@@ -24,4 +25,4 @@ offers alternate methods automatically
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Unlock-Rules.md]

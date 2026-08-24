@@ -2,7 +2,8 @@
 title: EVOtraining Adaptation Loop
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOtraining Adaptation Loop.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOtraining Adaptation Loop.md
 updated: 2026-07-24
 ---
 
@@ -25,4 +26,4 @@ Related notes: [[Seamless Adaptation Principle]]
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOtraining Adaptation Loop.md]

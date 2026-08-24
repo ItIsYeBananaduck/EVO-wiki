@@ -2,7 +2,8 @@
 title: Rep Range Stability
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Rep Range Stability.md"]
+sources:
+  - source-materials/mirrors/doctrine/Rep Range Stability.md
 updated: 2026-07-24
 ---
 
@@ -25,4 +26,4 @@ Links
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Rep Range Stability.md]

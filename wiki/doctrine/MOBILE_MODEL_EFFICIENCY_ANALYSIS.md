@@ -2,7 +2,8 @@
 title: MOBILE_MODEL_EFFICIENCY_ANALYSIS
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/MOBILE_MODEL_EFFICIENCY_ANALYSIS.md"]
+sources:
+  - source-materials/mirrors/doctrine/MOBILE_MODEL_EFFICIENCY_ANALYSIS.md
 updated: 2026-07-24
 ---
 
@@ -272,4 +273,4 @@ _Author: Cascade AI Analysis_
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/MOBILE_MODEL_EFFICIENCY_ANALYSIS.md]

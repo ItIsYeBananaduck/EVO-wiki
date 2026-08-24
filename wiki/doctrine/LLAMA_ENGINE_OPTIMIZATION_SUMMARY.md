@@ -2,7 +2,8 @@
 title: LLAMA_ENGINE_OPTIMIZATION_SUMMARY
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/LLAMA_ENGINE_OPTIMIZATION_SUMMARY.md"]
+sources:
+  - source-materials/mirrors/doctrine/LLAMA_ENGINE_OPTIMIZATION_SUMMARY.md
 updated: 2026-07-24
 ---
 
@@ -210,4 +211,4 @@ Optimized the on-device llama.cpp (Metal) chat engine to fix slow inference by r
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/LLAMA_ENGINE_OPTIMIZATION_SUMMARY.md]

@@ -2,7 +2,8 @@
 title: Hive Bid Scoring Rule
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Hive Bid Scoring Rule.md"]
+sources:
+  - source-materials/mirrors/doctrine/Hive Bid Scoring Rule.md
 updated: 2026-07-24
 ---
 
@@ -25,4 +26,4 @@ Links
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Hive Bid Scoring Rule.md]

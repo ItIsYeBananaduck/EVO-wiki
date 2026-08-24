@@ -2,7 +2,8 @@
 title: EVOLoRA_Mesh_MLX_Complete_Summary
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-deprecated/EVOLoRA_Mesh_MLX_Complete_Summary.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOLoRA_Mesh_MLX_Complete_Summary.md
 updated: 2026-07-24
 ---
 
@@ -171,4 +172,4 @@ The system is ready. When MLX is implemented, it will automatically be used for 
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOLoRA_Mesh_MLX_Complete_Summary.md]

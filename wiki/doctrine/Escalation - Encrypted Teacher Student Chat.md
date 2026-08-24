@@ -2,7 +2,8 @@
 title: Escalation - Encrypted Teacher Student Chat
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Escalation - Encrypted Teacher Student Chat.md"]
+sources:
+  - source-materials/mirrors/doctrine/Escalation - Encrypted Teacher Student Chat.md
 updated: 2026-07-24
 ---
 
@@ -46,4 +47,4 @@ thread organization by concept tag
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Escalation - Encrypted Teacher Student Chat.md]

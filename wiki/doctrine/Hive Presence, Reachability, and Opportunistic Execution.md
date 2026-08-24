@@ -2,7 +2,8 @@
 title: Hive Presence, Reachability, and Opportunistic Execution
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Hive Presence, Reachability, and Opportunistic Execution.md"]
+sources:
+  - source-materials/mirrors/doctrine/Hive Presence, Reachability, and Opportunistic Execution.md
 updated: 2026-07-24
 ---
 
@@ -77,4 +78,4 @@ requires approval
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Hive Presence, Reachability, and Opportunistic Execution.md]

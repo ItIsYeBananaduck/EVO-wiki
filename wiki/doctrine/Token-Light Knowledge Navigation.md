@@ -2,7 +2,8 @@
 title: Token-Light Knowledge Navigation
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/Token-Light Knowledge Navigation.md"]
+sources:
+  - source-materials/mirrors/doctrine/Token-Light Knowledge Navigation.md
 updated: 2026-07-24
 ---
 
@@ -410,4 +411,4 @@ This lets EVO scale to a massive knowledge pool without becoming slow, expensive
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Token-Light Knowledge Navigation.md]

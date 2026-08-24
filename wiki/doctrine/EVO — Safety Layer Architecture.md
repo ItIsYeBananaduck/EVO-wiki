@@ -2,7 +2,8 @@
 title: EVO — Safety Layer Architecture
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVO — Safety Layer Architecture.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVO — Safety Layer Architecture.md
 updated: 2026-07-24
 ---
 
@@ -100,4 +101,4 @@ User request
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVO — Safety Layer Architecture.md]

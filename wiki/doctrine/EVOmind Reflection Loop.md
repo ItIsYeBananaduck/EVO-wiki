@@ -2,7 +2,8 @@
 title: EVOmind Reflection Loop
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOmind Reflection Loop.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOmind Reflection Loop.md
 updated: 2026-07-24
 ---
 
@@ -25,4 +26,4 @@ Awareness compounds when reflection is structured and continuous.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOmind Reflection Loop.md]

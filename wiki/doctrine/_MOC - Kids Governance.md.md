@@ -2,7 +2,8 @@
 title: _MOC - Kids Governance.md
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/_MOC - Kids Governance.md.md"]
+sources:
+  - source-materials/mirrors/doctrine/_MOC - Kids Governance.md.md
 updated: 2026-07-24
 ---
 
@@ -24,4 +25,4 @@ Safety/_MOC - Safety
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/_MOC - Kids Governance.md.md]

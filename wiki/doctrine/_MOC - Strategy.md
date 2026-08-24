@@ -2,7 +2,8 @@
 title: _MOC - Strategy
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/_MOC - Strategy.md"]
+sources:
+  - source-materials/mirrors/doctrine/_MOC - Strategy.md
 updated: 2026-07-24
 ---
 
@@ -26,4 +27,4 @@ Related notes: [[Monetization Model]]
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/_MOC - Strategy.md]

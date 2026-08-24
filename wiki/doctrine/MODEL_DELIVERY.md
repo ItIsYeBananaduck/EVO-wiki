@@ -2,7 +2,8 @@
 title: MODEL_DELIVERY
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/MODEL_DELIVERY.md"]
+sources:
+  - source-materials/mirrors/doctrine/MODEL_DELIVERY.md
 updated: 2026-07-24
 ---
 
@@ -184,4 +185,4 @@ To verify the fix, collect these logs from Xcode console:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/MODEL_DELIVERY.md]

@@ -2,7 +2,8 @@
 title: Strict Mode (Verification-First)
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Strict Mode (Verification-First).md"]
+sources:
+  - source-materials/mirrors/doctrine/Strict Mode (Verification-First).md
 updated: 2026-07-24
 ---
 
@@ -20,4 +21,4 @@ Goal: Never confidently wrong. Always grounded.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Strict Mode (Verification-First).md]

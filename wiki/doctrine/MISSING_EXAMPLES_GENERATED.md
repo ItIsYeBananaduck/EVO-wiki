@@ -2,7 +2,8 @@
 title: MISSING_EXAMPLES_GENERATED
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/MISSING_EXAMPLES_GENERATED.md"]
+sources:
+  - source-materials/mirrors/doctrine/MISSING_EXAMPLES_GENERATED.md
 updated: 2026-07-24
 ---
 
@@ -153,4 +154,4 @@ cat data/missing_auto_agentic_examples.jsonl >> data/enf_train.jsonl
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/MISSING_EXAMPLES_GENERATED.md]

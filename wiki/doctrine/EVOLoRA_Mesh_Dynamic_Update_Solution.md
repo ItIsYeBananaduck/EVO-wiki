@@ -2,7 +2,8 @@
 title: EVOLoRA_Mesh_Dynamic_Update_Solution
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOLoRA_Mesh_Dynamic_Update_Solution.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOLoRA_Mesh_Dynamic_Update_Solution.md
 updated: 2026-07-24
 ---
 
@@ -332,4 +333,4 @@ If full adapter replacement is too slow, consider:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOLoRA_Mesh_Dynamic_Update_Solution.md]

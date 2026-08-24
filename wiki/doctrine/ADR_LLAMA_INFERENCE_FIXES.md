@@ -2,7 +2,8 @@
 title: ADR_LLAMA_INFERENCE_FIXES
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/ADR_LLAMA_INFERENCE_FIXES.md"]
+sources:
+  - source-materials/mirrors/doctrine/ADR_LLAMA_INFERENCE_FIXES.md
 updated: 2026-07-24
 ---
 
@@ -288,4 +289,4 @@ Implement comprehensive fixes with:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/ADR_LLAMA_INFERENCE_FIXES.md]

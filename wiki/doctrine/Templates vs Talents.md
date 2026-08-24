@@ -2,7 +2,8 @@
 title: Templates vs Talents
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Templates vs Talents.md"]
+sources:
+  - source-materials/mirrors/doctrine/Templates vs Talents.md
 updated: 2026-07-24
 ---
 
@@ -23,4 +24,4 @@ Templates only exist in EVOlearn. Talents exist across the ecosystem.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Templates vs Talents.md]

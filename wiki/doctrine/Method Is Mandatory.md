@@ -2,7 +2,8 @@
 title: Method Is Mandatory
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Method Is Mandatory.md"]
+sources:
+  - source-materials/mirrors/doctrine/Method Is Mandatory.md
 updated: 2026-07-24
 ---
 
@@ -24,4 +25,4 @@ Links
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Method Is Mandatory.md]

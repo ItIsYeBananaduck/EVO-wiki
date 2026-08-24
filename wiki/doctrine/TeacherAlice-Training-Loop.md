@@ -2,7 +2,8 @@
 title: TeacherAlice-Training-Loop
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/TeacherAlice-Training-Loop.md"]
+sources:
+  - source-materials/mirrors/doctrine/TeacherAlice-Training-Loop.md
 updated: 2026-07-24
 ---
 
@@ -14,4 +15,4 @@ Teacher approval: - teacher can lock outputs - teacher can approve variants - te
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/TeacherAlice-Training-Loop.md]

@@ -2,7 +2,8 @@
 title: Journal Entry Schema
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/Journal Entry Schema.md"]
+sources:
+  - source-materials/mirrors/doctrine/Journal Entry Schema.md
 updated: 2026-07-24
 ---
 
@@ -240,4 +241,4 @@ See also: [[EVOmind — Signal Model]], [[Ingestion-Pipeline-Reuse]]
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Journal Entry Schema.md]

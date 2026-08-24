@@ -2,7 +2,8 @@
 title: CAPABILITY_MAP_USAGE
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/CAPABILITY_MAP_USAGE.md"]
+sources:
+  - source-materials/mirrors/doctrine/CAPABILITY_MAP_USAGE.md
 updated: 2026-07-24
 ---
 
@@ -162,4 +163,4 @@ Include the map structure in training examples so Alice learns to reference it.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/CAPABILITY_MAP_USAGE.md]

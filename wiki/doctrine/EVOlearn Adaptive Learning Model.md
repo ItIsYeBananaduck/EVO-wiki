@@ -2,7 +2,8 @@
 title: EVOlearn Adaptive Learning Model
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOlearn Adaptive Learning Model.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOlearn Adaptive Learning Model.md
 updated: 2026-07-24
 ---
 
@@ -30,4 +31,4 @@ Learning should continuously adapt to maximize understanding and retention.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOlearn Adaptive Learning Model.md]

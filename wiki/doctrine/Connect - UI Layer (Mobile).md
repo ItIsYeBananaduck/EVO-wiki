@@ -2,7 +2,8 @@
 title: Connect - UI Layer (Mobile)
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Connect - UI Layer (Mobile).md"]
+sources:
+  - source-materials/mirrors/doctrine/Connect - UI Layer (Mobile).md
 updated: 2026-07-24
 ---
 
@@ -15,4 +16,4 @@ Minimalist design. Always available. Out of the way.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Connect - UI Layer (Mobile).md]

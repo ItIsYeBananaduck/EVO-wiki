@@ -2,7 +2,8 @@
 title: MLX_Weight_Mapping_Complete
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-deprecated/MLX_Weight_Mapping_Complete.md"]
+sources:
+  - source-materials/mirrors/doctrine/MLX_Weight_Mapping_Complete.md
 updated: 2026-07-24
 ---
 
@@ -163,4 +164,4 @@ Once decoder layers are initialized, all weights will be automatically mapped an
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/MLX_Weight_Mapping_Complete.md]

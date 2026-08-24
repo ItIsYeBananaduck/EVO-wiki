@@ -2,7 +2,8 @@
 title: CAPABILITY_MAP_REMOVED
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/CAPABILITY_MAP_REMOVED.md"]
+sources:
+  - source-materials/mirrors/doctrine/CAPABILITY_MAP_REMOVED.md
 updated: 2026-07-24
 ---
 
@@ -50,4 +51,4 @@ The system now uses:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/CAPABILITY_MAP_REMOVED.md]

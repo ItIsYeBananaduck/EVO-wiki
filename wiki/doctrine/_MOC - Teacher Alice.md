@@ -2,7 +2,8 @@
 title: _MOC - Teacher Alice
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/_MOC - Teacher Alice.md"]
+sources:
+  - source-materials/mirrors/doctrine/_MOC - Teacher Alice.md
 updated: 2026-07-24
 ---
 
@@ -32,4 +33,4 @@ Related
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/_MOC - Teacher Alice.md]

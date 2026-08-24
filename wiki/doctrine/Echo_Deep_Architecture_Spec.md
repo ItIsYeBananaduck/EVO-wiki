@@ -2,7 +2,8 @@
 title: Echo_Deep_Architecture_Spec
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/Echo_Deep_Architecture_Spec.md"]
+sources:
+  - source-materials/mirrors/doctrine/Echo_Deep_Architecture_Spec.md
 updated: 2026-07-24
 ---
 
@@ -24,4 +25,4 @@ Echo bundles are continuously updated while the source is alive.Process:1. User 
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Echo_Deep_Architecture_Spec.md]

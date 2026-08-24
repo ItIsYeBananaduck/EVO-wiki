@@ -2,7 +2,8 @@
 title: Provider vs Environment Access
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Provider vs Environment Access.md"]
+sources:
+  - source-materials/mirrors/doctrine/Provider vs Environment Access.md
 updated: 2026-07-24
 ---
 
@@ -56,4 +57,4 @@ She needs: - the ability to orchestrate everything
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Provider vs Environment Access.md]

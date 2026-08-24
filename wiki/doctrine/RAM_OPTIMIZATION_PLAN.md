@@ -2,7 +2,8 @@
 title: RAM_OPTIMIZATION_PLAN
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/RAM_OPTIMIZATION_PLAN.md"]
+sources:
+  - source-materials/mirrors/doctrine/RAM_OPTIMIZATION_PLAN.md
 updated: 2026-07-24
 ---
 
@@ -569,4 +570,4 @@ All changes are **feature-flagged**, **tier-gated**, and **reversible**. The 2-w
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/RAM_OPTIMIZATION_PLAN.md]

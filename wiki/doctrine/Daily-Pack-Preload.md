@@ -2,7 +2,8 @@
 title: Daily-Pack-Preload
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Daily-Pack-Preload.md"]
+sources:
+  - source-materials/mirrors/doctrine/Daily-Pack-Preload.md
 updated: 2026-07-24
 ---
 
@@ -25,4 +26,4 @@ defer large video unless explicitly required
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Daily-Pack-Preload.md]

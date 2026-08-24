@@ -2,7 +2,8 @@
 title: Seamless Adaptation Principle
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Seamless Adaptation Principle.md"]
+sources:
+  - source-materials/mirrors/doctrine/Seamless Adaptation Principle.md
 updated: 2026-07-24
 ---
 
@@ -42,4 +43,4 @@ Related notes: [[EVOtraining Adaptation Loop]], [[EVOtraining AI Adjustment Mode
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Seamless Adaptation Principle.md]

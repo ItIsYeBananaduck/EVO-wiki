@@ -2,7 +2,8 @@
 title: Visual-Evolution-System
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Visual-Evolution-System.md"]
+sources:
+  - source-materials/mirrors/doctrine/Visual-Evolution-System.md
 updated: 2026-07-24
 ---
 
@@ -14,4 +15,4 @@ Evolution represents cumulative growth, not recent performance.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Visual-Evolution-System.md]

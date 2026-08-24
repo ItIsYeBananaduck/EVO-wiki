@@ -2,7 +2,8 @@
 title: CLEANUP_SUMMARY
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/CLEANUP_SUMMARY.md"]
+sources:
+  - source-materials/mirrors/doctrine/CLEANUP_SUMMARY.md
 updated: 2026-07-24
 ---
 
@@ -113,4 +114,4 @@ git ls-files | xargs -I {} sh -c 'test -f {} && du -h {}' 2>/dev/null | awk '$1 
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/CLEANUP_SUMMARY.md]

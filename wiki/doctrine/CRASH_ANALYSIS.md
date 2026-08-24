@@ -2,7 +2,8 @@
 title: CRASH_ANALYSIS
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/CRASH_ANALYSIS.md"]
+sources:
+  - source-materials/mirrors/doctrine/CRASH_ANALYSIS.md
 updated: 2026-07-24
 ---
 
@@ -118,4 +119,4 @@ wget https://huggingface.co/microsoft/Phi-3-mini-4k-instruct-gguf/resolve/main/P
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/CRASH_ANALYSIS.md]

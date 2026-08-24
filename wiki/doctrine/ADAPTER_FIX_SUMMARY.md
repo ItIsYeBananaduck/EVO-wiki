@@ -2,7 +2,8 @@
 title: ADAPTER_FIX_SUMMARY
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/ADAPTER_FIX_SUMMARY.md"]
+sources:
+  - source-materials/mirrors/doctrine/ADAPTER_FIX_SUMMARY.md
 updated: 2026-07-24
 ---
 
@@ -72,4 +73,4 @@ But this will be overwritten on the next sync.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/ADAPTER_FIX_SUMMARY.md]

@@ -2,7 +2,8 @@
 title: EVOconnect — Connect Library and Bunker Visibility Model
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOconnect — Connect Library and Bunker Visibility Model.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOconnect — Connect Library and Bunker Visibility Model.md
 updated: 2026-07-24
 ---
 
@@ -499,4 +500,4 @@ The workspace should help surface what matters when it matters.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOconnect — Connect Library and Bunker Visibility Model.md]

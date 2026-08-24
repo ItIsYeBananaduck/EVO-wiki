@@ -2,7 +2,8 @@
 title: Mesocycle Awareness
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Mesocycle Awareness.md"]
+sources:
+  - source-materials/mirrors/doctrine/Mesocycle Awareness.md
 updated: 2026-07-24
 ---
 
@@ -27,4 +28,4 @@ Links
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Mesocycle Awareness.md]

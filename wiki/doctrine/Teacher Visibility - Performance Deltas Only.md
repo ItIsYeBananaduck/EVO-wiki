@@ -2,7 +2,8 @@
 title: Teacher Visibility - Performance Deltas Only
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Teacher Visibility - Performance Deltas Only.md"]
+sources:
+  - source-materials/mirrors/doctrine/Teacher Visibility - Performance Deltas Only.md
 updated: 2026-07-24
 ---
 
@@ -25,4 +26,4 @@ Preserves: - institutional trust - student dignity - neutral reporting
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Teacher Visibility - Performance Deltas Only.md]

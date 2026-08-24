@@ -2,7 +2,8 @@
 title: OAUTH_FIXED
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/OAUTH_FIXED.md"]
+sources:
+  - source-materials/mirrors/doctrine/OAUTH_FIXED.md
 updated: 2026-07-24
 ---
 
@@ -93,4 +94,4 @@ Make sure you've added the redirect URL to Supabase:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/OAUTH_FIXED.md]

@@ -2,7 +2,8 @@
 title: CAPABILITY_MAP_STORAGE_ANALYSIS
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/CAPABILITY_MAP_STORAGE_ANALYSIS.md"]
+sources:
+  - source-materials/mirrors/doctrine/CAPABILITY_MAP_STORAGE_ANALYSIS.md
 updated: 2026-07-24
 ---
 
@@ -268,4 +269,4 @@ func getRelevantCapabilities(...) -> [String: Any]? {
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/CAPABILITY_MAP_STORAGE_ANALYSIS.md]

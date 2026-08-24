@@ -2,7 +2,8 @@
 title: EVE - Procedural Execution Model
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/EVE - Procedural Execution Model.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVE - Procedural Execution Model.md
 updated: 2026-07-24
 ---
 
@@ -35,4 +36,4 @@ EVE verifies efficiency only.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVE - Procedural Execution Model.md]

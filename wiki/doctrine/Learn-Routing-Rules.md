@@ -2,7 +2,8 @@
 title: Learn-Routing-Rules
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Learn-Routing-Rules.md"]
+sources:
+  - source-materials/mirrors/doctrine/Learn-Routing-Rules.md
 updated: 2026-07-24
 ---
 
@@ -23,4 +24,4 @@ Alice adapts presentation style first. Content second.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Learn-Routing-Rules.md]

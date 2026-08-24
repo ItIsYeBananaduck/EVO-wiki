@@ -2,7 +2,8 @@
 title: Per-Unit Adaptation Window
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Per-Unit Adaptation Window.md"]
+sources:
+  - source-materials/mirrors/doctrine/Per-Unit Adaptation Window.md
 updated: 2026-07-24
 ---
 
@@ -33,4 +34,4 @@ update yearly carry-over memory
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Per-Unit Adaptation Window.md]

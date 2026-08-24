@@ -2,7 +2,8 @@
 title: Task Transparency Retention
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Task Transparency Retention.md"]
+sources:
+  - source-materials/mirrors/doctrine/Task Transparency Retention.md
 updated: 2026-07-24
 ---
 
@@ -29,4 +30,4 @@ Related notes: [[Task Audit Log Minimum Fields]]
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Task Transparency Retention.md]

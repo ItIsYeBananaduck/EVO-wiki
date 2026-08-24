@@ -2,7 +2,8 @@
 title: EVE Governance MOC
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVE Governance MOC.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVE Governance MOC.md
 updated: 2026-07-24
 ---
 
@@ -35,4 +36,4 @@ Governance ensures safe, controlled, and auditable execution across all EVO doma
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVE Governance MOC.md]

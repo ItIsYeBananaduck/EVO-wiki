@@ -2,7 +2,8 @@
 title: Communication Modes - Teacher Boundary Model
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Communication Modes - Teacher Boundary Model.md"]
+sources:
+  - source-materials/mirrors/doctrine/Communication Modes - Teacher Boundary Model.md
 updated: 2026-07-24
 ---
 
@@ -27,4 +28,4 @@ This mode: - protects teacher boundaries - prevents spam - maintains academic fo
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Communication Modes - Teacher Boundary Model.md]

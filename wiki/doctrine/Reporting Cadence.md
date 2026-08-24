@@ -2,7 +2,8 @@
 title: Reporting Cadence
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Reporting Cadence.md"]
+sources:
+  - source-materials/mirrors/doctrine/Reporting Cadence.md
 updated: 2026-07-24
 ---
 
@@ -29,4 +30,4 @@ Builds institutional trust
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Reporting Cadence.md]

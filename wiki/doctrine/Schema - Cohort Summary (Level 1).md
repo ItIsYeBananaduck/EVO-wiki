@@ -2,7 +2,8 @@
 title: Schema - Cohort Summary (Level 1)
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Schema - Cohort Summary (Level 1).md"]
+sources:
+  - source-materials/mirrors/doctrine/Schema - Cohort Summary (Level 1).md
 updated: 2026-07-24
 ---
 
@@ -16,4 +17,4 @@ Cohort = class section (Learn) or department/team (Enterprise).
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Schema - Cohort Summary (Level 1).md]

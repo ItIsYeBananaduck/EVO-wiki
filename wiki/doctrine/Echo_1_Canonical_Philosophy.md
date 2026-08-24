@@ -2,7 +2,8 @@
 title: Echo_1_Canonical_Philosophy
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/Echo_1_Canonical_Philosophy.md"]
+sources:
+  - source-materials/mirrors/doctrine/Echo_1_Canonical_Philosophy.md
 updated: 2026-07-24
 ---
 
@@ -35,4 +36,4 @@ A calm, grounding, and peaceful space where users can access Echoes entrusted to
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Echo_1_Canonical_Philosophy.md]

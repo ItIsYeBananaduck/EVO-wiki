@@ -2,7 +2,8 @@
 title: ARCHITECTURE_CLARIFICATION
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/ARCHITECTURE_CLARIFICATION.md"]
+sources:
+  - source-materials/mirrors/doctrine/ARCHITECTURE_CLARIFICATION.md
 updated: 2026-07-24
 ---
 
@@ -216,4 +217,4 @@ The architecture is: **ENF reduces violations → Gating enforces → VOICE styl
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/ARCHITECTURE_CLARIFICATION.md]

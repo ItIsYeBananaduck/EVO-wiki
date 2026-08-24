@@ -2,7 +2,8 @@
 title: Predictive-Regulation-Model
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Predictive-Regulation-Model.md"]
+sources:
+  - source-materials/mirrors/doctrine/Predictive-Regulation-Model.md
 updated: 2026-07-24
 ---
 
@@ -23,4 +24,4 @@ Related notes: [[Signal-Architecture]], [[Non-Intrusive Guidance]]
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Predictive-Regulation-Model.md]

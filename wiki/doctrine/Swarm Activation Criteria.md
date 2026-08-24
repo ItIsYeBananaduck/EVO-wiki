@@ -2,7 +2,8 @@
 title: Swarm Activation Criteria
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Swarm Activation Criteria.md"]
+sources:
+  - source-materials/mirrors/doctrine/Swarm Activation Criteria.md
 updated: 2026-07-24
 ---
 
@@ -25,4 +26,4 @@ Inference Budget Ceiling
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Swarm Activation Criteria.md]

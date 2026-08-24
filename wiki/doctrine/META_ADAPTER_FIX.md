@@ -2,7 +2,8 @@
 title: META_ADAPTER_FIX
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/META_ADAPTER_FIX.md"]
+sources:
+  - source-materials/mirrors/doctrine/META_ADAPTER_FIX.md
 updated: 2026-07-24
 ---
 
@@ -100,4 +101,4 @@ For now, the META adapter fix is the priority since that's what you just retrain
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/META_ADAPTER_FIX.md]

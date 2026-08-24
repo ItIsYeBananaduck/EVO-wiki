@@ -2,7 +2,8 @@
 title: ACTION_CARD_QUERY
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/ACTION_CARD_QUERY.md"]
+sources:
+  - source-materials/mirrors/doctrine/ACTION_CARD_QUERY.md
 updated: 2026-07-24
 ---
 
@@ -131,4 +132,4 @@ When user requests an action:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/ACTION_CARD_QUERY.md]

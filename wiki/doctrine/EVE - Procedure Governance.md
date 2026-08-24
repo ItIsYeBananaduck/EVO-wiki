@@ -2,7 +2,8 @@
 title: EVE - Procedure Governance
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/EVE - Procedure Governance.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVE - Procedure Governance.md
 updated: 2026-07-24
 ---
 
@@ -24,4 +25,4 @@ Administrative control ensures: - Consistency - Accountability - Auditability - 
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVE - Procedure Governance.md]

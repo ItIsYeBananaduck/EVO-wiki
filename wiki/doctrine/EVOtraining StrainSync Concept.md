@@ -2,7 +2,8 @@
 title: EVOtraining StrainSync Concept
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOtraining StrainSync Concept.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOtraining StrainSync Concept.md
 updated: 2026-07-24
 ---
 
@@ -32,4 +33,4 @@ Related notes: [[STRAINSYNC_TRAINING_DATA]]
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOtraining StrainSync Concept.md]

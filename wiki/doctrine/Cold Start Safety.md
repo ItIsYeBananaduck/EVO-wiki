@@ -2,7 +2,8 @@
 title: Cold Start Safety
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Cold Start Safety.md"]
+sources:
+  - source-materials/mirrors/doctrine/Cold Start Safety.md
 updated: 2026-07-24
 ---
 
@@ -26,4 +27,4 @@ Links
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Cold Start Safety.md]

@@ -2,7 +2,8 @@
 title: trainer-calendar-supabase-decommission
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/trainer-calendar-supabase-decommission.md"]
+sources:
+  - source-materials/mirrors/doctrine/trainer-calendar-supabase-decommission.md
 updated: 2026-07-24
 ---
 
@@ -127,4 +128,4 @@ No zombie calendar code remains.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/trainer-calendar-supabase-decommission.md]

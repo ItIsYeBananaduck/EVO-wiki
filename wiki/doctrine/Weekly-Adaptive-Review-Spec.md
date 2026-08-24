@@ -2,7 +2,8 @@
 title: Weekly-Adaptive-Review-Spec
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Weekly-Adaptive-Review-Spec.md"]
+sources:
+  - source-materials/mirrors/doctrine/Weekly-Adaptive-Review-Spec.md
 updated: 2026-07-24
 ---
 
@@ -23,4 +24,4 @@ No cross-domain reinforcement.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Weekly-Adaptive-Review-Spec.md]

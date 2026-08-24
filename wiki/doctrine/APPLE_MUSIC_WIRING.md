@@ -2,7 +2,8 @@
 title: APPLE_MUSIC_WIRING
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/APPLE_MUSIC_WIRING.md"]
+sources:
+  - source-materials/mirrors/doctrine/APPLE_MUSIC_WIRING.md
 updated: 2026-07-24
 ---
 
@@ -370,4 +371,4 @@ Ready to implement when you are! 🎵
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/APPLE_MUSIC_WIRING.md]

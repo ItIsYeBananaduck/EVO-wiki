@@ -2,7 +2,8 @@
 title: Delegator Doctrine Execution Authority
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/Delegator Doctrine Execution Authority.md"]
+sources:
+  - source-materials/mirrors/doctrine/Delegator Doctrine Execution Authority.md
 updated: 2026-07-24
 ---
 
@@ -168,4 +169,4 @@ All execution authority flows through Delegator.
 ---
 
 Related notes: [[Alice Delegation Governance Model]]
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Delegator Doctrine Execution Authority.md]

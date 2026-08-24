@@ -2,7 +2,8 @@
 title: INTEGRATION_GAPS_PROPOSAL
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/INTEGRATION_GAPS_PROPOSAL.md"]
+sources:
+  - source-materials/mirrors/doctrine/INTEGRATION_GAPS_PROPOSAL.md
 updated: 2026-07-24
 ---
 
@@ -471,4 +472,4 @@ With an estimated **11-15 hours** of development work, these gaps can be closed,
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/INTEGRATION_GAPS_PROPOSAL.md]

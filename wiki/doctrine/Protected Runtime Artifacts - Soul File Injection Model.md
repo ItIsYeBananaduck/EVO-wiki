@@ -2,7 +2,8 @@
 title: Protected Runtime Artifacts - Soul File Injection Model
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/Protected Runtime Artifacts - Soul File Injection Model.md"]
+sources:
+  - source-materials/mirrors/doctrine/Protected Runtime Artifacts - Soul File Injection Model.md
 updated: 2026-07-24
 ---
 
@@ -319,4 +320,4 @@ Alice may not inspect it as ordinary code.
 - Protected System Zones and Privileged Change Policy
 - [Delegator — Execution Governance Doctrine](https://app.notion.com/p/342c72bad01381e088ecc512452813e4)
 - Repo Adapter Design
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Protected Runtime Artifacts - Soul File Injection Model.md]

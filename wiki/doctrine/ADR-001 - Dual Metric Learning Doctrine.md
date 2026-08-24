@@ -2,7 +2,8 @@
 title: ADR-001 - Dual Metric Learning Doctrine
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/ADR-001 - Dual Metric Learning Doctrine.md"]
+sources:
+  - source-materials/mirrors/doctrine/ADR-001 - Dual Metric Learning Doctrine.md
 updated: 2026-07-24
 ---
 
@@ -81,4 +82,4 @@ Requires new ADR and governance review.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/ADR-001 - Dual Metric Learning Doctrine.md]

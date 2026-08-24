@@ -2,7 +2,8 @@
 title: HOW_TO_ACCESS_DEVICE_FILES
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/HOW_TO_ACCESS_DEVICE_FILES.md"]
+sources:
+  - source-materials/mirrors/doctrine/HOW_TO_ACCESS_DEVICE_FILES.md
 updated: 2026-07-24
 ---
 
@@ -119,4 +120,4 @@ Would you like me to add a debug UI for viewing logs directly in the app?
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/HOW_TO_ACCESS_DEVICE_FILES.md]

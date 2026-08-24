@@ -2,7 +2,8 @@
 title: EVE Policy Enforcement Model
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVE Policy Enforcement Model.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVE Policy Enforcement Model.md
 updated: 2026-07-24
 ---
 
@@ -99,4 +100,4 @@ Policy enforcement is handled deterministically by `GatingEngine` in code, downs
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVE Policy Enforcement Model.md]

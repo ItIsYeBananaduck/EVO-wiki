@@ -2,7 +2,8 @@
 title: EVOLORA_MESH_ARCHITECTURE
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOLORA_MESH_ARCHITECTURE.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOLORA_MESH_ARCHITECTURE.md
 updated: 2026-07-24
 ---
 
@@ -387,4 +388,4 @@ EVOLoRA Mesh is a **modular, adaptive system** that:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOLORA_MESH_ARCHITECTURE.md]

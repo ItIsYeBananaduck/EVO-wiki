@@ -2,7 +2,8 @@
 title: Retention Stability Banding Scope
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Retention Stability Banding Scope.md"]
+sources:
+  - source-materials/mirrors/doctrine/Retention Stability Banding Scope.md
 updated: 2026-07-24
 ---
 
@@ -23,4 +24,4 @@ Bands are internal to SA. Only aggregated bucket distributions propagate upward.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Retention Stability Banding Scope.md]

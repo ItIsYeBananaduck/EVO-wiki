@@ -2,7 +2,8 @@
 title: CRASH_FIX_SUMMARY
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/CRASH_FIX_SUMMARY.md"]
+sources:
+  - source-materials/mirrors/doctrine/CRASH_FIX_SUMMARY.md
 updated: 2026-07-24
 ---
 
@@ -115,4 +116,4 @@ The `safeDecode` function now validates:
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/CRASH_FIX_SUMMARY.md]

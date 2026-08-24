@@ -2,7 +2,8 @@
 title: Hive Prompt Broadcast
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Hive Prompt Broadcast.md"]
+sources:
+  - source-materials/mirrors/doctrine/Hive Prompt Broadcast.md
 updated: 2026-07-24
 ---
 
@@ -25,4 +26,4 @@ Links
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Hive Prompt Broadcast.md]

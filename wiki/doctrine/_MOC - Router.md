@@ -2,7 +2,8 @@
 title: _MOC - Router
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/_MOC - Router.md"]
+sources:
+  - source-materials/mirrors/doctrine/_MOC - Router.md
 updated: 2026-07-24
 ---
 
@@ -24,4 +25,4 @@ Teacher Alice/_MOC - Teacher Alice
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/_MOC - Router.md]

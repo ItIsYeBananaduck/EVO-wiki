@@ -2,7 +2,8 @@
 title: BETA_BLOCKING_ISSUES
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/BETA_BLOCKING_ISSUES.md"]
+sources:
+  - source-materials/mirrors/doctrine/BETA_BLOCKING_ISSUES.md
 updated: 2026-07-24
 ---
 
@@ -108,4 +109,4 @@ d) Widget/complication reload not triggered after data updates
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/BETA_BLOCKING_ISSUES.md]

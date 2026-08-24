@@ -2,7 +2,8 @@
 title: alice-hosting-v1-strategy
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/alice-hosting-v1-strategy.md"]
+sources:
+  - source-materials/mirrors/doctrine/alice-hosting-v1-strategy.md
 updated: 2026-07-24
 ---
 
@@ -195,4 +196,4 @@ This section records questions that were open during the cluster analysis phase 
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/alice-hosting-v1-strategy.md]

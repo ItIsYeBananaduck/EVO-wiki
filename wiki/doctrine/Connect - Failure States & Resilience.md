@@ -2,7 +2,8 @@
 title: Connect - Failure States & Resilience
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Connect - Failure States & Resilience.md"]
+sources:
+  - source-materials/mirrors/doctrine/Connect - Failure States & Resilience.md
 updated: 2026-07-24
 ---
 
@@ -19,4 +20,4 @@ Rules: - Graceful fallback to local - No hanging tasks - Automatic reassignment 
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Connect - Failure States & Resilience.md]

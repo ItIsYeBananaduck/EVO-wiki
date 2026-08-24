@@ -2,7 +2,8 @@
 title: Swarm (Parallel Inference) MOC
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Swarm (Parallel Inference) MOC.md"]
+sources:
+  - source-materials/mirrors/doctrine/Swarm (Parallel Inference) MOC.md
 updated: 2026-07-24
 ---
 
@@ -42,4 +43,4 @@ Assignment, Resilience & Merge Control
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Swarm (Parallel Inference) MOC.md]

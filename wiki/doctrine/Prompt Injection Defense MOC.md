@@ -2,7 +2,8 @@
 title: Prompt Injection Defense MOC
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Prompt Injection Defense MOC.md"]
+sources:
+  - source-materials/mirrors/doctrine/Prompt Injection Defense MOC.md
 updated: 2026-07-24
 ---
 
@@ -49,4 +50,4 @@ Untrusted content may suggest. Only trusted channels may decide. Only the Delega
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Prompt Injection Defense MOC.md]

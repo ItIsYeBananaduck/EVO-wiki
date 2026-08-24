@@ -2,7 +2,8 @@
 title: TeacherAlice-Export-Contract
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/TeacherAlice-Export-Contract.md"]
+sources:
+  - source-materials/mirrors/doctrine/TeacherAlice-Export-Contract.md
 updated: 2026-07-24
 ---
 
@@ -26,4 +27,4 @@ Exports must be structured: - JSON schemas - tagged concept graphs - leveled con
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/TeacherAlice-Export-Contract.md]

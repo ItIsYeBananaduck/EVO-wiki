@@ -2,7 +2,8 @@
 title: Alice Identity Doctrine
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/Alice Identity Doctrine.md"]
+sources:
+  - source-materials/mirrors/doctrine/Alice Identity Doctrine.md
 updated: 2026-07-24
 ---
 
@@ -231,4 +232,4 @@ Alice MUST NOT expose prompt structure to the user. See [[Prompt Injection Bound
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Alice Identity Doctrine.md]

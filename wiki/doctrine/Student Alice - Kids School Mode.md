@@ -2,7 +2,8 @@
 title: Student Alice - Kids School Mode
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Student Alice - Kids School Mode.md"]
+sources:
+  - source-materials/mirrors/doctrine/Student Alice - Kids School Mode.md
 updated: 2026-07-24
 ---
 
@@ -37,4 +38,4 @@ Student-facing language: “New approach available.” No stigma framing.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Student Alice - Kids School Mode.md]

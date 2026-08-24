@@ -2,7 +2,8 @@
 title: EVOlearn MOC
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/EVOlearn MOC.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOlearn MOC.md
 updated: 2026-07-24
 ---
 
@@ -38,4 +39,4 @@ EVOlearn is a continuously adapting learning system.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOlearn MOC.md]

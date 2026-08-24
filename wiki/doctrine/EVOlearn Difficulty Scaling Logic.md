@@ -2,7 +2,8 @@
 title: EVOlearn Difficulty Scaling Logic
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVOlearn Difficulty Scaling Logic.md"]
+sources:
+  - source-materials/mirrors/doctrine/EVOlearn Difficulty Scaling Logic.md
 updated: 2026-07-24
 ---
 
@@ -30,4 +31,4 @@ Difficulty should stretch the learner without overwhelming them.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/EVOlearn Difficulty Scaling Logic.md]

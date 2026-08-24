@@ -2,7 +2,8 @@
 title: Talent Trainer Overview
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Talent Trainer Overview.md"]
+sources:
+  - source-materials/mirrors/doctrine/Talent Trainer Overview.md
 updated: 2026-07-24
 ---
 
@@ -25,4 +26,4 @@ Links
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Talent Trainer Overview.md]

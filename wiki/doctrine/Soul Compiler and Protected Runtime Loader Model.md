@@ -2,7 +2,8 @@
 title: Soul Compiler and Protected Runtime Loader Model
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/Soul Compiler and Protected Runtime Loader Model.md"]
+sources:
+  - source-materials/mirrors/doctrine/Soul Compiler and Protected Runtime Loader Model.md
 updated: 2026-07-24
 ---
 
@@ -429,4 +430,4 @@ Alice experiences the result.
 - [EVO Blind Zone / .evo_env Protected Workspace Model](https://app.notion.com/p/342c72bad01381a4ad10c0da5891b0fc)
 - [Delegator — Execution Governance Doctrine](https://app.notion.com/p/342c72bad01381e088ecc512452813e4)
 - Protected System Zones and Privileged Change Policy
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Soul Compiler and Protected Runtime Loader Model.md]

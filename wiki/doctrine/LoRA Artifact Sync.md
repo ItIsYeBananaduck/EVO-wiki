@@ -2,7 +2,8 @@
 title: LoRA Artifact Sync
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/LoRA Artifact Sync.md"]
+sources:
+  - source-materials/mirrors/doctrine/LoRA Artifact Sync.md
 updated: 2026-07-24
 ---
 
@@ -28,4 +29,4 @@ Related notes: [[EVOLoRA Mesh — Adapter Creation Pipeline]]
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/LoRA Artifact Sync.md]

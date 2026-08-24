@@ -2,7 +2,8 @@
 title: Conversation-Awareness-Haptics
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Conversation-Awareness-Haptics.md"]
+sources:
+  - source-materials/mirrors/doctrine/Conversation-Awareness-Haptics.md
 updated: 2026-07-24
 ---
 
@@ -21,4 +22,4 @@ Synced: reassurance (not celebration)
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Conversation-Awareness-Haptics.md]

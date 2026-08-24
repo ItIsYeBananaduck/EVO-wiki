@@ -2,7 +2,8 @@
 title: Hint Retry Ask Alice Flow
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Hint Retry Ask Alice Flow.md"]
+sources:
+  - source-materials/mirrors/doctrine/Hint Retry Ask Alice Flow.md
 updated: 2026-07-24
 ---
 
@@ -18,4 +19,4 @@ Unlimited usage allowed. Confusion is not punished.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Hint Retry Ask Alice Flow.md]

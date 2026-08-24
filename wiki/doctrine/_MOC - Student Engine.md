@@ -2,7 +2,8 @@
 title: _MOC - Student Engine
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/_MOC - Student Engine.md"]
+sources:
+  - source-materials/mirrors/doctrine/_MOC - Student Engine.md
 updated: 2026-07-24
 ---
 
@@ -31,4 +32,4 @@ Related Systems
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/_MOC - Student Engine.md]

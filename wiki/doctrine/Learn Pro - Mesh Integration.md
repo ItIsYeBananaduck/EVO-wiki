@@ -2,7 +2,8 @@
 title: Learn Pro - Mesh Integration
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Learn Pro - Mesh Integration.md"]
+sources:
+  - source-materials/mirrors/doctrine/Learn Pro - Mesh Integration.md
 updated: 2026-07-24
 ---
 
@@ -14,4 +15,4 @@ No style may override safety constraints.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Learn Pro - Mesh Integration.md]

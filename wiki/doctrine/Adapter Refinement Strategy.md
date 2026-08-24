@@ -2,7 +2,8 @@
 title: Adapter Refinement Strategy
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-mirrors/Adapter Refinement Strategy.md"]
+sources:
+  - source-materials/mirrors/doctrine/Adapter Refinement Strategy.md
 updated: 2026-07-24
 ---
 
@@ -30,4 +31,4 @@ Adapters enhance how Alice works, not what she is.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Adapter Refinement Strategy.md]

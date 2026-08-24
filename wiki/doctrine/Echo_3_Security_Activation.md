@@ -2,7 +2,8 @@
 title: Echo_3_Security_Activation
 type: concept
 tags: ["EVO","doctrine"]
-sources: ["EVO/smartdocs/raw/deprecated/doctrine-unmatched/Echo_3_Security_Activation.md"]
+sources:
+  - source-materials/mirrors/doctrine/Echo_3_Security_Activation.md
 updated: 2026-07-24
 ---
 
@@ -40,4 +41,4 @@ Each Echo has independent unlock state.
 
 ## Related
 
-^[{src_rel}]
+^[source-materials/mirrors/doctrine/Echo_3_Security_Activation.md]
