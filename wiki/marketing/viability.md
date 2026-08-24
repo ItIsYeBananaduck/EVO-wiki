@@ -3,6 +3,7 @@ title: Viability Assessment
 type: concept
 description: Honest assessment of EVOtraining's probability of success, critical path, and kill criteria.
 tags: [evo, marketing, viability, assessment]
+sources: []
 updated: 2026-08-22
 ---
 
@@ -91,4 +92,4 @@ But the go-to-market is the bottleneck. With $0 budget, solo founder, and time c
 - [[Research]]
 - [[Launch Plan]]
 
-^[workspace/marketing/]
+^[EVO/wiki/marketing/viability.md]

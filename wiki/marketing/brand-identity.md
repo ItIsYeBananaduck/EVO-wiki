@@ -3,6 +3,7 @@ title: Brand Identity
 type: concept
 description: EVOtraining visual identity — color scheme, logo, tagline, and Alice's canonical appearance.
 tags: [evo, marketing, brand, identity, alice, color]
+sources: []
 updated: 2026-08-24
 ---
 
@@ -150,4 +151,4 @@ Alice looks the way the product is supposed to feel. A beginner too embarrassed 
 - [[Messaging]]
 - [[Positioning]]
 
-^[workspace/marketing/]
+^[EVO/wiki/marketing/brand-identity.md]

@@ -3,6 +3,7 @@ title: Content Strategy
 type: concept
 description: EVO's social media content pillars, calendar, post ideas, and sample scripts.
 tags: [evo, marketing, content, social-media]
+sources: []
 updated: 2026-08-22
 ---
 
@@ -175,4 +176,4 @@ Slide 7: "Alice fixes all of this. Link in bio."
 - [[Messaging]]
 - [[Launch Plan]]
 
-^[workspace/marketing/]
+^[EVO/wiki/marketing/content-strategy.md]

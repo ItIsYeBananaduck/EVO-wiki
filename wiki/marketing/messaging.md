@@ -3,6 +3,7 @@ title: Messaging
 type: concept
 description: EVO's tone, voice, key messages, and taglines.
 tags: [evo, marketing, messaging, voice, taglines]
+sources: []
 updated: 2026-08-22
 ---
 
@@ -96,4 +97,4 @@ updated: 2026-08-22
 - [[EVO Marketing]]
 - [[Positioning]]
 
-^[workspace/marketing/]
+^[EVO/wiki/marketing/messaging.md]

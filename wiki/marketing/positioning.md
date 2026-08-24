@@ -3,6 +3,7 @@ title: Positioning
 type: concept
 description: EVO's target audience, value proposition, and competitive differentiators.
 tags: [evo, marketing, positioning, audience]
+sources: []
 updated: 2026-08-22
 ---
 
@@ -107,4 +108,4 @@ No one owns this space. The AI fitness apps are trainer-less. The trainer platfo
 - [[EVOconnect — Pane & View System]]
 - [[Echo_1_Canonical_Philosophy]]
 
-^[workspace/marketing/]
+^[EVO/wiki/marketing/positioning.md]
