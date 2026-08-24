@@ -3,6 +3,7 @@ title: Lead Generation
 type: concept
 description: EVO's lead generation channels, email capture, nurture sequences, and weekly action plan.
 tags: [evo, marketing, leads, acquisition]
+sources: []
 updated: 2026-08-22
 ---
 
@@ -166,4 +167,4 @@ With $0 budget, lead gen is a **time game**, not a money game.
 - [[Launch Plan]]
 - [[Content Strategy]]
 
-^[workspace/marketing/]
+^[EVO/wiki/marketing/lead-gen.md]

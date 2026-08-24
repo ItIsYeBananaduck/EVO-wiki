@@ -3,6 +3,7 @@ title: EVO Marketing
 type: index
 description: EVO-specific marketing doctrine — positioning, messaging, launch strategy, content, lead gen, and research.
 tags: [evo, marketing, launch]
+sources: []
 updated: 2026-08-22
 ---
 
@@ -52,4 +53,4 @@ EVOtraining is chapter one of a lifelong relationship. The apps aren't the produ
 - Sara — strategy, research, content
 - Phil — product vision, architecture, execution
 
-^[workspace/marketing/]
+^[EVO/wiki/marketing/README.md]

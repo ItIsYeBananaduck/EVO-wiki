@@ -3,6 +3,7 @@ title: Additional Marketing Tactics
 type: concept
 description: Organic marketing tactics beyond social content — ASO, Product Hunt, podcasts, guest posting, referrals, directories, HARO.
 tags: [evo, marketing, tactics, aso, acquisition]
+sources: []
 updated: 2026-08-22
 ---
 
@@ -224,4 +225,4 @@ This is the most important one we haven't discussed. When someone searches "work
 - [[Content Strategy]]
 - [[Lead Generation]]
 
-^[workspace/marketing/]
+^[EVO/wiki/marketing/additional-tactics.md]

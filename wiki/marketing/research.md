@@ -3,6 +3,7 @@ title: Market Research
 type: concept
 description: Market size, trends, competitive landscape, and target audience validation for EVOtraining.
 tags: [evo, marketing, research, market, competitive]
+sources: []
 updated: 2026-08-22
 ---
 
@@ -109,4 +110,4 @@ No one owns this space. The AI fitness apps are trainer-less. The trainer platfo
 - [[Positioning]]
 - [[Viability]]
 
-^[workspace/marketing/]
+^[EVO/wiki/marketing/research.md]

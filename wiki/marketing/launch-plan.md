@@ -3,6 +3,7 @@ title: Launch Plan
 type: concept
 description: EVOtraining launch timeline, phases, milestones, and beta strategy.
 tags: [evo, marketing, launch, timeline]
+sources: []
 updated: 2026-08-22
 ---
 
@@ -159,4 +160,4 @@ The page is the destination for anything that earns attention — build-in-publi
 - [[Positioning]]
 - [[Content Strategy]]
 
-^[workspace/marketing/]
+^[EVO/wiki/marketing/launch-plan.md]
