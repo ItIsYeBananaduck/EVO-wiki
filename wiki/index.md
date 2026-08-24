@@ -15,6 +15,10 @@
 - [Connect — Task Control Plane](components/connect.md) — control panel, failure states, security/privacy model.
 - [Talent & Template System](doctrine/talent-template-system.md) — templates, talents, approvals, reuse rules.
 
+## Marketing
+
+- [EVO Marketing](marketing/README.md) — positioning, messaging, launch plan, content strategy, lead gen, research.
+
 ## Doctrine Originals
 
 Mirrored from `source-materials/mirrors/doctrine/`. Browse that folder for the full set. Curated summaries: `doctrine/`.
