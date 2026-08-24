@@ -219,5 +219,3 @@ Source
 Internal GitHub audit
 
 ## Related
-
-^[{src_rel}]

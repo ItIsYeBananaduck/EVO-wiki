@@ -23,5 +23,3 @@ Principle:
 A learning session should be adaptive, guided, and easy to follow.
 
 ## Related
-
-^[{src_rel}]

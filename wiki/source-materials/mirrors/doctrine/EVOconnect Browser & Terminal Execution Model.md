@@ -30,5 +30,3 @@ Final Principle:
 The execution surface is part of the governance model, not just a technical detail.
 
 ## Related
-
-^[{src_rel}]

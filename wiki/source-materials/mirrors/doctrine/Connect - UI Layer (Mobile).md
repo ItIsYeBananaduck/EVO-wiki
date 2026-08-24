@@ -14,5 +14,3 @@ Minimalist design. Always available. Out of the way.
 #connect
 
 ## Related
-
-^[{src_rel}]

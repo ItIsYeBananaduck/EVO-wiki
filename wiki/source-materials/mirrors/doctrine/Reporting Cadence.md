@@ -28,5 +28,3 @@ Maintains metric stability
 Builds institutional trust
 
 ## Related
-
-^[{src_rel}]

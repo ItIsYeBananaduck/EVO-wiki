@@ -2,8 +2,8 @@
 title: EVO — Talent Tool Envelope & Context Compression Doctrine
 type: concept
 tags: [context, doctrine, evo, talent]
-sources:
-  - source-materials/mirrors/doctrine/EVO — Talent Tool Envelope & Context Compression Doctrine.md
+sources: []
+origin: wiki-native — authored in this wiki, no upstream mirror
 updated: 2026-07-23
 ---
 # EVO — Talent Tool Envelope & Context Compression Doctrine
@@ -453,4 +453,4 @@ not from permanently preserved context windows.
 - [[EVO — Cross-App Context Continuity.md]]
 - [[EVO — Global Adapter Distribution Model.md]]
 - [[EVO — Pane Pack Architecture.md]]
-^[source-materials/mirrors/doctrine/EVO — Talent Tool Envelope & Context Compression Doctrine.md]
+^[wiki-native — no upstream source]

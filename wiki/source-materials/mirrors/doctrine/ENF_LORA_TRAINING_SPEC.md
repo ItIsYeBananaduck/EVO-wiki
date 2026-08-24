@@ -104,5 +104,3 @@ Training examples should include:
 4. ENF is always applied first in adapter stack (highest priority)
 
 ## Related
-
-^[{src_rel}]

@@ -28,5 +28,3 @@ Scoped Tool Grants
 Related notes: [[Task Transparency Retention]], [[Task Actionability Gate]]
 
 ## Related
-
-^[{src_rel}]

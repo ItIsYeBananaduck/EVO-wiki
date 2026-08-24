@@ -147,5 +147,3 @@ Fix the Dart error in `alice_asset_download_manager.dart`:
 The build failure is due to a **separate Dart/Flutter issue**, not our MLX Swift code. Once the Dart error is fixed, the build should succeed.
 
 ## Related
-
-^[{src_rel}]

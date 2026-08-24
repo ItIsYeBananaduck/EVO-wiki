@@ -24,5 +24,3 @@ Principle:
 Awareness compounds when reflection is structured and continuous.
 
 ## Related
-
-^[{src_rel}]

@@ -43,5 +43,3 @@ Final Principle:
 Connect is not just a feature cluster. It is a structured execution layer composed of governed subsystems.
 
 ## Related
-
-^[{src_rel}]

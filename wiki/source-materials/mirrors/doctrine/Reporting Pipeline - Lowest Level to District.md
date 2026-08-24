@@ -36,5 +36,3 @@ DE does not receive: - student identifiers - raw class-level telemetry (unless e
 Output type: DISTRICT_SUMMARY
 
 ## Related
-
-^[{src_rel}]

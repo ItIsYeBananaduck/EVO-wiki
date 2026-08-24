@@ -22,5 +22,3 @@ Trigger subtle Alice evolution
 Milestones are tied to system coherence, not streaks.
 
 ## Related
-
-^[{src_rel}]

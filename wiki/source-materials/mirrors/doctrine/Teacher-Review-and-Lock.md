@@ -28,5 +28,3 @@ additional practice variants from concept tags
 hint phrasing (within tone constraints)
 
 ## Related
-
-^[{src_rel}]

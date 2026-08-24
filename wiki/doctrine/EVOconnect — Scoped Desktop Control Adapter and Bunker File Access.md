@@ -2,8 +2,8 @@
 title: Purpose
 type: concept
 tags: [connect, evo]
-sources:
-  - source-materials/mirrors/doctrine/EVOconnect — Scoped Desktop Control Adapter and Bunker File Access.md
+sources: []
+origin: wiki-native — authored in this wiki, no upstream mirror
 updated: 2026-07-23
 ---
 # Purpose
@@ -329,4 +329,4 @@ This concept likely requires future Linear issues for:
 - [[EVOconnect — Hive Node Architecture.md]]
 - [[EVOconnect — Lightweight Talent Structure Addendum.md]]
 - [[EVOconnect — Method Reconstruction Model.md]]
-^[source-materials/mirrors/doctrine/EVOconnect — Scoped Desktop Control Adapter and Bunker File Access.md]
+^[wiki-native — no upstream source]

@@ -18,5 +18,3 @@ Output
 MethodProfile used to wrap all LessonPacks for that teacher/class.
 
 ## Related
-
-^[{src_rel}]

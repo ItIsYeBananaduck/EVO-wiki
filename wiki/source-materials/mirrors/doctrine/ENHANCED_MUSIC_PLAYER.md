@@ -343,5 +343,3 @@ EnhancedMusicPlayer(
 This enhanced music player provides a significantly better user experience with larger, more accessible controls while maintaining the app's design consistency and adding smart features like playlist memory and StrainSync integration.
 
 ## Related
-
-^[{src_rel}]

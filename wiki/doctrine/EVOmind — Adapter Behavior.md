@@ -2,8 +2,8 @@
 title: EVOmind — Adapter Behavior
 type: concept
 tags: [evo, evomind]
-sources:
-  - source-materials/mirrors/doctrine/EVOmind — Adapter Behavior.md
+sources: []
+origin: wiki-native — authored in this wiki, no upstream mirror
 updated: 2026-07-23
 ---
 # EVOmind — Adapter Behavior
@@ -224,4 +224,4 @@ They evolve through:
 
 ## Related
 - [[EVO Architecture Bible]]
-^[source-materials/mirrors/doctrine/EVOmind — Adapter Behavior.md]
+^[wiki-native — no upstream source]

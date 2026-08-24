@@ -31,5 +31,3 @@ No teacher private notes included.
 Templates are moderated / vetted (community + policy).
 
 ## Related
-
-^[{src_rel}]

@@ -74,5 +74,3 @@ This threshold defines the minimum proof required for a Method to be considered 
 User Override Supremacy
 
 ## Related
-
-^[{src_rel}]

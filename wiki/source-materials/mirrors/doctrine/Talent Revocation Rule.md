@@ -25,5 +25,3 @@ Links
 [Task Actionability Gate](https://www.notion.so/33ec72bad0138127a3cec9d764515869)
 
 ## Related
-
-^[{src_rel}]

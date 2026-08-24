@@ -342,5 +342,3 @@ Night 3: Load safetensors → continue training → update safetensors → conve
 The adapter is **never frozen** - it continues to evolve in safetensors format. GGUF is just regenerated each night for inference.
 
 ## Related
-
-^[{src_rel}]

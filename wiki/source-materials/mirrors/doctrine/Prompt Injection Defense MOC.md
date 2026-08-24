@@ -48,5 +48,3 @@ Architectural Rule
 Untrusted content may suggest. Only trusted channels may decide. Only the Delegator may execute.
 
 ## Related
-
-^[{src_rel}]

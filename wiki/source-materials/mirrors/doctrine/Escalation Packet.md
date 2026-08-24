@@ -33,5 +33,3 @@ Final Principle:
 An escalation should carry context, not just confusion.
 
 ## Related
-
-^[{src_rel}]

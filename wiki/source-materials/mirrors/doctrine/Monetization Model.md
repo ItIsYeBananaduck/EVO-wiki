@@ -19,5 +19,3 @@ Revenue is external to child experience.
 Related notes: [[_MOC - Strategy]]
 
 ## Related
-
-^[{src_rel}]

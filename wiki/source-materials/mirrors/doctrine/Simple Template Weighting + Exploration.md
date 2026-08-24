@@ -43,5 +43,3 @@ At new academic year start: - last year’s Preferred templates initialize as Ca
 Rationale: - year/grade/context changes may alter effectiveness - warm start without permanent assumptions
 
 ## Related
-
-^[{src_rel}]

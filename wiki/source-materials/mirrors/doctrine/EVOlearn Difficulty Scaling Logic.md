@@ -29,5 +29,3 @@ Principle:
 Difficulty should stretch the learner without overwhelming them.
 
 ## Related
-
-^[{src_rel}]

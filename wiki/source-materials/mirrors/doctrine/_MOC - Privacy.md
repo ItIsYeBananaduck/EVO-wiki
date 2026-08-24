@@ -24,5 +24,3 @@ Related
 School/_MOC - School
 
 ## Related
-
-^[{src_rel}]

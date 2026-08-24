@@ -312,5 +312,3 @@ The authentication system is already robustly implemented with automatic login s
 The implementation follows best practices for authentication flow and provides a solid foundation for secure user access control.
 
 ## Related
-
-^[{src_rel}]

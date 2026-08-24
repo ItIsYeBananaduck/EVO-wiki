@@ -183,5 +183,3 @@ To verify the fix, collect these logs from Xcode console:
 - Periodically verify magic bytes check works for new GGUF versions
 
 ## Related
-
-^[{src_rel}]

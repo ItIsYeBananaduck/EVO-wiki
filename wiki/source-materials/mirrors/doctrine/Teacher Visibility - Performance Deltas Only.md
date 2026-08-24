@@ -24,5 +24,3 @@ Prevents: - student labeling - template-based tracking - teacher ranking dynamic
 Preserves: - institutional trust - student dignity - neutral reporting
 
 ## Related
-
-^[{src_rel}]

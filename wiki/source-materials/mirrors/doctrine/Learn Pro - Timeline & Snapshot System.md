@@ -15,5 +15,3 @@ Active snapshot influences Mesh.
 Timeline shows: - Active - Archived - Source count
 
 ## Related
-
-^[{src_rel}]

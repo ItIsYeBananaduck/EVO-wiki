@@ -36,5 +36,3 @@ Final Principle:
 External capability must never outrun internal control.
 
 ## Related
-
-^[{src_rel}]

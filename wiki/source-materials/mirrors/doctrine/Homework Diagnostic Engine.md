@@ -18,5 +18,3 @@ Ask Alice (requires micro-lesson completion)
 Homework pain points become: - Class-wide signals for Teacher Alice - Individual template adaptation signals
 
 ## Related
-
-^[{src_rel}]

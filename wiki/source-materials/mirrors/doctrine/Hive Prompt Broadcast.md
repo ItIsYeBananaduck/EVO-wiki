@@ -24,5 +24,3 @@ Links
 [Hive Read-Only Members](https://www.notion.so/33ec72bad01381858f33f86faac12d1f)
 
 ## Related
-
-^[{src_rel}]

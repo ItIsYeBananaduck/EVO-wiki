@@ -34,5 +34,3 @@ SE never receives: - student names - persistent identifiers - raw micro lesson l
 Only aggregated structured summaries.
 
 ## Related
-
-^[{src_rel}]

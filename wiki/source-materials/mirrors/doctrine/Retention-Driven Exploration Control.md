@@ -30,5 +30,3 @@ Prevents premature locking
 Keeps system adaptive year over year
 
 ## Related
-
-^[{src_rel}]

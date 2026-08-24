@@ -63,5 +63,3 @@ Error categorization is a friction signal, not a psychological evaluation.
 Categories describe: “where the learning broke down” not “what kind of student this is.”
 
 ## Related
-
-^[{src_rel}]

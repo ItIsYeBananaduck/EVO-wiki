@@ -24,5 +24,3 @@ Links
 [Risk-Weighted Adaptation](https://www.notion.so/33ec72bad013819eabb4c59900b06708)
 
 ## Related
-
-^[{src_rel}]

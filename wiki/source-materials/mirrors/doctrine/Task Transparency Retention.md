@@ -28,5 +28,3 @@ Delegator State Machine MOC
 Related notes: [[Task Audit Log Minimum Fields]]
 
 ## Related
-
-^[{src_rel}]

@@ -23,5 +23,3 @@ Principle:
 Capacity is discovered, not guessed.
 
 ## Related
-
-^[{src_rel}]

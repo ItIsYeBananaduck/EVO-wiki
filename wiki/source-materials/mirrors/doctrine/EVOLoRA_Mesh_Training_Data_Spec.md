@@ -412,5 +412,3 @@ Use existing training pipeline (`train_phi3_alice.py`) but:
 - Training Script: `training/train_phi3_alice.py`
 
 ## Related
-
-^[{src_rel}]

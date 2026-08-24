@@ -80,5 +80,3 @@ Any future proposal to: - Merge metrics - Rank students publicly - Remove fluctu
 Requires new ADR and governance review.
 
 ## Related
-
-^[{src_rel}]

@@ -22,5 +22,3 @@ No long-term relational training.
 No cross-domain reinforcement.
 
 ## Related
-
-^[{src_rel}]

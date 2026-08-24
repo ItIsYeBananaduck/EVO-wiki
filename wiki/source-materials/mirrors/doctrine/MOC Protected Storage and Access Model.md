@@ -136,4 +136,3 @@ This cluster should be considered canonical for future Bunker and protected stor
 - [Bunker Access Session Model](https://www.notion.so/343c72bad01381788004c1ec4b0b695d)
 - [Protected Runtime Artifact and Privileged Loader Model](https://www.notion.so/343c72bad0138159ae9ed38ce9f429db)
 - [Bunker Onboarding and First-Run Trust Model](https://www.notion.so/343c72bad01381319a8dddf90c1f2829)
-^[{src_rel}]

@@ -24,5 +24,3 @@ Links
 [Primary Variable Selection](https://www.notion.so/33ec72bad01381e2ba06c3b901906d6d)
 
 ## Related
-
-^[{src_rel}]

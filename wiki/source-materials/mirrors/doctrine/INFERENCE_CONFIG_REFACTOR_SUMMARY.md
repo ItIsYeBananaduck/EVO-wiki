@@ -130,5 +130,3 @@ updated: 2026-07-24
 5. Monitor logs for config mismatches (should see none)
 
 ## Related
-
-^[{src_rel}]

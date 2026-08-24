@@ -24,5 +24,3 @@ Principle:
 Recovery is part of training, not separate from it.
 
 ## Related
-
-^[{src_rel}]

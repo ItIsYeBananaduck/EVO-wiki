@@ -24,5 +24,3 @@ Defer escalation
 Escalation requires explicit approval.
 
 ## Related
-
-^[{src_rel}]

@@ -2,8 +2,8 @@
 title: EVOconnect — Hive Node Architecture (Raw Draft)
 type: concept
 tags: [architecture, connect, evo]
-sources:
-  - source-materials/mirrors/doctrine/EVOconnect — Hive Node Architecture.md
+sources: []
+origin: wiki-native — authored in this wiki, no upstream mirror
 updated: 2026-07-23
 ---
 # EVOconnect — Hive Node Architecture (Raw Draft)
@@ -363,4 +363,4 @@ The user’s collection of devices should eventually behave as:
 - [[EVOconnect — Lightweight Talent Structure Addendum.md]]
 - [[EVOconnect — Method Reconstruction Model.md]]
 - [[EVOconnect — Mobile Operational Continuity.md]]
-^[source-materials/mirrors/doctrine/EVOconnect — Hive Node Architecture.md]
+^[wiki-native — no upstream source]

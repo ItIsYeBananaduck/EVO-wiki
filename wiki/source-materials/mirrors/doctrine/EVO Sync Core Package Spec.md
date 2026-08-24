@@ -468,5 +468,3 @@ EVO Sync Core is not a cloud backend.
 It is the local orchestration layer that allows EVO apps to move user-owned cognition safely across devices and storage locations without centralizing trust in the company.
 
 ## Related
-
-^[{src_rel}]

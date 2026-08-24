@@ -25,5 +25,3 @@ Links
 [Cold Start Safety](https://www.notion.so/33ec72bad01381f89f2fd681aaefedcd)
 
 ## Related
-
-^[{src_rel}]

@@ -227,5 +227,3 @@ Flutter: generate()
 Related notes: [[EVOLoRA Mesh — Adapter Creation Pipeline]]
 
 ## Related
-
-^[{src_rel}]

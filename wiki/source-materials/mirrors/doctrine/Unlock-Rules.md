@@ -23,5 +23,3 @@ shows “not yet”
 offers alternate methods automatically
 
 ## Related
-
-^[{src_rel}]

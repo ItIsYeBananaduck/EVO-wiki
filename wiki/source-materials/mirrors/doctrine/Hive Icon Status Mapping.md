@@ -27,5 +27,3 @@ Links
 [Hive Capability Advertisement](https://www.notion.so/33ec72bad0138187a984facd654b00d9)
 
 ## Related
-
-^[{src_rel}]

@@ -68,5 +68,3 @@ These errors will be resolved once you add the files to Xcode:
 Once files are added, the build should succeed!
 
 ## Related
-
-^[{src_rel}]

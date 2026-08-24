@@ -568,5 +568,3 @@ This plan prioritizes **reducing peak memory** through:
 All changes are **feature-flagged**, **tier-gated**, and **reversible**. The 2-week timeline allows for safe, incremental rollout with validation at each checkpoint.
 
 ## Related
-
-^[{src_rel}]

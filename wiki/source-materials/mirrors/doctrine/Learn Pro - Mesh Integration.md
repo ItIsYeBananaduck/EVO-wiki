@@ -13,5 +13,3 @@ Mesh arbitration includes: - Baseline logic - User LoRA - Domain Style - GatingE
 No style may override safety constraints.
 
 ## Related
-
-^[{src_rel}]

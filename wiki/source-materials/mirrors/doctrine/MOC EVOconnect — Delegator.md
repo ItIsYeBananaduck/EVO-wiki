@@ -226,4 +226,3 @@ Delegator is responsible for:
 - routing tasks across systems and environments
 - determining whether to execute, escalate, or defer
 - coordinating multi-step and cross-domain workflows
-^[{src_rel}]

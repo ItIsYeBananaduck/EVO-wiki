@@ -101,5 +101,3 @@ Decrease in reteach sessions
 Retention stability over time
 
 ## Related
-
-^[{src_rel}]

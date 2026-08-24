@@ -36,5 +36,3 @@ If templates fail and effort is high: - SA offers student a choice: - share stru
 Student-facing language: “New approach available.” No stigma framing.
 
 ## Related
-
-^[{src_rel}]

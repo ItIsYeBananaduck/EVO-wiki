@@ -22,5 +22,3 @@ Governance
 Bands are internal to SA. Only aggregated bucket distributions propagate upward. No subject/unit stability label is exposed to TA or EVE at student level.
 
 ## Related
-
-^[{src_rel}]

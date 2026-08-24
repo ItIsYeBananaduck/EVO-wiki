@@ -107,5 +107,3 @@ d) Widget/complication reload not triggered after data updates
 7. Test end-to-end data flow
 
 ## Related
-
-^[{src_rel}]

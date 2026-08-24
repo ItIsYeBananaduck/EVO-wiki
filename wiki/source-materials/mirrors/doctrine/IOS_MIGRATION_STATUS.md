@@ -161,5 +161,3 @@ The Flutter app has been successfully configured to match the existing EVOtraini
 The configuration work is complete - the remaining work is fixing the code errors and testing.
 
 ## Related
-
-^[{src_rel}]

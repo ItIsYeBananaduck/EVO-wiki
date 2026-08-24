@@ -301,4 +301,3 @@ The whole repo does not.
 - [Protected Runtime Artifacts / Soul File Injection Model](https://app.notion.com/p/342c72bad01381ce97ddd58276a1f7fe)
 - Protected System Zones and Privileged Change Policy
 - [Delegator — Execution Governance Doctrine](https://app.notion.com/p/342c72bad01381e088ecc512452813e4)
-^[{src_rel}]

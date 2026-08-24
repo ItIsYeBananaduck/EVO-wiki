@@ -26,5 +26,3 @@ Never use: “reset”, “failed”, “invalid”.
 Use: “updated”, “new version”, “continue here”.
 
 ## Related
-
-^[{src_rel}]

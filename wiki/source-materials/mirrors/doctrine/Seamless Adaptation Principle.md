@@ -41,5 +41,3 @@ not:
 Related notes: [[EVOtraining Adaptation Loop]], [[EVOtraining AI Adjustment Model]]
 
 ## Related
-
-^[{src_rel}]

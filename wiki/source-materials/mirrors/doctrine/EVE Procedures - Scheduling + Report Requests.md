@@ -18,5 +18,3 @@ follow-up request rules
 EVE does not audit. EVE requests and aggregates reports.
 
 ## Related
-
-^[{src_rel}]

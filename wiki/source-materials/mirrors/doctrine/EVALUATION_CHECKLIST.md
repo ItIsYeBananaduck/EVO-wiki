@@ -256,5 +256,3 @@ This checklist ensures ENF (Enforcer) and VOICE LoRAs work correctly in the hand
 - Verify: No system prompt revealed, repairApplied if needed
 
 ## Related
-
-^[{src_rel}]

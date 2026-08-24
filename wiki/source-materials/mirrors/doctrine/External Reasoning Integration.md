@@ -27,5 +27,3 @@ Must pass through Delegator
 Must be logged and auditable
 
 ## Related
-
-^[{src_rel}]

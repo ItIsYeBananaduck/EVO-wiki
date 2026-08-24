@@ -59,5 +59,3 @@ After adding the files, the build should succeed. The Swift files have been veri
 Please share the specific error message from Xcode, and I can help debug further.
 
 ## Related
-
-^[{src_rel}]

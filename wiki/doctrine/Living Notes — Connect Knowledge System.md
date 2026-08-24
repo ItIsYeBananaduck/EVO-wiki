@@ -2,8 +2,8 @@
 title: Living Notes — Connect Knowledge System
 type: concept
 tags: [knowledge, living-notes, system]
-sources:
-  - source-materials/mirrors/doctrine/Living Notes — Connect Knowledge System.md
+sources: []
+origin: wiki-native — authored in this wiki, no upstream mirror
 updated: 2026-07-23
 ---
 # Living Notes — Connect Knowledge System
@@ -336,4 +336,4 @@ The user speaks naturally. Alice refines the idea. Alice proposes structure and 
 - [[Note Lifecycle — Connect]]
 - [[Scratch → Living Note Promotion System]]
 - [[Living Notes — Connect Knowledge System]]
-^[source-materials/mirrors/doctrine/Living Notes — Connect Knowledge System.md]
+^[wiki-native — no upstream source]

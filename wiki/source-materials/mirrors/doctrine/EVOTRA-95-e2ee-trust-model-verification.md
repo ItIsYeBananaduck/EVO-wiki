@@ -121,5 +121,3 @@ Per issue requirement, this uncertainty is preserved rather than collapsed.
    - Enforce P2P-only runtime path (no Supabase backup/fallback in live path) and keep server role strictly metadata/signaling-limited.
 
 ## Related
-
-^[{src_rel}]

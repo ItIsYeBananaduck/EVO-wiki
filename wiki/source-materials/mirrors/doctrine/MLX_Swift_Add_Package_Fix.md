@@ -129,5 +129,3 @@ If MLX Swift integration is blocking you, we can:
 The app will work fine with just llama.cpp!
 
 ## Related
-
-^[{src_rel}]

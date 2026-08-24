@@ -39,5 +39,3 @@ Create dependency loops through excessive comfort/validation.
 Related notes: [[Alice-Evolution-Spec]]
 
 ## Related
-
-^[{src_rel}]

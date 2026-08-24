@@ -37,5 +37,3 @@ All changes auditable
 User or system approval required
 
 ## Related
-
-^[{src_rel}]

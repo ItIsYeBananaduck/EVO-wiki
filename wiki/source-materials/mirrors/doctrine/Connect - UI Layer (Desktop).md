@@ -54,5 +54,3 @@ Codex bounded-session workflows are canonical examples:
 #connect
 
 ## Related
-
-^[{src_rel}]

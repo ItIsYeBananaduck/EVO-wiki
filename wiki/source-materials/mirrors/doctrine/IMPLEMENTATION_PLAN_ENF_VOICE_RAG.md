@@ -62,5 +62,3 @@ Implement deterministic ENF/VOICE adapter stacking, RAG memory injection, ENF st
 3. Add diagnostic endpoints for monitoring
 
 ## Related
-
-^[{src_rel}]

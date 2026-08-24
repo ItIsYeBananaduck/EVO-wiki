@@ -130,5 +130,3 @@ If no domain claims ownership within `unloadTimeoutMs`, Alice transitions to sta
 When domains become separate app bundles in the future, the same lifecycle rules apply via the durable IPC queue described in [[IPC Strategy — Multi-App Domain Separation]]. The handoff snapshot becomes the cross-process transfer unit.
 
 ## Related
-
-^[{src_rel}]

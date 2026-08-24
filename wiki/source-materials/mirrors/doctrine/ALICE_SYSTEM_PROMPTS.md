@@ -850,5 +850,3 @@ You should focus on topics related to fitness, exercise, nutrition...
 | Guardrails Baseline   | `flutter_app/assets/guardrails_baseline.json`                        |
 
 ## Related
-
-^[{src_rel}]

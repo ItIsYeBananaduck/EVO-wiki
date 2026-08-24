@@ -2,8 +2,8 @@
 title: EVO — Shared Embedding System
 type: concept
 tags: [evo, system]
-sources:
-  - source-materials/mirrors/doctrine/EVO — Shared Embedding System.md
+sources: []
+origin: wiki-native — authored in this wiki, no upstream mirror
 updated: 2026-07-23
 ---
 # EVO — Shared Embedding System
@@ -183,4 +183,4 @@ Embeddings are the map, not the territory.
 - [[EVO — Cross-App Context Continuity.md]]
 - [[EVO — Global Adapter Distribution Model.md]]
 - [[EVO — Pane Pack Architecture.md]]
-^[source-materials/mirrors/doctrine/EVO — Shared Embedding System.md]
+^[wiki-native — no upstream source]

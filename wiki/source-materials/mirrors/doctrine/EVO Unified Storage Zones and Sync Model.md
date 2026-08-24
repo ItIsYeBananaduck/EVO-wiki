@@ -400,5 +400,3 @@ The cloud carries the memory.
 The user owns both.
 
 ## Related
-
-^[{src_rel}]

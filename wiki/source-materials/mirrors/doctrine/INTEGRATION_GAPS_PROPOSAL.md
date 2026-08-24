@@ -470,5 +470,3 @@ With an estimated **11-15 hours** of development work, these gaps can be closed,
 **Next Step**: Create detailed task breakdown and begin with StrainSync integration
 
 ## Related
-
-^[{src_rel}]

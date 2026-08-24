@@ -2,8 +2,8 @@
 title: MOC EVOconnect — Methods & Talents
 type: concept
 tags: [connect, evo, method, moc, talent]
-sources:
-  - source-materials/mirrors/doctrine/MOC EVOconnect — Methods & Talents.md
+sources: []
+origin: wiki-native — authored in this wiki, no upstream mirror
 updated: 2026-07-23
 ---
 # MOC EVOconnect — Methods & Talents
@@ -68,4 +68,4 @@ Talents preserve trusted execution patterns.
 Task Chains preserve callable governed multi-step work.
 
 This MOC exists to keep the active Talent system navigable without linking to absorbed or deprecated fragments.
-^[source-materials/mirrors/doctrine/MOC EVOconnect — Methods & Talents.md]
+^[wiki-native — no upstream source]

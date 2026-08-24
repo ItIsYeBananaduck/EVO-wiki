@@ -2,8 +2,8 @@
 title: EVOtraining — Coach Application Philosophy (Raw Draft)
 type: concept
 tags: [evo, evotraining, philosophy]
-sources:
-  - source-materials/mirrors/doctrine/EVOtraining — Coach Application Philosophy.md
+sources: []
+origin: wiki-native — authored in this wiki, no upstream mirror
 updated: 2026-07-23
 ---
 # EVOtraining — Coach Application Philosophy (Raw Draft)
@@ -519,4 +519,4 @@ The vision is to create a collaborative operational environment where Alice beco
 - [[EVO Architecture Bible]]
 - [[EVOtraining — Adapter Behavior.md]]
 - [[EVOtraining — Lab Supplement Intelligence.md]]
-^[source-materials/mirrors/doctrine/EVOtraining — Coach Application Philosophy.md]
+^[wiki-native — no upstream source]

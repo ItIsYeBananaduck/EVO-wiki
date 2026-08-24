@@ -136,5 +136,3 @@ Final Principle:
 Methods must be exact, repeatable, and strictly defined to prevent ambiguity and drift.
 
 ## Related
-
-^[{src_rel}]

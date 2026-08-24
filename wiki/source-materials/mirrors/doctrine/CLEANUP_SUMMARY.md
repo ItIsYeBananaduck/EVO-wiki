@@ -112,5 +112,3 @@ git ls-files | xargs -I {} sh -c 'test -f {} && du -h {}' 2>/dev/null | awk '$1 
 **The codebase is now clean and ready for git operations!**
 
 ## Related
-
-^[{src_rel}]

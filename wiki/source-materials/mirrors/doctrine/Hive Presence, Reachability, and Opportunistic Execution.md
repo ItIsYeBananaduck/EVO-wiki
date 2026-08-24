@@ -76,5 +76,3 @@ requires foreground
 requires approval
 
 ## Related
-
-^[{src_rel}]

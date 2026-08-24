@@ -206,5 +206,3 @@ MediaPlayerWidget(
 - Verify network connectivity
 
 ## Related
-
-^[{src_rel}]

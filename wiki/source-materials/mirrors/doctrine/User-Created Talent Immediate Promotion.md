@@ -24,5 +24,3 @@ Links
 [Talent Immutability Rule](https://www.notion.so/33ec72bad01381989ea8ca6805191903)
 
 ## Related
-
-^[{src_rel}]

@@ -167,5 +167,3 @@ AliceAssets/chat/
 - **Cleanup**: Old sessions auto-archive after 7 days (can be configured)
 
 ## Related
-
-^[{src_rel}]

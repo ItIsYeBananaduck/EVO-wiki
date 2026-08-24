@@ -22,5 +22,3 @@ Links
 [EVOLoRA Mesh](https://www.notion.so/33ec72bad01381c690c6fea45a90c3a8)
 
 ## Related
-
-^[{src_rel}]

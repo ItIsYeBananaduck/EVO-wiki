@@ -77,4 +77,3 @@ This is not a sync strategy. It is a product constraint.
 ## Final Principle
 
 The user's data belongs to the user. It lives where they can see it, control it, and take it with them. EVO is a tool the user runs — not a service that holds their data.
-^[{src_rel}]

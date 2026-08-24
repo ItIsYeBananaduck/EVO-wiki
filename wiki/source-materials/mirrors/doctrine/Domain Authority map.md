@@ -42,5 +42,3 @@ Shared runtime concerns (`ai-runtime`, `delegator`, `tools`, `mesh`) remain outs
 Each domain package declares which [[EVOLoRA Mesh]] adapter kinds are active for that domain and what fallback policy applies when adapters are missing or below confidence threshold.
 
 ## Related
-
-^[{src_rel}]

@@ -16,5 +16,3 @@ MOC — Behavioral Architecture
 [[10-Behavioral-Architecture/Override-Feedback-Loop]]
 
 ## Related
-
-^[{src_rel}]

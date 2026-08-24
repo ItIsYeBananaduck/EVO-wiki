@@ -31,5 +31,3 @@ Final Principle:
 Without tasks, orchestration becomes vague. With tasks, orchestration becomes governable.
 
 ## Related
-
-^[{src_rel}]

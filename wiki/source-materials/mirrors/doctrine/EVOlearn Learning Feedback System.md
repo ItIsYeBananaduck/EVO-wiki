@@ -27,5 +27,3 @@ Principle:
 Feedback should be low-friction and continuous.
 
 ## Related
-
-^[{src_rel}]

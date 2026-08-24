@@ -98,5 +98,3 @@ See also: [[EVE Governance MOC]], [[EVE Safety Constraint Model]], [[EVE Procedu
 Policy enforcement is handled deterministically by `GatingEngine` in code, downstream of inference. The gate pipeline blocks actions by tier, agentic flag, domain scope, and safety constraints. Repair messages are appended without leaking system prompts. The ENF LoRA adapter is deprecated; `GatingEngine` is the sole enforcement layer.
 
 ## Related
-
-^[{src_rel}]

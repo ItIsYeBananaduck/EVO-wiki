@@ -14,5 +14,3 @@ Connect is the runtime orchestrator of Mesh logic.
 #connect
 
 ## Related
-
-^[{src_rel}]

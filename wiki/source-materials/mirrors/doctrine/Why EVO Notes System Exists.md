@@ -22,5 +22,3 @@ Principle:
 Notes prevent architectural loss.
 
 ## Related
-
-^[{src_rel}]

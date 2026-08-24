@@ -271,5 +271,3 @@ _Analysis date: February 11, 2026_
 _Author: Cascade AI Analysis_
 
 ## Related
-
-^[{src_rel}]

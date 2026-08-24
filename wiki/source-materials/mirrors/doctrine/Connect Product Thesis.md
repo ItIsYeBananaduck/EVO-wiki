@@ -27,5 +27,3 @@ Final Principle:
 The product is not mere automation. The product is governed execution.
 
 ## Related
-
-^[{src_rel}]

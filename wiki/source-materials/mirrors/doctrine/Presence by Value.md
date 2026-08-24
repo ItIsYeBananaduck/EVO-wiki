@@ -24,5 +24,3 @@ Links
 [Non-Intrusive Guidance](https://www.notion.so/33ec72bad013810e9792e13c03de6618)
 
 ## Related
-
-^[{src_rel}]

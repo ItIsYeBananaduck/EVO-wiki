@@ -498,5 +498,3 @@ The user should not need to remember where something lives.
 The workspace should help surface what matters when it matters.
 
 ## Related
-
-^[{src_rel}]

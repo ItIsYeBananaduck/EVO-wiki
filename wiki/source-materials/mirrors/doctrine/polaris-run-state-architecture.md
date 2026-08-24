@@ -362,5 +362,3 @@ This spec does not:
 It creates the EVO-native precursor pattern that Polaris may later generalize.
 
 ## Related
-
-^[{src_rel}]

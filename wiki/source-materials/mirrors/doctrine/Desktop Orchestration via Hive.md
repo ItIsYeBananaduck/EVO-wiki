@@ -42,5 +42,3 @@ Swarm = compute
 Environment orchestration is Hive-driven.
 
 ## Related
-
-^[{src_rel}]

@@ -206,5 +206,3 @@ if needsMap {
 **Result**: Inference is optimized - lightweight for general conversation, detailed when actions are needed.
 
 ## Related
-
-^[{src_rel}]

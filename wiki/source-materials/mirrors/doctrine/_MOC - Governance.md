@@ -55,5 +55,3 @@ Ensures dual-metric system integrity and prevents shallow optimization.
 [Simple Template Weighting + Exploration](https://www.notion.so/33ec72bad0138196b7f1eb8d47a9cec9)
 
 ## Related
-
-^[{src_rel}]

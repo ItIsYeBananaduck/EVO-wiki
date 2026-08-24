@@ -31,5 +31,3 @@ Final Principle:
 Extensions must inherit system discipline, not bypass it.
 
 ## Related
-
-^[{src_rel}]

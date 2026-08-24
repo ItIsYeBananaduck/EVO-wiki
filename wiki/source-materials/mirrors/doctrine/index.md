@@ -574,5 +574,3 @@ Rules:
 | `update_applier.md` | Update Applier | — | 2026-07-19 | unmatched |
 
 ## Related
-
-^[{src_rel}]

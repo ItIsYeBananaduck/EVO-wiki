@@ -163,5 +163,3 @@ Echo helps you reflect on how someone thought,
 not pretend they are still here.
 
 ## Related
-
-^[{src_rel}]

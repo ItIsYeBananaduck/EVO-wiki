@@ -126,5 +126,3 @@ Supabase remains available only for relationship-level training data where cloud
 No zombie calendar code remains.
 
 ## Related
-
-^[{src_rel}]

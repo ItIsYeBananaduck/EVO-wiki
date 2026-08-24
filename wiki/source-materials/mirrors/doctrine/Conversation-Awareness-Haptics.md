@@ -20,5 +20,3 @@ Elevated: “pause / regulate”
 Synced: reassurance (not celebration)
 
 ## Related
-
-^[{src_rel}]

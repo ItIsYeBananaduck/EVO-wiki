@@ -96,5 +96,3 @@ run().catch(console.error);
 Adjust m/k to match the server's bloom parameters if you change them.
 
 ## Related
-
-^[{src_rel}]

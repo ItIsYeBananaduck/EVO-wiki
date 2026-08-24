@@ -36,5 +36,3 @@ Governance Principle
 EVE identifies patterns. Humans refine pedagogy.
 
 ## Related
-
-^[{src_rel}]

@@ -2,8 +2,8 @@
 title: Scratch → Living Note Promotion System
 type: concept
 tags: [a, c, h, promotion, r, s, system, t]
-sources:
-  - source-materials/mirrors/doctrine/Scratch → Living Note Promotion System.md
+sources: []
+origin: wiki-native — authored in this wiki, no upstream mirror
 updated: 2026-07-23
 ---
 # Scratch → Living Note Promotion System
@@ -103,4 +103,4 @@ Scratch → Living Note → Method → Talent
 - [[Note Lifecycle — Connect]]
 - [[Scratch → Living Note Promotion System]]
 - [[Living Notes — Connect Knowledge System]]
-^[source-materials/mirrors/doctrine/Scratch → Living Note Promotion System.md]
+^[wiki-native — no upstream source]

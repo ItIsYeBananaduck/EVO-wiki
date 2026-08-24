@@ -152,5 +152,3 @@ Your macOS app is now:
 The macOS app should work identically to the iOS app for core functionality, with the added benefits of desktop features like larger screen space and full file system access.
 
 ## Related
-
-^[{src_rel}]

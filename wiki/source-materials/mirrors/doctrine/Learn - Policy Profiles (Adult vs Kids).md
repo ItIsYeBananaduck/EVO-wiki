@@ -30,5 +30,3 @@ export/sharing permissions
 No school reporting unless School Mode is enabled.
 
 ## Related
-
-^[{src_rel}]

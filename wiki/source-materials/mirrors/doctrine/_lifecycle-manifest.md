@@ -607,5 +607,3 @@ Total notes processed: 517
 | wiring-audit-phase-d.md | needs-review | ai | raw/archived + EVOnotes/needs-review/ai |
 
 ## Related
-
-^[{src_rel}]

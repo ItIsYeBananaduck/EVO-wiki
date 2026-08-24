@@ -24,5 +24,3 @@ Links
 [Deload enforcement](https://www.notion.so/33ec72bad01381c9af60d641482bf50e)
 
 ## Related
-
-^[{src_rel}]

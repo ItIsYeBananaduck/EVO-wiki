@@ -99,5 +99,3 @@ The ENF adapter needs to be retrained/converted for the `llama` architecture, or
 For now, the META adapter fix is the priority since that's what you just retrained.
 
 ## Related
-
-^[{src_rel}]

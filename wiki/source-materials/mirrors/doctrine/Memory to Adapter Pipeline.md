@@ -60,5 +60,3 @@ Adapters should distill proven patterns, not replace the visible memory system t
 Related notes: [[EVOLoRA Mesh — Adapter Creation Pipeline]]
 
 ## Related
-
-^[{src_rel}]

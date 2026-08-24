@@ -419,5 +419,3 @@ The music player improvements address the key issues of:
 The result is a more workout-friendly music player that intelligently manages playlists while providing a smooth, uninterrupted user experience during fitness activities.
 
 ## Related
-
-^[{src_rel}]

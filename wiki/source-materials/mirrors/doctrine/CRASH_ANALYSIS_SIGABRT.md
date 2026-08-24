@@ -164,5 +164,3 @@ guard promptBatch.n_tokens > 0 && promptBatch.n_tokens <= Int(actualContextBatch
 ```
 
 ## Related
-
-^[{src_rel}]

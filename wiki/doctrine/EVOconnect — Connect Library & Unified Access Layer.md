@@ -2,8 +2,8 @@
 title: EVOconnect — Connect Library & Unified Access Layer (Raw Draft)
 type: concept
 tags: [connect, evo]
-sources:
-  - source-materials/mirrors/doctrine/EVOconnect — Connect Library & Unified Access Layer.md
+sources: []
+origin: wiki-native — authored in this wiki, no upstream mirror
 updated: 2026-07-23
 ---
 # EVOconnect — Connect Library & Unified Access Layer (Raw Draft)
@@ -354,4 +354,4 @@ The workspace should help surface what matters when it matters.
 - [[EVOconnect — Lightweight Talent Structure Addendum.md]]
 - [[EVOconnect — Method Reconstruction Model.md]]
 - [[EVOconnect — Mobile Operational Continuity.md]]
-^[source-materials/mirrors/doctrine/EVOconnect — Connect Library & Unified Access Layer.md]
+^[wiki-native — no upstream source]

@@ -209,5 +209,3 @@ Watch for these log patterns:
 - **CPU fallback**: Always available as last resort (slower but stable)
 
 ## Related
-
-^[{src_rel}]

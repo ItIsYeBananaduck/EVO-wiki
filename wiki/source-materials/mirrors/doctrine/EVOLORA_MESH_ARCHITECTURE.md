@@ -386,5 +386,3 @@ EVOLoRA Mesh is a **modular, adaptive system** that:
 **ENF** ensures policy compliance, **VOICE** controls communication style, and **gating** enforces capabilities - all working together to create a safe, personalized, and contextually appropriate AI coach.
 
 ## Related
-
-^[{src_rel}]

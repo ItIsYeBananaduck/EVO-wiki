@@ -40,5 +40,3 @@ Governance Principle
 Errors describe friction within a concept. They do not describe the student.
 
 ## Related
-
-^[{src_rel}]

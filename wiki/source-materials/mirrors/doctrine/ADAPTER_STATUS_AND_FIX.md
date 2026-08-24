@@ -107,5 +107,3 @@ The binary replace script (`fix_architecture_simple.py`) works for fixing runtim
 2. Or use a proper GGUF metadata editor that preserves file structure
 
 ## Related
-
-^[{src_rel}]

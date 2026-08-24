@@ -80,5 +80,3 @@ It is a continuous, evolving system of:
 - and behavioral adaptation
 
 ## Related
-
-^[{src_rel}]

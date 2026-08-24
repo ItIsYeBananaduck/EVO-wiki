@@ -2,8 +2,8 @@
 title: EVO — Cross-App Context Continuity
 type: concept
 tags: [context, evo]
-sources:
-  - source-materials/mirrors/doctrine/EVO — Cross-App Context Continuity.md
+sources: []
+origin: wiki-native — authored in this wiki, no upstream mirror
 updated: 2026-07-23
 ---
 # EVO — Cross-App Context Continuity
@@ -174,4 +174,4 @@ Continuity is reconstructed, not carried.
 - [[EVO — Global Adapter Distribution Model.md]]
 - [[EVO — Pane Pack Architecture.md]]
 - [[EVO — Shared Embedding System.md]]
-^[source-materials/mirrors/doctrine/EVO — Cross-App Context Continuity.md]
+^[wiki-native — no upstream source]

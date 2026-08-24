@@ -414,5 +414,3 @@ If full conversion is too heavy, consider:
 4. Update adapter loading to use GGUF instead of safetensors
 
 ## Related
-
-^[{src_rel}]

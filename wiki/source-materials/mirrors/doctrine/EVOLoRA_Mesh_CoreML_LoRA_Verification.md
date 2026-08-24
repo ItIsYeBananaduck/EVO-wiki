@@ -156,5 +156,3 @@ updated: 2026-07-24
 **Result**: MLX is the correct choice for EVOLoRA Mesh on iOS.
 
 ## Related
-
-^[{src_rel}]

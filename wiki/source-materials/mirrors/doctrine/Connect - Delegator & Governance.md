@@ -92,5 +92,3 @@ Flow
 ```text Intent → Talent → Method → Delegator → Execution
 
 ## Related
-
-^[{src_rel}]

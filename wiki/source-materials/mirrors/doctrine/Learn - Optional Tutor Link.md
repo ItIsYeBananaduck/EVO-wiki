@@ -13,5 +13,3 @@ If linked: - tutor can review summaries (opt-in) - tutor can recommend or unlock
 Without tutor link: - SA remains user-aligned - escalation suggests seeking help but does not transmit details automatically
 
 ## Related
-
-^[{src_rel}]

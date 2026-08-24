@@ -250,5 +250,3 @@ These constraints are **absolute and non-negotiable**. Any deployment that viola
 - [x] **Explicit constraints preventing unrestricted admin execution documented** (Section 6)
 
 ## Related
-
-^[{src_rel}]

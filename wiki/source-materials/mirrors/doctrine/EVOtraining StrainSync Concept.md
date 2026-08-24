@@ -31,5 +31,3 @@ Training should sync with the body, not fight it.
 Related notes: [[STRAINSYNC_TRAINING_DATA]]
 
 ## Related
-
-^[{src_rel}]

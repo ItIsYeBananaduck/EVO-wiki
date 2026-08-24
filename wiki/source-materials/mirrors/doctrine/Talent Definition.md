@@ -272,4 +272,3 @@ They do not make execution less safe.
 - [Delegator Doctrine: Execution Authority](https://www.notion.so/343c72bad01381ef9ad0d496a384113b)
 - [EVOconnect Talent Model](https://www.notion.so/33dc72bad0138188bcf7e7b995b3ac5f)
 - Talents as Inference Compression — EVOconnect
-^[{src_rel}]

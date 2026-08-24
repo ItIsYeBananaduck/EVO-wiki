@@ -189,5 +189,3 @@ Once MLX Swift is added:
 3. Test inference on device
 
 ## Related
-
-^[{src_rel}]

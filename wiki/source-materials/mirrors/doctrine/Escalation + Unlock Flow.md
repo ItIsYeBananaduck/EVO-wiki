@@ -16,5 +16,3 @@ Teacher reviews: Conducts 1:1 Unlocks additional templates
 Message to student: “New learning approach available.”
 
 ## Related
-
-^[{src_rel}]

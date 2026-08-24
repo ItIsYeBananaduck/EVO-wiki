@@ -23,5 +23,3 @@ Progress Preservation
 When possible, migrate: - completion flags for unchanged sections - mastered items list - spaced repetition queue
 
 ## Related
-
-^[{src_rel}]

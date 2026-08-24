@@ -92,5 +92,3 @@ func listSystemCrashLogs() {
 - If the app freezes without crashing, you'll only see logs up to the freeze point in our custom logs
 
 ## Related
-
-^[{src_rel}]

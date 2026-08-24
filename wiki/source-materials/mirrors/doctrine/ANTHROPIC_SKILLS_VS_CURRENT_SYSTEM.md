@@ -169,5 +169,3 @@ class SkillManager {
 All three serve different purposes and work well together!
 
 ## Related
-
-^[{src_rel}]

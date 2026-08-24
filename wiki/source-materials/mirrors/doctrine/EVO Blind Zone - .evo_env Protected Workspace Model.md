@@ -308,4 +308,3 @@ It prevents:
 - [Alice Identity Doctrine](https://app.notion.com/p/33dc72bad013811da04accd3f90303d3)
 - Repo Adapter Design
 - Protected System Zones and Privileged Change Policy
-^[{src_rel}]

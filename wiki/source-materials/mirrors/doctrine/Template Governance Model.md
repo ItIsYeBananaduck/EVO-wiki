@@ -18,5 +18,3 @@ Lineage tracking required. Duplicate detection required.
 Goal: Prevent 1000 minor variations. Encourage meaningful method diversity.
 
 ## Related
-
-^[{src_rel}]

@@ -24,5 +24,3 @@ Links
 [Presence by Value](https://www.notion.so/33ec72bad0138180b6f7c3340e5ef148)
 
 ## Related
-
-^[{src_rel}]

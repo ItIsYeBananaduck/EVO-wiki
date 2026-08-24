@@ -109,5 +109,3 @@ See also: [[EVO On-Device First Principle]], [[EVOLoRA Mesh]], [[LoRA Artifact S
 AI model artifacts are delivered exclusively via the R2 Worker with short-lived download tokens. Clients obtain metadata from the backend, request a token, stream bytes, verify integrity, then activate. HuggingFace and Supabase Storage are not client download origins. Current canonical format is GGUF Q4_K_M loaded by llama.cpp.
 
 ## Related
-
-^[{src_rel}]

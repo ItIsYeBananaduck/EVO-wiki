@@ -13,5 +13,3 @@ Outputs: - packaged lesson units - multi-level explanations - practice banks - s
 Teacher approval: - teacher can lock outputs - teacher can approve variants - teacher can disable open-ended generation
 
 ## Related
-
-^[{src_rel}]

@@ -51,5 +51,3 @@ If you still see errors, try:
 The files are now part of the project and should compile with the rest of the Swift code.
 
 ## Related
-
-^[{src_rel}]

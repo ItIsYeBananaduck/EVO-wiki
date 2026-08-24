@@ -88,5 +88,3 @@ final Uri uri = Uri.parse('$_workerBaseUrl/download?key=${Uri.encodeComponent(r2
 But this should not be necessary once the worker is deployed with no-cache headers.
 
 ## Related
-
-^[{src_rel}]

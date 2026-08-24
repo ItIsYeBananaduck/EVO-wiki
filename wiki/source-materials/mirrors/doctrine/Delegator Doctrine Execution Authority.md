@@ -168,4 +168,3 @@ All execution authority flows through Delegator.
 ---
 
 Related notes: [[Alice Delegation Governance Model]]
-^[{src_rel}]

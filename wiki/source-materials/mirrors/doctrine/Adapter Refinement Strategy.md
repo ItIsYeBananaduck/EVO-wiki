@@ -29,5 +29,3 @@ Adapters enhance how Alice works, not what she is.
 #connect
 
 ## Related
-
-^[{src_rel}]

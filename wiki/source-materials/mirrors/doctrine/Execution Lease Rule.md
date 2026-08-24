@@ -24,5 +24,3 @@ Links
 [Single Alice Illusion](https://www.notion.so/33ec72bad01381ea8395c1c9c35f9066)
 
 ## Related
-
-^[{src_rel}]

@@ -22,5 +22,3 @@ Links
 [Swarm Work Ticket](https://www.notion.so/33ec72bad01381e29409d5ab37e5b618)
 
 ## Related
-
-^[{src_rel}]

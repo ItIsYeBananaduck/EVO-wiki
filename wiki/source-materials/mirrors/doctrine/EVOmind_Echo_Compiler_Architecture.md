@@ -30,5 +30,3 @@ Echo Core:- canonical memory- tone adapterEcho Variant:- recipient-scoped subset
 - Same inputs → same outputs- No randomness in compilation- Versioned outputs
 
 ## Related
-
-^[{src_rel}]

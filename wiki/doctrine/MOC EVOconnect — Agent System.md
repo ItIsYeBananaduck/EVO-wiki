@@ -2,8 +2,8 @@
 title: MOC EVOconnect — Agent System
 type: concept
 tags: [connect, evo, moc, system]
-sources:
-  - source-materials/mirrors/doctrine/MOC EVOconnect — Agent System.md
+sources: []
+origin: wiki-native — authored in this wiki, no upstream mirror
 updated: 2026-07-23
 ---
 # MOC EVOconnect — Agent System
@@ -38,4 +38,4 @@ A system that coordinates agents needs a map of how agency is bounded and expres
 - [[MOC EVOconnect — Inference & Execution.md]]
 - [[MOC EVOconnect — Methods & Talents.md]]
 - [[MOC EVOconnect — Task Lifecycle.md]]
-^[source-materials/mirrors/doctrine/MOC EVOconnect — Agent System.md]
+^[wiki-native — no upstream source]

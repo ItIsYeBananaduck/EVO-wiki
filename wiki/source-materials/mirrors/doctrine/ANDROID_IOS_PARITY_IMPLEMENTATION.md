@@ -160,5 +160,3 @@ Both platforms:
 **Both platforms now have full feature parity**
 
 ## Related
-
-^[{src_rel}]

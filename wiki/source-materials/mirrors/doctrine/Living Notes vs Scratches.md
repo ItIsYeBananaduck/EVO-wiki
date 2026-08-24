@@ -195,5 +195,3 @@ Not everything should become maintained knowledge.
 But everything should have a place to begin.
 
 ## Related
-
-^[{src_rel}]

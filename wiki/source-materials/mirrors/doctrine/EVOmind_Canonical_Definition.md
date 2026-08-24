@@ -90,5 +90,3 @@ Echoes remain bounded.
 This is a reflective mode, not a default behavior.
 
 ## Related
-
-^[{src_rel}]

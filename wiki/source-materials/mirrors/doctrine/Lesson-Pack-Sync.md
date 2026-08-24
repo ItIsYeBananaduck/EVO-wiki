@@ -28,5 +28,3 @@ SA Personalization Not Allowed
 SA may NOT: - skip gated lesson sequencing by default - introduce off-curriculum topics in Kids mode - rewrite teacher objectives - unlock future lessons without meeting criteria or teacher override
 
 ## Related
-
-^[{src_rel}]

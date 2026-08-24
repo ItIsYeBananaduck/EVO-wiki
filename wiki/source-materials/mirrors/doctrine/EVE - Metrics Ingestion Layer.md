@@ -35,5 +35,3 @@ No narrative blame language
 No student-level personalization outputs
 
 ## Related
-
-^[{src_rel}]

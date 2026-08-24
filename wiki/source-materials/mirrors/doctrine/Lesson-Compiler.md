@@ -37,5 +37,3 @@ bounded topics + no open chat + template-only games
 Emit versioned LessonPack
 
 ## Related
-
-^[{src_rel}]

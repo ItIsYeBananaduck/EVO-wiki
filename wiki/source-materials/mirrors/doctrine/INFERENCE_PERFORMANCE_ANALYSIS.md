@@ -234,5 +234,3 @@ After implementing Solutions 1-3:
 4. Apply remaining solutions based on findings
 
 ## Related
-
-^[{src_rel}]

@@ -21,5 +21,3 @@ The client receives a client-side applied copy that becomes part of the clientâ€
 The server must not become the canonical authority for runtime plan ownership, application state, or weekly adaptation state unless future doctrine explicitly changes this model.
 
 ## Related
-
-^[{src_rel}]

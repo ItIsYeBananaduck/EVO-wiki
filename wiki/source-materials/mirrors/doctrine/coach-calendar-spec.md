@@ -414,5 +414,3 @@ The calendar system must continue functioning locally if subscriptions fail or c
 **Related**: [Coach Application Philosophy](link-to-philosophy-doc)
 
 ## Related
-
-^[{src_rel}]

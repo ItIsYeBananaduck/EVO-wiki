@@ -24,5 +24,3 @@ Links
 Single Executor Guarantee
 
 ## Related
-
-^[{src_rel}]

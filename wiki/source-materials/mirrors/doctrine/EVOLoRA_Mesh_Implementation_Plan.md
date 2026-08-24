@@ -719,5 +719,3 @@ Flutter: generate()
 - llama.cpp Docs: [Research needed]
 
 ## Related
-
-^[{src_rel}]

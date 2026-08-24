@@ -1105,5 +1105,3 @@ The Hive Presence Indicator (Section 2.10) should show model tier:
 This gives the trainer visibility into which device has the most capable Alice, and where heavy work will be routed.
 
 ## Related
-
-^[{src_rel}]

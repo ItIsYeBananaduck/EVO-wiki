@@ -12,5 +12,3 @@ Export elements (examples): - topic_tag: “fractions” - mastery: low|med|high
 No freeform sensitive notes. No psychological interpretation.
 
 ## Related
-
-^[{src_rel}]

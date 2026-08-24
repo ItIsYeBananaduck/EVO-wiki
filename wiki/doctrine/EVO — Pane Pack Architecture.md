@@ -2,8 +2,8 @@
 title: EVO — Pane Pack Architecture (Raw Draft)
 type: concept
 tags: [architecture, evo, pane]
-sources:
-  - source-materials/mirrors/doctrine/EVO — Pane Pack Architecture.md
+sources: []
+origin: wiki-native — authored in this wiki, no upstream mirror
 updated: 2026-07-23
 ---
 # EVO — Pane Pack Architecture (Raw Draft)
@@ -459,4 +459,4 @@ They should expose the right panes, workflows, and talents, and Connect should c
 - [[EVO — Cross-App Context Continuity.md]]
 - [[EVO — Global Adapter Distribution Model.md]]
 - [[EVO — Shared Embedding System.md]]
-^[source-materials/mirrors/doctrine/EVO — Pane Pack Architecture.md]
+^[wiki-native — no upstream source]

@@ -420,5 +420,3 @@ if (!isValid) {
 - ✅ Automatic cleanup (no manual intervention)
 
 ## Related
-
-^[{src_rel}]

@@ -19,5 +19,3 @@ Principle:
 The best program is the one that adapts to the individual.
 
 ## Related
-
-^[{src_rel}]

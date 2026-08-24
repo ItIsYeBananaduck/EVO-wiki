@@ -22,5 +22,3 @@ Related
 #connect #cognition
 
 ## Related
-
-^[{src_rel}]

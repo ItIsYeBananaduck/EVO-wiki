@@ -161,5 +161,3 @@ Include the map structure in training examples so Alice learns to reference it.
 5. **Version control** the map alongside training data
 
 ## Related
-
-^[{src_rel}]

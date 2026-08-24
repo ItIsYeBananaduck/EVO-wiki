@@ -41,5 +41,3 @@ Administrators cannot: - access student identity - drill into single-student met
 Administrators control reporting structure. They do not control individual student data visibility.
 
 ## Related
-
-^[{src_rel}]

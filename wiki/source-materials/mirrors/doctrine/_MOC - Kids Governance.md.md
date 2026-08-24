@@ -23,5 +23,3 @@ Safety/_MOC - Safety
 [Unlock-Rules](https://www.notion.so/33ec72bad01381d2bbbee7f33571dbb2)
 
 ## Related
-
-^[{src_rel}]

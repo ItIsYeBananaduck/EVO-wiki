@@ -18,5 +18,3 @@ Rules: - Graceful fallback to local - No hanging tasks - Automatic reassignment 
 #connect
 
 ## Related
-
-^[{src_rel}]

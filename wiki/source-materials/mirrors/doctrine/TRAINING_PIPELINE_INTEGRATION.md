@@ -177,5 +177,3 @@ private func createBlankLoraIfNeeded() -> Bool {
 The pipeline is **ready to use** once you implement the llama.cpp training calls!
 
 ## Related
-
-^[{src_rel}]

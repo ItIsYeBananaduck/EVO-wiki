@@ -14,5 +14,3 @@ Milestones reflect: - Coherent training phases - Nutritional alignment - Managed
 Alice evolves only when the system demonstrates sustainable integration.
 
 ## Related
-
-^[{src_rel}]

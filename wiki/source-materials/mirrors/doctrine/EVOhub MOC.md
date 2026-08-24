@@ -61,5 +61,3 @@ Architectural Rule
 EVOhub coordinates intelligence. It never competes with it.
 
 ## Related
-
-^[{src_rel}]

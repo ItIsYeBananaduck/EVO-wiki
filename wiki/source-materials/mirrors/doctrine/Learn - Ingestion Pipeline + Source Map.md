@@ -27,5 +27,3 @@ If student finds the answer first during source browsing: - promote that locatio
 Goal: Make SA faster at finding grounded answers over time without changing Templates.
 
 ## Related
-
-^[{src_rel}]

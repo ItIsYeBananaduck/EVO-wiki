@@ -2,8 +2,8 @@
 title: Purpose
 type: concept
 tags: [connect, evo, method, model]
-sources:
-  - source-materials/mirrors/doctrine/EVOconnect — Method Reconstruction Model.md
+sources: []
+origin: wiki-native — authored in this wiki, no upstream mirror
 updated: 2026-07-23
 ---
 # Purpose
@@ -208,4 +208,4 @@ Learning happens from Methods, not from external behavior.
 - [[EVOconnect — Hive Node Architecture.md]]
 - [[EVOconnect — Lightweight Talent Structure Addendum.md]]
 - [[EVOconnect — Mobile Operational Continuity.md]]
-^[source-materials/mirrors/doctrine/EVOconnect — Method Reconstruction Model.md]
+^[wiki-native — no upstream source]

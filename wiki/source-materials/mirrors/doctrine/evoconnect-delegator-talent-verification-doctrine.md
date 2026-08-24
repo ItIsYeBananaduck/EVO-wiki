@@ -664,5 +664,3 @@ Methods and Talents do not eliminate risk.
 They reduce risk by separating reasoning guidance from execution authority.
 
 ## Related
-
-^[{src_rel}]

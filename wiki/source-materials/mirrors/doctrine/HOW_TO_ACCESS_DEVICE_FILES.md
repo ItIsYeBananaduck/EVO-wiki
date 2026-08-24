@@ -118,5 +118,3 @@ If you see your device listed, you can access it via Xcode.
 Would you like me to add a debug UI for viewing logs directly in the app?
 
 ## Related
-
-^[{src_rel}]

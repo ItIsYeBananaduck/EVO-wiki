@@ -467,4 +467,4 @@ Then she gets out of the way.
 
 ## Related
 
-^[{rel}]
+^[source-materials/mirrors/doctrine/EVO and the Time Returned Thesis.md]

@@ -130,5 +130,3 @@ Once processing completes:
 Good luck! 🚀
 
 ## Related
-
-^[{src_rel}]

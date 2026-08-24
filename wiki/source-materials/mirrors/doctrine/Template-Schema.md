@@ -33,5 +33,3 @@ District_compliance_flags: - allowed - restricted - review_required
 Method_signature: - cognitive_target: conceptual - scaffolding_level: high - retrieval_intensity: medium - structure_type: guided_release
 
 ## Related
-
-^[{src_rel}]

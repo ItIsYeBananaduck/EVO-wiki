@@ -134,5 +134,3 @@ Navigation Spine
 [_MOC - Strategy](https://www.notion.so/33ec72bad01381bcb2b1d199e69705eb)
 
 ## Related
-
-^[{src_rel}]

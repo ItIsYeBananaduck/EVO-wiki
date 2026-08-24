@@ -2,8 +2,8 @@
 title: MOC EVOconnect — Cognitive & Execution Model
 type: concept
 tags: [cognitive, connect, evo, execution, moc, model]
-sources:
-  - source-materials/mirrors/doctrine/MOC EVOconnect — Cognitive & Execution Model.md
+sources: []
+origin: wiki-native — authored in this wiki, no upstream mirror
 updated: 2026-07-23
 ---
 # MOC EVOconnect — Cognitive & Execution Model
@@ -36,4 +36,4 @@ Alice maintains awareness across domains without centralizing raw data.
 - [[MOC EVOconnect — Inference & Execution.md]]
 - [[MOC EVOconnect — Methods & Talents.md]]
 - [[MOC EVOconnect — Task Lifecycle.md]]
-^[source-materials/mirrors/doctrine/MOC EVOconnect — Cognitive & Execution Model.md]
+^[wiki-native — no upstream source]

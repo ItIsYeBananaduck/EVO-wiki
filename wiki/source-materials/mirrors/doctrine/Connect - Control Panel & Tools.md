@@ -17,5 +17,3 @@ All tools: - Governed by Delegator - Logged - Scoped
 #connect
 
 ## Related
-
-^[{src_rel}]

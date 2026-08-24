@@ -24,5 +24,3 @@ Links
 [Hive Shared State Backbone](https://www.notion.so/33ec72bad01381a2845acb86cd36ef48)
 
 ## Related
-
-^[{src_rel}]

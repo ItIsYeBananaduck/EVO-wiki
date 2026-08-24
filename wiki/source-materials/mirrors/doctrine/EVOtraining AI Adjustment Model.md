@@ -33,5 +33,3 @@ Small, consistent adjustments outperform large, erratic changes.
 Related notes: [[Seamless Adaptation Principle]], [[Micro-Batch Cycle]]
 
 ## Related
-
-^[{src_rel}]

@@ -25,5 +25,3 @@ School EVE Architecture 1
 [Administrative Reporting Controls](https://www.notion.so/33ec72bad0138108b116dd30e3ecfeaf)
 
 ## Related
-
-^[{src_rel}]

@@ -24,5 +24,3 @@ Links
 [Screen Recording Privacy Boundary](https://www.notion.so/33ec72bad013816a84dcfd811e4973be)
 
 ## Related
-
-^[{src_rel}]

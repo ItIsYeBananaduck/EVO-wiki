@@ -23,5 +23,3 @@ Principle:
 Onboarding should be simple, personalized, and low-friction.
 
 ## Related
-
-^[{src_rel}]

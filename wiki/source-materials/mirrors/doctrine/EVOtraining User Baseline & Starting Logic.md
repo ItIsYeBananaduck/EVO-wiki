@@ -25,5 +25,3 @@ Principle:
 Start safe, then scale intelligently.
 
 ## Related
-
-^[{src_rel}]

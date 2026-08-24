@@ -326,5 +326,3 @@ test('formatAsJSONL produces valid JSONL', () {
 - Background tasks require Wi-Fi and charging
 
 ## Related
-
-^[{src_rel}]

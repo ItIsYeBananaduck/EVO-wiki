@@ -23,5 +23,3 @@ One Echo Source        │        ├──► Bundle: Daughter        │      
 Echo bundles are continuously updated while the source is alive.Process:1. User updates journals/messages2. System rebu
 
 ## Related
-
-^[{src_rel}]

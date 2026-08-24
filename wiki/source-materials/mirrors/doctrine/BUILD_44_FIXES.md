@@ -93,5 +93,3 @@ After fixes, verify:
 - [ ] Upload succeeds to App Store Connect
 
 ## Related
-
-^[{src_rel}]

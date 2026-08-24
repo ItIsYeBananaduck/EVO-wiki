@@ -20,5 +20,3 @@ Goal: Not “most popular template”. Not “teacher preference”. Not “stud
 Best working template within approved envelope.
 
 ## Related
-
-^[{src_rel}]

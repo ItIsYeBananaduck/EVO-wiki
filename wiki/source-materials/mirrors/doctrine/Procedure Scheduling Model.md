@@ -56,5 +56,3 @@ Scheduling changes timing only. It does not change: - metric definitions - ident
 ---
 
 ## Related
-
-^[{src_rel}]

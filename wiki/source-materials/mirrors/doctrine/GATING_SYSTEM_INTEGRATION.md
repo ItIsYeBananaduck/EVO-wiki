@@ -367,5 +367,3 @@ All gating enforcement moved to Flutter for consistency.
 9. ⏳ Watch sync validation
 
 ## Related
-
-^[{src_rel}]

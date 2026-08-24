@@ -170,5 +170,3 @@ App Launch
 The system is ready. When MLX is implemented, it will automatically be used for iOS devices, with llama.cpp as a reliable fallback.
 
 ## Related
-
-^[{src_rel}]

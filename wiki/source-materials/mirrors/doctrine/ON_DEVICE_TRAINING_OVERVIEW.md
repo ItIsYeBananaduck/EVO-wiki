@@ -768,5 +768,3 @@ async function rollbackModel() {
 - Supabase Project: `https://pzcrllejymdofvfvhtxr.supabase.co`
 
 ## Related
-
-^[{src_rel}]

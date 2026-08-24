@@ -24,5 +24,3 @@ Links
 Multi-Modal Pairing
 
 ## Related
-
-^[{src_rel}]

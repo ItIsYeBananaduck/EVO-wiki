@@ -1195,5 +1195,3 @@ describe("IntensityScoring Fallbacks", () => {
 **Stakeholders**: Product, Engineering, Privacy, Legal, UX
 
 ## Related
-
-^[{src_rel}]

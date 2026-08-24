@@ -784,5 +784,3 @@ The Delegator enforces the rules.
 The user remains the owner.
 
 ## Related
-
-^[{rel}]

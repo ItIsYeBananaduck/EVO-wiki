@@ -115,4 +115,3 @@ This defense-in-depth approach ensures that even if one validation is missed, ot
 ## Status
 
 ✅ Fixed - All critical validations added to prevent SIGABRT crashes from position overflow
-^[{src_rel}]

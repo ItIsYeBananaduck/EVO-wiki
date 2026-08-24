@@ -195,5 +195,3 @@ updated: 2026-07-24
 **Next Milestone**: Implement safetensors weight loading
 
 ## Related
-
-^[{src_rel}]

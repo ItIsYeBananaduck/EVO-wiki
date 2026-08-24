@@ -98,5 +98,3 @@ Implement a layered optimization strategy:
 - Code is structured for easy testing and regression prevention
 
 ## Related
-
-^[{src_rel}]

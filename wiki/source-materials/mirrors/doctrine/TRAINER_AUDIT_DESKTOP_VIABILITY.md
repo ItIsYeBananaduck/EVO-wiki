@@ -318,5 +318,3 @@ A desktop trainer app could function perfectly well **without on-device inferenc
 **Bottom line**: The trainer side has a solid backend foundation and a few working mobile features, but most of the UI is scaffolded shells. A desktop web app is not just viable — it's the _right_ platform for the majority of trainer workflows. Build it on the existing SvelteKit app with the shared Supabase backend.
 
 ## Related
-
-^[{src_rel}]

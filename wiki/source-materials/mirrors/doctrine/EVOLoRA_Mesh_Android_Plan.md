@@ -371,5 +371,3 @@ model = AutoModelForCausalLM.from_pretrained("microsoft/Phi-3-mini-4k-instruct")
 - Or merge adapters server-side (loses dynamic switching)
 
 ## Related
-
-^[{src_rel}]

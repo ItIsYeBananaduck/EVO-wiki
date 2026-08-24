@@ -24,5 +24,3 @@ Links
 [Deferred Response Strategy](https://www.notion.so/33ec72bad0138165a14beefbab3fecc1)
 
 ## Related
-
-^[{src_rel}]

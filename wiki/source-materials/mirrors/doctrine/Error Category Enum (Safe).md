@@ -93,5 +93,3 @@ Error categories represent “what kind of friction occurred”, not “how smar
 They are used to improve method selection and scaffolding.
 
 ## Related
-
-^[{src_rel}]

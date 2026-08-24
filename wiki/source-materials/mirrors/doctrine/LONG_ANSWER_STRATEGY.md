@@ -211,5 +211,3 @@ The system is designed to keep inference lightweight:
 - **Continuation Orchestration**: Lines ~2410-2537 in `_processGeneration()`
 
 ## Related
-
-^[{src_rel}]

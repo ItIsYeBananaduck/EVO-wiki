@@ -25,5 +25,3 @@ Related
 Related notes: [[Monetization Model]]
 
 ## Related
-
-^[{src_rel}]

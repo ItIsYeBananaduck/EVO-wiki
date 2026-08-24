@@ -34,5 +34,3 @@ Summary
 Governance ensures safe, controlled, and auditable execution across all EVO domains.
 
 ## Related
-
-^[{src_rel}]

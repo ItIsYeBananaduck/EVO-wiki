@@ -227,5 +227,3 @@ if (DiagLog.instance.currentStage != ModelPipelineStage.ready) {
 **Status**: Core infrastructure complete. Instrumentation and integration pending.
 
 ## Related
-
-^[{src_rel}]

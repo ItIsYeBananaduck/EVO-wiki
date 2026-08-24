@@ -55,5 +55,3 @@ Mapping:
 [[NOTION_PAGE:"[[EVOtraining Training Philosophy|EVOtraining Training Philosophy]]"]]
 
 ## Related
-
-^[{src_rel}]

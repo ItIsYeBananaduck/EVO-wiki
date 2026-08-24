@@ -358,5 +358,3 @@ If battery drain occurs:
 - `app/src/lib/init/backgroundTasks.ts` - Initialization
 
 ## Related
-
-^[{src_rel}]

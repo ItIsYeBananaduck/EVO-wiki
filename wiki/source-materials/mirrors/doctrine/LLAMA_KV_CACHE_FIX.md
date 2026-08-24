@@ -173,5 +173,3 @@ nCur += 1  // ✅ Incremented after decode succeeds
 5. Verify no crashes occur under stress
 
 ## Related
-
-^[{src_rel}]

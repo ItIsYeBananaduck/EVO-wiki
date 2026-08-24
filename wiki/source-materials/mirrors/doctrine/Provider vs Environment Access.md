@@ -55,5 +55,3 @@ Alice does not need direct control of everything.
 She needs: - the ability to orchestrate everything
 
 ## Related
-
-^[{src_rel}]

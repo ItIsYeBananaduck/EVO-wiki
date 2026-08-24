@@ -786,4 +786,4 @@ The user remains the owner.
 
 ## Related
 
-^[{rel}]
+^[source-materials/mirrors/doctrine/EVO Connect Product Architecture.md]

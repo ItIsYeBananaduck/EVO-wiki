@@ -28,5 +28,3 @@ Principle:
 Content should adapt to the learner, not force the learner to adapt to the content.
 
 ## Related
-
-^[{src_rel}]

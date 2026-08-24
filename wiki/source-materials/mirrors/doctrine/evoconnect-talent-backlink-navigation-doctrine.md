@@ -458,5 +458,3 @@ Backlinks help Alice navigate.
 Delegator and manifests determine executable authority.
 
 ## Related
-
-^[{src_rel}]

@@ -49,5 +49,3 @@ Logged for audit
 Environment integrations treat tools as: - external environments- not native system components
 
 ## Related
-
-^[{src_rel}]

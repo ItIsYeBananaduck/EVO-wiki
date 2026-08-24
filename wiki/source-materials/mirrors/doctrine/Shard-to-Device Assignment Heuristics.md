@@ -26,5 +26,3 @@ Links
 [Swarm Parallel Inference](https://www.notion.so/33ec72bad013810eaa8ac7df235f10d0)
 
 ## Related
-
-^[{src_rel}]

@@ -113,5 +113,3 @@ The native generation path also budgets memory context:
 This note does not document removed adapter behavior, removed training pipelines, or old repair-pass behavior from historical implementation notes.
 
 ## Related
-
-^[{src_rel}]

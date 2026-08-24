@@ -220,5 +220,3 @@ dependencies: [
 5. ✅ **Simpler pipeline** - No conversion step in nightly updates
 
 ## Related
-
-^[{src_rel}]

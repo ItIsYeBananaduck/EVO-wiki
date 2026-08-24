@@ -14,5 +14,3 @@ Domains: - Fitness Style - Mindfulness Style - Teaching Style
 Workflow sources create Methods, not Styles.
 
 ## Related
-
-^[{src_rel}]

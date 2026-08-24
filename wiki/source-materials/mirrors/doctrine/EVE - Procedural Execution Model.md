@@ -34,5 +34,3 @@ EVE cannot: - Suggest new domains - Invent new KPIs - Create unsanctioned LoRAs 
 EVE verifies efficiency only.
 
 ## Related
-
-^[{src_rel}]

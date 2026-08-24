@@ -17,5 +17,3 @@ Includes: - skill mastery signals - curriculum topic strengths/needs - completio
 Prohibited: - medical or psychological claims - personality judgments - relational labels - sensitive personal inferences
 
 ## Related
-
-^[{src_rel}]

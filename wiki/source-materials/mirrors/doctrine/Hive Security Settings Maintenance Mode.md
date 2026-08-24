@@ -24,5 +24,3 @@ Links
 [Execution Lease Rule](https://www.notion.so/33ec72bad01381d7846bf9f2cabb72fd)
 
 ## Related
-
-^[{src_rel}]

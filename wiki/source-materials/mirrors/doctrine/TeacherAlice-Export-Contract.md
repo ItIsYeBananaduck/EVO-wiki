@@ -25,5 +25,3 @@ Format
 Exports must be structured: - JSON schemas - tagged concept graphs - leveled content variants
 
 ## Related
-
-^[{src_rel}]

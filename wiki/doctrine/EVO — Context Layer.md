@@ -2,8 +2,8 @@
 title: EVO — Context Layer
 type: concept
 tags: [context, evo]
-sources:
-  - source-materials/mirrors/doctrine/EVO — Context Layer.md
+sources: []
+origin: wiki-native — authored in this wiki, no upstream mirror
 updated: 2026-07-23
 ---
 # EVO — Context Layer
@@ -231,4 +231,4 @@ Related notes: [[EVO — Cognition Layer]], [[Signal-Architecture]]
 - [[EVO — Global Adapter Distribution Model.md]]
 - [[EVO — Pane Pack Architecture.md]]
 - [[EVO — Shared Embedding System.md]]
-^[source-materials/mirrors/doctrine/EVO — Context Layer.md]
+^[wiki-native — no upstream source]

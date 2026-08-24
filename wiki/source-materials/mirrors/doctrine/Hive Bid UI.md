@@ -26,5 +26,3 @@ Links
 External Task Proposal Attribution
 
 ## Related
-
-^[{src_rel}]

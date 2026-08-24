@@ -22,5 +22,3 @@ Principle:
 Every meaningful action should be explainable and reviewable.
 
 ## Related
-
-^[{src_rel}]

@@ -23,5 +23,3 @@ Procedures shape organizational metrics. Metric drift creates governance instabi
 Administrative control ensures: - Consistency - Accountability - Auditability - Political neutrality
 
 ## Related
-
-^[{src_rel}]

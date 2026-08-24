@@ -57,5 +57,3 @@ This MOC is the navigation layer for Alice’s memory architecture and its relat
 Related notes: [[Work Memory MOC]]
 
 ## Related
-
-^[{src_rel}]

@@ -292,5 +292,3 @@ See also: [[Alice Voice Spec]], [[EVO On-Device First Principle]], [[Prompt Inje
 Supertonic 2 is the current on-device voice synthesis engine for Alice, replacing Kokoro TTS. It runs a 4-model ONNX pipeline (text_encoder → duration_predictor → vector_estimator → vocoder) producing 44.1kHz Float32 audio. Voice is hardcoded to F2 (Olivia). The Flutter↔Swift bridge is `evo/supertonic_tts`. Models load lazily on first use to avoid contention with LlamaEngine. An emotion tag system (`[neutral|subtleApproval|calmConcern|momentumLift]`) modulates speech tempo within ±3%. A pre-synthesis speech reshaping pass removes corporate phrasing and ensures rhythmically natural spoken output. All synthesis is on-device; no network calls.
 
 ## Related
-
-^[{src_rel}]

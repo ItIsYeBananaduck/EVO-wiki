@@ -23,5 +23,3 @@ No identity linkage.
 No behavioral tracking.
 
 ## Related
-
-^[{src_rel}]

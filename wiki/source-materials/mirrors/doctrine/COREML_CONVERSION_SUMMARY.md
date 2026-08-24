@@ -111,5 +111,3 @@ The app can compile `.mlpackage` to `.mlmodelc` on first use:
 - No breaking changes - existing ONNX setup still works
 
 ## Related
-
-^[{src_rel}]

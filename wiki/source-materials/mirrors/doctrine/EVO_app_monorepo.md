@@ -794,5 +794,3 @@ If this order is followed, the monorepo can achieve:
 - and much lower long-term migration risk.
 
 ## Related
-
-^[{src_rel}]

@@ -75,4 +75,3 @@ If a supporting skill has stale-state risk, network-state risk, indexed-graph ri
 - [[EVE Governance MOC]]
 - [[EVOconnect — Skill Import and Conversion Doctrine]]
 - [[EVO — Talent Tool Envelope & Context Compression Doctrine]]
-^[{src_rel}]

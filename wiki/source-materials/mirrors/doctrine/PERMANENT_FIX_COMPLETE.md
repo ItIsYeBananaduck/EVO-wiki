@@ -53,5 +53,3 @@ After restarting, check logs for:
 - No more manual fixes needed!
 
 ## Related
-
-^[{src_rel}]

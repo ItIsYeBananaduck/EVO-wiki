@@ -25,5 +25,3 @@ Micro-batches make template switching safe and controlled.
 Related notes: [[Set-End Micro-Inference]], [[EVOtraining AI Adjustment Model]]
 
 ## Related
-
-^[{src_rel}]

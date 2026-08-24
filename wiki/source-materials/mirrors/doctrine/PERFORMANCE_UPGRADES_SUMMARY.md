@@ -295,5 +295,3 @@ PERF: promptTokens=X, tokenizeMs=Y, promptDecodeMs=Z, ttftMs=W, genTokens=V, gen
 **Status**: ✅ All 8 optimizations implemented and tested (no linter errors)
 
 ## Related
-
-^[{src_rel}]

@@ -14,5 +14,3 @@ Not allowed: - contacting users - changing business systems - triggering operati
 EVE outputs insights only. Humans decide actions.
 
 ## Related
-
-^[{src_rel}]

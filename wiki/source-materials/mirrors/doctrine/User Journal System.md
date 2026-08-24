@@ -69,5 +69,3 @@ When an entry is challenged:
 The User Journal exists to help Alice understand this user better over time without turning user memory into an opaque or user-edited blob.
 
 ## Related
-
-^[{src_rel}]

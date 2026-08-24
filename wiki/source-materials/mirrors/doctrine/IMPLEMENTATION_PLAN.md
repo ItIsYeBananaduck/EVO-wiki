@@ -76,5 +76,3 @@ Add in-app diagnostics to debug model download/initialization failures on physic
 - **Ready**: After successful init → READY stage
 
 ## Related
-
-^[{src_rel}]

@@ -25,5 +25,3 @@ Links
 [Authority vs Influence](https://www.notion.so/33ec72bad01381979a74f7600ad56c70)
 
 ## Related
-
-^[{src_rel}]

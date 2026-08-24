@@ -27,5 +27,3 @@ Links
 Related notes: [[Predictive-Regulation-Model]]
 
 ## Related
-
-^[{src_rel}]

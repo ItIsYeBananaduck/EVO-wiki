@@ -20,5 +20,3 @@ Generates Methods and Talents only.
 Styles affect reasoning. Methods affect execution.
 
 ## Related
-
-^[{src_rel}]

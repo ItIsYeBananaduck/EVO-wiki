@@ -113,5 +113,3 @@ All high-priority performance fixes have been implemented in `LlamaEngine.swift`
 - **No Breaking Changes**: Existing functionality preserved
 
 ## Related
-
-^[{src_rel}]

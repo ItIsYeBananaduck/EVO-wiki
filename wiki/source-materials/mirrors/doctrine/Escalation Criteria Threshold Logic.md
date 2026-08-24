@@ -36,5 +36,3 @@ Priority Classification
 Low / Medium / High based on: - retention stability - repeated failures - deadline proximity - concept clustering
 
 ## Related
-
-^[{src_rel}]

@@ -22,5 +22,3 @@ Goal:
 Reduce inference cost and increase consistency.
 
 ## Related
-
-^[{src_rel}]

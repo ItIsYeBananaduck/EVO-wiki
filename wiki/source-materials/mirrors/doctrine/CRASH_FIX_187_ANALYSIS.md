@@ -372,5 +372,3 @@ The crash at line 2975 should be **impossible** because:
 - Logging captures exact state if something still goes wrong
 
 ## Related
-
-^[{src_rel}]

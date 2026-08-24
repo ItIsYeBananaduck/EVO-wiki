@@ -365,5 +365,3 @@ The Create Living Note Talent is the governed capture mechanism for Connect.
 It lets the user think naturally while Alice turns high-value conversation into structured, linked, approved, navigable knowledge.
 
 ## Related
-
-^[{src_rel}]

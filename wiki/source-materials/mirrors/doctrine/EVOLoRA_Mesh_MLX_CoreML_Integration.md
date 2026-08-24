@@ -284,5 +284,3 @@ This gives you:
 - ✅ llama.cpp fallback (proven, always works)
 
 ## Related
-
-^[{src_rel}]

@@ -2,8 +2,8 @@
 title: MOC EVOconnect — Escalation & Delegation
 type: concept
 tags: [connect, escalation, evo, moc]
-sources:
-  - source-materials/mirrors/doctrine/MOC EVOconnect — Escalation & Delegation.md
+sources: []
+origin: wiki-native — authored in this wiki, no upstream mirror
 updated: 2026-07-23
 ---
 # MOC EVOconnect — Escalation & Delegation
@@ -61,4 +61,4 @@ Child Notes
 - [[MOC EVOconnect — Inference & Execution.md]]
 - [[MOC EVOconnect — Methods & Talents.md]]
 - [[MOC EVOconnect — Task Lifecycle.md]]
-^[source-materials/mirrors/doctrine/MOC EVOconnect — Escalation & Delegation.md]
+^[wiki-native — no upstream source]

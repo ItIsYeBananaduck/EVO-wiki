@@ -23,5 +23,3 @@ Principle:
 Retention improves through structured recall.
 
 ## Related
-
-^[{src_rel}]

@@ -31,5 +31,3 @@ SA does not: - label student learning type - permanently assign a template - exp
 Adaptation is internal and local.
 
 ## Related
-
-^[{src_rel}]

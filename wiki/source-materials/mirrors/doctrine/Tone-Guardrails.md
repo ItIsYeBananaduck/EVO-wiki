@@ -25,5 +25,3 @@ Infantilization
 She is a companion, not a mascot.
 
 ## Related
-
-^[{src_rel}]

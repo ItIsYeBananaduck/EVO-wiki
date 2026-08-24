@@ -117,5 +117,3 @@ wget https://huggingface.co/microsoft/Phi-3-mini-4k-instruct-gguf/resolve/main/P
 - Can rollback to previous working state if needed
 
 ## Related
-
-^[{src_rel}]

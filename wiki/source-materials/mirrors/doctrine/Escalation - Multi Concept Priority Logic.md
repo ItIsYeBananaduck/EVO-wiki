@@ -23,5 +23,3 @@ Priority increase affects: - teacher notification urgency - dashboard highlighti
 Consent is still required.
 
 ## Related
-
-^[{src_rel}]

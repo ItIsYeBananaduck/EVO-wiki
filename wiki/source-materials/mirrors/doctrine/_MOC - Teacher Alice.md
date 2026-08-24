@@ -31,5 +31,3 @@ Related
 [School-Home-Topology](https://www.notion.so/33ec72bad0138196bd5cda16d8377609)
 
 ## Related
-
-^[{src_rel}]

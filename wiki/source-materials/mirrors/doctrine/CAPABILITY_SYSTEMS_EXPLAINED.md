@@ -234,5 +234,3 @@ Output format: <policy>...</policy><actions>...</actions><answer>...</answer>
 - Combines both to make decisions
 
 ## Related
-
-^[{src_rel}]

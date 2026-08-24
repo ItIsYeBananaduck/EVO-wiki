@@ -24,5 +24,3 @@ Swarm Agents Are Non-Executable
 No Tool Access During Planning
 
 ## Related
-
-^[{src_rel}]

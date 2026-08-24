@@ -181,5 +181,3 @@ The foundation is solid:
 The next step is to complete the weight mapping to handle all model layers, especially the decoder layers which contain most of the model parameters.
 
 ## Related
-
-^[{src_rel}]

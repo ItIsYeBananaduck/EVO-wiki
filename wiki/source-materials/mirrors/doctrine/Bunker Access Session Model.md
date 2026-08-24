@@ -171,4 +171,3 @@ Revised model:
 
 Canonical reference:
 EVOconnect — Connect Library and Bunker Visibility Model
-^[{src_rel}]

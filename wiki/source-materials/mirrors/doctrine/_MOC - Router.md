@@ -23,5 +23,3 @@ Teacher Alice/_MOC - Teacher Alice
 [_MOC - EVE Governance](https://www.notion.so/33ec72bad013819c8cadf1652b78454b)
 
 ## Related
-
-^[{src_rel}]

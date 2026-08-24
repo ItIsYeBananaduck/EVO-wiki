@@ -16,5 +16,3 @@ Authority
 Teacher approval required to: - add new template to class - modify allowed adaptations - adopt new global template permanently
 
 ## Related
-
-^[{src_rel}]

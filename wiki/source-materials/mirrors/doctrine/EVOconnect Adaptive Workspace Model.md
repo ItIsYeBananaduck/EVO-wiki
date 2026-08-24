@@ -31,5 +31,3 @@ Final Principle:
 A workspace should fit the task, not force the task to fit the workspace.
 
 ## Related
-
-^[{src_rel}]

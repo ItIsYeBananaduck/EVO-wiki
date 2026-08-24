@@ -30,5 +30,3 @@ Alice may NOT: - interpret relational dynamics - provide therapy advice - blend 
 Related notes: [[EVO — Context Layer]], [[Predictive-Regulation-Model]]
 
 ## Related
-
-^[{src_rel}]

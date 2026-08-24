@@ -369,5 +369,3 @@ bool get _canUseStrainSync =>
 Ready to implement when you are! 🎵
 
 ## Related
-
-^[{src_rel}]

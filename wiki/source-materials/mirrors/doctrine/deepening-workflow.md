@@ -257,5 +257,3 @@ If research reveals a product-level ambiguity that should change behavior or sco
 - Recommend `ce-brainstorm` if the gap is truly product-defining
 
 ## Related
-
-^[{src_rel}]

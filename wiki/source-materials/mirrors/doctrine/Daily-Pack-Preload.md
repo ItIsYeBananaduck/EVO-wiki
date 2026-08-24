@@ -24,5 +24,3 @@ prioritize text + lightweight media
 defer large video unless explicitly required
 
 ## Related
-
-^[{src_rel}]

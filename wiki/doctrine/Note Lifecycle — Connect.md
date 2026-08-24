@@ -2,8 +2,8 @@
 title: Note Lifecycle — Connect
 type: concept
 tags: [lifecycle, note-lifecycle]
-sources:
-  - source-materials/mirrors/doctrine/Note Lifecycle — Connect.md
+sources: []
+origin: wiki-native — authored in this wiki, no upstream mirror
 updated: 2026-07-23
 ---
 # Note Lifecycle — Connect
@@ -143,4 +143,4 @@ Live Note = place to maintain
 - [[Note Lifecycle — Connect]]
 - [[Scratch → Living Note Promotion System]]
 - [[Living Notes — Connect Knowledge System]]
-^[source-materials/mirrors/doctrine/Note Lifecycle — Connect.md]
+^[wiki-native — no upstream source]

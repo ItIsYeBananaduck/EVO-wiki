@@ -90,5 +90,3 @@ Product model remains:
 Alice consults Echoes, not becomes them.
 
 ## Related
-
-^[{src_rel}]

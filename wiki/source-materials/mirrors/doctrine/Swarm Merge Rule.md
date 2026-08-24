@@ -24,5 +24,3 @@ Links
 [Task Audit Log Minimum Fields](https://www.notion.so/33ec72bad01381aa9d87d0a77aa0cada)
 
 ## Related
-
-^[{src_rel}]

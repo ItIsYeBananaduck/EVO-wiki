@@ -2,8 +2,8 @@
 title: MOC EVOconnect — Environment Integrations
 type: concept
 tags: [connect, evo, moc]
-sources:
-  - source-materials/mirrors/doctrine/MOC EVOconnect — Environment Integrations.md
+sources: []
+origin: wiki-native — authored in this wiki, no upstream mirror
 updated: 2026-07-23
 ---
 # MOC EVOconnect — Environment Integrations
@@ -78,4 +78,4 @@ Environment access must be understood as a governed subsystem, not an isolated c
 - [[MOC EVOconnect — Inference & Execution.md]]
 - [[MOC EVOconnect — Methods & Talents.md]]
 - [[MOC EVOconnect — Task Lifecycle.md]]
-^[source-materials/mirrors/doctrine/MOC EVOconnect — Environment Integrations.md]
+^[wiki-native — no upstream source]

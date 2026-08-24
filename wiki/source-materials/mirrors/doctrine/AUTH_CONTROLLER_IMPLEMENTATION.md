@@ -301,5 +301,3 @@ This implementation provides:
 - **Testability**: Clear state machine for testing
 
 ## Related
-
-^[{src_rel}]

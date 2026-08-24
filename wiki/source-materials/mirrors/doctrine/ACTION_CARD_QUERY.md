@@ -130,5 +130,3 @@ When user requests an action:
 4. ⏳ Test: Does Alice learn to query cards automatically?
 
 ## Related
-
-^[{src_rel}]

@@ -249,5 +249,3 @@ See `training/enf_lora/docs/EVALUATION_CHECKLIST.md` for complete checklist cove
 - Simulator behavior unchanged
 
 ## Related
-
-^[{src_rel}]

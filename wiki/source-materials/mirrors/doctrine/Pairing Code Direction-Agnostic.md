@@ -23,5 +23,3 @@ Links
 Pairing Code Protocol
 
 ## Related
-
-^[{src_rel}]

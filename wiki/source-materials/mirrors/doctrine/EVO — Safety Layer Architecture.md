@@ -99,5 +99,3 @@ User request
 - Exercise substitution safety is supporting infrastructure, not the main gating layer.
 
 ## Related
-
-^[{src_rel}]

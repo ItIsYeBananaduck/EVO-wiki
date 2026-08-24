@@ -258,5 +258,3 @@ None currently. System is robust with default fallbacks.
 - [alice_brain_service.dart](flutter_app/lib/features/alice/domain/alice_brain_service.dart) - Flutter service
 
 ## Related
-
-^[{src_rel}]

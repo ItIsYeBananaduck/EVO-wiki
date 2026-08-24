@@ -409,5 +409,3 @@ Alice uses maps and backlinks to get close, then targeted RAG to retrieve exact 
 This lets EVO scale to a massive knowledge pool without becoming slow, expensive, or noisy.
 
 ## Related
-
-^[{src_rel}]

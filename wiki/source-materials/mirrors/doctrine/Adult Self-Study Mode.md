@@ -12,5 +12,3 @@ Adults use [[NOTION_PAGE:"[[Learn – Self-Study Mode (Ingestion Notebook)|Learn
 Key traits: - user supplies materials - strict verification-first learning - purple support is private reflection - optional tutor linking
 
 ## Related
-
-^[{src_rel}]

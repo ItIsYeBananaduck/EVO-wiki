@@ -148,5 +148,3 @@ class TokenTrie {
 The system is now much more efficient and ready for testing. The tokenizer is production-ready, and generation is optimized for practical use!
 
 ## Related
-
-^[{src_rel}]

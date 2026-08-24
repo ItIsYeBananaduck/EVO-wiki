@@ -334,5 +334,3 @@ The music player now provides a polished, workout-friendly experience with:
 The implementation ensures that users can quickly and easily control their music during workouts without interrupting their exercise flow, while providing Alice with the data needed to learn user preferences over time.
 
 ## Related
-
-^[{src_rel}]

@@ -22,5 +22,3 @@ Alice becomes better at timing, not more authoritative.
 Related notes: [[Signal-Architecture]], [[Non-Intrusive Guidance]]
 
 ## Related
-
-^[{src_rel}]

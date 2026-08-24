@@ -48,4 +48,3 @@ navigation (`smartdocs/doctrine/active/`) without requiring a CLI round-trip.
   rule step-by-step (step `05-await-approval`).
 - `.polaris/skills/docs-promote/SKILL.md` — the skill definition mirroring the same
   `prohibited_actions`.
-^[{src_rel}]

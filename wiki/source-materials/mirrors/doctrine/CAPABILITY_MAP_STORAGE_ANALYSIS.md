@@ -267,5 +267,3 @@ func getRelevantCapabilities(...) -> [String: Any]? {
 **Best path forward**: Add in-memory caching to current JSON approach. Simple, effective, low risk.
 
 ## Related
-
-^[{src_rel}]

@@ -65,4 +65,3 @@ User intent must remain explicit before governed execution occurs.
 - [Talent Promotion Rule](https://www.notion.so/33ec72bad013814389d2efd20e39c2c6)
 - [Approved Method Library](https://www.notion.so/33ec72bad01381029fe3fca456cd9372)
 - [EVOconnect Method Specification Model](https://www.notion.so/33dc72bad01381969e43e43864cb35ef)
-^[{src_rel}]

@@ -2,8 +2,8 @@
 title: EVOconnect — Lightweight Talent Structure Addendum
 type: concept
 tags: [connect, evo, talent]
-sources:
-  - source-materials/mirrors/doctrine/EVOconnect — Lightweight Talent Structure Addendum.md
+sources: []
+origin: wiki-native — authored in this wiki, no upstream mirror
 updated: 2026-07-23
 ---
 # EVOconnect — Lightweight Talent Structure Addendum
@@ -357,4 +357,4 @@ Internal routing identifiers may remain technical, but the UI must remain human-
 - [[EVOconnect — Hive Node Architecture.md]]
 - [[EVOconnect — Method Reconstruction Model.md]]
 - [[EVOconnect — Mobile Operational Continuity.md]]
-^[source-materials/mirrors/doctrine/EVOconnect — Lightweight Talent Structure Addendum.md]
+^[wiki-native — no upstream source]

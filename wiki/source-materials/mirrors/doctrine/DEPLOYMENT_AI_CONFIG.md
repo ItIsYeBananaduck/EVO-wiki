@@ -617,5 +617,3 @@ async def get_personalized_recommendation_with_metrics(request: RecommendationRe
 This deployment configuration ensures the Enhanced AI Coaching System is properly configured for production use with comprehensive monitoring, caching, and optimization settings.
 
 ## Related
-
-^[{src_rel}]

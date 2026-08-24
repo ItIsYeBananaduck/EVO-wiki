@@ -519,5 +519,3 @@ if (restored) {
 **Storage**: Same as Android (~20-100 MB per adapter with backup)
 
 ## Related
-
-^[{src_rel}]

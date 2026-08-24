@@ -25,5 +25,3 @@ Links
 [Silent Failure Preference](https://www.notion.so/33ec72bad01381f08788c4aa9792b76f)
 
 ## Related
-
-^[{src_rel}]

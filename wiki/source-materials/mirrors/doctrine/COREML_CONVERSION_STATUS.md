@@ -76,5 +76,3 @@ Use kokoro-coreml pipeline for proper conversion (requires more setup)
 4. Update asset manager
 
 ## Related
-
-^[{src_rel}]

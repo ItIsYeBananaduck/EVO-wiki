@@ -96,5 +96,3 @@ biz.lsctech.adaptivefit://auth-callback
 **Result:** Professional, native iOS authentication experience
 
 ## Related
-
-^[{src_rel}]

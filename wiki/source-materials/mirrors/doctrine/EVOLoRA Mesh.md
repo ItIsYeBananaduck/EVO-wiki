@@ -123,5 +123,3 @@ See also: [[Authority vs Influence]], [[User LoRA Silence Condition]], [[Cold St
 The EVOLoRA Mesh blends up to four LoRA adapter types (GU, GT, U, T) using `effective_weight = authority_weight × relevance`. Adapters learn interpretation bias only — structured memory lives in the EVO Wiki. `MeshRouter` builds the stack per request via `MeshContext`. Policy enforcement is owned by `GatingEngine` and answer repair. One Alice intelligence model operates across all EVO apps by loading different domain adapters and wiki summaries.
 
 ## Related
-
-^[{src_rel}]

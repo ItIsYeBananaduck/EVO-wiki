@@ -99,5 +99,3 @@ The web/static directory contains several Alice assets, but I did not find runti
 - I excluded app icons such as `alicenew.png` from the main used/unused judgment because they are branding/app-icon assets, not in-app Alice avatar renderers.
 
 ## Related
-
-^[{src_rel}]

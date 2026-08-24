@@ -113,5 +113,3 @@ If issues persist:
 - **Maintainability**: Documentation provides clear troubleshooting guide
 
 ## Related
-
-^[{src_rel}]

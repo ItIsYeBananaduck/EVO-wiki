@@ -221,5 +221,3 @@ private func waitForDecodeCompletion(timeout: TimeInterval = 10.0) -> Bool {
 - Metal stalls will trigger CPU fallback automatically
 
 ## Related
-
-^[{src_rel}]

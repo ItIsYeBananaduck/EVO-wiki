@@ -25,5 +25,3 @@ Links
 [Whitelisted Instruction Sources](https://www.notion.so/33ec72bad01381db94dbc683f4e90150)
 
 ## Related
-
-^[{src_rel}]

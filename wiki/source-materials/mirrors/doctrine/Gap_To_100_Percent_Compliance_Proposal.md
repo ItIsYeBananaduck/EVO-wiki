@@ -168,5 +168,3 @@ This document is an **ordered implementation plan** to close all known gaps foun
 - Background scheduling uses OS-level jobs and is measurable/auditable.
 
 ## Related
-
-^[{src_rel}]

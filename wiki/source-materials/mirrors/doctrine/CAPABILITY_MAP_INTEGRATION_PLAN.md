@@ -600,5 +600,3 @@ class CapabilityMapCache {
 **Owner**: AI Development Team
 
 ## Related
-
-^[{src_rel}]

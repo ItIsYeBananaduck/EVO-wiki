@@ -362,4 +362,4 @@ By treating user information as user-owned capabilities instead of model-owned k
 
 ## Related
 
-^[{rel}]
+^[source-materials/mirrors/doctrine/EVO Vault Architecture.md]

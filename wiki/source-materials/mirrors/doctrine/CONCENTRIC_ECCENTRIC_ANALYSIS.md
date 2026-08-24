@@ -325,5 +325,3 @@ intensity =
 **Status**: Ready for Review
 
 ## Related
-
-^[{src_rel}]

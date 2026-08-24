@@ -14,5 +14,3 @@ Restrictions are age-tiered: - younger kids: tighter restrictions + stronger gua
 Design goal: Keep learning open, but prevent exposure to inappropriate topics for minors.
 
 ## Related
-
-^[{src_rel}]

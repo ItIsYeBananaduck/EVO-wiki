@@ -45,5 +45,3 @@ retention policy configurable by institution
 thread organization by concept tag
 
 ## Related
-
-^[{src_rel}]

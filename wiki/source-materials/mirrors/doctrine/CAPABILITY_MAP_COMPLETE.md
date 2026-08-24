@@ -127,5 +127,3 @@ Alice consults map:
 The capability map is ready for Alice to reference!
 
 ## Related
-
-^[{src_rel}]

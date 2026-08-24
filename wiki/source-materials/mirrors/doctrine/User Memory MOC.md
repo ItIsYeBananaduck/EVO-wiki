@@ -78,5 +78,3 @@ Only cognition-relevant artifacts are embedded into vector memory. Raw system ex
 - Any artifact with `approved: false`
 
 ## Related
-
-^[{src_rel}]

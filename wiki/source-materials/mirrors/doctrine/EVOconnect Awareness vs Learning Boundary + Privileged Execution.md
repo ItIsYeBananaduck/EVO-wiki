@@ -30,5 +30,3 @@ Final Principle:
 Escalation in capability must always come with escalation in governance.
 
 ## Related
-
-^[{src_rel}]

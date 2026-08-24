@@ -196,5 +196,3 @@ To complete 100% compliance, we will need to confirm:
 (These do not change the compliance markings above; they only affect implementation planning.)
 
 ## Related
-
-^[{src_rel}]

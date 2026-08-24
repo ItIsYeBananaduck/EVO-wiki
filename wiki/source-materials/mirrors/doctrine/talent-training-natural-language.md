@@ -176,5 +176,3 @@ The real goal is:
 "teach Alice how to construct safe reusable workflows from reasoning, doctrine, and user intent."
 
 ## Related
-
-^[{src_rel}]

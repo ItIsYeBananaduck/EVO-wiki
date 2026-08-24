@@ -2,8 +2,8 @@
 title: EVOconnect — Workspace Architecture (Raw Draft v2)
 type: concept
 tags: [architecture, connect, evo, workspace]
-sources:
-  - source-materials/mirrors/doctrine/EVOconnect — Workspace Architecture.md
+sources: []
+origin: wiki-native — authored in this wiki, no upstream mirror
 updated: 2026-07-23
 ---
 # EVOconnect — Workspace Architecture (Raw Draft v2)
@@ -443,4 +443,4 @@ rather than simply another productivity application.
 - [[EVOconnect — Hive Node Architecture.md]]
 - [[EVOconnect — Lightweight Talent Structure Addendum.md]]
 - [[EVOconnect — Method Reconstruction Model.md]]
-^[source-materials/mirrors/doctrine/EVOconnect — Workspace Architecture.md]
+^[wiki-native — no upstream source]

@@ -265,5 +265,3 @@ Both platforms gracefully handle missing files and continue without capability m
 **Status**: Ready for testing on devices
 
 ## Related
-
-^[{src_rel}]

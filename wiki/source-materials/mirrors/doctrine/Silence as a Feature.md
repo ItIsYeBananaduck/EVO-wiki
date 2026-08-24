@@ -24,5 +24,3 @@ Links
 [Explain Only When Asked](https://www.notion.so/33ec72bad0138119bfa0e007260ebea7)
 
 ## Related
-
-^[{src_rel}]

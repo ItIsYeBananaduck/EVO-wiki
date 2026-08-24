@@ -60,5 +60,3 @@ Connectivity & Pairing
 [Main Device Designation](https://www.notion.so/33ec72bad01381dfa1e9cafa22fc7ce4)
 
 ## Related
-
-^[{src_rel}]

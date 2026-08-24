@@ -218,5 +218,3 @@ Before uploading to R2:
 - LoRA training: See training scripts in `training/enf_lora/scripts/`
 
 ## Related
-
-^[{src_rel}]

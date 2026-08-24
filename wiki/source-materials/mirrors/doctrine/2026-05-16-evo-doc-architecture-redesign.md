@@ -1839,5 +1839,3 @@ git commit -m "docs: traversal redesign verification pass complete"
 **Type consistency:** All wiki-link patterns use `[[filename]]` consistently. All frontmatter field names match across templates and domain READMEs.
 
 ## Related
-
-^[{src_rel}]

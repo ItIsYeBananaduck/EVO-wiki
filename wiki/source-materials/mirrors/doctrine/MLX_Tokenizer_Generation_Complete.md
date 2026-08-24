@@ -166,5 +166,3 @@ The implementation includes:
 The foundation is complete and ready for testing. Once proper tokenization is implemented and KV cache is added, the system will be production-ready!
 
 ## Related
-
-^[{src_rel}]

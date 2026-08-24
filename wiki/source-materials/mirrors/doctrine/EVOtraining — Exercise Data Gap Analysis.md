@@ -117,5 +117,3 @@ See also: [[Exercise-End Intensity Scoring]], [[EVOtraining — StrainSync Syste
 Three major data gaps exist in EVOtraining: (1) phase detection and TUT tracking per rep, (2) superset grouping with zero-rest fatigue accounting, and (3) unilateral side-by-side tracking with imbalance detection. All three feed into the ACIF signal package and the adaptive training model. Phase detection requires a new `phaseDetectionService.ts`; superset and unilateral require schema additions to `WorkoutExercise` and `SetCompletion`.
 
 ## Related
-
-^[{src_rel}]

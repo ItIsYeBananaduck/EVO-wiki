@@ -345,4 +345,3 @@ The talent owns:
 Living Note creation is a governed collaboration loop.
 
 The user talks. Alice refines. Alice proposes links. The user approves. Connect receives durable, structured, navigable knowledge.
-^[{src_rel}]

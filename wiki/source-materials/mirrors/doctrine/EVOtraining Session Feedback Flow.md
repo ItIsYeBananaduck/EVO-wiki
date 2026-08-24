@@ -27,5 +27,3 @@ Principle:
 Session-level context improves long-term adaptation.
 
 ## Related
-
-^[{src_rel}]

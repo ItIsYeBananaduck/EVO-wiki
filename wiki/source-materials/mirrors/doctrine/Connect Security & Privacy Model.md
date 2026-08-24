@@ -33,5 +33,3 @@ Final Principle:
 Security and privacy are not adjacent concerns. They are execution constraints.
 
 ## Related
-
-^[{src_rel}]

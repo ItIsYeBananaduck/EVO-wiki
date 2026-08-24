@@ -174,5 +174,3 @@ Core requirements used in this map:
 - [x] Compliance requirements documented for each model (Compliance requirements summary table and per-model requirements).
 
 ## Related
-
-^[{src_rel}]

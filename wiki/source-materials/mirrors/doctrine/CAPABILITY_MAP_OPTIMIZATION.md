@@ -211,5 +211,3 @@ Detects when user asks about capabilities:
 **Ready for testing!**
 
 ## Related
-
-^[{src_rel}]

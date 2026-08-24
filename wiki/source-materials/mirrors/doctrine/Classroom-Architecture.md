@@ -25,5 +25,3 @@ Substitute Mode (optional)
 TA can drive class lesson delivery. Substitute monitors classroom and operations. TA does not manage discipline; TA manages instruction flow.
 
 ## Related
-
-^[{src_rel}]

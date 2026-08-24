@@ -92,5 +92,3 @@ Make sure you've added the redirect URL to Supabase:
 **Result:** Authentication completes in-app, no more website redirect
 
 ## Related
-
-^[{src_rel}]

@@ -2,8 +2,8 @@
 title: EVOconnect — Third-Party Workspace Integration (Raw Draft)
 type: concept
 tags: [connect, evo, workspace]
-sources:
-  - source-materials/mirrors/doctrine/EVOconnect — Third-Party Workspace Integration.md
+sources: []
+origin: wiki-native — authored in this wiki, no upstream mirror
 updated: 2026-07-23
 ---
 # EVOconnect — Third-Party Workspace Integration (Raw Draft)
@@ -321,4 +321,4 @@ The user’s workflow should feel unified even when it spans many different tool
 - [[EVOconnect — Hive Node Architecture.md]]
 - [[EVOconnect — Lightweight Talent Structure Addendum.md]]
 - [[EVOconnect — Method Reconstruction Model.md]]
-^[source-materials/mirrors/doctrine/EVOconnect — Third-Party Workspace Integration.md]
+^[wiki-native — no upstream source]

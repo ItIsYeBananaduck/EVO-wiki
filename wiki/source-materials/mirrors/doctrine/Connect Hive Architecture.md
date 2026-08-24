@@ -29,5 +29,3 @@ Principle:
 Hive ≠ Swarm. Hive coordinates. Swarm computes.
 
 ## Related
-
-^[{src_rel}]

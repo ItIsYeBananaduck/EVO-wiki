@@ -133,5 +133,3 @@ Lower retry frequency
 Higher independent Eureka events
 
 ## Related
-
-^[{src_rel}]

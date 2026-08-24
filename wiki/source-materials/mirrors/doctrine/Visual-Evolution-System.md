@@ -13,5 +13,3 @@ Struggle triggers: - method adaptation - pacing adjustment - alternate route sel
 Evolution represents cumulative growth, not recent performance.
 
 ## Related
-
-^[{src_rel}]

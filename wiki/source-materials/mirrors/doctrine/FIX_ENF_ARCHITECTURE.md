@@ -95,5 +95,3 @@ Phi-3 models are based on Llama architecture internally. When converted to GGUF:
 This only affects the ENF adapter. The META adapter should work fine once it's included in the bundle (see META_ADAPTER_FIX.md).
 
 ## Related
-
-^[{src_rel}]

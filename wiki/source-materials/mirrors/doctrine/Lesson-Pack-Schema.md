@@ -132,5 +132,3 @@ allow_game_generation (bool=false) // only templates
 max_variants_per_block (int)
 
 ## Related
-
-^[{src_rel}]

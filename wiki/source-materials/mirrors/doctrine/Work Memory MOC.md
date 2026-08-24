@@ -49,5 +49,3 @@ This MOC organizes the execution-learning side of Alice’s memory system and Co
 Related notes: [[Alice Memory System MOC]], [[User Memory MOC]]
 
 ## Related
-
-^[{src_rel}]

@@ -23,5 +23,3 @@ Links
 [Talent Trainer Overview](https://www.notion.so/33ec72bad01381ba9fb6dc3fd6713661)
 
 ## Related
-
-^[{src_rel}]

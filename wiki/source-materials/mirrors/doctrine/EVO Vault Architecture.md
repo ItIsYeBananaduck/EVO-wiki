@@ -360,5 +360,3 @@ The objective is to make privacy the default operating model of an intelligent a
 By treating user information as user-owned capabilities instead of model-owned knowledge, EVO enables powerful AI assistance without requiring users to surrender control of their digital lives.
 
 ## Related
-
-^[{rel}]

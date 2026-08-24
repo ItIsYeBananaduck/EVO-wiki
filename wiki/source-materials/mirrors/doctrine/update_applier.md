@@ -39,5 +39,3 @@ Questions or next steps
 Pick what you want next and I will implement it.
 
 ## Related
-
-^[{src_rel}]

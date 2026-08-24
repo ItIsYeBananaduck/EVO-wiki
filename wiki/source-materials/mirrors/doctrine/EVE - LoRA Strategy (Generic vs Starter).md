@@ -30,5 +30,3 @@ EVE can propose LoRA training jobs, but humans approve: - data scope + retention
 No autonomous unreviewed LoRA creation.
 
 ## Related
-
-^[{src_rel}]

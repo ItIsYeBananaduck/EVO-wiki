@@ -590,5 +590,3 @@ Supabase.instance.client.auth.onAuthStateChange.listen((data) {
 4. Document results and update as needed
 
 ## Related
-
-^[{src_rel}]

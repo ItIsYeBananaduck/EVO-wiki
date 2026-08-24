@@ -151,5 +151,3 @@ See also: [[EVOtraining — Exercise Data Gap Analysis]], [[EVOtraining — Stra
 ACIF v2 replaces raw HR/SpO2 fields with a consolidated `intensity_score` and `intensity_breakdown`. New fields add phase timing (TUT, concentric/eccentric averages, tempo variance), superset membership (`supersetGroupId`, `supersetOrder`) and unilateral side signals (`isUnilateral`, `side`) — see [[EVOtraining — Exercise Data Gap Analysis]] — and optional nutrition/supplement tracking. The federated pipeline learns from processed metrics, not raw sensor values.
 
 ## Related
-
-^[{src_rel}]

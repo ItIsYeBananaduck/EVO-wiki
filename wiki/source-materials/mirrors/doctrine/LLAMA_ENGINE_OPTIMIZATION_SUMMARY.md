@@ -209,5 +209,3 @@ Optimized the on-device llama.cpp (Metal) chat engine to fix slow inference by r
 - Conversation history is limited to last 10 turns to prevent unbounded growth
 
 ## Related
-
-^[{src_rel}]

@@ -58,5 +58,3 @@ Important exceptions.
 Short, clean recap of what this system is.
 
 ## Related
-
-^[{src_rel}]

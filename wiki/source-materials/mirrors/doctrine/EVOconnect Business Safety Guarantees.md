@@ -33,5 +33,3 @@ Final Principle:
 Power without business safety is not acceptable system design.
 
 ## Related
-
-^[{src_rel}]

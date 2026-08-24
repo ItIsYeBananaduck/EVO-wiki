@@ -19,5 +19,3 @@ Student may find answer first. Alice logs retrieval anchor.
 Goal: Never confidently wrong. Always grounded.
 
 ## Related
-
-^[{src_rel}]

@@ -140,5 +140,3 @@ let n_batch: UInt32 = requestedBatch > 0 ? requestedBatch : {
 - [ ] Verify no regressions on higher-tier devices (iPhone 15 Pro)
 
 ## Related
-
-^[{src_rel}]

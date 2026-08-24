@@ -2,8 +2,8 @@
 title: EVOconnect — Coach Pane Pack Contract
 type: concept
 tags: [connect, evo, pane]
-sources:
-  - source-materials/mirrors/doctrine/EVOconnect — Coach Pane Pack Contract.md
+sources: []
+origin: wiki-native — authored in this wiki, no upstream mirror
 updated: 2026-07-23
 ---
 # EVOconnect — Coach Pane Pack Contract
@@ -138,4 +138,4 @@ These should remain doctrine-first until broader Pane Pack architecture stabiliz
 - [[EVOconnect — Lightweight Talent Structure Addendum.md]]
 - [[EVOconnect — Method Reconstruction Model.md]]
 - [[EVOconnect — Mobile Operational Continuity.md]]
-^[source-materials/mirrors/doctrine/EVOconnect — Coach Pane Pack Contract.md]
+^[wiki-native — no upstream source]

@@ -24,5 +24,3 @@ Links
 [Energy-Aware Inference](https://www.notion.so/33ec72bad013818aa564f83af05fb2ba)
 
 ## Related
-
-^[{src_rel}]

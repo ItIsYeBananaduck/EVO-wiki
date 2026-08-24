@@ -106,4 +106,3 @@ The privileged loader provides controlled runtime consumption without exposing p
 
 - Protected Storage and Access Model
 - [Bunker Model — Protected User and System Storage Containers](https://www.notion.so/343c72bad0138186af70ec9b2ce2ba9f)
-^[{src_rel}]

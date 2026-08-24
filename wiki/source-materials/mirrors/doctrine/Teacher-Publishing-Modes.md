@@ -16,5 +16,3 @@ Teacher Override
 Teacher can: - push emergency updates - retract a lesson - issue a revised pack version
 
 ## Related
-
-^[{src_rel}]

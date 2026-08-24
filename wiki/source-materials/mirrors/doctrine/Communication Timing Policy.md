@@ -30,5 +30,3 @@ Preserves student support.
 Maintains academic focus.
 
 ## Related
-
-^[{src_rel}]

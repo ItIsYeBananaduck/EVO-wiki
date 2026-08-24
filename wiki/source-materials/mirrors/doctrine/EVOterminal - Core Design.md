@@ -52,5 +52,3 @@ No external data access without approval
 Related notes: [[Conversational System Specification]], [[EVO — System Index]]
 
 ## Related
-
-^[{src_rel}]

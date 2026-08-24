@@ -163,5 +163,3 @@ Together:
 Tasks become executable systems
 
 ## Related
-
-^[{src_rel}]

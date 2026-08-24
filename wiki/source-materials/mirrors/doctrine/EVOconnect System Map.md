@@ -82,5 +82,3 @@ Delegator = Control
 Vault = Safety
 
 ## Related
-
-^[{src_rel}]

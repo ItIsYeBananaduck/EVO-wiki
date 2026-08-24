@@ -17,5 +17,3 @@ This ensures: No passive answer consumption. Effort is required.
 Unlimited usage allowed. Confusion is not punished.
 
 ## Related
-
-^[{src_rel}]

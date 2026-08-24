@@ -67,5 +67,3 @@ After deployment:
 4. If stable, consider gradual increase to 192
 
 ## Related
-
-^[{src_rel}]

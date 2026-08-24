@@ -517,5 +517,3 @@ The audit reveals a solid foundation for Video Workout Routines implementation:
 The architecture supports the specified requirements while maintaining compatibility with existing systems and following the minimal-change principle.
 
 ## Related
-
-^[{src_rel}]

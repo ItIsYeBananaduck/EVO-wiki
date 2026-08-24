@@ -29,5 +29,3 @@ Principle:
 Learning should continuously adapt to maximize understanding and retention.
 
 ## Related
-
-^[{src_rel}]

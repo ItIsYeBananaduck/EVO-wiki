@@ -194,5 +194,3 @@ This section records questions that were open during the cluster analysis phase 
 - [x] **Follow-on implementation issues identified** (Section 5: five proposed issues)
 
 ## Related
-
-^[{src_rel}]

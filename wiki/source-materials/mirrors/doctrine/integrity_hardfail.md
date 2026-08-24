@@ -153,5 +153,3 @@ NightlyModelSync.refreshAssets()
 - `flutter_app/lib/core/background/nightly_model_sync.dart` — nightly retry on failure
 
 ## Related
-
-^[{src_rel}]

@@ -26,5 +26,3 @@ Links
 [Adaptive Variable Adjustment](https://www.notion.so/33ec72bad01381e08c75cba76b076b7f)
 
 ## Related
-
-^[{src_rel}]

@@ -18,5 +18,3 @@ Training → Learn feedback loopsMind → Learn contextual awarenessHub → Lear
 Learn is the final maturity stage.
 
 ## Related
-
-^[{src_rel}]

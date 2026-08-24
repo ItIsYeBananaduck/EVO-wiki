@@ -78,5 +78,3 @@ After deployment, monitor:
 4. **GPU verification** - Confirm Metal is actually being used (new diagnostics)
 
 ## Related
-
-^[{src_rel}]

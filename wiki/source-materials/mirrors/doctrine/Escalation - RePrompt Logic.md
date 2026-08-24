@@ -23,5 +23,3 @@ teaches strategic breaks
 aligns with grading-period reporting
 
 ## Related
-
-^[{src_rel}]

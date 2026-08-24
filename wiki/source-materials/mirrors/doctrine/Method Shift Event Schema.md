@@ -22,5 +22,3 @@ shift_effectiveness_bucket: enum { improved, neutral, worsened }
 }
 
 ## Related
-
-^[{src_rel}]

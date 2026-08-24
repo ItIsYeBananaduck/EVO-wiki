@@ -200,4 +200,3 @@ Desktop uses the same `SharedModelStore` as mobile:
 - iOS native: `ios/Runner/AliceInferenceManager.swift`
 - macOS native: `macos/Runner/AliceInferenceManager.swift`
 - AppDelegate: `macos/Runner/AppDelegate.swift`
-^[{src_rel}]

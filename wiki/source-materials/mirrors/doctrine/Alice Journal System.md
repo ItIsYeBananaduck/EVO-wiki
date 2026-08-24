@@ -317,5 +317,3 @@ She is not app-specific, not session-bound, and not stateless.
 The Alice Journal is how Alice shows her work before her understanding becomes durable behavior.
 
 ## Related
-
-^[{src_rel}]

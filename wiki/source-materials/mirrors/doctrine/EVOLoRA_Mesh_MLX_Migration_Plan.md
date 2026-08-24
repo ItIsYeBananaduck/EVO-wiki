@@ -399,5 +399,3 @@ class MethodChannelAliceBrainService implements AliceBrainService {
 **Recommendation**: Start with MLX evaluation. If it works, migrate. If not, optimize llama.cpp conversion as fallback.
 
 ## Related
-
-^[{src_rel}]

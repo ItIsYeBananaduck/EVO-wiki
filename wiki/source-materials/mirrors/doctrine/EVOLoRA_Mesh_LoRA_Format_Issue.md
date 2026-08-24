@@ -280,5 +280,3 @@ if __name__ == "__main__":
 - Compliance report: `docs/audits/EVOLoRA_Mesh_Compliance_Report.md`
 
 ## Related
-
-^[{src_rel}]

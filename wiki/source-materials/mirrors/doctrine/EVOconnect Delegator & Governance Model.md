@@ -224,4 +224,3 @@ EVOconnect depends on Delegator to:
 - [EVOconnect Talent Model](https://www.notion.so/33dc72bad0138188bcf7e7b995b3ac5f)
 - [EVOconnect Task Manager as Agent Supervision Layer](https://www.notion.so/33dc72bad01381198e00e077242b777f)
 - [EVOconnect Method Specification Model](https://www.notion.so/33dc72bad01381969e43e43864cb35ef)
-^[{src_rel}]

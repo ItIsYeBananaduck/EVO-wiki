@@ -186,5 +186,3 @@ That keeps Connect: - simple to use - powerful in practice - and aligned with yo
 #connect
 
 ## Related
-
-^[{src_rel}]

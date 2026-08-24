@@ -215,5 +215,3 @@ if shouldEnableVOICE && !hasVOICE {
 The architecture is: **ENF reduces violations → Gating enforces → VOICE styles**
 
 ## Related
-
-^[{src_rel}]

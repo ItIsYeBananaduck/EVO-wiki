@@ -21,5 +21,3 @@ preserves analytic integrity
 separates support system from evaluation system
 
 ## Related
-
-^[{src_rel}]

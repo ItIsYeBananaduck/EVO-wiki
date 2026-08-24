@@ -17,5 +17,3 @@ Purpose: - Represent sustained adaptation - Reinforce identity - Build emotional
 Related notes: [[Single Alice Illusion]], [[Alice-Limits]], [[alice-orb-features]]
 
 ## Related
-
-^[{src_rel}]

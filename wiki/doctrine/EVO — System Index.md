@@ -2,8 +2,8 @@
 title: EVO — System Index
 type: concept
 tags: [evo, index, system]
-sources:
-  - source-materials/mirrors/doctrine/EVO — System Index.md
+sources: []
+origin: wiki-native — authored in this wiki, no upstream mirror
 updated: 2026-07-23
 ---
 # EVO — System Index
@@ -120,4 +120,4 @@ This is a map, not a manual.
 - [[EVO — Cross-App Context Continuity.md]]
 - [[EVO — Global Adapter Distribution Model.md]]
 - [[EVO — Pane Pack Architecture.md]]
-^[source-materials/mirrors/doctrine/EVO — System Index.md]
+^[wiki-native — no upstream source]

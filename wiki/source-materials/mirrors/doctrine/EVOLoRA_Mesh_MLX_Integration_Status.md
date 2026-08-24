@@ -214,5 +214,3 @@ App Launch
 **Safety**: llama.cpp always available as fallback - no risk to current functionality.
 
 ## Related
-
-^[{src_rel}]

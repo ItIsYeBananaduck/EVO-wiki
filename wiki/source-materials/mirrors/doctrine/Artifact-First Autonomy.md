@@ -23,5 +23,3 @@ Links
 [On-Device First Principle](https://www.notion.so/33ec72bad0138100bbe3ebc5c290f7b8)
 
 ## Related
-
-^[{src_rel}]

@@ -29,5 +29,3 @@ minimum cohort threshold for upward reporting
 no small-cohort drilldowns
 
 ## Related
-
-^[{src_rel}]

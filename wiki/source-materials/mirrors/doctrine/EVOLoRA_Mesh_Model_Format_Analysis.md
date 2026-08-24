@@ -312,5 +312,3 @@ alice-assets/
 4. Update download manager to fetch MLX format
 
 ## Related
-
-^[{src_rel}]

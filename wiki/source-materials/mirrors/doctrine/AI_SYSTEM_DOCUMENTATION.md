@@ -1242,5 +1242,3 @@ _Solutions:_
 This documentation provides comprehensive coverage of the Enhanced AI Coaching System. For additional questions or support, please refer to the development team or create an issue in the repository.
 
 ## Related
-
-^[{src_rel}]

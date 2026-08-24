@@ -49,5 +49,3 @@ The system now uses:
 - **Prefill time**: Faster due to smaller prompt
 
 ## Related
-
-^[{src_rel}]

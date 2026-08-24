@@ -49,5 +49,3 @@ For Q4_K_M quantized models on constrained devices (≤6 GB RAM):
 - Adapter stack size affects memory pressure — 1–2 adapters is the baseline; >4 adapters requires active RAM management
 
 ## Related
-
-^[{src_rel}]

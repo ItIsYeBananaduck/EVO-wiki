@@ -388,5 +388,3 @@ CREATE INDEX idx_adapter_versions_lookup
 4. **Performance**: Measure conversion time, download size, load time
 
 ## Related
-
-^[{src_rel}]

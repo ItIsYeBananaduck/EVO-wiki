@@ -2,8 +2,8 @@
 title: Purpose
 type: concept
 tags: [connect, evo, execution, model]
-sources:
-  - source-materials/mirrors/doctrine/EVOconnect — Tool Surface & Execution Model.md
+sources: []
+origin: wiki-native — authored in this wiki, no upstream mirror
 updated: 2026-07-23
 ---
 # Purpose
@@ -187,4 +187,4 @@ Alice operates through governed, observable, and auditable actions.
 - [[EVOconnect — Hive Node Architecture.md]]
 - [[EVOconnect — Lightweight Talent Structure Addendum.md]]
 - [[EVOconnect — Method Reconstruction Model.md]]
-^[source-materials/mirrors/doctrine/EVOconnect — Tool Surface & Execution Model.md]
+^[wiki-native — no upstream source]

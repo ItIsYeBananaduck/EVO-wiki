@@ -391,5 +391,3 @@ if (asset.expectedSizeBytes != null && finalSize != asset.expectedSizeBytes!) {
 - Capability map queries should reflect v2's expanded knowledge base
 
 ## Related
-
-^[{src_rel}]

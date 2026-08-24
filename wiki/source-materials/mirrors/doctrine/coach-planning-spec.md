@@ -99,5 +99,3 @@ When evo-plan is invoked with this spec, it must load this planning spec first, 
 The primary question is: How does Coach integrate into existing EVOtraining architecture?
 
 ## Related
-
-^[{src_rel}]

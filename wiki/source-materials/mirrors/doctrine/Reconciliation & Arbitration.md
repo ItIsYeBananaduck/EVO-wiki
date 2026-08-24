@@ -38,5 +38,3 @@ Explanation (optional)
 Approval requirement (if needed)
 
 ## Related
-
-^[{src_rel}]

@@ -156,5 +156,3 @@ updated: 2026-07-24
 - Context overflow protection is robust
 
 ## Related
-
-^[{src_rel}]

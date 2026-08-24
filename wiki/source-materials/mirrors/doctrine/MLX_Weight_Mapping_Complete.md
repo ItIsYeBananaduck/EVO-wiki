@@ -162,5 +162,3 @@ The implementation:
 Once decoder layers are initialized, all weights will be automatically mapped and loaded. The foundation is solid and complete!
 
 ## Related
-
-^[{src_rel}]

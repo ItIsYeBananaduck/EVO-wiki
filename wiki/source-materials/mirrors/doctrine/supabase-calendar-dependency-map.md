@@ -254,5 +254,3 @@ The following sections remain valid:
 - §3.2 (Isar local persistence via CalendarLocalStore) — fully retained
 
 ## Related
-
-^[{src_rel}]

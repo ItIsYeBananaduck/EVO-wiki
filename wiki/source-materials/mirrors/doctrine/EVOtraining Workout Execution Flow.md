@@ -23,5 +23,3 @@ Execution should be guided, adaptive, and low-friction.
 Related notes: [[Procedure Scheduling Model]]
 
 ## Related
-
-^[{src_rel}]

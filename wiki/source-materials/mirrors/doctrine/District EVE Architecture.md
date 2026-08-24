@@ -34,5 +34,3 @@ DE verifies systemic efficiency. It does not evaluate individual students.
 Human administrators interpret results.
 
 ## Related
-
-^[{src_rel}]

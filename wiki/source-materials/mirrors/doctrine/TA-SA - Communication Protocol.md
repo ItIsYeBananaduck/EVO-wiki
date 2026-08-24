@@ -74,5 +74,3 @@ No silent failure
 Determinism > flexibility
 
 ## Related
-
-^[{src_rel}]

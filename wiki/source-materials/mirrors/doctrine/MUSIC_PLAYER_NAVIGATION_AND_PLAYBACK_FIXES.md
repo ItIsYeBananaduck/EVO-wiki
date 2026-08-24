@@ -365,5 +365,3 @@ The music player navigation and playback fixes ensure:
 These improvements provide a robust, reliable music experience during workouts without interrupting the user's exercise flow.
 
 ## Related
-
-^[{src_rel}]

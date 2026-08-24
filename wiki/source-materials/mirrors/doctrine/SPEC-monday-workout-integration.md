@@ -204,5 +204,3 @@ Expected: 25% intensity, -5 lbs adjustment
 **Approval**: Pending review and feedback
 
 ## Related
-
-^[{src_rel}]

@@ -2,8 +2,8 @@
 title: EVOconnect — Smart Comments & Interactive Inference (Raw Draft)
 type: concept
 tags: [connect, evo, inference]
-sources:
-  - source-materials/mirrors/doctrine/EVOconnect — Smart Comments & Interactive Inference.md
+sources: []
+origin: wiki-native — authored in this wiki, no upstream mirror
 updated: 2026-07-23
 ---
 # EVOconnect — Smart Comments & Interactive Inference (Raw Draft)
@@ -317,4 +317,4 @@ Users should not need to reverse engineer AI-generated work just to understand w
 - [[EVOconnect — Hive Node Architecture.md]]
 - [[EVOconnect — Lightweight Talent Structure Addendum.md]]
 - [[EVOconnect — Method Reconstruction Model.md]]
-^[source-materials/mirrors/doctrine/EVOconnect — Smart Comments & Interactive Inference.md]
+^[wiki-native — no upstream source]

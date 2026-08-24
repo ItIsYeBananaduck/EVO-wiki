@@ -2,8 +2,8 @@
 title: Book Draft — Part II Alice Is Not an Assistant
 type: concept
 tags: []
-sources:
-  - source-materials/mirrors/doctrine/Book Draft — Part II Alice Is Not an Assistant.md
+sources: []
+origin: wiki-native — authored in this wiki, no upstream mirror
 updated: 2026-07-23
 ---
 # Book Draft — Part II Alice Is Not an Assistant
@@ -64,4 +64,4 @@ The future of personal intelligence should not belong to systems that become pow
 - Governance as part of identity → EVOconnect Canonical Definition, Why EVO Notes System Exists
 
 ## Related
-^[source-materials/mirrors/doctrine/Book Draft — Part II Alice Is Not an Assistant.md]
+^[wiki-native — no upstream source]

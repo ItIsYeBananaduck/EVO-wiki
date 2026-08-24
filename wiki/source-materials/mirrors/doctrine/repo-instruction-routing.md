@@ -463,5 +463,3 @@ It should not migrate skills beyond the currently agreed Codex-source-of-truth m
 - Should `.codex/skills/` canonical status be documented only, or also enforced through tests/checks?
 
 ## Related
-
-^[{src_rel}]

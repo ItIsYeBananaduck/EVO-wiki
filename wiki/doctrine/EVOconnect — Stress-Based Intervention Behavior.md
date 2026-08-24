@@ -2,8 +2,8 @@
 title: Purpose
 type: concept
 tags: [connect, evo]
-sources:
-  - source-materials/mirrors/doctrine/EVOconnect — Stress-Based Intervention Behavior.md
+sources: []
+origin: wiki-native — authored in this wiki, no upstream mirror
 updated: 2026-07-23
 ---
 # Purpose
@@ -203,4 +203,4 @@ Alice earns automation through usefulness, repetition, approval, and trust.
 - [[EVOconnect — Hive Node Architecture.md]]
 - [[EVOconnect — Lightweight Talent Structure Addendum.md]]
 - [[EVOconnect — Method Reconstruction Model.md]]
-^[source-materials/mirrors/doctrine/EVOconnect — Stress-Based Intervention Behavior.md]
+^[wiki-native — no upstream source]

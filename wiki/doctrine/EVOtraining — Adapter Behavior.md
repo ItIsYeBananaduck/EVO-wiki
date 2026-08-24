@@ -2,8 +2,8 @@
 title: EVOtraining — Adapter Behavior
 type: concept
 tags: [evo, evotraining]
-sources:
-  - source-materials/mirrors/doctrine/EVOtraining — Adapter Behavior.md
+sources: []
+origin: wiki-native — authored in this wiki, no upstream mirror
 updated: 2026-07-23
 ---
 # EVOtraining — Adapter Behavior
@@ -191,4 +191,4 @@ Related notes: [[USER_LORA_TRAINING_IMPLEMENTATION]]
 - [[EVO Architecture Bible]]
 - [[EVOtraining — Coach Application Philosophy.md]]
 - [[EVOtraining — Lab Supplement Intelligence.md]]
-^[source-materials/mirrors/doctrine/EVOtraining — Adapter Behavior.md]
+^[wiki-native — no upstream source]

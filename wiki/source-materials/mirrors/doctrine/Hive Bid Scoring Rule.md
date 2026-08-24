@@ -24,5 +24,3 @@ Links
 [Hive Bid UI](https://www.notion.so/33ec72bad01381e9b130cb6aac2ce250)
 
 ## Related
-
-^[{src_rel}]

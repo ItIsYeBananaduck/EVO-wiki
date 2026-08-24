@@ -23,5 +23,3 @@ Links
 [Hive Bid Protocol](https://www.notion.so/33ec72bad01381248178cdbbb777e767)
 
 ## Related
-
-^[{src_rel}]

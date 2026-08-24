@@ -29,5 +29,3 @@ Final Principle:
 Escalation is not failure. It is the system choosing governance over guesswork.
 
 ## Related
-
-^[{src_rel}]

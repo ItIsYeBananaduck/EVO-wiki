@@ -24,5 +24,3 @@ Links
 [Hive Security Settings Maintenance Mode](https://www.notion.so/33ec72bad01381f5acf3ef74f28e8fe8)
 
 ## Related
-
-^[{src_rel}]

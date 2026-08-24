@@ -264,5 +264,3 @@ ls -lh training/alice-phi3-mlx/
 **Next Step**: Check if MLX model already exists from training, or proceed with server-side conversion.
 
 ## Related
-
-^[{src_rel}]

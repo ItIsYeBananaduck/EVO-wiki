@@ -32,5 +32,3 @@ Final Principle:
 A system that notices everything must not learn everything.
 
 ## Related
-
-^[{src_rel}]

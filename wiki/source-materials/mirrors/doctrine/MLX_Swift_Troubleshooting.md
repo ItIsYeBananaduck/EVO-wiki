@@ -97,5 +97,3 @@ If MLX Swift doesn't support iOS yet, we'll:
 4. ✅ Focus on GGUF LoRA conversion for now
 
 ## Related
-
-^[{src_rel}]

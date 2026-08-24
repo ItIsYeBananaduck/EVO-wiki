@@ -13,5 +13,3 @@ Tolerance Rule: - Minor macro deviations allowed - Short-term performance dips a
 Milestones reflect system coherence, not perfection.
 
 ## Related
-
-^[{src_rel}]

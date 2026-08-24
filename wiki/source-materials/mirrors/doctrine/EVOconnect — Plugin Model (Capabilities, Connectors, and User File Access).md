@@ -232,5 +232,3 @@ The user should not have to learn the external system.
 They should only need to express intent, review the proposed method, and get the outcome.
 
 ## Related
-
-^[{src_rel}]

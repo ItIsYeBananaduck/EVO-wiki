@@ -23,5 +23,3 @@ Links
 [Secret Isolation Rule](https://www.notion.so/33ec72bad013813e9eb6ead8af1141ad)
 
 ## Related
-
-^[{src_rel}]

@@ -17,5 +17,3 @@ Tutoring Mode: Purple remains private reflection data.
 Goal: Signal pain points without shame.
 
 ## Related
-
-^[{src_rel}]

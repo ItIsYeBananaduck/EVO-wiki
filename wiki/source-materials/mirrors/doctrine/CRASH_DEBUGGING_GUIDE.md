@@ -129,5 +129,3 @@ void initState() {
 ```
 
 ## Related
-
-^[{src_rel}]

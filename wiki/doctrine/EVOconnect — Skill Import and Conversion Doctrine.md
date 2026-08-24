@@ -2,8 +2,8 @@
 title: EVOconnect — Skill Import and Conversion Doctrine
 type: concept
 tags: [connect, doctrine, evo]
-sources:
-  - source-materials/mirrors/doctrine/EVOconnect — Skill Import and Conversion Doctrine.md
+sources: []
+origin: wiki-native — authored in this wiki, no upstream mirror
 updated: 2026-07-23
 ---
 # EVOconnect — Skill Import and Conversion Doctrine
@@ -503,4 +503,4 @@ The Delegator validates executable behavior before it runs.
 - [[EVOconnect — Hive Node Architecture.md]]
 - [[EVOconnect — Lightweight Talent Structure Addendum.md]]
 - [[EVOconnect — Method Reconstruction Model.md]]
-^[source-materials/mirrors/doctrine/EVOconnect — Skill Import and Conversion Doctrine.md]
+^[wiki-native — no upstream source]

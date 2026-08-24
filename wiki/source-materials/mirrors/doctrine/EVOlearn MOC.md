@@ -37,5 +37,3 @@ Summary
 EVOlearn is a continuously adapting learning system.
 
 ## Related
-
-^[{src_rel}]

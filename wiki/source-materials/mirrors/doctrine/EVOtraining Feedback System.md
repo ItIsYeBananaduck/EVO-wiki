@@ -26,5 +26,3 @@ Principle:
 Simple feedback enables consistent data collection and better long-term adaptation.
 
 ## Related
-
-^[{src_rel}]

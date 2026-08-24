@@ -182,5 +182,3 @@ updated: 2026-07-24
 - **Analytics**: Service stubs exist under `app/src/lib/services/analyticsService.ts` (usage not confirmed).
 
 ## Related
-
-^[{src_rel}]

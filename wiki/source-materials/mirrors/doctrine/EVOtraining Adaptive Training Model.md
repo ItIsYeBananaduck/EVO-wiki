@@ -24,5 +24,3 @@ Principle:
 Adaptation should be controlled, measurable, and reversible.
 
 ## Related
-
-^[{src_rel}]

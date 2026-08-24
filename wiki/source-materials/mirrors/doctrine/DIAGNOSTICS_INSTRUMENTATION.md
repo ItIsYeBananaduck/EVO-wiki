@@ -322,5 +322,3 @@ dependencies:
 ```
 
 ## Related
-
-^[{src_rel}]

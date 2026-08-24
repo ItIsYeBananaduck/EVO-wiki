@@ -39,5 +39,3 @@ Final Principle:
 Execution is not just doing. Execution is governed action.
 
 ## Related
-
-^[{src_rel}]

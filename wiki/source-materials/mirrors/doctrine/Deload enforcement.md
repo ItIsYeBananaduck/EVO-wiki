@@ -25,5 +25,3 @@ Links
 ENF Enforcement
 
 ## Related
-
-^[{src_rel}]

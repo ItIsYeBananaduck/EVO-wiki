@@ -286,5 +286,3 @@ This model ensures:
 Related notes: [[Delegator Doctrine Execution Authority]], [[Delegator — Execution Governance Doctrine]], [[Control-Model]]
 
 ## Related
-
-^[{src_rel}]

@@ -75,5 +75,3 @@ Design Philosophy
 High support intensity is not failure. It is information: - the method may not match the student/context - the concept may require different scaffolding - the student may need a break or spaced retry
 
 ## Related
-
-^[{src_rel}]

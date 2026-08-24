@@ -118,5 +118,3 @@ See also: [[Domain Authority map]], [[Delegator — Execution Governance Doctrin
 EVO's IPC strategy uses a Hybrid Broker + Durable Queue model. The canonical cross-process contract is a durable message bus in a shared container, with platform-specific transport adapters. Today's single-process runtime is unchanged; this spec introduces envelope semantics and phased migration seams. Delegator approvals stay origin-app-owned with broker-mediated rehost fallback.
 
 ## Related
-
-^[{src_rel}]

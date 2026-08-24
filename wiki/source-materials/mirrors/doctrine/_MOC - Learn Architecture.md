@@ -100,5 +100,3 @@ Retrieval-first
 It is the educational operating system layer of EVO.
 
 ## Related
-
-^[{src_rel}]

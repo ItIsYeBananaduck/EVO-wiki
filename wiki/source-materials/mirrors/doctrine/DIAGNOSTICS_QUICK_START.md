@@ -143,5 +143,3 @@ if (DiagLog.instance.currentStage != ModelPipelineStage.ready) {
 - Check that path_provider is returning correct directory
 
 ## Related
-
-^[{src_rel}]

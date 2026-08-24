@@ -220,5 +220,3 @@ Would you like me to suggest concrete remediation edits for the top issues (A1-A
 **Status**: ✅ Ready for Implementation (with minor improvements recommended)
 
 ## Related
-
-^[{src_rel}]

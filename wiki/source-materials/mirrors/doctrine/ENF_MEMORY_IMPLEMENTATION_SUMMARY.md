@@ -164,5 +164,3 @@ Implemented two features in EVOLoRA Mesh:
 5. Consider adding embeddings for better memory retrieval (future)
 
 ## Related
-
-^[{src_rel}]

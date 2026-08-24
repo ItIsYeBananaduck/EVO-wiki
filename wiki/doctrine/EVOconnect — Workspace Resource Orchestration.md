@@ -2,8 +2,8 @@
 title: EVOconnect — Workspace Resource Orchestration (Raw Draft)
 type: concept
 tags: [connect, evo, resource, workspace]
-sources:
-  - source-materials/mirrors/doctrine/EVOconnect — Workspace Resource Orchestration.md
+sources: []
+origin: wiki-native — authored in this wiki, no upstream mirror
 updated: 2026-07-23
 ---
 # EVOconnect — Workspace Resource Orchestration (Raw Draft)
@@ -337,4 +337,4 @@ Connect should help the user keep their computer focused on what matters right n
 - [[EVOconnect — Hive Node Architecture.md]]
 - [[EVOconnect — Lightweight Talent Structure Addendum.md]]
 - [[EVOconnect — Method Reconstruction Model.md]]
-^[source-materials/mirrors/doctrine/EVOconnect — Workspace Resource Orchestration.md]
+^[wiki-native — no upstream source]

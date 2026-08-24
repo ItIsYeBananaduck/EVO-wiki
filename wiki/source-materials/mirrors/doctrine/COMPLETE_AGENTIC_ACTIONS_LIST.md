@@ -148,5 +148,3 @@ updated: 2026-07-24
 **Total: ~632 training examples covering all agentic capabilities**
 
 ## Related
-
-^[{src_rel}]

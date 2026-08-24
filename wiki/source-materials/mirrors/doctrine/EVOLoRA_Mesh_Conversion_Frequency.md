@@ -272,5 +272,3 @@ Future<void> checkForAdapterUpdates() async {
 **Result**: Android users get **daily updates** just like iOS users, not weekly. The conversion happens server-side immediately when adapters are updated, ensuring both platforms stay in sync.
 
 ## Related
-
-^[{src_rel}]

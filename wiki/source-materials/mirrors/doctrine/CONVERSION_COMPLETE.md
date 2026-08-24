@@ -120,5 +120,3 @@ See `output/gguf/checksums.sha256` for SHA256 checksums of all converted files.
 - Using F16 format for best quality (no quantization)
 
 ## Related
-
-^[{src_rel}]

@@ -32,5 +32,3 @@ Final Principle:
 Runtime awareness is required for safe and effective execution.
 
 ## Related
-
-^[{src_rel}]

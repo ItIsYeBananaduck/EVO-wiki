@@ -23,5 +23,3 @@ Links
 [Swarm Merge Rule](https://www.notion.so/33ec72bad0138162ba34d5e3dcc576f1)
 
 ## Related
-
-^[{src_rel}]

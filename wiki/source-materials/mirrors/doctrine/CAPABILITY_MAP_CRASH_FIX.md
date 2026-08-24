@@ -82,5 +82,3 @@ The capability map should be at:
 3. If it still crashes, the issue is elsewhere
 
 ## Related
-
-^[{src_rel}]

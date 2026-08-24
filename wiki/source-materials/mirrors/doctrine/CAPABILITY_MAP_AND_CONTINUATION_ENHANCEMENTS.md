@@ -268,5 +268,3 @@ CAPABILITY_MAP USAGE:
 **Status**: Phase 1 complete, Phase 2 needs implementation
 
 ## Related
-
-^[{src_rel}]

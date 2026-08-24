@@ -138,5 +138,3 @@ The model can now:
 **Next**: Implement tokenizer loading and generation to make it fully functional!
 
 ## Related
-
-^[{src_rel}]

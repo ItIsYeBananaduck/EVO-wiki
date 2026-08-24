@@ -132,5 +132,3 @@ Ethical architecture
 Long-term trust
 
 ## Related
-
-^[{src_rel}]

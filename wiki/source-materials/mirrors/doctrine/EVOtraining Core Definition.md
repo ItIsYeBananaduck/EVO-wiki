@@ -26,5 +26,3 @@ Final Principle:
 EVOtraining is not a plan generator. It is a living training system.
 
 ## Related
-
-^[{src_rel}]

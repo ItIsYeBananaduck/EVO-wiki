@@ -421,5 +421,3 @@ This gives you:
 The conversion overhead (1-2 min nightly) may be acceptable if MLX migration is too complex. But if you need true incremental training without conversion, MLX is the best path forward.
 
 ## Related
-
-^[{src_rel}]

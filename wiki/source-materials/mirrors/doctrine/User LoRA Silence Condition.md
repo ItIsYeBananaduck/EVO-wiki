@@ -29,5 +29,3 @@ Links
 Related notes: [[USER_LORA_TRAINING_IMPLEMENTATION]]
 
 ## Related
-
-^[{src_rel}]

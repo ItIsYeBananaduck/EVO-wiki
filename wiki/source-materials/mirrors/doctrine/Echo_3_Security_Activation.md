@@ -39,5 +39,3 @@ Multi-Echo:
 Each Echo has independent unlock state.
 
 ## Related
-
-^[{src_rel}]

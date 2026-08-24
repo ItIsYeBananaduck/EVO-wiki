@@ -15,5 +15,3 @@ Step 4 – Preview - Before/After examples - What changes - What stays
 Step 5 – Apply - Create new snapshot - Archive previous
 
 ## Related
-
-^[{src_rel}]

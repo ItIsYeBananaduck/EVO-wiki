@@ -23,5 +23,3 @@ Links
 No Tool Access During Planning
 
 ## Related
-
-^[{src_rel}]

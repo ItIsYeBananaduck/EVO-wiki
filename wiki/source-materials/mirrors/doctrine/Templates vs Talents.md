@@ -22,5 +22,3 @@ Templates = learning methodTalents = execution logic using that method
 Templates only exist in EVOlearn. Talents exist across the ecosystem.
 
 ## Related
-
-^[{src_rel}]

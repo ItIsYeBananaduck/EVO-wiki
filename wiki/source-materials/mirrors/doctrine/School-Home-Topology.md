@@ -25,5 +25,3 @@ review sessions for retention
 Personal devices may run full EVO ecosystem, but EVOlearn context stays Learn-scoped.
 
 ## Related
-
-^[{src_rel}]

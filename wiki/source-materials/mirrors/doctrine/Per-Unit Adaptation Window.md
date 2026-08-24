@@ -32,5 +32,3 @@ archive stats
 update yearly carry-over memory
 
 ## Related
-
-^[{src_rel}]

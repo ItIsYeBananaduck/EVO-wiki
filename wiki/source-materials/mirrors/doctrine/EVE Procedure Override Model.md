@@ -27,5 +27,3 @@ Principle:
 An override is an exception layer, not a shortcut.
 
 ## Related
-
-^[{src_rel}]

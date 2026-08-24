@@ -104,5 +104,3 @@ The summary file is your best bet because:
 - It works even if app is frozen
 
 ## Related
-
-^[{src_rel}]

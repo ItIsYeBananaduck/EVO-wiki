@@ -57,5 +57,3 @@ updated: 2026-07-24
 6. ⏳ Add assertions to catch mismatches in debug builds
 
 ## Related
-
-^[{src_rel}]

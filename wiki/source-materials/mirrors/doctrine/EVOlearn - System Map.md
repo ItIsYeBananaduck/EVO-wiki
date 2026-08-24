@@ -51,5 +51,3 @@ Learn – Monetization Model
 Learn – Why Learn Is Last
 
 ## Related
-
-^[{src_rel}]

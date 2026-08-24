@@ -148,5 +148,3 @@ Until MLX loading is complete:
 - MLX Python (reference): https://ml-explore.github.io/mlx
 
 ## Related
-
-^[{src_rel}]

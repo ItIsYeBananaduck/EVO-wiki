@@ -26,5 +26,3 @@ Teacher receives: - concept tag - what was tried - structured summary - effort i
 This mode: - protects teacher boundaries - prevents spam - maintains academic focus - scales better
 
 ## Related
-
-^[{src_rel}]

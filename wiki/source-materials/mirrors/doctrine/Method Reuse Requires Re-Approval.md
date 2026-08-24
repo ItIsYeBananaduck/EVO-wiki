@@ -23,5 +23,3 @@ Links
 Scoped Tool Grants
 
 ## Related
-
-^[{src_rel}]

@@ -110,4 +110,3 @@ The system should meet the user where they are and evolve with them.
 - [Echo_System_Spec](https://www.notion.so/340c72bad01381bab45dca181e598e16)
 - [Human-Connection-Doctrine](https://www.notion.so/33ec72bad01381e7b0d7ddd9119fd2ff)
 - [EVOmind Reflection Loop](https://www.notion.so/33dc72bad013812f9ba2e667b9d468d7)
-^[{src_rel}]

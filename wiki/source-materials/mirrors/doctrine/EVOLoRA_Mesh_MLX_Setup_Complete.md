@@ -208,5 +208,3 @@ App Launch
 **Result**: MLX is now part of the fallback chain. When implemented, it will be tried first. If it fails or isn't available, llama.cpp will be used automatically.
 
 ## Related
-
-^[{src_rel}]

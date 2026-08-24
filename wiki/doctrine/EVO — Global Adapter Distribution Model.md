@@ -2,8 +2,8 @@
 title: EVO — Global Adapter Distribution Model (Raw Draft)
 type: concept
 tags: [evo, model]
-sources:
-  - source-materials/mirrors/doctrine/EVO — Global Adapter Distribution Model.md
+sources: []
+origin: wiki-native — authored in this wiki, no upstream mirror
 updated: 2026-07-23
 ---
 # EVO — Global Adapter Distribution Model (Raw Draft)
@@ -358,4 +358,4 @@ The ideal outcome is:
 - [[EVO — Cross-App Context Continuity.md]]
 - [[EVO — Pane Pack Architecture.md]]
 - [[EVO — Shared Embedding System.md]]
-^[source-materials/mirrors/doctrine/EVO — Global Adapter Distribution Model.md]
+^[wiki-native — no upstream source]

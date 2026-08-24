@@ -597,5 +597,3 @@ Alice is a sophisticated on-device AI fitness coach with:
 **Next Steps**: Implement high-priority optimizations, measure impact, iterate
 
 ## Related
-
-^[{src_rel}]

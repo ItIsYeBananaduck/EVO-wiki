@@ -491,5 +491,3 @@ This project is indexed by GitNexus as **git-fit** (58223 symbols, 109176 relati
 <!-- gitnexus:end -->
 
 ## Related
-
-^[{src_rel}]

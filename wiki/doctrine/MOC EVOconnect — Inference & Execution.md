@@ -2,8 +2,8 @@
 title: MOC EVOconnect — Inference & Execution
 type: concept
 tags: [connect, evo, execution, inference, moc]
-sources:
-  - source-materials/mirrors/doctrine/MOC EVOconnect — Inference & Execution.md
+sources: []
+origin: wiki-native — authored in this wiki, no upstream mirror
 updated: 2026-07-23
 ---
 # MOC EVOconnect — Inference & Execution
@@ -83,4 +83,4 @@ If a rule exists, it belongs in an atomic note. If it connects rules, it belongs
 - [[MOC EVOconnect — Escalation & Delegation.md]]
 - [[MOC EVOconnect — Methods & Talents.md]]
 - [[MOC EVOconnect — Task Lifecycle.md]]
-^[source-materials/mirrors/doctrine/MOC EVOconnect — Inference & Execution.md]
+^[wiki-native — no upstream source]

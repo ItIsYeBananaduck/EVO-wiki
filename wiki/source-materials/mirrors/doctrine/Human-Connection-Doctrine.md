@@ -16,5 +16,3 @@ Tone
 Non-pushy, non-guilting prompts like: - “This might be worth sharing with someone you trust.” - “Would it help to talk this through with a real person?” - “If this feels bigger than journaling, a licensed professional could help.”
 
 ## Related
-
-^[{src_rel}]

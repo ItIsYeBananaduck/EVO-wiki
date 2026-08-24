@@ -256,5 +256,3 @@ It is:
 Related notes: [[STRAINSYNC_TRAINING_DATA]]
 
 ## Related
-
-^[{src_rel}]

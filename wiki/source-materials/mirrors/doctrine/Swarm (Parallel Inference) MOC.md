@@ -41,5 +41,3 @@ Assignment, Resilience & Merge Control
 [Shard Confidence Weighting](https://www.notion.so/33ec72bad01381f8ae0dfc693899d392)
 
 ## Related
-
-^[{src_rel}]

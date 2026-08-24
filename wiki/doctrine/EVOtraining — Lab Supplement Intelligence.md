@@ -2,8 +2,8 @@
 title: EVOtraining — Lab Supplement Intelligence
 type: concept
 tags: [evo, evotraining]
-sources:
-  - source-materials/mirrors/doctrine/EVOtraining — Lab Supplement Intelligence.md
+sources: []
+origin: wiki-native — authored in this wiki, no upstream mirror
 updated: 2026-07-23
 ---
 # EVOtraining — Lab Supplement Intelligence
@@ -91,4 +91,4 @@ The long-term vision:
 - [[EVO Architecture Bible]]
 - [[EVOtraining — Adapter Behavior.md]]
 - [[EVOtraining — Coach Application Philosophy.md]]
-^[source-materials/mirrors/doctrine/EVOtraining — Lab Supplement Intelligence.md]
+^[wiki-native — no upstream source]

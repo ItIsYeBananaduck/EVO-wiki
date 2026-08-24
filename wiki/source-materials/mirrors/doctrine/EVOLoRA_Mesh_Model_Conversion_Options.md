@@ -191,5 +191,3 @@ python training/quantize_existing_mlx.py \
 **Script**: `training/quantize_existing_mlx.py` (ready to use)
 
 ## Related
-
-^[{src_rel}]

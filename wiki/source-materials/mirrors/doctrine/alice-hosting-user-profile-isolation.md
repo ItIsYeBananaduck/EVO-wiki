@@ -174,5 +174,3 @@ The user-profile model becomes worth revisiting when:
 - [x] **Explicit recommendation made: Defer for v1** (Section 6)
 
 ## Related
-
-^[{src_rel}]

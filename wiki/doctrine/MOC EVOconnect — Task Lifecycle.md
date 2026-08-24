@@ -2,8 +2,8 @@
 title: MOC EVOconnect — Task Lifecycle
 type: concept
 tags: [connect, evo, lifecycle, moc]
-sources:
-  - source-materials/mirrors/doctrine/MOC EVOconnect — Task Lifecycle.md
+sources: []
+origin: wiki-native — authored in this wiki, no upstream mirror
 updated: 2026-07-23
 ---
 # MOC EVOconnect — Task Lifecycle
@@ -76,4 +76,4 @@ Tasks move forward only through explicit state transitions. There are no implici
 - [[MOC EVOconnect — Escalation & Delegation.md]]
 - [[MOC EVOconnect — Inference & Execution.md]]
 - [[MOC EVOconnect — Methods & Talents.md]]
-^[source-materials/mirrors/doctrine/MOC EVOconnect — Task Lifecycle.md]
+^[wiki-native — no upstream source]

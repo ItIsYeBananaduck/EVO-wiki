@@ -7,14 +7,15 @@ updated: 2026-07-24
 ---
 
 # Override Feedback Loop
-If user overrides a recommendation:
-Log divergence
-Monitor resulting fatigue and performance signals
-Compare against baseline tolerance
-Adjust personal calibration if repeated success observed
-Flag recovery drift if repeated override leads to negative trend
-Alice never blocks action. Alice advises and monitors.
+Override Feedback Loop
+Principle
+Alice advises; user decides.
+When user overrides
+Log divergence (what changed vs recommendation)
+Observe outcomes (fatigue trend, performance trajectory)
+Update personal calibration if repeated overrides succeed safely
+Surface gentle trend warnings if recovery takes a hit
+Tone for warnings
+Calm, non-judgmental: “I’ve noticed recovery time increasing over the last few weeks. This can lead to plateau or regression.”
 
 ## Related
-
-^[{src_rel}]

@@ -64,5 +64,3 @@ Otherwise, open in the current app context.
 Reflection is daily, but durable memory should remain selective.
 
 ## Related
-
-^[{src_rel}]

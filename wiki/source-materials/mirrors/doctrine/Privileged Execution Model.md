@@ -31,5 +31,3 @@ Final Principle:
 The more powerful the action, the stricter the control envelope.
 
 ## Related
-
-^[{src_rel}]

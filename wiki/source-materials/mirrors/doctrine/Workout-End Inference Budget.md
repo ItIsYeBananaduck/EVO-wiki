@@ -23,5 +23,3 @@ Inference Budget Ceiling
 [Warm State Preservation](https://www.notion.so/33ec72bad01381638043ee679eba3da1)
 
 ## Related
-
-^[{src_rel}]

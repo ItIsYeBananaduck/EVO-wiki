@@ -114,5 +114,3 @@ The `safeDecode` function now validates:
 ⏳ Awaiting TestFlight validation
 
 ## Related
-
-^[{src_rel}]

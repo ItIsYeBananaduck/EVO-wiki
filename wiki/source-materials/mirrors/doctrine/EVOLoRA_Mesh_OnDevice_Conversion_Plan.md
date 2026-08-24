@@ -246,5 +246,3 @@ async runDailyTraining(): Promise<TrainingSession> {
 **Key Principle**: Keep everything on-device. Only weekly aggregation moves to server.
 
 ## Related
-
-^[{src_rel}]

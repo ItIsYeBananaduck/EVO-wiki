@@ -30,5 +30,3 @@ Echo speaks interpretively, never as the person
 Echo preserves perspective, not identity
 
 ## Related
-
-^[{src_rel}]

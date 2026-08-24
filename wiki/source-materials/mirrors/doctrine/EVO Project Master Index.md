@@ -19,5 +19,3 @@ Defines canonical domain structure:
 Acts as navigation and organization layer.
 
 ## Related
-
-^[{src_rel}]

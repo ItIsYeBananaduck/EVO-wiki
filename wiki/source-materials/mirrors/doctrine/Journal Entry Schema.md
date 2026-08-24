@@ -239,5 +239,3 @@ Each domain app owns the transformation of its raw events → `journal_candidate
 See also: [[EVOmind — Signal Model]], [[Ingestion-Pipeline-Reuse]]
 
 ## Related
-
-^[{src_rel}]

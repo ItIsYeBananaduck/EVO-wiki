@@ -28,5 +28,3 @@ Links
 Related notes: [[Micro-Batch Cycle]]
 
 ## Related
-
-^[{src_rel}]

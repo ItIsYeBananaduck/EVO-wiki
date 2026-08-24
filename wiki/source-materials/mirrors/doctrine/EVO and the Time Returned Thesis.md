@@ -465,5 +465,3 @@ She returns the user's time.
 Then she gets out of the way.
 
 ## Related
-
-^[{rel}]

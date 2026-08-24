@@ -25,5 +25,3 @@ Links
 Architecture Consistency Check Shard
 
 ## Related
-
-^[{src_rel}]

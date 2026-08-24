@@ -22,5 +22,3 @@ Principle
 Alice adapts presentation style first. Content second.
 
 ## Related
-
-^[{src_rel}]

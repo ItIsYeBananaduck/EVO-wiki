@@ -16,5 +16,3 @@ Principle
 Student Alice may use both channels to personalize learning. Teacher must not access Channel A.
 
 ## Related
-
-^[{src_rel}]

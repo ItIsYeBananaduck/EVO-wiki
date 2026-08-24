@@ -110,5 +110,3 @@ After upload:
 4. Test on iPhone!
 
 ## Related
-
-^[{src_rel}]

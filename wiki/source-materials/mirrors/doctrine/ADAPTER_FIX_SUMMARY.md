@@ -71,5 +71,3 @@ But this will be overwritten on the next sync.
 4. Both adapters will then work correctly
 
 ## Related
-
-^[{src_rel}]

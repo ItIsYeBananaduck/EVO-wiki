@@ -365,5 +365,3 @@ updated: 2026-07-24
 **We're ready to start!** 🚀
 
 ## Related
-
-^[{src_rel}]

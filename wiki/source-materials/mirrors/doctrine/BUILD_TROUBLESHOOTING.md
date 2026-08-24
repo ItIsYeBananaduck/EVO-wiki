@@ -115,5 +115,3 @@ Please share:
 3. Screenshot of Xcode showing the error (if possible)
 
 ## Related
-
-^[{src_rel}]

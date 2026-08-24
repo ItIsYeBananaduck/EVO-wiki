@@ -38,5 +38,3 @@ Positioning:
 EVOconnect is a governed automation OS that learns from the user while preserving control.
 
 ## Related
-
-^[{src_rel}]

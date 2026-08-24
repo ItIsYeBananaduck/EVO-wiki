@@ -43,5 +43,3 @@ Trust is a first-class system objective.
 Companion-oriented AI offers a sustainable alternative to agentic escalation, enabling systems users can rely on over long time horizons.
 
 ## Related
-
-^[{src_rel}]

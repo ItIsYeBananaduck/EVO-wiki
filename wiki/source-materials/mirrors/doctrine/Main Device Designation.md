@@ -24,5 +24,3 @@ Links
 [Lease Transfer Protocol](https://www.notion.so/33ec72bad013813da225f0ad3eb4ebdb)
 
 ## Related
-
-^[{src_rel}]

@@ -128,5 +128,3 @@ Enable Address Sanitizer:
 - This will catch memory issues and show detailed stack traces
 
 ## Related
-
-^[{src_rel}]

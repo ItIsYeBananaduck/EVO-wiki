@@ -460,5 +460,3 @@ Alice should be able to:
 This is the target architecture for EVO long-term memory recall.
 
 ## Related
-
-^[{src_rel}]

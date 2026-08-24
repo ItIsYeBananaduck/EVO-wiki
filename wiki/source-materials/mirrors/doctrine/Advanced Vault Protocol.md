@@ -28,5 +28,3 @@ Links
 [Advanced Vault Protocol](https://www.notion.so/33ec72bad01381fb9609d935002a22a6)
 
 ## Related
-
-^[{src_rel}]

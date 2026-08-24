@@ -295,5 +295,3 @@ class AliceAssetDownloadManager {
 6. **No nightly server calls needed!**
 
 ## Related
-
-^[{src_rel}]

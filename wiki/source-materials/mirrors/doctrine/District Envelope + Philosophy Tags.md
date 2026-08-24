@@ -15,5 +15,3 @@ Selection Mesh respects envelope strictly.
 If a student benefits from a disallowed philosophy: Teacher must manually unlock alternative.
 
 ## Related
-
-^[{src_rel}]

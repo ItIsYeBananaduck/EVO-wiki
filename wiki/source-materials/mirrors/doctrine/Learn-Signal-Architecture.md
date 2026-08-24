@@ -19,5 +19,3 @@ Learn signals can influence: - when to teach - what to review - how to present m
 Learn signals must NOT: - become fitness or mind diagnoses - infer sensitive personal traits - be shared socially by default
 
 ## Related
-
-^[{src_rel}]

@@ -41,5 +41,3 @@ Future work. Not required for MVP; manual process is acceptable until there is r
 Park automated certification validation as future work. Keep the product surface area small; if reintroduced, ensure it remains an external workflow boundary and does not become cloud-authoritative for core runtime state.
 
 ## Related
-
-^[{src_rel}]

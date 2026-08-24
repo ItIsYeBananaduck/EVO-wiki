@@ -23,5 +23,3 @@ Principle:
 Onboarding should be simple, fast, and safe.
 
 ## Related
-
-^[{src_rel}]

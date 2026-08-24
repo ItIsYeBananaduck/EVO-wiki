@@ -28,5 +28,3 @@ Links
 Related notes: [[Alice-Evolution-Spec]]
 
 ## Related
-
-^[{src_rel}]

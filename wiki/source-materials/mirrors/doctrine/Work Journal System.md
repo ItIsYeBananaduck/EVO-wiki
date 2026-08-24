@@ -56,5 +56,3 @@ Other apps may benefit from its lessons, but Connect governs how those lessons a
 The Work Journal is how Alice learns how to work better, not who the user is.
 
 ## Related
-
-^[{src_rel}]

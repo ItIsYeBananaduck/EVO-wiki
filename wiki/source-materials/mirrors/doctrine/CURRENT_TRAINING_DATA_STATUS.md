@@ -372,5 +372,3 @@ String formatAsTrainingJSONL(List<SetTrainingSample> samples) {
 **We have the infrastructure, we just need to wire it together!**
 
 ## Related
-
-^[{src_rel}]

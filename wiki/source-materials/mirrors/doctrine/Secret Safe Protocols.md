@@ -26,5 +26,3 @@ Links
 [Delegator Tool Hostage Rule](https://www.notion.so/33ec72bad013817d9b6bcc64f4a096fd)
 
 ## Related
-
-^[{src_rel}]

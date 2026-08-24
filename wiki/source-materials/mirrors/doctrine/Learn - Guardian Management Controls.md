@@ -14,5 +14,3 @@ Guardian management should feel supportive, not punitive.
 SA messaging: - neutral and calm - explains restrictions as safety rules, not judgment - offers allowed alternatives when blocked
 
 ## Related
-
-^[{src_rel}]

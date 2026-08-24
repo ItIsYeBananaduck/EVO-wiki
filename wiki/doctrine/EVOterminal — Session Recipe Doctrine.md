@@ -2,8 +2,8 @@
 title: EVOterminal — Session Recipe Doctrine
 type: concept
 tags: [doctrine, evo, terminal]
-sources:
-  - source-materials/mirrors/doctrine/EVOterminal — Session Recipe Doctrine.md
+sources: []
+origin: wiki-native — authored in this wiki, no upstream mirror
 updated: 2026-07-23
 ---
 # EVOterminal — Session Recipe Doctrine
@@ -152,4 +152,4 @@ Control Center may expose favorites or recent safe recipes, but detailed preview
 ## Related
 - [[EVO Architecture Bible]]
 - [[EVOterminal — Snippet Doctrine.md]]
-^[source-materials/mirrors/doctrine/EVOterminal — Session Recipe Doctrine.md]
+^[wiki-native — no upstream source]

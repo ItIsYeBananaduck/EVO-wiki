@@ -482,5 +482,3 @@ Future<String> buildMemoryBriefWithHistory({
 - [ ] Cross-device sync (if needed)
 
 ## Related
-
-^[{src_rel}]

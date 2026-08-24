@@ -31,5 +31,3 @@ Final Principle:
 Proactivity should feel supportive, not possessive.
 
 ## Related
-
-^[{src_rel}]

@@ -26,5 +26,3 @@ Links
 [Prompt Injection Boundary](https://www.notion.so/33ec72bad01381ce8e47d760c92c69a1)
 
 ## Related
-
-^[{src_rel}]

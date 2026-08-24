@@ -23,5 +23,3 @@ Links
 [Method Approval Path](https://www.notion.so/33ec72bad01381fa9b3ec4729d474082)
 
 ## Related
-
-^[{src_rel}]

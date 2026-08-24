@@ -331,5 +331,3 @@ If full adapter replacement is too slow, consider:
 - Store GGUF adapters in R2 (same as base model)
 
 ## Related
-
-^[{src_rel}]

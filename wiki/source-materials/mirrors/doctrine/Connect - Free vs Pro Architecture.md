@@ -28,5 +28,3 @@ Mesh-level intelligence routing
 #connect
 
 ## Related
-
-^[{src_rel}]

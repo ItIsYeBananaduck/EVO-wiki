@@ -130,5 +130,3 @@ async function downloadLatestModel(): Promise<void> {
 Related notes: [[R2_MODEL_PATHS]], [[model-id-client]], [[integrity_hardfail]], [[update_applier]]
 
 ## Related
-
-^[{src_rel}]

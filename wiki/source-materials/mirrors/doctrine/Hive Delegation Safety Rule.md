@@ -25,5 +25,3 @@ Links
 [Method Non-Deviation Rule](https://www.notion.so/33ec72bad01381a7b5c9c709be5646ba)
 
 ## Related
-
-^[{src_rel}]

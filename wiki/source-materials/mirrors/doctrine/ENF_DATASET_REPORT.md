@@ -229,5 +229,3 @@ The `validate_enf_output.py` script checks:
 See `scripts/README.md` for usage instructions.
 
 ## Related
-
-^[{src_rel}]

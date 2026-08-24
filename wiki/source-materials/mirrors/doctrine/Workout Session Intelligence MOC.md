@@ -33,5 +33,3 @@ Autonomy Foundation
 [Deferred Response Strategy](https://www.notion.so/Deferred-Response-Strategy-33ec72bad0138165a14beefbab3fecc1)
 
 ## Related
-
-^[{src_rel}]

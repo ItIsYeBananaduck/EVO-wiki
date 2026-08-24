@@ -16,5 +16,3 @@ Rule
 “Parse once, compile differently.” Training compilation targets nutrition/workout plans. Learn compilation targets lesson units + practice + mastery gates.
 
 ## Related
-
-^[{src_rel}]

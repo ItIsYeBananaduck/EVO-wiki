@@ -27,5 +27,3 @@ SA cannot: - change objectives - alter assessment requirements - unlock future l
 Related notes: [[Alice Delegation Governance Model]], [[Delegator — Execution Governance Doctrine]]
 
 ## Related
-
-^[{src_rel}]

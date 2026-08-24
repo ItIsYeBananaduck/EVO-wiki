@@ -98,5 +98,3 @@ In the logs, search for:
 The summary file is your best bet since it's automatically updated and contains the most important information.
 
 ## Related
-
-^[{src_rel}]

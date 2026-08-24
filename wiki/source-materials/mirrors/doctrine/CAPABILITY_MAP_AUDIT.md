@@ -96,5 +96,3 @@ Have been mapped in `alice_capability_map.json`
 If you find any additional functions that should be mapped, add them to this audit and update the capability map.
 
 ## Related
-
-^[{src_rel}]

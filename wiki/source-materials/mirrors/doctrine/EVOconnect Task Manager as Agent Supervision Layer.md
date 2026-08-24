@@ -32,5 +32,3 @@ Final Principle:
 Supervised execution scales better than invisible execution.
 
 ## Related
-
-^[{src_rel}]

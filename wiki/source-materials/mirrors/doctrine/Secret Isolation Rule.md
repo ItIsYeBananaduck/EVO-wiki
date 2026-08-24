@@ -23,5 +23,3 @@ Links
 [No Secret Echo Rule](https://www.notion.so/33ec72bad013814892ccd1e5e72a397e)
 
 ## Related
-
-^[{src_rel}]

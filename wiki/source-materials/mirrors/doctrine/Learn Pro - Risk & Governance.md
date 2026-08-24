@@ -15,5 +15,3 @@ Snapshot pruning after threshold.
 Explicit user approval required.
 
 ## Related
-
-^[{src_rel}]

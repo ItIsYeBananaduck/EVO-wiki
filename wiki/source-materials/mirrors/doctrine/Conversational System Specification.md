@@ -104,4 +104,3 @@ It is the primary interface for awareness, reflection, and guidance in EVOmind.
 ---
 
 Related notes: [[EVO — Cognition Layer]], [[EVOterminal - Core Design]]
-^[{src_rel}]

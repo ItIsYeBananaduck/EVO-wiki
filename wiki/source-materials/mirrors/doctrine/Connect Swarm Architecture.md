@@ -36,5 +36,3 @@ Final Principle:
 Distributed power must still obey centralized governance.
 
 ## Related
-
-^[{src_rel}]

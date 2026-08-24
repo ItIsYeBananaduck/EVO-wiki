@@ -106,5 +106,3 @@ updated: 2026-07-24
 The implementation is complete and ready for testing on Apple Silicon or device!
 
 ## Related
-
-^[{src_rel}]

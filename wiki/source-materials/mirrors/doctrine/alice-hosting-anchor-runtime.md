@@ -267,5 +267,3 @@ When the anchor receives a Swarm-sharded task:
 - [x] **Risks listed** (Section 6.2)
 
 ## Related
-
-^[{src_rel}]

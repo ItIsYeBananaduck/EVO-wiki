@@ -21,5 +21,3 @@ Procedure definition remains stable. Operational behavior is controlled by: - on
 This provides: - determinism - repeatability - low governance overhead
 
 ## Related
-
-^[{src_rel}]

@@ -47,5 +47,3 @@ Living Bundle System:
 - Latest version replaces previous
 
 ## Related
-
-^[{src_rel}]

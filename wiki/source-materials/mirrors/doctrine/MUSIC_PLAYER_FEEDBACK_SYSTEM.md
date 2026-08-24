@@ -419,5 +419,3 @@ The enhanced music player now provides:
 This creates a foundation for Alice to learn user music preferences over time, enabling her to create better, personalized workout playlists that match individual tastes and workout needs.
 
 ## Related
-
-^[{src_rel}]

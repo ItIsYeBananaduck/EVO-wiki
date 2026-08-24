@@ -22,5 +22,3 @@ Core Notes
 [Learn Pro - UX Language](https://www.notion.so/33ec72bad01381eb906fd045eefa17ca)
 
 ## Related
-
-^[{src_rel}]

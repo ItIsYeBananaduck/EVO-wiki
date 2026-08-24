@@ -106,5 +106,3 @@ Architectural Rule
 Swarm parallelism increases intelligence, not authority. Execution authority remains singular.
 
 ## Related
-
-^[{src_rel}]

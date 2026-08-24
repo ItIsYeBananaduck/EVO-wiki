@@ -47,5 +47,3 @@ Core UX Principle:
 Echo is a presence, not a tool.
 
 ## Related
-
-^[{src_rel}]

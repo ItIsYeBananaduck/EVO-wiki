@@ -200,4 +200,3 @@ They are **trusted components within it**.
 - [EVOconnect Method Specification Model](https://www.notion.so/33dc72bad01381969e43e43864cb35ef)
 - [EVOconnect Task Manager as Agent Supervision Layer](https://www.notion.so/33dc72bad01381198e00e077242b777f)
 - [Delegator Doctrine: Execution Authority](https://www.notion.so/343c72bad01381ef9ad0d496a384113b)
-^[{src_rel}]

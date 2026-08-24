@@ -152,5 +152,3 @@ AliceAssets/models/alice-phi3-mlx-base-q4/
 The infrastructure is complete and ready. When MLX is implemented, it will automatically be used for iOS devices, with llama.cpp as a proven fallback.
 
 ## Related
-
-^[{src_rel}]

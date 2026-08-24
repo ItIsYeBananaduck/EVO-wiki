@@ -31,5 +31,3 @@ Final Principle:
 The system should optimize for outcomes, not expose unnecessary implementation detail.
 
 ## Related
-
-^[{src_rel}]

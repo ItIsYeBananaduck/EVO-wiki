@@ -34,5 +34,3 @@ Hall of Echoes:
 A calm, grounding, and peaceful space where users can access Echoes entrusted to them.
 
 ## Related
-
-^[{src_rel}]

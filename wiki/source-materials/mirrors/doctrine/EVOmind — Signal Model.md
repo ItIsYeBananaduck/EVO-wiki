@@ -272,5 +272,3 @@ It enables:
 - personalized interpretation over time
 
 ## Related
-
-^[{src_rel}]

@@ -24,5 +24,3 @@ Links
 [Background Inference Rules](https://www.notion.so/33ec72bad01381e4861ae0e04fc67d34)
 
 ## Related
-
-^[{src_rel}]

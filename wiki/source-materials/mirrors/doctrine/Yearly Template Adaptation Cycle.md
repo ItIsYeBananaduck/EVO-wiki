@@ -30,5 +30,3 @@ New Templates
 New templates enter as candidates: - tested during exploration window - tested on stall events - tested when teacher unlocks scope-specific templates
 
 ## Related
-
-^[{src_rel}]

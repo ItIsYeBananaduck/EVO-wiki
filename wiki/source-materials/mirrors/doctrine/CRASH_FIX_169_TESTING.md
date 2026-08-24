@@ -88,5 +88,3 @@ Check if there are known issues with this version:
 - llama.cpp calls `abort()` internally which we can't prevent from Swift
 
 ## Related
-
-^[{src_rel}]

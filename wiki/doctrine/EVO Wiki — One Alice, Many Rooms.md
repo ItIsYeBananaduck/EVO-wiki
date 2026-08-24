@@ -2,8 +2,8 @@
 title: Purpose
 type: concept
 tags: [evo]
-sources:
-  - source-materials/mirrors/doctrine/EVO Wiki — One Alice, Many Rooms.md
+sources: []
+origin: wiki-native — authored in this wiki, no upstream mirror
 updated: 2026-07-23
 ---
 # Purpose
@@ -277,4 +277,4 @@ This is the memory spine for One Alice, Many Rooms.
 
 ## Related
 - [[EVO Architecture Bible]]
-^[source-materials/mirrors/doctrine/EVO Wiki — One Alice, Many Rooms.md]
+^[wiki-native — no upstream source]

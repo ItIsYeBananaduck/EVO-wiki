@@ -73,5 +73,3 @@ Humans: - interpret meaning - adjust pedagogy - make decisions - intervene perso
 EVE does not replace educators. She informs them.
 
 ## Related
-
-^[{src_rel}]

@@ -211,5 +211,3 @@ The training pipeline and gating system don't slow things down - they run in par
 4. **Batch processing**: Group similar requests for batch inference
 
 ## Related
-
-^[{src_rel}]

@@ -2,8 +2,8 @@
 title: EVO — Subscription & Capability Philosophy (Raw Draft)
 type: concept
 tags: [evo, philosophy]
-sources:
-  - source-materials/mirrors/doctrine/EVO — Subscription & Capability Philosophy.md
+sources: []
+origin: wiki-native — authored in this wiki, no upstream mirror
 updated: 2026-07-23
 ---
 # EVO — Subscription & Capability Philosophy (Raw Draft)
@@ -352,4 +352,4 @@ rather than restrictive or artificially gated.
 - [[EVO — Cross-App Context Continuity.md]]
 - [[EVO — Global Adapter Distribution Model.md]]
 - [[EVO — Pane Pack Architecture.md]]
-^[source-materials/mirrors/doctrine/EVO — Subscription & Capability Philosophy.md]
+^[wiki-native — no upstream source]

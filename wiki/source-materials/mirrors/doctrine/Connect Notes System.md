@@ -274,5 +274,3 @@ Notes in Connect are user-approved, context-aware knowledge objects derived from
 They live at a single canonical level, remain visible upward, and connect conversation, execution, and Alice’s memory into one evolving knowledge system.
 
 ## Related
-
-^[{src_rel}]

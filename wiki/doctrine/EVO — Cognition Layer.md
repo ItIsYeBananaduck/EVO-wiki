@@ -2,8 +2,8 @@
 title: EVO — Cognition Layer
 type: concept
 tags: [evo]
-sources:
-  - source-materials/mirrors/doctrine/EVO — Cognition Layer.md
+sources: []
+origin: wiki-native — authored in this wiki, no upstream mirror
 updated: 2026-07-23
 ---
 # EVO — Cognition Layer
@@ -137,4 +137,4 @@ Related notes: [[EVO — Context Layer]], [[Conversational System Specification]
 - [[EVO — Global Adapter Distribution Model.md]]
 - [[EVO — Pane Pack Architecture.md]]
 - [[EVO — Shared Embedding System.md]]
-^[source-materials/mirrors/doctrine/EVO — Cognition Layer.md]
+^[wiki-native — no upstream source]

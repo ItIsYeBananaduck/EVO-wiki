@@ -24,5 +24,3 @@ Adaptation is iterative, not instant.
 Related notes: [[Seamless Adaptation Principle]]
 
 ## Related
-
-^[{src_rel}]

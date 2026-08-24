@@ -24,5 +24,3 @@ Metrics (Enterprise)
 Enterprise schema is domain-pack-defined.
 
 ## Related
-
-^[{src_rel}]

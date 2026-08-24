@@ -128,5 +128,3 @@ Before coding, produce an implementation plan that lists:
 Do not begin implementation until the plan proves that duplicate scan paths will be removed or fully disconnected.
 
 ## Related
-
-^[{src_rel}]

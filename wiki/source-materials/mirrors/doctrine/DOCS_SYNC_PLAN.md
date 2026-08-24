@@ -59,5 +59,3 @@ updated: 2026-07-24
    - Unwired routes, placeholders, feature flags.
 
 ## Related
-
-^[{src_rel}]

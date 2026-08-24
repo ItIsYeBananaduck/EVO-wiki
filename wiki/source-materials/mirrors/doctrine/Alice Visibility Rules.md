@@ -64,5 +64,3 @@ All in `flutter_app/assets/alice/`:
 Widget extension copies in `flutter_app/ios/EvoFitnessWidget/Assets.xcassets/` are byte-identical to the canonical Flutter set — marked deprecated / duplicate. The shared extraction should eliminate these.
 
 ## Related
-
-^[{src_rel}]

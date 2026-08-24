@@ -24,5 +24,3 @@ Links
 [Hive Log Sync](https://www.notion.so/33ec72bad01381afb3cedbc0c5e34719)
 
 ## Related
-
-^[{src_rel}]

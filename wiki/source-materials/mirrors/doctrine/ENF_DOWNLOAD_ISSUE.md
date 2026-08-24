@@ -131,5 +131,3 @@ If you want to try direct downloads later:
 The conversion script is ready and tested - it just needs the files!
 
 ## Related
-
-^[{src_rel}]

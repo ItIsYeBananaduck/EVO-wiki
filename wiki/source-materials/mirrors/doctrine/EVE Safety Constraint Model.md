@@ -22,5 +22,3 @@ Principle:
 Safety constraints must be enforced before execution, not after failure.
 
 ## Related
-
-^[{src_rel}]

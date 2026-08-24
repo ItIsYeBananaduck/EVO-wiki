@@ -212,5 +212,3 @@ Logs are lightweight (in-memory only, no file I/O) and help diagnose crashes.
 The critical fix is that **batch creation, population, decode, and freeing all happen in one synchronous scope on llamaQueue**, ensuring the batch cannot be freed before `llama_decode` completes.
 
 ## Related
-
-^[{src_rel}]

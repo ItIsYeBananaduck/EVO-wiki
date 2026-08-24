@@ -14,5 +14,3 @@ Student may continue working on the concept.
 If the issue resolves independently: - teacher may close ticket - ticket marked as resolved before intervention
 
 ## Related
-
-^[{src_rel}]

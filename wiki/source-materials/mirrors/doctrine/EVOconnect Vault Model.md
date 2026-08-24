@@ -31,5 +31,3 @@ Final Principle:
 Access should be granted just enough to act, never enough to drift.
 
 ## Related
-
-^[{src_rel}]

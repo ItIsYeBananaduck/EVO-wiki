@@ -287,5 +287,3 @@ Implement comprehensive fixes with:
 - All critical fixes (A-G) are implemented and tested
 
 ## Related
-
-^[{src_rel}]

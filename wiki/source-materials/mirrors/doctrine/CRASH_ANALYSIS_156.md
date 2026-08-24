@@ -151,5 +151,3 @@ This will:
 4. Check logs for actual `n_batch` values used
 
 ## Related
-
-^[{src_rel}]

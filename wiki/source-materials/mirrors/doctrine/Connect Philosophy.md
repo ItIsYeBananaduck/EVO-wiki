@@ -24,5 +24,3 @@ Final Principle:
 Connect should amplify action without dissolving oversight.
 
 ## Related
-
-^[{src_rel}]

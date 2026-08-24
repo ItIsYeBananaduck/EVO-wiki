@@ -23,5 +23,3 @@ Links
 Delegator State Machine MOC
 
 ## Related
-
-^[{src_rel}]

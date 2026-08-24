@@ -27,5 +27,3 @@ Principle:
 More data improves adaptation, but the system must still work without it.
 
 ## Related
-
-^[{src_rel}]

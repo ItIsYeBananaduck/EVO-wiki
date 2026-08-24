@@ -187,4 +187,3 @@ This is a **separation of concerns**, not a full native elimination.
 - [x] List Dart interface boundaries
 - [x] Create summary table
 - [x] Note future possibilities
-^[{src_rel}]

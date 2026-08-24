@@ -319,4 +319,3 @@ Alice may not inspect it as ordinary code.
 - Protected System Zones and Privileged Change Policy
 - [Delegator — Execution Governance Doctrine](https://app.notion.com/p/342c72bad01381e088ecc512452813e4)
 - Repo Adapter Design
-^[{src_rel}]

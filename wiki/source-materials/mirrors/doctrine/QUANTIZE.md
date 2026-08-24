@@ -52,5 +52,3 @@ If you want, I can:
 - create a GitHub release upload step to store the artifact after quantization.
 
 ## Related
-
-^[{src_rel}]
