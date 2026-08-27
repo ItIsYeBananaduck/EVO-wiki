@@ -64,6 +64,10 @@
 
 ## Doctrine Originals
 
+- [[source-materials/mirrors/doctrine/_MOC - Mirror Files.md|Mirror Files MOC]] — map of all mirrored doctrine files
+
+Mirrored from `source-materials/mirrors/doctrine/`. Browse that folder for the full set. Curated summaries: `doctrine/`.
+
 Mirrored from `source-materials/mirrors/doctrine/`. Browse that folder for the full set. Curated summaries: `doctrine/`.
 
 ## EVO Repo Canonical Docs
