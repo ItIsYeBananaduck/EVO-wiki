@@ -37,6 +37,9 @@ Alice owns the user-facing budget relationship: token and spending preferences, 
 Cost optimization is permitted only after safety, authority, and minimum-quality requirements are satisfied.
 
 ## Related
+
+- [[alice-identity-layers.md|Alice — Identity Layers]]
+- [[alice-cognitive-subsystem.md|Alice — Cognitive Subsystem]]
 - [[EVO Architecture Bible]]
 - [[Governance & Authority Map]]
 - [[Alice — Identity Layers]]

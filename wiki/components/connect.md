@@ -29,6 +29,8 @@ Created → Reviewed → Approved → Executed → Logged → Completed
 Prefer silent failure with structured audit trails. Surface failures at control-boundary interfaces rather than deep in execution layers.
 
 ## Related
+
+- [[connect-security-privacy.md|Connect — Security & Privacy]]
 - [[EVOconnect — System Map]]
 - [[Hive Definition]]
 - [[Connect — Security & Privacy Model]]

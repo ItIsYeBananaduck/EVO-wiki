@@ -5,19 +5,62 @@
 
 ## Overview
 
-- [EVO Architecture Bible](doctrine/evo-architecture-bible.md) — vision, privacy, identity, data ownership, app ecosystem.
-- [EVOconnect System Map](doctrine/evoconnect-system-map.md) — browser/terminal execution, task model, multi-agent orchestration.
-- [Hive Definition](components/hive.md) — multi-device Alice cluster, lease holder, shared state.
-- [Governance & Authority Map](doctrine/authority-governance-map.md) — method approval, delegation rules, escalation.
-- [Alice Capability Boundary](components/alice.md) — visibility limits, authentication, prompt injection defense.
-- [EVEs — Adaptive Coaching Runtime](components/eve.md) — LoRA strategy, procedure execution, session scaling.
-- [Learn Pro — User Curation Workshop](components/learn-pro.md) — workshop flow, domain styles, mesh integration.
-- [Connect — Task Control Plane](components/connect.md) — control panel, failure states, security/privacy model.
-- [Talent & Template System](doctrine/talent-template-system.md) — templates, talents, approvals, reuse rules.
+- [[doctrine/evo-architecture-bible.md|EVO Architecture Bible]] — vision, privacy, identity, data ownership, app ecosystem.
+- [[doctrine/evoconnect-system-map.md|EVOconnect System Map]] — browser/terminal execution, task model, multi-agent orchestration.
+- [[components/hive.md|Hive Definition]] — multi-device Alice cluster, lease holder, shared state.
+- [[doctrine/authority-governance-map.md|Governance & Authority Map]] — method approval, delegation rules, escalation.
+- [[components/alice.md|Alice Capability Boundary]] — visibility limits, authentication, prompt injection defense.
+- [[components/eve.md|EVEs — Adaptive Coaching Runtime]] — LoRA strategy, procedure execution, session scaling.
+- [[components/learn-pro.md|Learn Pro — User Curation Workshop]] — workshop flow, domain styles, mesh integration.
+- [[components/connect.md|Connect — Task Control Plane]] — control panel, failure states, security/privacy model.
+- [[doctrine/talent-template-system.md|Talent & Template System]] — templates, talents, approvals, reuse rules.
+
+## Doctrine by Topic
+
+- [[doctrine/_MOC - Alice.md|Alice MOC]]
+- [[doctrine/_MOC - Architecture.md|Architecture MOC]]
+- [[doctrine/_MOC - Coaching.md|Coaching MOC]]
+- [[doctrine/_MOC - Communication.md|Communication MOC]]
+- [[doctrine/_MOC - Data.md|Data MOC]]
+- [[doctrine/_MOC - Delegation.md|Delegation MOC]]
+- [[doctrine/_MOC - EVE.md|EVE MOC]]
+- [[doctrine/_MOC - EVOconnect.md|EVOconnect MOC]]
+- [[doctrine/_MOC - Execution.md|Execution MOC]]
+- [[doctrine/_MOC - Governance.md|Governance MOC]]
+- [[doctrine/_MOC - Hive.md|Hive MOC]]
+- [[doctrine/_MOC - Inference.md|Inference MOC]]
+- [[doctrine/_MOC - Learn.md|Learn MOC]]
+- [[doctrine/_MOC - LoRA-Adapter.md|LoRA-Adapter MOC]]
+- [[doctrine/_MOC - Memory.md|Memory MOC]]
+- [[doctrine/_MOC - Mobile.md|Mobile MOC]]
+- [[doctrine/_MOC - Philosophy.md|Philosophy MOC]]
+- [[doctrine/_MOC - Security.md|Security MOC]]
+- [[doctrine/_MOC - Talent.md|Talent MOC]]
+- [[doctrine/_MOC - Training.md|Training MOC]]
+- [[doctrine/_MOC - Uncategorized.md|Uncategorized MOC]]
+
+## Infrastructure
+
+- [[log.md|Wiki Log]] — change log for EVO wiki
+
+- [[AGENTS.md|EVO-wiki Agent Rules]] — agent rules for EVO doctrine ingestion
+- [[SCHEMA.md|EVO Wiki Schema]] — conventions and taxonomy
+- [[WIKI_INGESTION_GUIDE.md|Wiki Doctrine Ingestion Guide]] — authoritative ingestion instructions
 
 ## Marketing
 
-- [EVO Marketing](marketing/README.md) — positioning, messaging, launch plan, content strategy, lead gen, research.
+- [[marketing/index.md|EVO Marketing]]
+- [[marketing/additional-tactics.md|Additional Marketing Tactics]]
+- [[marketing/brand-identity.md|Brand Identity]]
+- [[marketing/content-strategy.md|Content Strategy]]
+- [[marketing/launch-plan.md|Launch Plan]]
+- [[marketing/lead-gen.md|Lead Generation]]
+- [[marketing/messaging.md|Messaging]]
+- [[marketing/positioning.md|Positioning]]
+- [[marketing/research.md|Market Research]]
+- [[marketing/smart-context-test-record-2026-08-21-first-trial.md|Smart Context — First Trial Record (2026-08-21)]]
+- [[marketing/smart-context-test-record.md|Smart-Context Prototype — Test Record 2026-08-24]]
+- [[marketing/viability.md|Viability Assessment]]
 
 ## Doctrine Originals
 
