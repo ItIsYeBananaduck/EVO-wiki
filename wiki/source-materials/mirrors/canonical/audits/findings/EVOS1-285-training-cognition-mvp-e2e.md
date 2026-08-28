@@ -1,5 +1,8 @@
 ---
-type: audit-finding
+title: "EVOS1-285 — Training Cognition MVP End-to-End Validation"
+type: audit
+tags: ['lsctech', 'audit', 'source-material', 'canonical', 'evo']
+updated: 2026-05-05
 ---
 
 # EVOS1-285 — Training Cognition MVP End-to-End Validation
@@ -66,4 +69,3 @@ We performed repository-level verification instead:
 - Code changes: Documentation-only validation record added.
 - Push status: Blocked (no git remote configured).
 - Real GitHub PR: Blocked (cannot create without remote/auth context).
-

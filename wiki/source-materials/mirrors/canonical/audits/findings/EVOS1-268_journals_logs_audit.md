@@ -1,5 +1,8 @@
 ---
-type: audit-finding
+title: "EVOS1-268 — Audit Journals & Logs Across Apps"
+type: audit
+tags: ['lsctech', 'audit', 'source-material', 'canonical', 'evo']
+updated: 2026-05-02
 ---
 
 > **Status: Historical Reference**

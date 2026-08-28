@@ -1,3 +1,10 @@
+---
+title: "Wiki Doctrine Ingestion Guide"
+type: page
+tags: ['lsctech', 'evo']
+updated: 2026-05-12
+---
+
 # Wiki Doctrine Ingestion Guide
 
 ## Purpose

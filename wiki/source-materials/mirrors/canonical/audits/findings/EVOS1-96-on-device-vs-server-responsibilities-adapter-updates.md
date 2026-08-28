@@ -1,5 +1,8 @@
 ---
-type: audit-finding
+title: "EVOS1-96 Validation: On-Device vs Server-Side Responsibilities for Adapter Updates"
+type: audit
+tags: ['lsctech', 'audit', 'source-material', 'canonical', 'evo']
+updated: 2026-03-31
 ---
 
 > **Status: Historical Reference**

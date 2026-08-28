@@ -1,14 +1,8 @@
 ---
-status: implemented
-cluster_id: EVOS1-387
-implemented_by:
-  - EVOS1-388
-  - EVOS1-389
-  - EVOS1-390
-  - EVOS1-391
-  - EVOS1-392
-source_analysis: smartdocs/raw/evos1-386-mlx-download-gating-analysis.md
-type: spec-implemented
+title: "EVOS1-387 — MLX Download Gating Runtime"
+type: spec
+tags: ['lsctech', 'spec', 'source-material', 'canonical', 'evo']
+updated: 2026-08-19
 ---
 
 # EVOS1-387 — MLX Download Gating Runtime

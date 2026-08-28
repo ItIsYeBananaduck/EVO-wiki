@@ -1,16 +1,8 @@
 ---
-kind: spec
-status: active
-source: manual audit, 2026-07-05
-created: 2026-07-05
-implements: smartdocs/specs/raw/2026-07-05-smartdocs-drift-remediation.md
-related: ""
-supersedes: ""
-superseded_by: ""
-depends_on: ""
-validates: ""
-source_paths: .gitignore,.polaris/graph/graph.sqlite,git-fit/,=
+title: "Repo Hygiene (Phase 1 + 4) Implementation Plan"
 type: spec
+tags: ['lsctech', 'spec', 'source-material', 'canonical', 'evo']
+updated: 2026-07-05
 ---
 
 # Repo Hygiene (Phase 1 + 4) Implementation Plan

@@ -1,3 +1,10 @@
+---
+title: "Behavioral Philosophy"
+type: doctrine
+tags: ['lsctech', 'doctrine', 'source-material', 'evo']
+updated: 2026-08-24
+---
+
 # Behavioral Philosophy
 
 EVO does not reward attendance.

@@ -1,3 +1,10 @@
+---
+title: "EVE – Procedure Override Model"
+type: doctrine
+tags: ['lsctech', 'doctrine', 'source-material', 'evo']
+updated: 2026-08-24
+---
+
 # EVE – Procedure Override Model
 
 ## Purpose

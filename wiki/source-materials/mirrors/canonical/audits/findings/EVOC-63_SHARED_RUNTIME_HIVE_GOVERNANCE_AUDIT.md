@@ -1,5 +1,8 @@
 ---
-type: audit-finding
+title: "EVOC-63 Audit: Shared AI Runtime, Hive, Governance, Tools, and Mesh Extraction Map"
+type: audit
+tags: ['lsctech', 'audit', 'source-material', 'canonical', 'evo']
+updated: 2026-03-24
 ---
 
 > **Status: Historical Reference**

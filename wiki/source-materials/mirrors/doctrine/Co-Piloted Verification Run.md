@@ -1,3 +1,10 @@
+---
+title: "Co-Piloted Verification Run"
+type: doctrine
+tags: ['lsctech', 'doctrine', 'source-material', 'evo']
+updated: 2026-08-24
+---
+
 # Co-Piloted Verification Run
 
 ## Concept

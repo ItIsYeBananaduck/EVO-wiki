@@ -1,10 +1,10 @@
 ---
-tags:
-  - moc
-  - evo/connect
-  - concept/system
-status: active
+title: "Evoconnect — Agent System Moc"
+type: doctrine
+tags: ['lsctech', 'doctrine', 'source-material', 'evo']
+updated: 2026-08-24
 ---
+
 ## Core Governance
 - [[EVOconnect — Delegator & Governance Model]]
 

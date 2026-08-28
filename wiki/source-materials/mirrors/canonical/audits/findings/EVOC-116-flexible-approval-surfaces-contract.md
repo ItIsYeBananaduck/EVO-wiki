@@ -1,5 +1,8 @@
 ---
-type: audit-finding
+title: "EVOC-116 — Flexible Approval Surfaces Contract"
+type: audit
+tags: ['lsctech', 'audit', 'source-material', 'canonical', 'evo']
+updated: 2026-04-04
 ---
 
 > **Status: Implementation Artifact**

@@ -1,5 +1,8 @@
 ---
-type: audit-finding
+title: "EVOC-252 — HiveStateSyncService production wiring decision"
+type: audit
+tags: ['lsctech', 'audit', 'source-material', 'canonical', 'evo']
+updated: 2026-08-19
 ---
 
 > **Status: Implementation Artifact**

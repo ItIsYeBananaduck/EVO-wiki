@@ -1,16 +1,9 @@
 ---
-tags:
-  - concept/brand
-  - concept/philosophy
-  - concept/evolution
-  - concept/system
-  - concept/identity
-  - type/concept
-  - type/moc
-status: active
-source_of_truth: true
+title: "Evosystem — Brand Philosophy"
+type: doctrine
+tags: ['lsctech', 'doctrine', 'source-material', 'evo']
+updated: 2026-08-24
 ---
-
 
 ---
 

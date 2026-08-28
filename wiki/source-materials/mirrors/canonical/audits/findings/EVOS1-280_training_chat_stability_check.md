@@ -1,5 +1,8 @@
 ---
-type: audit-finding
+title: "EVOS1-280 — Training Chat Stability Check After Cognition Package Changes"
+type: audit
+tags: ['lsctech', 'audit', 'source-material', 'canonical', 'evo']
+updated: 2026-05-04
 ---
 
 > **Status: Historical Reference**

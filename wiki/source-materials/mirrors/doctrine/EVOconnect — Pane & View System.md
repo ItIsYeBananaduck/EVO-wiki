@@ -1,3 +1,10 @@
+---
+title: "EVOconnect — Pane & View System (Raw Draft v2)"
+type: doctrine
+tags: ['lsctech', 'doctrine', 'source-material', 'evo']
+updated: 2026-08-19
+---
+
 # EVOconnect — Pane & View System (Raw Draft v2)
 
 ## Purpose

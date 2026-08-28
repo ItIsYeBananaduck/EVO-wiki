@@ -1,5 +1,8 @@
 ---
-type: audit-finding
+title: "EVOS1-273 — Shared Vector Memory Boundaries and Indexing Policy"
+type: audit
+tags: ['lsctech', 'audit', 'source-material', 'canonical', 'evo']
+updated: 2026-05-12
 ---
 
 > **Archived — Promoted to Lifecycle System**
@@ -201,4 +204,3 @@ This keeps recall high while controlling token and index growth.
 - **Clear embedding policy exists**: explicit cognition-wide allow/deny/default behavior.
 - **Token usage minimized**: summary-first strategy + length gating + per-day vector caps.
 - **No blind indexing occurs**: allowlist-first + hard denials + audit reason codes + quarantine path.
-

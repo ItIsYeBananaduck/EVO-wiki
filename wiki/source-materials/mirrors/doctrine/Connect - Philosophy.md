@@ -1,3 +1,10 @@
+---
+title: "Connect - Philosophy"
+type: doctrine
+tags: ['lsctech', 'doctrine', 'source-material', 'evo']
+updated: 2026-08-24
+---
+
 # Connect - Philosophy
 
 EVOconnect connects Alice to everything.

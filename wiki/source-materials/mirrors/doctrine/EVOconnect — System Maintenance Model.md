@@ -1,18 +1,9 @@
 ---
-tags:
-  - concept/system
-  - concept/maintenance
-  - concept/runtime
-  - concept/execution
-  - concept/safety
-  - concept/delegator
-  - concept/storage
-  - concept/optimization
-  - type/concept
-  - type/policy
-status: active
+title: "Evoconnect — System Maintenance Model"
+type: doctrine
+tags: ['lsctech', 'doctrine', 'source-material', 'evo']
+updated: 2026-08-24
 ---
-
 
 ---
 

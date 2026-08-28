@@ -1,36 +1,8 @@
 ---
-tags:
-  - cognition
-  - concept
-  - concept/browser
-  - concept/business
-  - concept/control
-  - concept/data
-  - concept/delegator
-  - concept/device
-  - concept/execution
-  - concept/governance
-  - concept/hive
-  - concept/maintenance
-  - concept/method
-  - concept/optimization
-  - concept/orchestration
-  - concept/performance
-  - concept/runtime
-  - concept/safety
-  - concept/secrets
-  - concept/security
-  - concept/storage
-  - concept/system
-  - concept/talent
-  - concept/terminal
-  - concept/trust
-  - concept/vault
-  - connect
-  - type
-  - type/architecture
-  - type/concept
-  - type/policy
+title: "Evoconnect — System Map"
+type: doctrine
+tags: ['lsctech', 'doctrine', 'source-material', 'evo']
+updated: 2026-08-24
 ---
 
 ## 🧠 Core Systems
@@ -129,4 +101,4 @@ Training Mode = Learning
 Delegator = Control  
 Vault = Safety  
 
-#connect #cognition 
+#connect #cognition

@@ -1,12 +1,8 @@
 ---
-lifecycle_status: needs-review
-implementation_status: unknown
-implementation_percent: 0
-domain_lifecycle: training
-canonical: false
-gitnexus_verified: false
-last_reviewed: 2026-05-12
-type: audit-finding
+title: "EVOS1-59 Audit: Alice warmup + readiness lifecycle"
+type: audit
+tags: ['lsctech', 'audit', 'source-material', 'canonical', 'evo']
+updated: 2026-05-12
 ---
 
 > **Status: Historical Reference**

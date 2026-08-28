@@ -1,9 +1,8 @@
 ---
-doc-type: analysis
-issue: EVOTRA-611
-created-at: 2026-06-18T17:59:18Z
-confidence: 0.88
-recommended-action: create-implementation-children
+title: "EVOTRA-611 Watch Complication Readiness Analysis"
+type: audit
+tags: ['lsctech', 'audit', 'source-material', 'canonical', 'evo']
+updated: 2026-06-18
 ---
 
 # EVOTRA-611 Watch Complication Readiness Analysis

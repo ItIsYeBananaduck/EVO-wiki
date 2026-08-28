@@ -1,5 +1,8 @@
 ---
-type: index
+title: "decisions"
+type: source-material
+tags: ['lsctech', 'source-material', 'canonical', 'evo']
+updated: 2026-08-19
 ---
 
 <!-- polaris:draft -->

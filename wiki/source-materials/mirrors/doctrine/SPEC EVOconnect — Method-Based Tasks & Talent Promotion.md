@@ -1,3 +1,10 @@
+---
+title: "Spec Evoconnect — Method Based Tasks & Talent Promotion"
+type: doctrine
+tags: ['lsctech', 'doctrine', 'source-material', 'evo']
+updated: 2026-08-24
+---
+
 #connect
 ## Core Idea
 

@@ -1,3 +1,10 @@
+---
+title: "Evo Ecosystem — Training As Alice’S Entry Point"
+type: doctrine
+tags: ['lsctech', 'doctrine', 'source-material', 'evo']
+updated: 2026-08-24
+---
+
 
 
 ## Core Idea

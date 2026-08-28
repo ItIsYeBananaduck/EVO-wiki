@@ -1,5 +1,8 @@
 ---
-type: audit-finding
+title: "EVOS1-267 Audit: Existing Embeddings Usage (Training + Chat)"
+type: audit
+tags: ['lsctech', 'audit', 'source-material', 'canonical', 'evo']
+updated: 2026-05-02
 ---
 
 > **Status: Historical Reference**
@@ -186,4 +189,3 @@ Evidence:
 - **All embedding usage locations documented**: Completed (generation service, invocation points, model/tokenizer asset pathing, storage files).
 - **Retrieval flow documented**: Completed (lazy init, vector + keyword hybrid scoring, selection + prompt injection, fallback mode).
 - **Risks for extraction identified**: Completed (storage, lifecycle, ranking drift, token budget interaction, model governance, namespacing).
-

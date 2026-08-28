@@ -1,5 +1,8 @@
 ---
-type: audit-finding
+title: "EVOC-223 — Map EVOfy Phase 6 → Core governance enforcement layer"
+type: audit
+tags: ['lsctech', 'audit', 'source-material', 'canonical', 'evo']
+updated: 2026-04-02
 ---
 
 > **Status: Implementation Artifact**

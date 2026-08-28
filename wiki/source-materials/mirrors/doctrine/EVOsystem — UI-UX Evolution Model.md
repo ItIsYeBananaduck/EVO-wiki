@@ -1,15 +1,8 @@
 ---
-tags:
-  - concept/ui
-  - concept/ux
-  - concept/evolution
-  - concept/design
-  - concept/alice
-  - concept/personalization
-  - type/concept
-  - type/spec
-status: active
-source_of_truth: true
+title: "Evosystem — Ui Ux Evolution Model"
+type: doctrine
+tags: ['lsctech', 'doctrine', 'source-material', 'evo']
+updated: 2026-08-24
 ---
 
 ---

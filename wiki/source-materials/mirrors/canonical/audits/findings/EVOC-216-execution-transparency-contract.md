@@ -1,5 +1,8 @@
 ---
-type: audit-finding
+title: "EVOC-216 — Execution Transparency Contract"
+type: audit
+tags: ['lsctech', 'audit', 'source-material', 'canonical', 'evo']
+updated: 2026-04-02
 ---
 
 > **Status: Implementation Artifact**

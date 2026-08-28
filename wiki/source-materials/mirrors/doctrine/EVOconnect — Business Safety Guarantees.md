@@ -1,17 +1,10 @@
 ---
-tags:
-  - concept/safety
-  - concept/governance
-  - concept/delegator
-  - concept/vault
-  - concept/browser
-  - concept/terminal
-  - concept/security
-  - concept/business
-  - concept/trust
-  - type/concept
-  - type/policy
+title: "Evoconnect — Business Safety Guarantees"
+type: doctrine
+tags: ['lsctech', 'doctrine', 'source-material', 'evo']
+updated: 2026-08-24
 ---
+
 ## Concept
 
 EVOconnect is designed to be safe for business use by enforcing strict control over:

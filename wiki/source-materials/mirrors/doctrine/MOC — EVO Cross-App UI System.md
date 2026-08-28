@@ -1,3 +1,10 @@
+---
+title: "Moc — Evo Cross App Ui System"
+type: doctrine
+tags: ['lsctech', 'doctrine', 'source-material', 'evo']
+updated: 2026-08-24
+---
+
 
 ## Purpose
 Define the shared UI language, reusable surface components, and migration strategy for moving common interface elements into shared packages across the EVO ecosystem.

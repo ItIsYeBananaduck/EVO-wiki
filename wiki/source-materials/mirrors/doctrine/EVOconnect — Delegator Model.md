@@ -1,11 +1,8 @@
 ---
-tags:
-  - concept/delegator
-  - concept/governance
-  - concept/control
-  - concept/security
-  - type/concept
-  - type/architecture
+title: "Evoconnect — Delegator Model"
+type: doctrine
+tags: ['lsctech', 'doctrine', 'source-material', 'evo']
+updated: 2026-08-24
 ---
 
 ## Concept

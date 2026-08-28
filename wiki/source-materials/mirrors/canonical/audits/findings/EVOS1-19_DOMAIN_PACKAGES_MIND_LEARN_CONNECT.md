@@ -1,5 +1,8 @@
 ---
-type: audit-finding
+title: "EVOS1-19 Domain Package Design: `mind`, `learn`, `connect`"
+type: audit
+tags: ['lsctech', 'audit', 'source-material', 'canonical', 'evo']
+updated: 2026-05-12
 ---
 
 <!-- STATUS: requires-rewrite — contains ENF/VOICE references, must excise before promotion -->

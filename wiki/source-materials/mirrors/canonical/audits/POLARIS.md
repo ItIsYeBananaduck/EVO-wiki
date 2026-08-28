@@ -1,5 +1,8 @@
 ---
-type: index
+title: "audits"
+type: audit
+tags: ['lsctech', 'audit', 'source-material', 'canonical', 'evo']
+updated: 2026-08-19
 ---
 
 <!-- polaris:draft -->

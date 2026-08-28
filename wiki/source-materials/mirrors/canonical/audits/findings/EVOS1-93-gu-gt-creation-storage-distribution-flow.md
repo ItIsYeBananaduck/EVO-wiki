@@ -1,5 +1,8 @@
 ---
-type: audit-finding
+title: "EVOS1-93 Audit: Current GU/GT Creation, Storage, and Distribution Flow"
+type: audit
+tags: ['lsctech', 'audit', 'source-material', 'canonical', 'evo']
+updated: 2026-03-31
 ---
 
 > **Status: Historical Reference**

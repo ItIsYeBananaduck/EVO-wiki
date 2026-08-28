@@ -1,5 +1,8 @@
 ---
-type: audit-finding
+title: "EVOS1-77 — Training UI Surface Audit"
+type: audit
+tags: ['lsctech', 'audit', 'source-material', 'canonical', 'evo']
+updated: 2026-08-19
 ---
 
 > **Status: Historical Reference**

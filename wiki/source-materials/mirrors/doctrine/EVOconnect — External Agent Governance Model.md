@@ -1,13 +1,8 @@
 ---
-tags:
-  - concept/connect
-  - concept/agents
-  - concept/delegator
-  - concept/security
-  - concept/method
-  - type/concept
-status: active
-source_of_truth: true
+title: "Evoconnect — External Agent Governance Model"
+type: doctrine
+tags: ['lsctech', 'doctrine', 'source-material', 'evo']
+updated: 2026-08-24
 ---
 
 ## Core Principle

@@ -1,5 +1,8 @@
 ---
-type: audit-finding
+title: "EVOC-101 — Minimum Viable OpenClaw Clone Boundary"
+type: audit
+tags: ['lsctech', 'audit', 'source-material', 'canonical', 'evo']
+updated: 2026-08-19
 ---
 
 > **Status: Implementation Artifact**

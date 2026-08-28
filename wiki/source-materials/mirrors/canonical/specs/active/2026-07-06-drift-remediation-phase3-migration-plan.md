@@ -1,16 +1,8 @@
 ---
-kind: spec
-status: active
-source: manual audit, 2026-07-06
-created: 2026-07-06
-implements: smartdocs/specs/raw/2026-07-05-smartdocs-drift-remediation.md
-related: .superpowers/sdd/phase3-docs-audit-2026-07-06.md
-supersedes: ""
-superseded_by: ""
-depends_on: smartdocs/specs/active/2026-07-06-drift-remediation-phase2-governance-plan.md
-validates: ""
-source_paths: docs/,smartdocs/,.polaris/skills/,.evo/run-state/,.claude/settings.local.json,.github/spec-kit/
+title: "Legacy Migration (Phase 3) Implementation Plan"
 type: spec
+tags: ['lsctech', 'spec', 'source-material', 'canonical', 'evo']
+updated: 2026-07-06
 ---
 
 # Legacy Migration (Phase 3) Implementation Plan

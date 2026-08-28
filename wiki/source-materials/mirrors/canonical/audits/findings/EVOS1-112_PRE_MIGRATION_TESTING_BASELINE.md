@@ -1,5 +1,8 @@
 ---
-type: audit-finding
+title: "EVOS1-112 — Pre-Migration Testing Baseline Reconstruction"
+type: audit
+tags: ['lsctech', 'audit', 'source-material', 'canonical', 'evo']
+updated: 2026-03-31
 ---
 
 > **Status: Historical Reference**

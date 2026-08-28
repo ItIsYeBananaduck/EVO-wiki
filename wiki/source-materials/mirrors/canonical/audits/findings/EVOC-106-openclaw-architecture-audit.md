@@ -1,5 +1,8 @@
 ---
-type: audit-finding
+title: "EVOC-106 — OpenClaw Architecture Audit vs EVOconnect Target"
+type: audit
+tags: ['lsctech', 'audit', 'source-material', 'canonical', 'evo']
+updated: 2026-03-25
 ---
 
 > **Status: Implementation Artifact**

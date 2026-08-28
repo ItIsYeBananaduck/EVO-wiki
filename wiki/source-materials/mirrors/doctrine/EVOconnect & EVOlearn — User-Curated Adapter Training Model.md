@@ -1,16 +1,8 @@
 ---
-tags:
-  - concept/talent
-  - concept/learning
-  - concept/adapters
-  - concept/personalization
-  - concept/training
-  - concept/on-device
-  - concept/privacy
-  - type/concept
-  - type/architecture
-status: active
-source_of_truth: true
+title: "Evoconnect & Evolearn — User Curated Adapter Training Model"
+type: doctrine
+tags: ['lsctech', 'doctrine', 'source-material', 'evo']
+updated: 2026-08-24
 ---
 
 ---

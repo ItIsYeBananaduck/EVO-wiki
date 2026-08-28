@@ -1,16 +1,9 @@
 ---
-tags:
-  - concept/alice
-  - concept/ux
-  - concept/interaction
-  - concept/presence
-  - concept/behavior
-  - type/concept
-  - type/spec
-status: active
-source_of_truth: true
+title: "Evosystem — Alice Presence Model"
+type: doctrine
+tags: ['lsctech', 'doctrine', 'source-material', 'evo']
+updated: 2026-08-24
 ---
-
 
 ---
 

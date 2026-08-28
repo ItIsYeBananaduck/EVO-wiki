@@ -1,6 +1,7 @@
 ---
-domain: EVO
-tags: [evo, doctrine, connector, learn, alice, hive, governance]
+title: "EVO Wiki Schema"
+type: page
+tags: ['lsctech', 'evo']
 updated: 2026-07-20
 ---
 

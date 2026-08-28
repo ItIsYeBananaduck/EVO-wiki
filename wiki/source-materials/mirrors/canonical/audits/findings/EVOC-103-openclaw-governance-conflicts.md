@@ -1,5 +1,8 @@
 ---
-type: audit-finding
+title: "EVOC-103 — OpenClaw Governance Conflicts (Delegator + Bounded Execution)"
+type: audit
+tags: ['lsctech', 'audit', 'source-material', 'canonical', 'evo']
+updated: 2026-08-19
 ---
 
 > **Status: Implementation Artifact**

@@ -1,3 +1,10 @@
+---
+title: "Canonical Summary"
+type: source-material
+tags: ['lsctech', 'source-material', 'canonical', 'evo']
+updated: 2026-07-05
+---
+
 # Canonical Summary
 
 Polaris-specific docs only. Doctrine lives in EVO.

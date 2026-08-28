@@ -1,3 +1,10 @@
+---
+title: "Learn — Self Study Mode (Ingestion Notebook)"
+type: doctrine
+tags: ['lsctech', 'doctrine', 'source-material', 'evo']
+updated: 2026-08-24
+---
+
 Learn – Self-Study Mode (Ingestion Notebook)
 
 Self-Study Mode is the core non-institution learning experience.

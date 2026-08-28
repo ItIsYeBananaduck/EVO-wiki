@@ -1,5 +1,8 @@
 ---
-type: audit-finding
+title: "EVOS1-88 — Audit Platform-Specific Wiring and App Entrypoints"
+type: audit
+tags: ['lsctech', 'audit', 'source-material', 'canonical', 'evo']
+updated: 2026-03-31
 ---
 
 > **Status: Historical Reference**

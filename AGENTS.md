@@ -1,3 +1,10 @@
+---
+title: "EVO-wiki Agent Rules"
+type: page
+tags: ['lsctech', 'evo']
+updated: 2026-08-24
+---
+
 # EVO-wiki Agent Rules
 
 ## Wiki Doctrine Ingestion

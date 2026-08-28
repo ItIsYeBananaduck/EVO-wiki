@@ -1,5 +1,8 @@
 ---
-type: audit-finding
+title: "EVOS1-37 — Audit automatic actions for Delegator governance"
+type: audit
+tags: ['lsctech', 'audit', 'source-material', 'canonical', 'evo']
+updated: 2026-03-28
 ---
 
 > **Status: Historical Reference**

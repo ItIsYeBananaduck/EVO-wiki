@@ -1,3 +1,10 @@
+---
+title: "EVO Wiki Log"
+type: page
+tags: ['lsctech', 'evo']
+updated: 2026-07-20
+---
+
 # EVO Wiki Log
 
 > Append-only. Actions: create, update, index, reconcile.

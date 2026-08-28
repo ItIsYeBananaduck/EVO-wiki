@@ -1,5 +1,8 @@
 ---
-type: audit-finding
+title: "EVOS1-123 — Alice Voice Spec v1"
+type: audit
+tags: ['lsctech', 'audit', 'source-material', 'canonical', 'evo']
+updated: 2026-05-12
 ---
 
 > **Archived — Promoted to Lifecycle System**

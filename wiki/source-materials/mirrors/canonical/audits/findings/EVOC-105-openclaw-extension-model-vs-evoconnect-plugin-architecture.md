@@ -1,5 +1,8 @@
 ---
-type: audit-finding
+title: "EVOC-105 — OpenClaw Extension Model vs EVOconnect Plugin Architecture"
+type: audit
+tags: ['lsctech', 'audit', 'source-material', 'canonical', 'evo']
+updated: 2026-03-25
 ---
 
 > **Status: Implementation Artifact**

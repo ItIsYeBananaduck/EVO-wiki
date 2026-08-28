@@ -1,5 +1,8 @@
 ---
-type: audit-finding
+title: "EVOC-213 — Task Execution Visibility Contract"
+type: audit
+tags: ['lsctech', 'audit', 'source-material', 'canonical', 'evo']
+updated: 2026-04-01
 ---
 
 > **Status: Implementation Artifact**

@@ -1,3 +1,10 @@
+---
+title: "Evoconnect — Continuous Consciousness Vs Mode Based Systems"
+type: doctrine
+tags: ['lsctech', 'doctrine', 'source-material', 'evo']
+updated: 2026-08-24
+---
+
 ## Core Insight
 
 Most AI systems are **mode-based**:

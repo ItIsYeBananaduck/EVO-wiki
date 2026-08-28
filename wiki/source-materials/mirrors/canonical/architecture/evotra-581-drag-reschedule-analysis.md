@@ -1,3 +1,10 @@
+---
+title: "EVOTRA-581 Analysis: Drag-and-drop rescheduling in CalendarWeekView"
+type: source-material
+tags: ['lsctech', 'source-material', 'canonical', 'evo']
+updated: 2026-06-18
+---
+
 # EVOTRA-581 Analysis: Drag-and-drop rescheduling in CalendarWeekView
 
 **Analyst session:** 2026-06-18  

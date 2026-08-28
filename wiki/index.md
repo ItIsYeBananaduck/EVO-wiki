@@ -1,3 +1,10 @@
+---
+title: "EVO Wiki Index"
+type: index
+tags: ['lsctech', 'evo']
+updated: 2026-07-20
+---
+
 # EVO Wiki Index
 
 > Browseable EVO knowledge base built from doctrine originals and canonical docs.

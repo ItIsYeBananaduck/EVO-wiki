@@ -1,5 +1,8 @@
 ---
-type: audit-finding
+title: "EVOS1-84 — Diff Scope from Last Merge to Current Branch"
+type: audit
+tags: ['lsctech', 'audit', 'source-material', 'canonical', 'evo']
+updated: 2026-08-19
 ---
 
 > **Status: Historical Reference**

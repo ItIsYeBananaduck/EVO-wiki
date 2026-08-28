@@ -1,5 +1,8 @@
 ---
-type: audit-finding
+title: "EVOS1-42 Design: Shared runtime ownership and resident Alice lifecycle"
+type: audit
+tags: ['lsctech', 'audit', 'source-material', 'canonical', 'evo']
+updated: 2026-05-12
 ---
 
 > **Archived — Promoted to Lifecycle System**

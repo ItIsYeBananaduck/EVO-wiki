@@ -1,5 +1,8 @@
 ---
-type: audit-finding
+title: "EVOC-224 — Map EVOfy Phase 7 → Core external agent governance (NOT authority)"
+type: audit
+tags: ['lsctech', 'audit', 'source-material', 'canonical', 'evo']
+updated: 2026-04-02
 ---
 
 > **Status: Implementation Artifact**

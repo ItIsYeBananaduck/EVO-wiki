@@ -1,5 +1,8 @@
 ---
-type: audit-finding
+title: "EVOC-102: OpenClaw Reuse / Wrap / Replace / Delete Decision Matrix"
+type: audit
+tags: ['lsctech', 'audit', 'source-material', 'canonical', 'evo']
+updated: 2026-03-25
 ---
 
 > **Status: Implementation Artifact**

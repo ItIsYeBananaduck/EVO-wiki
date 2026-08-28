@@ -1,5 +1,8 @@
 ---
-type: audit-finding
+title: "EVOS1-89 — Remediation List and Ordered Follow-up Issues from Audit Findings"
+type: audit
+tags: ['lsctech', 'audit', 'source-material', 'canonical', 'evo']
+updated: 2026-03-31
 ---
 
 > **Status: Historical Reference**

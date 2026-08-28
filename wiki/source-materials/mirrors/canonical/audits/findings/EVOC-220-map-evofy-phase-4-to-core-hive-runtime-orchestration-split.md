@@ -1,5 +1,8 @@
 ---
-type: audit-finding
+title: "EVOC-220 — Map EVOfy Phase 4 → Core Hive runtime + orchestration split"
+type: audit
+tags: ['lsctech', 'audit', 'source-material', 'canonical', 'evo']
+updated: 2026-04-02
 ---
 
 > **Status: Implementation Artifact**

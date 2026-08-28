@@ -1,3 +1,10 @@
+---
+title: "Moc — Connect — Evoterminal & Environment Integrations"
+type: doctrine
+tags: ['lsctech', 'doctrine', 'source-material', 'evo']
+updated: 2026-08-24
+---
+
 
 ## Purpose
 Define how Alice interacts with external tools and environments when direct provider integration is unavailable.

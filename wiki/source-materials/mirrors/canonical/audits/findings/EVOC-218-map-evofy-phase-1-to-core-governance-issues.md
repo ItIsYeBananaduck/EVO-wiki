@@ -1,5 +1,8 @@
 ---
-type: audit-finding
+title: "EVOC-218 — Map EVOfy Phase 1 → Core governance issues"
+type: audit
+tags: ['lsctech', 'audit', 'source-material', 'canonical', 'evo']
+updated: 2026-04-02
 ---
 
 > **Status: Implementation Artifact**

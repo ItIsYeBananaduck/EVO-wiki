@@ -1,3 +1,10 @@
+---
+title: "Evoconnect — Adaptive Agent Orchestration And Gradual Internalization"
+type: doctrine
+tags: ['lsctech', 'doctrine', 'source-material', 'evo']
+updated: 2026-08-24
+---
+
 
 ## Core Idea
 

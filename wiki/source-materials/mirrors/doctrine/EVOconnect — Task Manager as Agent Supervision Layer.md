@@ -1,14 +1,9 @@
 ---
-tags:
-  - concept/connect
-  - concept/tasks
-  - concept/supervision
-  - concept/learning
-  - type/concept
-status: active
-source_of_truth: true
+title: "Evoconnect — Task Manager As Agent Supervision Layer"
+type: doctrine
+tags: ['lsctech', 'doctrine', 'source-material', 'evo']
+updated: 2026-08-24
 ---
-
 
 ## Core Principle
 

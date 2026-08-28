@@ -1,12 +1,8 @@
 ---
-tags:
-  - concept/vault
-  - concept/secrets
-  - concept/security
-  - concept/data
-  - concept/governance
-  - type/concept
-  - type/architecture
+title: "Evoconnect — Vault Model"
+type: doctrine
+tags: ['lsctech', 'doctrine', 'source-material', 'evo']
+updated: 2026-08-24
 ---
 
 ## Concept

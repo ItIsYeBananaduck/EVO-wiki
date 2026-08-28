@@ -1,5 +1,8 @@
 ---
-type: audit-finding
+title: "EVOC-221 — Map EVOfy Phase 5 → Core plugin + capability system"
+type: audit
+tags: ['lsctech', 'audit', 'source-material', 'canonical', 'evo']
+updated: 2026-04-02
 ---
 
 > **Status: Implementation Artifact**

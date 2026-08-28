@@ -1,5 +1,8 @@
 ---
-type: audit-finding
+title: "EVOS1-85 — Audit Touched Packages for Build, Type, and Import Integrity"
+type: audit
+tags: ['lsctech', 'audit', 'source-material', 'canonical', 'evo']
+updated: 2026-03-31
 ---
 
 > **Status: Historical Reference**

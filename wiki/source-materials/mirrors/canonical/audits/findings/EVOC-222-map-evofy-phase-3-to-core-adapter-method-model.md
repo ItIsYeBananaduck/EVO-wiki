@@ -1,5 +1,8 @@
 ---
-type: audit-finding
+title: "EVOC-222 — Map EVOfy Phase 3 → Core adapter / method model"
+type: audit
+tags: ['lsctech', 'audit', 'source-material', 'canonical', 'evo']
+updated: 2026-04-02
 ---
 
 > **Status: Implementation Artifact**

@@ -1,45 +1,10 @@
 ---
-base: "[[EVOnotes.base]]"
-Canonical?: false
-Seed Of Concept Cluster: []
-Protected: false
-"NOT for book ": false
-Concept Coverage (Cluster): []
-Summary: ""
-Type: Doctrine
-Related Notes:
-  - "[[Alice Identity Doctrine|Alice Identity Doctrine]]"
-  - "[[Data Sovereignty Doctrine|Data Sovereignty Doctrine]]"
-  - "[[EVOnotes/Alice Delegation Governance Model|Alice Delegation Governance Model]]"
-  - "[[Alice-Limits|Alice-Limits]]"
-Related back to EVO Notes:
-  - "[[Companion-Oriented AI Systems|Companion-Oriented AI Systems]]"
-  - "[[Explain Only When Asked|Explain Only When Asked]]"
-  - "[[Execution Model Intent → Effect → Execution|Execution Model Intent → Effect → Execution]]"
-  - "[[Delegator Doctrine Execution Authority|Delegator Doctrine Execution Authority]]"
-  - "[[Data Sovereignty Doctrine|Data Sovereignty Doctrine]]"
-  - "[[Alice Identity Doctrine|Alice Identity Doctrine]]"
-  - "[[EVO Book - Manuscript Map|EVO Book - Manuscript Map]]"
-  - "[[Talent Classes and Governance Boundaries|Talent Classes and Governance Boundaries]]"
-  - "[[MOC Protected Storage and Access Model|MOC Protected Storage and Access Model]]"
-  - "[[Protected Runtime Artifacts - Soul File Injection Model|Protected Runtime Artifacts - Soul File Injection Model]]"
-  - "[[EVO Cognition Layer|EVO Cognition Layer]]"
-Member Of Concept Cluster: []
-Imported: false
-Tags: []
-Drive Sync Status: Synced
-Source: Chat
-Domain: Core Platform
-Status: Active
-Last Updated: 2026-04-25T14:09:00
-lifecycle_status: implemented
-implementation_status: complete
-implementation_percent: 100
-domain_lifecycle: ai
-canonical: true
-gitnexus_verified: false
-last_reviewed: 2026-05-12
+title: "Delegator — Execution Governance Doctrine"
+type: doctrine
+tags: ['lsctech', 'doctrine', 'source-material', 'evo']
+updated: 2026-04-25
 ---
+
 ## Purpose
 
 Define the execution governance layer of the EVO ecosystem.

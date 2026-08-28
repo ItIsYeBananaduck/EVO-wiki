@@ -1,3 +1,10 @@
+---
+title: "Evoconnect — Adaptive Workspace Model"
+type: doctrine
+tags: ['lsctech', 'doctrine', 'source-material', 'evo']
+updated: 2026-08-24
+---
+
 ## Core Idea
 
 > The system adapts its structure to the user, not the other way around.

@@ -1,5 +1,8 @@
 ---
-type: index
+title: "implemented"
+type: spec
+tags: ['lsctech', 'spec', 'source-material', 'canonical', 'evo']
+updated: 2026-08-19
 ---
 
 <!-- polaris:draft -->

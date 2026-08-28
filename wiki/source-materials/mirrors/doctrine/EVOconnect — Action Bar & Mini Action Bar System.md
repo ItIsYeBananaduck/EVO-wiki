@@ -1,3 +1,10 @@
+---
+title: "EVOconnect — Action Bar & Mini Action Bar System (Raw Draft)"
+type: doctrine
+tags: ['lsctech', 'doctrine', 'source-material', 'evo']
+updated: 2026-08-19
+---
+
 # EVOconnect — Action Bar & Mini Action Bar System (Raw Draft)
 
 ## Purpose

@@ -1,3 +1,10 @@
+---
+title: "Section 1 — Vision & Philosophy"
+type: doctrine
+tags: ['lsctech', 'doctrine', 'source-material', 'evo']
+updated: 2026-08-24
+---
+
 ## Sections 1–10 — Conceptual Layer
 
 ---

@@ -1,3 +1,10 @@
+---
+title: "Moc — Awareness, Learning, And Privileged Execution"
+type: doctrine
+tags: ['lsctech', 'doctrine', 'source-material', 'evo']
+updated: 2026-08-24
+---
+
 ## Parent
 - [[MOC - EVOconnect (Modular OS Layer)]]
 ## Purpose

@@ -1,5 +1,8 @@
 ---
-type: audit-finding
+title: "EVOC-121 — Final Sanity Check Across Consolidated EVOfy Packet"
+type: audit
+tags: ['lsctech', 'audit', 'source-material', 'canonical', 'evo']
+updated: 2026-03-26
 ---
 
 > **Status: Implementation Artifact**

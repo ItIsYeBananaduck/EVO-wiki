@@ -1,16 +1,9 @@
 ---
-tags:
-  - concept/alice
-  - concept/interaction
-  - concept/proactivity
-  - concept/connect
-  - concept/ux
-  - type/concept
-  - type/spec
-status: active
-source_of_truth: true
+title: "Evoconnect — Alice Proactivity Model"
+type: doctrine
+tags: ['lsctech', 'doctrine', 'source-material', 'evo']
+updated: 2026-08-24
 ---
-
 
 ---
 

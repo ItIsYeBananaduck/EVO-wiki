@@ -588,3 +588,945 @@ Rules:
 | `EVO Connect Product Architecture.md` | EVO Connect Product Architecture | `EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVO Connect Product Architecture.md` | 2026-07-24 | active |
 | `EVO Vault Architecture.md` | EVO Vault Architecture | `EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVO Vault Architecture.md` | 2026-07-24 | active |
 | `EVO and the Time Returned Thesis.md` | EVO and the Time Returned Thesis | `EVO/smartdocs/raw/deprecated/doctrine-unmatched/EVO and the Time Returned Thesis.md` | 2026-07-24 | active |
+
+---
+
+##  Moc   Alice
+
+- [[ADR-002 - Authority Separation Doctrine (Alice vs EVE).md|ADR-002 - Authority Separation Doctrine (Alice vs EVE)]]
+- [[ALICE_ARCHITECTURE_REPORT.md|ALICE_ARCHITECTURE_REPORT]]
+- [[ALICE_AVATAR_USAGE_AUDIT.md|ALICE_AVATAR_USAGE_AUDIT]]
+- [[ALICE_CAPABILITIES_ACTIONS_IMPLEMENTATION.md|ALICE_CAPABILITIES_ACTIONS_IMPLEMENTATION]]
+- [[ALICE_DESKTOP_INTEGRATION.md|ALICE_DESKTOP_INTEGRATION]]
+- [[ALICE_SYSTEM_PROMPTS.md|ALICE_SYSTEM_PROMPTS]]
+- [[ALICE_TTS_UX_ISSUES.md|ALICE_TTS_UX_ISSUES]]
+- [[ALICE_V2_NAMING_STRATEGY.md|ALICE_V2_NAMING_STRATEGY]]
+- [[Alice Visibility Rules.md|Alice Visibility Rules]]
+- [[Book Draft — Part II Alice Is Not an Assistant.md|Book Draft — Part II Alice Is Not an Assistant]]
+- [[EVO — Alice Long-Term Memory Recall Architecture.md|EVO — Alice Long-Term Memory Recall Architecture]]
+- [[EVOconnect Alice Proactivity Model.md|EVOconnect Alice Proactivity Model]]
+- [[EVOconnect — Alice Workspace Presence.md|EVOconnect — Alice Workspace Presence]]
+- [[TeacherAlice-Export-Contract.md|TeacherAlice-Export-Contract]]
+- [[TeacherAlice-Training-Loop.md|TeacherAlice-Training-Loop]]
+- [[alice-hosting-anchor-runtime.md|alice-hosting-anchor-runtime]]
+- [[alice-hosting-governance-map.md|alice-hosting-governance-map]]
+- [[alice-hosting-privileged-broker.md|alice-hosting-privileged-broker]]
+- [[alice-hosting-user-profile-isolation.md|alice-hosting-user-profile-isolation]]
+- [[alice-hosting-v1-strategy.md|alice-hosting-v1-strategy]]
+
+## Architecture Doctrine Map
+
+# Architecture Doctrine Map
+
+Map of Content for architecture-related EVO doctrine.
+
+## Files
+
+- [[2026-05-16-evo-doc-architecture-redesign.md|2026-05-16-evo-doc-architecture-redesign]]
+- [[AI_SYSTEM_DOCUMENTATION.md|AI_SYSTEM_DOCUMENTATION]]
+- [[ANTHROPIC_SKILLS_VS_CURRENT_SYSTEM.md|ANTHROPIC_SKILLS_VS_CURRENT_SYSTEM]]
+- [[ARCHITECTURE_CLARIFICATION.md|ARCHITECTURE_CLARIFICATION]]
+- [[CAPABILITY_SYSTEMS_EXPLAINED.md|CAPABILITY_SYSTEMS_EXPLAINED]]
+- [[CAPTURE_SYSTEM_CRASH_LOGS.md|CAPTURE_SYSTEM_CRASH_LOGS]]
+- [[Classroom-Architecture.md|Classroom-Architecture]]
+- [[Companion-Oriented AI Systems.md|Companion-Oriented AI Systems]]
+- [[Conversational System Specification.md|Conversational System Specification]]
+- [[EVO Vault Architecture.md|EVO Vault Architecture]]
+- [[EVO — Pane Pack Architecture.md|EVO — Pane Pack Architecture (Raw Draft)]]
+- [[EVO — Safety Layer Architecture.md|EVO — Safety Layer Architecture]]
+- [[EVO — Shared Embedding System.md|EVO — Shared Embedding System]]
+- [[EVO — System Index.md|EVO — System Index]]
+- [[EVOmind_Echo_Compiler_Architecture.md|EVOmind_Echo_Compiler_Architecture]]
+- [[EVOterminal - Core Design.md|EVOterminal - Core Design]]
+- [[Echo_2_Architecture.md|Echo_2_Architecture]]
+- [[Echo_Deep_Architecture_Spec.md|Echo_Deep_Architecture_Spec]]
+- [[Echo_System_Spec.md|Echo_System_Spec]]
+- [[FIX_ENF_ARCHITECTURE.md|FIX_ENF_ARCHITECTURE]]
+- [[GATING_SYSTEM_INTEGRATION.md|GATING_SYSTEM_INTEGRATION]]
+- [[MOC — EVO Cross-App UI System.md|MOC — EVO Cross-App UI System]]
+- [[MOC-Behavioral-Architecture.md|MOC-Behavioral-Architecture]]
+- [[MUSIC_PLAYER_FEEDBACK_SYSTEM.md|MUSIC_PLAYER_FEEDBACK_SYSTEM]]
+- [[Main Device Designation.md|Main Device Designation]]
+- [[Milestone-Architecture.md|Milestone-Architecture]]
+- [[Model Storage Architecture — R2.md|Model Storage Architecture — R2]]
+- [[Scratch → Living Note Promotion System.md|Scratch → Living Note Promotion System]]
+- [[Signal-Architecture.md|Signal-Architecture]]
+- [[User Journal System.md|User Journal System]]
+- [[Visual-Evolution-System.md|Visual-Evolution-System]]
+- [[Why EVO Notes System Exists.md|Why EVO Notes System Exists]]
+- [[Work Journal System.md|Work Journal System]]
+- [[_MOC - Architecture.md|Architecture Doctrine Map]]
+- [[evo-architecture-bible.md|EVO Architecture Bible]]
+- [[polaris-run-state-architecture.md|polaris-run-state-architecture]]
+
+## Coaching Doctrine Map
+
+# Coaching Doctrine Map
+
+Map of Content for coaching-related EVO doctrine.
+
+## Files
+
+- [[Exercise-End Intensity Scoring.md|Exercise-End Intensity Scoring]]
+- [[SPEC-monday-workout-integration.md|SPEC-monday-workout-integration]]
+- [[Workout Session Intelligence MOC.md|Workout Session Intelligence MOC]]
+- [[Workout-End Summary Card.md|Workout-End Summary Card]]
+- [[_MOC - Coaching.md|Coaching Doctrine Map]]
+
+## Communication Doctrine Map
+
+# Communication Doctrine Map
+
+Map of Content for communication-related EVO doctrine.
+
+## Files
+
+- [[Communication Modes - Teacher Boundary Model.md|Communication Modes - Teacher Boundary Model]]
+- [[Communication Timing Policy.md|Communication Timing Policy]]
+- [[Escalation + Unlock Flow.md|Escalation + Unlock Flow]]
+- [[Escalation - Consent Requirement.md|Escalation - Consent Requirement]]
+- [[Escalation - Encrypted Teacher Student Chat.md|Escalation - Encrypted Teacher Student Chat]]
+- [[Escalation - Finality Policy.md|Escalation - Finality Policy]]
+- [[Escalation - Multi Concept Priority Logic.md|Escalation - Multi Concept Priority Logic]]
+- [[Escalation - RePrompt Logic.md|Escalation - RePrompt Logic]]
+- [[Escalation Criteria Threshold Logic.md|Escalation Criteria Threshold Logic]]
+- [[Escalation Packet.md|Escalation Packet]]
+- [[Escalation Triggers.md|Escalation Triggers]]
+- [[Identity Model - Rolling IDs + Escalation Tickets.md|Identity Model - Rolling IDs + Escalation Tickets]]
+- [[TA-SA - Communication Protocol.md|TA-SA - Communication Protocol]]
+- [[Tone Follows Context.md|Tone Follows Context]]
+- [[Tone-Doctrine.md|Tone-Doctrine]]
+- [[Tone-Guardrails.md|Tone-Guardrails]]
+- [[_MOC - Communication.md|Communication Doctrine Map]]
+
+## Data Doctrine Map
+
+# Data Doctrine Map
+
+Map of Content for data-related EVO doctrine.
+
+## Files
+
+- [[CAPABILITY_MAP_STORAGE_ANALYSIS.md|CAPABILITY_MAP_STORAGE_ANALYSIS]]
+- [[DOCS_SYNC_PLAN.md|DOCS_SYNC_PLAN]]
+- [[Data Sovereignty Doctrine.md|Data Sovereignty Doctrine]]
+- [[Data-Channels.md|Data-Channels]]
+- [[ENF_DATASET_REPORT.md|ENF_DATASET_REPORT]]
+- [[EVO Sync Core Package Spec.md|EVO Sync Core Package Spec]]
+- [[Lesson-Pack-Sync.md|Lesson-Pack-Sync]]
+- [[_MOC - Data.md|Data Doctrine Map]]
+
+## Delegation Doctrine Map
+
+# Delegation Doctrine Map
+
+Map of Content for delegation-related EVO doctrine.
+
+## Files
+
+- [[Delegator Doctrine Execution Authority.md|Delegator Doctrine Execution Authority]]
+- [[Delegator Tool Hostage Rule.md|Delegator Tool Hostage Rule]]
+- [[Delegator — Execution Governance Doctrine.md|Delegator — Execution Governance Doctrine]]
+- [[_MOC - Delegation.md|Delegation Doctrine Map]]
+
+## EVE Doctrine Map
+
+# EVE Doctrine Map
+
+Map of Content for eve-related EVO doctrine.
+
+## Files
+
+- [[District EVE Architecture.md|District EVE Architecture]]
+- [[EVE - Allowed Task Types.md|EVE - Allowed Task Types]]
+- [[EVE - LoRA Strategy (Generic vs Starter).md|EVE - LoRA Strategy (Generic vs Starter)]]
+- [[EVE - Metrics Ingestion Layer.md|EVE - Metrics Ingestion Layer]]
+- [[EVE - Procedural Execution Model.md|EVE - Procedural Execution Model]]
+- [[EVE - Procedure Governance.md|EVE - Procedure Governance]]
+- [[EVE - Procedures as Task Graphs.md|EVE - Procedures as Task Graphs]]
+- [[EVE Audit & Traceability Model.md|EVE Audit & Traceability Model]]
+- [[EVE Governance MOC.md|EVE Governance MOC]]
+- [[EVE Policy Enforcement Model.md|EVE Policy Enforcement Model]]
+- [[EVE Procedure Override Model.md|EVE Procedure Override Model]]
+- [[EVE Procedures - Scheduling + Report Requests.md|EVE Procedures - Scheduling + Report Requests]]
+- [[EVE Safety Constraint Model.md|EVE Safety Constraint Model]]
+- [[Method Shift Event Schema.md|Method Shift Event Schema]]
+- [[Reporting Pipeline - Lowest Level to District.md|Reporting Pipeline - Lowest Level to District]]
+- [[Schema - Cohort Summary (Level 1).md|Schema - Cohort Summary (Level 1)]]
+- [[Schema - Progress Report (Level 0).md|Schema - Progress Report (Level 0)]]
+- [[School EVE Architecture.md|School EVE Architecture]]
+- [[_MOC - EVE Governance.md|_MOC - EVE Governance]]
+- [[_MOC - EVE.md|EVE Doctrine Map]]
+
+## EVOconnect Doctrine Map
+
+# EVOconnect Doctrine Map
+
+Map of Content for evoconnect-related EVO doctrine.
+
+## Files
+
+- [[Connect - Control Panel & Tools.md|Connect - Control Panel & Tools]]
+- [[Connect - Delegator & Governance.md|Connect - Delegator & Governance]]
+- [[Connect - Failure States & Resilience.md|Connect - Failure States & Resilience]]
+- [[Connect - Free vs Pro Architecture.md|Connect - Free vs Pro Architecture]]
+- [[Connect - Mesh Integration.md|Connect - Mesh Integration]]
+- [[Connect - UI Layer (Desktop).md|Connect - UI Layer (Desktop)]]
+- [[Connect - UI Layer (Mobile).md|Connect - UI Layer (Mobile)]]
+- [[Connect Hive Architecture.md|Connect Hive Architecture]]
+- [[Connect Notes System.md|Connect Notes System]]
+- [[Connect Philosophy.md|Connect Philosophy]]
+- [[Connect Product Thesis.md|Connect Product Thesis]]
+- [[Connect Security & Privacy Model.md|Connect Security & Privacy Model]]
+- [[Connect Swarm Architecture.md|Connect Swarm Architecture]]
+- [[Connect Task System.md|Connect Task System]]
+- [[Connect — Hive v1 Protocol + Sequential Child Execution.md|Connect — Hive v1 Protocol + Sequential Child Execution]]
+- [[EVO Connect Product Architecture.md|EVO Connect Product Architecture]]
+- [[EVOconnect Adaptive Workspace Model.md|EVOconnect Adaptive Workspace Model]]
+- [[EVOconnect Awareness vs Learning Boundary + Privileged Execution.md|EVOconnect Awareness vs Learning Boundary + Privileged Execution]]
+- [[EVOconnect Browser & Terminal Execution Model.md|EVOconnect Browser & Terminal Execution Model]]
+- [[EVOconnect Business Safety Guarantees.md|EVOconnect Business Safety Guarantees]]
+- [[EVOconnect Canonical Definition.md|EVOconnect Canonical Definition]]
+- [[EVOconnect Delegator & Governance Model.md|EVOconnect Delegator & Governance Model]]
+- [[EVOconnect Execution Model.md|EVOconnect Execution Model]]
+- [[EVOconnect External Agent Governance Model.md|EVOconnect External Agent Governance Model]]
+- [[EVOconnect Method Specification Model.md|EVOconnect Method Specification Model]]
+- [[EVOconnect Plugin Model.md|EVOconnect Plugin Model]]
+- [[EVOconnect Runtime Model.md|EVOconnect Runtime Model]]
+- [[EVOconnect System Map.md|EVOconnect System Map]]
+- [[EVOconnect Talent Model.md|EVOconnect Talent Model]]
+- [[EVOconnect Task Manager as Agent Supervision Layer.md|EVOconnect Task Manager as Agent Supervision Layer]]
+- [[EVOconnect Tool Abstraction & Outcome-Oriented Computing.md|EVOconnect Tool Abstraction & Outcome-Oriented Computing]]
+- [[EVOconnect Vault Model.md|EVOconnect Vault Model]]
+- [[EVOconnect — Action Bar & Mini Action Bar System.md|EVOconnect — Action Bar & Mini Action Bar System]]
+- [[EVOconnect — Coach Pane Pack Contract.md|EVOconnect — Coach Pane Pack Contract]]
+- [[EVOconnect — Connect Library & Unified Access Layer.md|EVOconnect — Connect Library & Unified Access Layer (Raw Draft)]]
+- [[EVOconnect — Connect Library and Bunker Visibility Model.md|EVOconnect — Connect Library and Bunker Visibility Model]]
+- [[EVOconnect — Delegator Talent Verification Doctrine.md|EVOconnect — Delegator Talent Verification Doctrine]]
+- [[EVOconnect — EVOcode Philosophy.md|EVOconnect — EVOcode Philosophy]]
+- [[EVOconnect — Hive Node Architecture.md|EVOconnect — Hive Node Architecture (Raw Draft)]]
+- [[EVOconnect — Lightweight Talent Structure Addendum.md|EVOconnect — Lightweight Talent Structure Addendum]]
+- [[EVOconnect — Method Reconstruction Model.md|Purpose]]
+- [[EVOconnect — Mobile Operational Continuity.md|EVOconnect — Mobile Operational Continuity (Raw Draft)]]
+- [[EVOconnect — Mobile Operational Philosophy.md|EVOconnect — Mobile Operational Philosophy (Raw Draft)]]
+- [[EVOconnect — Modes.md|EVOconnect — Modes]]
+- [[EVOconnect — Observable Tool Surface Model.md|Purpose]]
+- [[EVOconnect — Pane & View System.md|EVOconnect — Pane & View System]]
+- [[EVOconnect — Placement of EVOterminal, EVObrowser, and EVOvault.md|EVOconnect — Placement of EVOterminal, EVObrowser, and EVOvault]]
+- [[EVOconnect — Plugin Model (Capabilities, Connectors, and User File Access).md|EVOconnect — Plugin Model (Capabilities, Connectors, and User File Access)]]
+- [[EVOconnect — Scoped Desktop Control Adapter and Bunker File Access.md|Purpose]]
+- [[EVOconnect — Skill Import and Conversion Doctrine.md|EVOconnect — Skill Import and Conversion Doctrine]]
+- [[EVOconnect — Smart Comments & Interactive Inference.md|EVOconnect — Smart Comments & Interactive Inference (Raw Draft)]]
+- [[EVOconnect — Spaces.md|EVOconnect — Spaces]]
+- [[EVOconnect — Stress-Based Intervention Behavior.md|Purpose]]
+- [[EVOconnect — Talent Backlink Navigation Doctrine.md|EVOconnect — Talent Backlink Navigation Doctrine]]
+- [[EVOconnect — Third-Party Workspace Integration.md|EVOconnect — Third-Party Workspace Integration (Raw Draft)]]
+- [[EVOconnect — Tool Surface & Execution Model.md|Purpose]]
+- [[EVOconnect — Workspace Architecture.md|EVOconnect — Workspace Architecture (Raw Draft v2)]]
+- [[EVOconnect — Workspace Resource Orchestration.md|EVOconnect — Workspace Resource Orchestration (Raw Draft)]]
+- [[GET_LOGS_VIA_APPCONNECT.md|GET_LOGS_VIA_APPCONNECT]]
+- [[Human-Connection-Doctrine.md|Human-Connection-Doctrine]]
+- [[Living Notes — Connect Knowledge System.md|Living Notes — Connect Knowledge System]]
+- [[MOC EVOconnect — Agent System.md|MOC EVOconnect — Agent System]]
+- [[MOC EVOconnect — Cognitive & Execution Model.md|MOC EVOconnect — Cognitive & Execution Model]]
+- [[MOC EVOconnect — Delegator.md|MOC EVOconnect — Delegator]]
+- [[MOC EVOconnect — Environment Integrations.md|MOC EVOconnect — Environment Integrations]]
+- [[MOC EVOconnect — Escalation & Delegation.md|MOC EVOconnect — Escalation & Delegation]]
+- [[MOC EVOconnect — Inference & Execution.md|MOC EVOconnect — Inference & Execution]]
+- [[MOC EVOconnect — Methods & Talents.md|MOC EVOconnect — Methods & Talents]]
+- [[MOC EVOconnect — Task Lifecycle.md|MOC EVOconnect — Task Lifecycle]]
+- [[MOC EVOconnect.md|MOC EVOconnect]]
+- [[MOC — Connect — EVOterminal & Environment Integrations.md|MOC — Connect — EVOterminal & Environment Integrations]]
+- [[Note Lifecycle — Connect.md|Note Lifecycle — Connect]]
+- [[Slash Command System (Connect).md|Slash Command System (Connect)]]
+- [[_MOC - EVOconnect.md|EVOconnect Doctrine Map]]
+- [[evoconnect-approval-model.md|EVOconnect — Execution Surface Selection & Approval Model]]
+- [[evoconnect-delegator-talent-verification-doctrine.md|evoconnect-delegator-talent-verification-doctrine]]
+- [[evoconnect-system-map.md|EVOconnect — System Map]]
+- [[evoconnect-talent-backlink-navigation-doctrine.md|evoconnect-talent-backlink-navigation-doctrine]]
+
+## Execution Doctrine Map
+
+# Execution Doctrine Map
+
+Map of Content for execution-related EVO doctrine.
+
+## Files
+
+- [[Execution Lease Rule.md|Execution Lease Rule]]
+- [[Privileged Execution Model.md|Privileged Execution Model]]
+- [[Procedure Scheduling Model.md|Procedure Scheduling Model]]
+- [[Protected Runtime Artifact and Privileged Loader Model.md|Protected Runtime Artifact and Privileged Loader Model]]
+- [[Soul Compiler and Protected Runtime Loader Model.md|Soul Compiler and Protected Runtime Loader Model]]
+- [[_MOC - Execution.md|Execution Doctrine Map]]
+
+## Governance Doctrine Map
+
+# Governance Doctrine Map
+
+Map of Content for governance-related EVO doctrine.
+
+## Files
+
+- [[2026-07-06-docs-promotion-authority-model.md|2026-07-06-docs-promotion-authority-model]]
+- [[Authority vs Influence.md|Authority vs Influence]]
+- [[Domain Authority map.md|Domain Authority map]]
+- [[_MOC - Governance.md|Governance Doctrine Map]]
+- [[_MOC - Kids Governance.md.md|_MOC - Kids Governance.md]]
+- [[authority-governance-map.md|Governance & Authority Map]]
+
+## Hive Doctrine Map
+
+# Hive Doctrine Map
+
+Map of Content for hive-related EVO doctrine.
+
+## Files
+
+- [[Desktop Orchestration via Hive.md|Desktop Orchestration via Hive]]
+- [[HIVE_IMPLEMENTATION_SPEC.md|HIVE_IMPLEMENTATION_SPEC]]
+- [[Hive Bid Protocol.md|Hive Bid Protocol]]
+- [[Hive Bid Scoring Rule.md|Hive Bid Scoring Rule]]
+- [[Hive Bid UI.md|Hive Bid UI]]
+- [[Hive Capability Advertisement.md|Hive Capability Advertisement]]
+- [[Hive Definition.md|Hive Definition]]
+- [[Hive Delegated Work Ticket.md|Hive Delegated Work Ticket]]
+- [[Hive Delegation Safety Rule.md|Hive Delegation Safety Rule]]
+- [[Hive Device Presence Icons.md|Hive Device Presence Icons]]
+- [[Hive Icon Status Mapping.md|Hive Icon Status Mapping]]
+- [[Hive Log Sync.md|Hive Log Sync]]
+- [[Hive Packaging + Supabase Extraction Plan.md|Hive Packaging + Supabase Extraction Plan]]
+- [[Hive Pairing Trust Model.md|Hive Pairing Trust Model]]
+- [[Hive Presence, Reachability, and Opportunistic Execution.md|Hive Presence, Reachability, and Opportunistic Execution]]
+- [[Hive Prompt Broadcast.md|Hive Prompt Broadcast]]
+- [[Hive Read-Only Members.md|Hive Read-Only Members]]
+- [[Hive Security Settings Maintenance Mode.md|Hive Security Settings Maintenance Mode]]
+- [[Hive Shared State Backbone.md|Hive Shared State Backbone]]
+- [[README_ARCHIVE.md|README_ARCHIVE]]
+- [[XCODE_ARCHIVE_STEPS.md|XCODE_ARCHIVE_STEPS]]
+- [[_MOC - Hive.md|Hive Doctrine Map]]
+
+- [[Hive (Multi-Device Alice) MOC.md|Hive (Multi-Device Alice) MOC]]
+
+## Inference Doctrine Map
+
+# Inference Doctrine Map
+
+Map of Content for inference-related EVO doctrine.
+
+## Files
+
+- [[ADR_LLAMA_INFERENCE_FIXES.md|ADR_LLAMA_INFERENCE_FIXES]]
+- [[ADR_LLAMA_INFERENCE_OPTIMIZATION.md|ADR_LLAMA_INFERENCE_OPTIMIZATION]]
+- [[BACKGROUND_MODEL_UPDATES.md|BACKGROUND_MODEL_UPDATES]]
+- [[Background Inference Rules.md|Background Inference Rules]]
+- [[Bunker Access Session Model.md|Bunker Access Session Model]]
+- [[Bunker Onboarding and First-Run Trust Model.md|Bunker Onboarding and First-Run Trust Model]]
+- [[CACHE_ISSUE_FIX.md|CACHE_ISSUE_FIX]]
+- [[CAPABILITY_MAP_INFERENCE_OPTIMIZATION.md|CAPABILITY_MAP_INFERENCE_OPTIMIZATION]]
+- [[Concept Cluster Analysis Trigger Model.md|Concept Cluster Analysis Trigger Model]]
+- [[Control-Model.md|Control-Model]]
+- [[EVO Blind Zone - .evo_env Protected Workspace Model.md|EVO Blind Zone - .evo_env Protected Workspace Model]]
+- [[EVO Unified Storage Zones and Sync Model.md|EVO Unified Storage Zones and Sync Model]]
+- [[EVOTRA-95-e2ee-trust-model-verification.md|EVOTRA-95-e2ee-trust-model-verification]]
+- [[EVOmind — Signal Model.md|EVOmind — Signal Model]]
+- [[Energy-Aware Inference.md|Energy-Aware Inference]]
+- [[INFERENCE_CONFIG_REFACTOR_PLAN.md|INFERENCE_CONFIG_REFACTOR_PLAN]]
+- [[INFERENCE_CONFIG_REFACTOR_SUMMARY.md|INFERENCE_CONFIG_REFACTOR_SUMMARY]]
+- [[INFERENCE_PERFORMANCE_ANALYSIS.md|INFERENCE_PERFORMANCE_ANALYSIS]]
+- [[INFERENCE_PERFORMANCE_FIXES_APPLIED.md|INFERENCE_PERFORMANCE_FIXES_APPLIED]]
+- [[INFERENCE_SPEED_ANALYSIS.md|INFERENCE_SPEED_ANALYSIS]]
+- [[LLAMA_KV_CACHE_FIX.md|LLAMA_KV_CACHE_FIX]]
+- [[Live Activity Inference.md|Live Activity Inference]]
+- [[MOBILE_MODEL_EFFICIENCY_ANALYSIS.md|MOBILE_MODEL_EFFICIENCY_ANALYSIS]]
+- [[MOC Protected Storage and Access Model.md|MOC Protected Storage and Access Model]]
+- [[MODEL_DELIVERY.md|MODEL_DELIVERY]]
+- [[MODEL_DOWNLOAD_FLOW.md|MODEL_DOWNLOAD_FLOW]]
+- [[Monetization Model.md|Monetization Model]]
+- [[Predictive-Regulation-Model.md|Predictive-Regulation-Model]]
+- [[Protection Classification and Inheritance Model.md|Protection Classification and Inheritance Model]]
+- [[Set-End Micro-Inference.md|Set-End Micro-Inference]]
+- [[Swarm (Parallel Inference) MOC.md|Swarm (Parallel Inference) MOC]]
+- [[Swarm Parallel Inference.md|Swarm Parallel Inference]]
+- [[Workout-End Inference Budget.md|Workout-End Inference Budget]]
+- [[_MOC - Inference.md|Inference Doctrine Map]]
+- [[model-id-client.md|model-id-client]]
+
+## _MOC - Learn Architecture
+
+# _MOC - Learn Architecture
+EVOlearn – Architecture MOC
+EVOlearn is the final phase of Alice’s growth. It represents the domain where Alice must prove retrieval accuracy, context awareness, structured reasoning, and governance alignment.
+Learn is not agentic. It is structured, retrieval-first, privacy-preserving, and institution-compatible.
+
+Core Philosophy
+Learning is never gated for children.
+Escalation is effort-based, not error-based.
+Reporting is statistically neutral.
+Identity is never centrally mapped.
+Teachers maintain authority.
+Alice supports first; humans intervene second.
+EVE verifies efficiency, not individuals.
+
+System Overview
+EVOlearn consists of:
+Student Architecture (SA)
+Teacher Architecture (TA + TL)
+Escalation System
+Reporting Pipeline (SA → TA → SE → DE → EVE)
+Privacy + Identity Model
+Communication Model
+Template System
+EVE Integration (School + District)
+Procedures (Administrative Overrides)
+
+1️⃣ Student Architecture (SA)
+Student Alice is user-aligned. She adapts learning methods but must abide by lesson constraints.
+See: - [[NOTION_PAGE:2ad3446e-29ba-4071-aac6-f0f2df7c56c6]] - [[NOTION_PAGE:82fbacee-1a14-4792-8cad-eb80f660bccc]] - [[NOTION_PAGE:4295b983-5657-4b6e-9528-83d62360aa9e]] - [[NOTION_PAGE:7e06218f-50fd-437d-9567-47499f99dcbc]] - [[NOTION_PAGE:da3b1ed4-d883-42f1-9e08-a6e9909b2a5c]]
+
+2️⃣ Teacher Architecture (TA + TL)
+Teacher Alice is structurally aligned. She loads TL (Teacher LoRA) and must report to EVE.
+See: - [[NOTION_PAGE:7204070c-d778-4ce0-83ac-02b3853c27b9]] - [[NOTION_PAGE:265fa4c2-b130-434f-9299-6ea9fc19556f]] - [[NOTION_PAGE:"[[Escalation - Encrypted Teacher Student Chat|Escalation - Encrypted Teacher Student Chat]]"]] - [[NOTION_PAGE:16538189-ad5f-4313-98b7-de9805ecf8b7]]
+
+3️⃣ Escalation System
+Escalation is:
+Effort-based
+Consent-required
+Non-punitive
+Priority-classified
+Pattern-aware
+Boundary-respecting
+See: - [[NOTION_PAGE:"[[Escalation Criteria Threshold Logic|Escalation Criteria Threshold Logic]]"]] - Escalation - Consent Requirement - [[NOTION_PAGE:"[[Escalation - Finality Policy|Escalation - Finality Policy]]"]] - Escalation - RePrompt Logic - Escalation - Multi Concept Priority Logic - [[NOTION_PAGE:"[[Communication Timing Policy|Communication Timing Policy]]"]] - [[NOTION_PAGE:"[[Communication Modes - Teacher Boundary Model|Communication Modes - Teacher Boundary Model]]"]]
+
+4️⃣ Reporting Pipeline
+Reporting flows upward through structured aggregation only.
+Level 0 → Student App Level 1 → TA Aggregation Level 2 → School EVE (SE) Level 3 → District EVE (DE)
+See: - [[Reporting Pipeline - Lowest Level to District]] - Schema - Progress Report (Level 0) - Schema - Cohort Summary (Level 1) - [[Reporting Cadence]] - [[Reporting - Statistical Neutrality]] - [[EVE Procedure Override Model]]
+
+5️⃣ Privacy + Identity Model
+No centralized mapping. No persistent identity linkage. Escalation channel separate from telemetry.
+See: - Identity Model - Rolling IDs + Escalation Tickets - Aggregation Threshold Safeguards - No Mapping Key Principle - Anti-Reidentification Safeguards
+
+6️⃣ Communication Model
+Two planes: - Metrics Plane (anonymous) - Support Plane (encrypted chat)
+Modes: - Open Channel (optional) - AI-Gated Channel (default)
+See: - [[NOTION_PAGE:"[[Escalation - Encrypted Teacher Student Chat|Escalation - Encrypted Teacher Student Chat]]"]] - [[NOTION_PAGE:"[[Escalation - Encrypted Teacher Student Chat|Escalation - Encrypted Teacher Student Chat]]"]] - [[NOTION_PAGE:"[[Communication Modes - Teacher Boundary Model|Communication Modes - Teacher Boundary Model]]"]] - [[NOTION_PAGE:"[[Communication Timing Policy|Communication Timing Policy]]"]]
+
+7️⃣ Template System
+Templates define learning methods, not actions.
+Templates: - Are approved - Are moderated - May be unlocked by teachers - Influence adaptation strategy - Do not create identity linkage
+See: - Template Architecture - [[NOTION_PAGE:16538189-ad5f-4313-98b7-de9805ecf8b7]] - Global Student LoRA (GSL) - Global Teacher LoRA (GTL) - Teacher LoRA (TL)
+
+8️⃣ EVE Integration
+EVE = Efficiency Verification Engine
+Levels: - TA (class level aggregation) - SE (school-level EVE) - DE (district-level EVE)
+EVE: - Executes Procedures - Aggregates metrics - Does not audit individuals - Does not know student identity - Operates locally on institutional servers
+See: - [[EVE - Procedural Execution Model]] - [[EVE - Procedures as Task Graphs]] - [[EVE - Procedure Governance]] - EVE - Allowed Task Types - [[School EVE Architecture]] - [[District EVE Architecture]]
+
+9️⃣ Procedures (Administrative Overrides)
+Procedures define: - Report frequency - Scope - Grouping - Threshold triggers - Deep dive rules
+Procedures do not: - Change raw schema - Override privacy safeguards - Expose identity
+See: - [[EVE Procedure Override Model]] - [[Procedure Scheduling Model]] - [[Administrative Reporting Controls]]
+
+Operational Lifecycle (Learn)
+Homework → Micro Lesson → Template Adaptation → Retention Probe → Stall Detection → Consent-Based Escalation → Teacher Intervention → Reporting Cycle Aggregation → EVE Efficiency Analysis
+
+Learn as Final Stage of Alice
+Training → Alice learns adaptation. Mind → Alice learns context + subjectivity. Hub → Alice learns structured execution. Learn → Alice must retrieve accurately, reason structurally, and respect governance.
+Learn removes training wheels. Not guardrails.
+
+Status
+EVOlearn is:
+Privacy-first
+Institution-compatible
+Structured
+Governance-aware
+Statistically neutral
+Escalation-safe
+Boundary-respecting
+Retrieval-first
+It is the educational operating system layer of EVO.
+
+## Related
+
+^[source-materials/mirrors/doctrine/_MOC - Learn Architecture.md]
+
+## Learn Doctrine Map
+
+# Learn Doctrine Map
+
+Map of Content for learn-related EVO doctrine.
+
+## Files
+
+- [[ADR-001 - Dual Metric Learning Doctrine.md|ADR-001 - Dual Metric Learning Doctrine]]
+- [[Awareness vs Learning Boundary.md|Awareness vs Learning Boundary]]
+- [[EVOlearn - System Map.md|EVOlearn - System Map]]
+- [[EVOlearn Adaptive Learning Model.md|EVOlearn Adaptive Learning Model]]
+- [[EVOlearn Content Adaptation Strategy.md|EVOlearn Content Adaptation Strategy]]
+- [[EVOlearn Difficulty Scaling Logic.md|EVOlearn Difficulty Scaling Logic]]
+- [[EVOlearn Learning Feedback System.md|EVOlearn Learning Feedback System]]
+- [[EVOlearn Lesson Execution Flow.md|EVOlearn Lesson Execution Flow]]
+- [[EVOlearn MOC.md|EVOlearn MOC]]
+- [[EVOlearn Onboarding Flow.md|EVOlearn Onboarding Flow]]
+- [[EVOlearn Retention & Recall Loop.md|EVOlearn Retention & Recall Loop]]
+- [[Learn - Guardian Management Controls.md|Learn - Guardian Management Controls]]
+- [[Learn - Ingestion Pipeline + Source Map.md|Learn - Ingestion Pipeline + Source Map]]
+- [[Learn - Kids Restricted Topics.md|Learn - Kids Restricted Topics]]
+- [[Learn - Optional Tutor Link.md|Learn - Optional Tutor Link]]
+- [[Learn - Policy Profiles (Adult vs Kids).md|Learn - Policy Profiles (Adult vs Kids)]]
+- [[Learn Pro - Domain Styles.md|Learn Pro - Domain Styles]]
+- [[Learn Pro - Mesh Integration.md|Learn Pro - Mesh Integration]]
+- [[Learn Pro - Philosophy.md|Learn Pro - Philosophy]]
+- [[Learn Pro - Risk & Governance.md|Learn Pro - Risk & Governance]]
+- [[Learn Pro - Timeline & Snapshot System.md|Learn Pro - Timeline & Snapshot System]]
+- [[Learn Pro - UX Language.md|Learn Pro - UX Language]]
+- [[Learn Pro - Workshop Flow.md|Learn Pro - Workshop Flow]]
+- [[Learn-Routing-Rules.md|Learn-Routing-Rules]]
+- [[Learn-Signal-Architecture.md|Learn-Signal-Architecture]]
+- [[MOC - Learn Pro (Collaborative Style Workshop).md|MOC - Learn Pro (Collaborative Style Workshop)]]
+- [[MOC — Awareness, Learning, and Privileged Execution.md|MOC — Awareness, Learning, and Privileged Execution]]
+- [[Why Learn Is Last.md|Why Learn Is Last]]
+- [[_EVOlearn Core Governance MOC.md|_EVOlearn Core Governance MOC]]
+- [[_MOC - Learn Architecture.md|_MOC - Learn Architecture]]
+- [[_MOC - Learn.md|Learn Doctrine Map]]
+
+## LoRA-Adapter Doctrine Map
+
+# LoRA-Adapter Doctrine Map
+
+Map of Content for lora-adapter-related EVO doctrine.
+
+## Files
+
+- [[ADAPTER_FIX_SUMMARY.md|ADAPTER_FIX_SUMMARY]]
+- [[ADAPTER_STATUS_AND_FIX.md|ADAPTER_STATUS_AND_FIX]]
+- [[Adapter Refinement Strategy.md|Adapter Refinement Strategy]]
+- [[EVO — Global Adapter Distribution Model.md|EVO — Global Adapter Distribution Model (Raw Draft)]]
+- [[EVOLORA_MESH_ARCHITECTURE.md|EVOLORA_MESH_ARCHITECTURE]]
+- [[EVOLoRA Mesh.md|EVOLoRA Mesh]]
+- [[EVOLoRA_Mesh_Adapter_Versioning_Strategy.md|EVOLoRA_Mesh_Adapter_Versioning_Strategy]]
+- [[EVOLoRA_Mesh_Android_Plan.md|EVOLoRA_Mesh_Android_Plan]]
+- [[EVOLoRA_Mesh_Compliance_Report.md|EVOLoRA_Mesh_Compliance_Report]]
+- [[EVOLoRA_Mesh_Conversion_Frequency.md|EVOLoRA_Mesh_Conversion_Frequency]]
+- [[EVOLoRA_Mesh_CoreML_LoRA_Verification.md|EVOLoRA_Mesh_CoreML_LoRA_Verification]]
+- [[EVOLoRA_Mesh_Dual_Model_Format_Plan.md|EVOLoRA_Mesh_Dual_Model_Format_Plan]]
+- [[EVOLoRA_Mesh_Dynamic_Update_Solution.md|EVOLoRA_Mesh_Dynamic_Update_Solution]]
+- [[EVOLoRA_Mesh_Implementation_Plan.md|EVOLoRA_Mesh_Implementation_Plan]]
+- [[EVOLoRA_Mesh_Implementation_Status.md|EVOLoRA_Mesh_Implementation_Status]]
+- [[EVOLoRA_Mesh_LoRA_Format_Issue.md|EVOLoRA_Mesh_LoRA_Format_Issue]]
+- [[EVOLoRA_Mesh_MLX_Complete_Summary.md|EVOLoRA_Mesh_MLX_Complete_Summary]]
+- [[EVOLoRA_Mesh_MLX_CoreML_Integration.md|EVOLoRA_Mesh_MLX_CoreML_Integration]]
+- [[EVOLoRA_Mesh_MLX_Integration_Complete.md|EVOLoRA_Mesh_MLX_Integration_Complete]]
+- [[EVOLoRA_Mesh_MLX_Integration_Status.md|EVOLoRA_Mesh_MLX_Integration_Status]]
+- [[EVOLoRA_Mesh_MLX_Migration_Plan.md|EVOLoRA_Mesh_MLX_Migration_Plan]]
+- [[EVOLoRA_Mesh_MLX_Rollback_Strategy.md|EVOLoRA_Mesh_MLX_Rollback_Strategy]]
+- [[EVOLoRA_Mesh_MLX_Setup_Complete.md|EVOLoRA_Mesh_MLX_Setup_Complete]]
+- [[EVOLoRA_Mesh_Model_Conversion_Memory_Strategy.md|EVOLoRA_Mesh_Model_Conversion_Memory_Strategy]]
+- [[EVOLoRA_Mesh_Model_Conversion_Options.md|EVOLoRA_Mesh_Model_Conversion_Options]]
+- [[EVOLoRA_Mesh_Model_Format_Analysis.md|EVOLoRA_Mesh_Model_Format_Analysis]]
+- [[EVOLoRA_Mesh_Nightly_Update_Implementation.md|EVOLoRA_Mesh_Nightly_Update_Implementation]]
+- [[EVOLoRA_Mesh_OnDevice_Conversion_Plan.md|EVOLoRA_Mesh_OnDevice_Conversion_Plan]]
+- [[EVOLoRA_Mesh_Runtime_Evaluation.md|EVOLoRA_Mesh_Runtime_Evaluation]]
+- [[EVOmind — Adapter Behavior.md|EVOmind — Adapter Behavior]]
+- [[LoRA Artifact Sync.md|LoRA Artifact Sync]]
+- [[META_ADAPTER_FIX.md|META_ADAPTER_FIX]]
+- [[Memory to Adapter Pipeline.md|Memory to Adapter Pipeline]]
+- [[Retention-Driven Exploration Control.md|Retention-Driven Exploration Control]]
+- [[User LoRA Silence Condition.md|User LoRA Silence Condition]]
+
+## Memory Doctrine Map
+
+# Memory Doctrine Map
+
+Map of Content for memory-related EVO doctrine.
+
+## Files
+
+- [[ENF_MEMORY_IMPLEMENTATION_SUMMARY.md|ENF_MEMORY_IMPLEMENTATION_SUMMARY]]
+- [[EVO — MemoryBrief and Conversation Memory.md|EVO — MemoryBrief and Conversation Memory]]
+- [[Error Memory Scope.md|Error Memory Scope]]
+- [[Journal Entry Schema.md|Journal Entry Schema]]
+- [[Living Note Creation Flow.md|Living Note Creation Flow]]
+- [[Living Notes vs Scratches.md|Living Notes vs Scratches]]
+- [[User Memory MOC.md|User Memory MOC]]
+- [[Work Memory MOC.md|Work Memory MOC]]
+- [[memory-capsule.md|Memory Capsule]]
+
+## Mobile Doctrine Map
+
+# Mobile Doctrine Map
+
+Map of Content for mobile-related EVO doctrine.
+
+## Files
+
+- [[ANDROID_IOS_PARITY_IMPLEMENTATION.md|ANDROID_IOS_PARITY_IMPLEMENTATION]]
+- [[IOS_MIGRATION_STATUS.md|IOS_MIGRATION_STATUS]]
+
+## Philosophy Doctrine Map
+
+# Philosophy Doctrine Map
+
+Map of Content for philosophy-related EVO doctrine.
+
+## Files
+
+- [[2026-06-10-genesis-agent-doctrine.md|2026-06-10-genesis-agent-doctrine]]
+- [[District Envelope + Philosophy Tags.md|District Envelope + Philosophy Tags]]
+- [[EVO On-Device First Principle.md|EVO On-Device First Principle]]
+- [[EVO Philosophy.md|EVO Philosophy]]
+- [[EVO — Subscription & Capability Philosophy.md|EVO — Subscription & Capability Philosophy (Raw Draft)]]
+- [[EVOterminal — Session Recipe Doctrine.md|EVOterminal — Session Recipe Doctrine]]
+- [[EVOterminal — Snippet Doctrine.md|EVOterminal — Snippet Doctrine]]
+- [[Echo_1_Canonical_Philosophy.md|Echo_1_Canonical_Philosophy]]
+- [[On-Device First Principle.md|On-Device First Principle]]
+- [[Seamless Adaptation Principle.md|Seamless Adaptation Principle]]
+- [[Trainer Plan Delivery and Client Application Doctrine.md|Trainer Plan Delivery and Client Application Doctrine]]
+- [[task-chain-composition-doctrine.md|task-chain-composition-doctrine]]
+
+## Security Doctrine Map
+
+# Security Doctrine Map
+
+Map of Content for security-related EVO doctrine.
+
+## Files
+
+- [[Echo_3_Security_Activation.md|Echo_3_Security_Activation]]
+- [[No Secret Echo Rule.md|No Secret Echo Rule]]
+- [[Prompt Injection Boundary.md|Prompt Injection Boundary]]
+- [[Prompt Injection Defense MOC.md|Prompt Injection Defense MOC]]
+- [[Protected Runtime Artifacts - Soul File Injection Model.md|Protected Runtime Artifacts - Soul File Injection Model]]
+- [[Screen Recording Privacy Boundary.md|Screen Recording Privacy Boundary]]
+- [[Secret Isolation Rule.md|Secret Isolation Rule]]
+- [[Secret Safe Protocols.md|Secret Safe Protocols]]
+- [[Secret Tokenization Rule.md|Secret Tokenization Rule]]
+- [[Secrets & Vault.md|Secrets & Vault]]
+- [[_MOC - Privacy.md|_MOC - Privacy]]
+
+## _MOC - Strategy
+
+# _MOC - Strategy
+[_MOC - Strategy](https://www.notion.so/33ec72bad01381bcb2b1d199e69705eb)
+Market + rollout strategy for EVOlearn.
+Rollout
+Tutoring-first proof strategy
+Institutional adoption later (district/school)
+Positioning
+Retention = real knowledge
+Compliance = required output layer
+Alice = user-aligned, EVE = institution-aligned
+Related
+[EVOlearn Constitution](https://www.notion.so/b592c683ac824995956a409e962f2a17)
+[_MOC - Learn Architecture](https://www.notion.so/33ec72bad0138182a575ec6429bac9e3)
+
+---
+
+Related notes: [[Monetization Model]]
+
+## Related
+
+^[source-materials/mirrors/doctrine/_MOC - Strategy.md]
+
+## Talent Doctrine Map
+
+# Talent Doctrine Map
+
+Map of Content for talent-related EVO doctrine.
+
+## Files
+
+- [[Contextual Template Adaptation Model.md|Contextual Template Adaptation Model]]
+- [[Create Living Note Talent.md|Create Living Note Talent]]
+- [[EVO — Talent Tool Envelope & Context Compression Doctrine.md|EVO — Talent Tool Envelope & Context Compression Doctrine]]
+- [[Simple Template Weighting + Exploration.md|Simple Template Weighting + Exploration]]
+- [[Talent Classes and Governance Boundaries.md|Talent Classes and Governance Boundaries]]
+- [[Talent Definition.md|Talent Definition]]
+- [[Talent Promotion Rule.md|Talent Promotion Rule]]
+- [[Talent Revocation Rule.md|Talent Revocation Rule]]
+- [[Talent Trainer Overview.md|Talent Trainer Overview]]
+- [[Talents as Inference Compression.md|Talents as Inference Compression]]
+- [[Teacher Template Sharing Platform.md|Teacher Template Sharing Platform]]
+- [[Template Governance Model.md|Template Governance Model]]
+- [[Template Selection Mesh.md|Template Selection Mesh]]
+- [[Template-Execution-Rules.md|Template-Execution-Rules]]
+- [[Template-Schema.md|Template-Schema]]
+- [[Templates vs Talents.md|Templates vs Talents]]
+- [[User-Created Talent Immediate Promotion.md|User-Created Talent Immediate Promotion]]
+- [[Yearly Template Adaptation Cycle.md|Yearly Template Adaptation Cycle]]
+- [[_TEMPLATE - Canonical Note.md|_TEMPLATE - Canonical Note]]
+- [[talent-template-system.md|Talent & Template System]]
+
+## Training Doctrine Map
+
+# Training Doctrine Map
+
+Map of Content for training-related EVO doctrine.
+
+## Files
+
+- [[CURRENT_TRAINING_DATA_STATUS.md|CURRENT_TRAINING_DATA_STATUS]]
+- [[ENF_LORA_TRAINING_SPEC.md|ENF_LORA_TRAINING_SPEC]]
+- [[EVO — Adapter Training System.md|EVO — Adapter Training System]]
+- [[EVOLoRA_Mesh_Incremental_Training_Solution.md|EVOLoRA_Mesh_Incremental_Training_Solution]]
+- [[EVOLoRA_Mesh_OnDevice_Training_Solution.md|EVOLoRA_Mesh_OnDevice_Training_Solution]]
+- [[EVOLoRA_Mesh_Training_Data_Spec.md|EVOLoRA_Mesh_Training_Data_Spec]]
+- [[EVOtraining AI Adjustment Model.md|EVOtraining AI Adjustment Model]]
+- [[EVOtraining Adaptation Loop.md|EVOtraining Adaptation Loop]]
+- [[EVOtraining Adaptive Training Model.md|EVOtraining Adaptive Training Model]]
+- [[EVOtraining Core Definition.md|EVOtraining Core Definition]]
+- [[EVOtraining Feedback System.md|EVOtraining Feedback System]]
+- [[EVOtraining MOC.md|EVOtraining MOC]]
+- [[EVOtraining Onboarding Flow.md|EVOtraining Onboarding Flow]]
+- [[EVOtraining Recovery & HRV Integration.md|EVOtraining Recovery & HRV Integration]]
+- [[EVOtraining Session Feedback Flow.md|EVOtraining Session Feedback Flow]]
+- [[EVOtraining StrainSync Concept.md|EVOtraining StrainSync Concept]]
+- [[EVOtraining Training Philosophy.md|EVOtraining Training Philosophy]]
+- [[EVOtraining User Baseline & Starting Logic.md|EVOtraining User Baseline & Starting Logic]]
+- [[EVOtraining Warm-up & Capacity Detection.md|EVOtraining Warm-up & Capacity Detection]]
+- [[EVOtraining Wearable Integration Model.md|EVOtraining Wearable Integration Model]]
+- [[EVOtraining Workout Execution Flow.md|EVOtraining Workout Execution Flow]]
+- [[EVOtraining — Adapter Behavior.md|EVOtraining — Adapter Behavior]]
+- [[EVOtraining — Coach Application Philosophy.md|EVOtraining — Coach Application Philosophy (Raw Draft)]]
+- [[EVOtraining — Exercise Data Gap Analysis.md|EVOtraining — Exercise Data Gap Analysis]]
+- [[EVOtraining — Lab Supplement Intelligence.md|EVOtraining — Lab Supplement Intelligence]]
+- [[EVOtraining — StrainSync System.md|EVOtraining — StrainSync System]]
+- [[ON_DEVICE_TRAINING_OVERVIEW.md|ON_DEVICE_TRAINING_OVERVIEW]]
+- [[STRAINSYNC_TRAINING_DATA.md|STRAINSYNC_TRAINING_DATA]]
+- [[TRAINING_PIPELINE_INTEGRATION.md|TRAINING_PIPELINE_INTEGRATION]]
+- [[USER_LORA_TRAINING_IMPLEMENTATION.md|USER_LORA_TRAINING_IMPLEMENTATION]]
+- [[talent-training-natural-language.md|talent-training-natural-language]]
+
+## Uncategorized Doctrine Map
+
+# Uncategorized Doctrine Map
+
+Files that don't fit neatly into a topic category. Review and re-categorize as needed.
+
+## Files
+
+- [[ACCESS_LOGS_WHEN_FROZEN.md|ACCESS_LOGS_WHEN_FROZEN]]
+- [[ACIF v2 — Phase Tracking and Intensity Integration.md|ACIF v2 — Phase Tracking and Intensity Integration]]
+- [[ACIF_V2_ENHANCEMENT_PROPOSAL.md|ACIF_V2_ENHANCEMENT_PROPOSAL]]
+- [[ACTION_CARD_QUERY.md|ACTION_CARD_QUERY]]
+- [[AI Task Creation Is Non-Executable.md|AI Task Creation Is Non-Executable]]
+- [[ANALYSIS_REPORT.md|ANALYSIS_REPORT]]
+- [[APPLE_MUSIC_WIRING.md|APPLE_MUSIC_WIRING]]
+- [[AUDIT_VIDEO_ROUTINES.md|AUDIT_VIDEO_ROUTINES]]
+- [[AUTH_CONTROLLER_IMPLEMENTATION.md|AUTH_CONTROLLER_IMPLEMENTATION]]
+- [[AUTO_AGENTIC_ACTIONS_AUDIT.md|AUTO_AGENTIC_ACTIONS_AUDIT]]
+- [[Adaptation Rollback.md|Adaptation Rollback]]
+- [[Adaptive Variable Adjustment.md|Adaptive Variable Adjustment]]
+- [[Adaptive-Phase-Logic.md|Adaptive-Phase-Logic]]
+- [[Administrative Reporting Controls.md|Administrative Reporting Controls]]
+- [[Adult Self-Study Mode.md|Adult Self-Study Mode]]
+- [[Advanced Vault Protocol.md|Advanced Vault Protocol]]
+- [[Approved Method Library.md|Approved Method Library]]
+- [[Artifact-First Autonomy.md|Artifact-First Autonomy]]
+- [[Assessment-Export-Schema.md|Assessment-Export-Schema]]
+- [[Autonomy-Boundary.md|Autonomy-Boundary]]
+- [[BATCH_LIFETIME_FIX_189.md|BATCH_LIFETIME_FIX_189]]
+- [[BATCH_SIZE_OPTIMIZATION.md|BATCH_SIZE_OPTIMIZATION]]
+- [[BETA_BLOCKING_ISSUES.md|BETA_BLOCKING_ISSUES]]
+- [[BUILD_44_FIXES.md|BUILD_44_FIXES]]
+- [[BUILD_ERRORS_FIXED.md|BUILD_ERRORS_FIXED]]
+- [[BUILD_FIX_INSTRUCTIONS.md|BUILD_FIX_INSTRUCTIONS]]
+- [[BUILD_TROUBLESHOOTING.md|BUILD_TROUBLESHOOTING]]
+- [[CAPABILITY_MAP_AND_CONTINUATION_ENHANCEMENTS.md|CAPABILITY_MAP_AND_CONTINUATION_ENHANCEMENTS]]
+- [[CAPABILITY_MAP_AUDIT.md|CAPABILITY_MAP_AUDIT]]
+- [[CAPABILITY_MAP_COMPLETE.md|CAPABILITY_MAP_COMPLETE]]
+- [[CAPABILITY_MAP_CRASH_FIX.md|CAPABILITY_MAP_CRASH_FIX]]
+- [[CAPABILITY_MAP_IMPLEMENTATION_COMPLETE.md|CAPABILITY_MAP_IMPLEMENTATION_COMPLETE]]
+- [[CAPABILITY_MAP_INTEGRATION_PLAN.md|CAPABILITY_MAP_INTEGRATION_PLAN]]
+- [[CAPABILITY_MAP_OPTIMIZATION.md|CAPABILITY_MAP_OPTIMIZATION]]
+- [[CAPABILITY_MAP_REMOVED.md|CAPABILITY_MAP_REMOVED]]
+- [[CAPABILITY_MAP_USAGE.md|CAPABILITY_MAP_USAGE]]
+- [[CHAT_PERSISTENCE_IMPLEMENTATION.md|CHAT_PERSISTENCE_IMPLEMENTATION]]
+- [[CHAT_PERSISTENCE_PLAN.md|CHAT_PERSISTENCE_PLAN]]
+- [[CLEANUP_SUMMARY.md|CLEANUP_SUMMARY]]
+- [[CODEBASE_INVENTORY.md|CODEBASE_INVENTORY]]
+- [[COMPLETE_AGENTIC_ACTIONS_LIST.md|COMPLETE_AGENTIC_ACTIONS_LIST]]
+- [[CONCENTRIC_ECCENTRIC_ANALYSIS.md|CONCENTRIC_ECCENTRIC_ANALYSIS]]
+- [[CONVERSION_COMPLETE.md|CONVERSION_COMPLETE]]
+- [[COREML_CONVERSION_STATUS.md|COREML_CONVERSION_STATUS]]
+- [[COREML_CONVERSION_SUMMARY.md|COREML_CONVERSION_SUMMARY]]
+- [[CRASH_ANALYSIS.md|CRASH_ANALYSIS]]
+- [[CRASH_ANALYSIS_156.md|CRASH_ANALYSIS_156]]
+- [[CRASH_ANALYSIS_SIGABRT.md|CRASH_ANALYSIS_SIGABRT]]
+- [[CRASH_DEBUGGING_GUIDE.md|CRASH_DEBUGGING_GUIDE]]
+- [[CRASH_FIX_156.md|CRASH_FIX_156]]
+- [[CRASH_FIX_162_SIGABRT.md|CRASH_FIX_162_SIGABRT]]
+- [[CRASH_FIX_169_TESTING.md|CRASH_FIX_169_TESTING]]
+- [[CRASH_FIX_187_ANALYSIS.md|CRASH_FIX_187_ANALYSIS]]
+- [[CRASH_FIX_188_ANALYSIS.md|CRASH_FIX_188_ANALYSIS]]
+- [[CRASH_FIX_IMPLEMENTATION_STATUS.md|CRASH_FIX_IMPLEMENTATION_STATUS]]
+- [[CRASH_FIX_SUMMARY.md|CRASH_FIX_SUMMARY]]
+- [[Canonical SmartScan Refactor.md|Canonical SmartScan Refactor]]
+- [[Canonical-SmartScan Refactor Spec.md|Canonical-SmartScan Refactor Spec]]
+- [[Cold Start Safety.md|Cold Start Safety]]
+- [[Conversation-Awareness-Haptics.md|Conversation-Awareness-Haptics]]
+- [[Council_of_Echoes_Future_Spec.md|Council_of_Echoes_Future_Spec]]
+- [[DEPLOYMENT_AI_CONFIG.md|DEPLOYMENT_AI_CONFIG]]
+- [[DIAGNOSTICS_IMPLEMENTATION_SUMMARY.md|DIAGNOSTICS_IMPLEMENTATION_SUMMARY]]
+- [[DIAGNOSTICS_INSTRUMENTATION.md|DIAGNOSTICS_INSTRUMENTATION]]
+- [[DIAGNOSTICS_QUICK_START.md|DIAGNOSTICS_QUICK_START]]
+- [[Daily Reflection Engine.md|Daily Reflection Engine]]
+- [[Daily-Pack-Preload.md|Daily-Pack-Preload]]
+- [[Deferred Response Strategy.md|Deferred Response Strategy]]
+- [[Deload enforcement.md|Deload enforcement]]
+- [[Device Linking via QR.md|Device Linking via QR]]
+- [[Device Removal Protocol.md|Device Removal Protocol]]
+- [[E2EE.md|E2EE]]
+- [[ENF_DOWNLOAD_ISSUE.md|ENF_DOWNLOAD_ISSUE]]
+- [[ENHANCED_MUSIC_PLAYER.md|ENHANCED_MUSIC_PLAYER]]
+- [[EVALUATION_CHECKLIST.md|EVALUATION_CHECKLIST]]
+- [[EVO Book - Manuscript Map.md|EVO Book - Manuscript Map]]
+- [[EVO Project Master Index.md|EVO Project Master Index]]
+- [[EVO and the Time Returned Thesis.md|EVO and the Time Returned Thesis]]
+- [[EVO — Cognition Layer.md|EVO — Cognition Layer]]
+- [[EVO — Context Layer.md|EVO — Context Layer]]
+- [[EVO — Cross-App Context Continuity.md|EVO — Cross-App Context Continuity]]
+- [[EVO_app_monorepo.md|EVO_app_monorepo]]
+- [[EVOhub MOC.md|EVOhub MOC]]
+- [[EVOmind Reflection Loop.md|EVOmind Reflection Loop]]
+- [[EVOmind User Journey.md|EVOmind User Journey]]
+- [[EVOmind_Canonical_Definition.md|EVOmind_Canonical_Definition]]
+- [[Echo_4_UX_Hall.md|Echo_4_UX_Hall]]
+- [[Echo_Production_Spec.md|Echo_Production_Spec]]
+- [[Effective Weight.md|Effective Weight]]
+- [[Environment Integrations.md|Environment Integrations]]
+- [[Error Categorization Sources + Guardrails.md|Error Categorization Sources + Guardrails]]
+- [[Error Category Enum (Safe).md|Error Category Enum (Safe)]]
+- [[Explain Only When Asked.md|Explain Only When Asked]]
+- [[External Reasoning Integration.md|External Reasoning Integration]]
+- [[FILES_ADDED_TO_XCODE.md|FILES_ADDED_TO_XCODE]]
+- [[GET_DEVICE_LOGS.md|GET_DEVICE_LOGS]]
+- [[GGUF_CONVERSION_GUIDE.md|GGUF_CONVERSION_GUIDE]]
+- [[GGUF_FIX_SUMMARY.md|GGUF_FIX_SUMMARY]]
+- [[Gap_To_100_Percent_Compliance_Proposal.md|Gap_To_100_Percent_Compliance_Proposal]]
+- [[HOW_TO_ACCESS_DEVICE_FILES.md|HOW_TO_ACCESS_DEVICE_FILES]]
+- [[Homework Diagnostic Engine.md|Homework Diagnostic Engine]]
+- [[IMPLEMENTATION.md|IMPLEMENTATION]]
+- [[IMPLEMENTATION_PLAN.md|IMPLEMENTATION_PLAN]]
+- [[IMPLEMENTATION_PLAN_ENF_VOICE_RAG.md|IMPLEMENTATION_PLAN_ENF_VOICE_RAG]]
+- [[IMPLEMENTATION_READINESS_ASSESSMENT.md|IMPLEMENTATION_READINESS_ASSESSMENT]]
+- [[IMPLEMENTATION_SUMMARY_ENF_VOICE_RAG.md|IMPLEMENTATION_SUMMARY_ENF_VOICE_RAG]]
+- [[INTEGRATION_GAPS_PROPOSAL.md|INTEGRATION_GAPS_PROPOSAL]]
+- [[IPC Strategy — Multi-App Domain Separation.md|IPC Strategy — Multi-App Domain Separation]]
+- [[IPHONE12_FREEZE_FIX.md|IPHONE12_FREEZE_FIX]]
+- [[Ingestion-Pipeline-Reuse.md|Ingestion-Pipeline-Reuse]]
+- [[Internalization Pipeline.md|Internalization Pipeline]]
+- [[Invisible Compute Orchestration.md|Invisible Compute Orchestration]]
+- [[LLAMA_ENGINE_OPTIMIZATION_SUMMARY.md|LLAMA_ENGINE_OPTIMIZATION_SUMMARY]]
+- [[LOGIN_SCREEN_REDIRECT.md|LOGIN_SCREEN_REDIRECT]]
+- [[LONG_ANSWER_STRATEGY.md|LONG_ANSWER_STRATEGY]]
+- [[Lease Transfer Protocol.md|Lease Transfer Protocol]]
+- [[Lesson-Compiler.md|Lesson-Compiler]]
+- [[Lesson-Pack-Schema.md|Lesson-Pack-Schema]]
+- [[Lesson-Pack-Versioning.md|Lesson-Pack-Versioning]]
+- [[Load Adjustment Guardrails.md|Load Adjustment Guardrails]]
+- [[MACOS_SETUP_GUIDE.md|MACOS_SETUP_GUIDE]]
+- [[MEDIA_PLAYER_IMPLEMENTATION.md|MEDIA_PLAYER_IMPLEMENTATION]]
+- [[METAL_SAFETY_PATCH_SUMMARY.md|METAL_SAFETY_PATCH_SUMMARY]]
+- [[MISSING_EXAMPLES_GENERATED.md|MISSING_EXAMPLES_GENERATED]]
+- [[MLX_Build_Test_Results.md|MLX_Build_Test_Results]]
+- [[MLX_Implementation_Complete.md|MLX_Implementation_Complete]]
+- [[MLX_Optimizations_Complete.md|MLX_Optimizations_Complete]]
+- [[MLX_Safetensors_Implementation.md|MLX_Safetensors_Implementation]]
+- [[MLX_Swift_Add_Package_Fix.md|MLX_Swift_Add_Package_Fix]]
+- [[MLX_Swift_Build_Test_Results.md|MLX_Swift_Build_Test_Results]]
+- [[MLX_Swift_Implementation_Summary.md|MLX_Swift_Implementation_Summary]]
+- [[MLX_Swift_Integration_Plan.md|MLX_Swift_Integration_Plan]]
+- [[MLX_Swift_Integration_Status.md|MLX_Swift_Integration_Status]]
+- [[MLX_Swift_Setup_Instructions.md|MLX_Swift_Setup_Instructions]]
+- [[MLX_Swift_Troubleshooting.md|MLX_Swift_Troubleshooting]]
+- [[MLX_Tokenizer_Generation_Complete.md|MLX_Tokenizer_Generation_Complete]]
+- [[MLX_Weight_Mapping_Complete.md|MLX_Weight_Mapping_Complete]]
+- [[MOC EVOmind.md|MOC EVOmind]]
+- [[MUSIC_PLAYER_FINAL_FIXES.md|MUSIC_PLAYER_FINAL_FIXES]]
+- [[MUSIC_PLAYER_IMPROVEMENTS.md|MUSIC_PLAYER_IMPROVEMENTS]]
+- [[MUSIC_PLAYER_NAVIGATION_AND_PLAYBACK_FIXES.md|MUSIC_PLAYER_NAVIGATION_AND_PLAYBACK_FIXES]]
+- [[Main Device Root of Trust.md|Main Device Root of Trust]]
+- [[Main Device Transfer Protocol.md|Main Device Transfer Protocol]]
+- [[Mesocycle Awareness.md|Mesocycle Awareness]]
+- [[Mesocycle Priority Constraint.md|Mesocycle Priority Constraint]]
+- [[Method Approval Path.md|Method Approval Path]]
+- [[Method Is Mandatory.md|Method Is Mandatory]]
+- [[Method Non-Deviation Rule.md|Method Non-Deviation Rule]]
+- [[Method Reuse Requires Re-Approval.md|Method Reuse Requires Re-Approval]]
+- [[MethodProfile-Capture.md|MethodProfile-Capture]]
+- [[Micro-Batch Cycle.md|Micro-Batch Cycle]]
+- [[NATIVE_DEPENDENCIES.md|NATIVE_DEPENDENCIES]]
+- [[Non-Intrusive Guidance.md|Non-Intrusive Guidance]]
+- [[OAUTH_COMPLETE.md|OAUTH_COMPLETE]]
+- [[OAUTH_FIXED.md|OAUTH_FIXED]]
+- [[Offline Lease Holder Rule.md|Offline Lease Holder Rule]]
+- [[Online Nodes Requirement.md|Online Nodes Requirement]]
+- [[Override-Feedback-Loop.md|Override-Feedback-Loop]]
+- [[PERFORMANCE_UPGRADES_SUMMARY.md|PERFORMANCE_UPGRADES_SUMMARY]]
+- [[PERMANENT_FIX_COMPLETE.md|PERMANENT_FIX_COMPLETE]]
+- [[Pairing Code Direction-Agnostic.md|Pairing Code Direction-Agnostic]]
+- [[Per-Unit Adaptation Window.md|Per-Unit Adaptation Window]]
+- [[Presence by Value.md|Presence by Value]]
+- [[Primary Variable Selection.md|Primary Variable Selection]]
+- [[Provider vs Environment Access.md|Provider vs Environment Access]]
+- [[Purple Answer Semantics.md|Purple Answer Semantics]]
+- [[QUANTIZE.md|QUANTIZE]]
+- [[RAM_OPTIMIZATION_PLAN.md|RAM_OPTIMIZATION_PLAN]]
+- [[Reconciliation & Arbitration.md|Reconciliation & Arbitration]]
+- [[Rep Range Stability.md|Rep Range Stability]]
+- [[Reporting - Statistical Neutrality.md|Reporting - Statistical Neutrality]]
+- [[Reporting Cadence.md|Reporting Cadence]]
+- [[Rest Recommendation Policy.md|Rest Recommendation Policy]]
+- [[Retention Stability Banding Scope.md|Retention Stability Banding Scope]]
+- [[Risk-Weighted Adaptation.md|Risk-Weighted Adaptation]]
+- [[Safe-Bridge-Rules.md|Safe-Bridge-Rules]]
+- [[Safety Browser Protocol.md|Safety Browser Protocol]]
+- [[School-Home-Topology.md|School-Home-Topology]]
+- [[Secure Prompted Entry.md|Secure Prompted Entry]]
+- [[Shard Confidence Weighting.md|Shard Confidence Weighting]]
+- [[Shard-to-Device Assignment Heuristics.md|Shard-to-Device Assignment Heuristics]]
+- [[Silence as a Feature.md|Silence as a Feature]]
+- [[Silent Failure Preference.md|Silent Failure Preference]]
+- [[Strict Mode (Verification-First).md|Strict Mode (Verification-First)]]
+- [[Support Intensity Composite Definition.md|Support Intensity Composite Definition]]
+- [[Swarm Activation Criteria.md|Swarm Activation Criteria]]
+- [[Swarm Merge Rule.md|Swarm Merge Rule]]
+- [[Swarm Shard Catalog.md|Swarm Shard Catalog]]
+- [[Swarm Shard Retry Policy.md|Swarm Shard Retry Policy]]
+- [[Swarm Task Sharding.md|Swarm Task Sharding]]
+- [[Swarm Work Ticket.md|Swarm Work Ticket]]
+- [[TRAINER_AUDIT_DESKTOP_VIABILITY.md|TRAINER_AUDIT_DESKTOP_VIABILITY]]
+- [[Task Actionability Gate.md|Task Actionability Gate]]
+- [[Task Audit Log Minimum Fields.md|Task Audit Log Minimum Fields]]
+- [[Task Chain Definition.md|Task Chain Definition]]
+- [[Task Transparency Retention.md|Task Transparency Retention]]
+- [[Teacher Visibility - Performance Deltas Only.md|Teacher Visibility - Performance Deltas Only]]
+- [[Teacher-Publishing-Modes.md|Teacher-Publishing-Modes]]
+- [[Teacher-Review-and-Lock.md|Teacher-Review-and-Lock]]
+- [[Token-Light Knowledge Navigation.md|Token-Light Knowledge Navigation]]
+- [[Trainer certification verification (future automation).md|Trainer certification verification (future automation)]]
+- [[Unlock-Rules.md|Unlock-Rules]]
+- [[Untrusted Context Cannot Trigger Tools.md|Untrusted Context Cannot Trigger Tools]]
+- [[User Feedback Interpretation.md|User Feedback Interpretation]]
+- [[Vault-Based Credential Access.md|Vault-Based Credential Access]]
+- [[Volume Adjustment Logic.md|Volume Adjustment Logic]]
+- [[Warm State Preservation.md|Warm State Preservation]]
+- [[Weekly-Adaptive-Review-Spec.md|Weekly-Adaptive-Review-Spec]]
+- [[Whitelisted Instruction Sources.md|Whitelisted Instruction Sources]]
+- [[_MOC - Router.md|_MOC - Router]]
+- [[_MOC - School.md|_MOC - School]]
+- [[_MOC - Strategy.md|_MOC - Strategy]]
+- [[_MOC - Student Engine.md|_MOC - Student Engine]]
+- [[coach-calendar-spec.md|coach-calendar-spec]]
+- [[coach-planning-spec.md|coach-planning-spec]]
+- [[deepening-workflow.md|deepening-workflow]]
+- [[evo_env Placement and Classification Rules.md|evo_env Placement and Classification Rules]]
+- [[index.md|index]]
+- [[integrity_hardfail.md|integrity_hardfail]]
+- [[repo-instruction-routing.md|repo-instruction-routing]]
+- [[supabase-calendar-dependency-map.md|supabase-calendar-dependency-map]]
+- [[trainer-calendar-supabase-decommission.md|trainer-calendar-supabase-decommission]]
+- [[update_applier.md|update_applier]]
+

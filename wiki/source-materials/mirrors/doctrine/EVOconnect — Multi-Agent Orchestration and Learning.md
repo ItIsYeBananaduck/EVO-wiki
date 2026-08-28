@@ -1,17 +1,8 @@
 ---
-tags:
-  - concept/connect
-  - concept/agents
-  - concept/delegator
-  - concept/security
-  - concept/method
-  - type/concept
-status: active
-source_of_truth: true
-superseded_by:
-  - source-materials/mirrors/doctrine/EVOconnect — Delegator & Governance Model.md
-  - /Users/lsctech/Developer/EVO-wiki/wiki/components/alice.md
-  - /Users/lsctech/Developer/EVO-wiki/wiki/doctrine/authority-governance-map.md
+title: "Evoconnect — Multi Agent Orchestration And Learning"
+type: doctrine
+tags: ['lsctech', 'doctrine', 'source-material', 'evo']
+updated: 2026-08-19
 ---
 
 ## Core Principle
