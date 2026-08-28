@@ -4,7 +4,7 @@ type: index
 description: Pointer table for the EVO marketing knowledge base — positioning, brand, messaging, launch, content, lead gen, research, viability, tactics.
 tags: ["EVO","marketing","index"]
 sources: []
-updated: 2026-08-24
+updated: 2026-08-28
 ---
 
 # EVO Marketing — Index
@@ -26,6 +26,8 @@ Narrative overview lives in [[README.md|README.md]].
 | [[research.md|research.md]] | Market size, audience validation, competitive landscape, cited sources |
 | [[viability.md|viability.md]] | Success probabilities, revenue targets, critical path, kill criteria |
 | [[additional-tactics.md|additional-tactics.md]] | ASO, Product Hunt, podcasts, guest posting, referrals, directories, HARO |
+| [[smart-context-test-record.md|smart-context-test-record.md]] | Smart-Context prototype test record (2026-08-24) |
+| [[smart-context-test-record-2026-08-21-first-trial.md|smart-context-test-record-2026-08-21-first-trial.md]] | Smart Context first trial record (2026-08-21) |
 
 ## Related
 

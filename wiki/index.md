@@ -1,14 +1,15 @@
 ---
-title: "EVO Wiki Index"
 type: index
-tags: ['lsctech', 'evo']
-updated: 2026-07-20
+title: "EVO Wiki Index"
+description: "OKF pointer index for wiki/. Lists sibling pages and folder indexes."
+tags: [lsctech, evo, okf]
+updated: 2026-08-28
 ---
 
 # EVO Wiki Index
 
 > Browseable EVO knowledge base built from doctrine originals and canonical docs.
-> Last updated: 2026-07-20
+> Last updated: 2026-08-28
 
 ## Overview
 
@@ -21,6 +22,13 @@ updated: 2026-07-20
 - [[components/learn-pro.md|Learn Pro — User Curation Workshop]] — workshop flow, domain styles, mesh integration.
 - [[components/connect.md|Connect — Task Control Plane]] — control panel, failure states, security/privacy model.
 - [[doctrine/talent-template-system.md|Talent & Template System]] — templates, talents, approvals, reuse rules.
+
+## Folders
+
+- [[components/index.md|components]]
+- [[doctrine/index.md|doctrine]]
+- [[marketing/index.md|marketing]]
+- [[source-materials/index.md|source-materials]]
 
 ## Doctrine by Topic
 
@@ -49,10 +57,9 @@ updated: 2026-07-20
 ## Infrastructure
 
 - [[log.md|Wiki Log]] — change log for EVO wiki
-
-- [[AGENTS.md|EVO-wiki Agent Rules]] — agent rules for EVO doctrine ingestion
 - [[SCHEMA.md|EVO Wiki Schema]] — conventions and taxonomy
 - [[WIKI_INGESTION_GUIDE.md|Wiki Doctrine Ingestion Guide]] — authoritative ingestion instructions
+- [[AGENTS.md|EVO-wiki Agent Rules]] — agent rules for EVO doctrine ingestion
 
 ## Marketing
 
@@ -71,9 +78,8 @@ updated: 2026-07-20
 
 ## Doctrine Originals
 
+- [[source-materials/index.md|source-materials]]
 - [[source-materials/mirrors/doctrine/_MOC - Mirror Files.md|Mirror Files MOC]] — map of all mirrored doctrine files
-
-Mirrored from `source-materials/mirrors/doctrine/`. Browse that folder for the full set. Curated summaries: `doctrine/`.
 
 Mirrored from `source-materials/mirrors/doctrine/`. Browse that folder for the full set. Curated summaries: `doctrine/`.
 
